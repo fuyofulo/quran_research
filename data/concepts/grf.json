@@ -1,0 +1,785 @@
+{
+  "root": "grf",
+  "root_arabic": "غرف",
+  "stats": {
+    "occurrences": 7,
+    "lemmas": 3,
+    "ayahs": 5,
+    "surahs": 5,
+    "pos_distribution": {
+      "N": 6,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "gurofap",
+      "lemma_arabic": "غُرْفَة",
+      "count": 5,
+      "pos_distribution": {
+        "N": 5
+      },
+      "first_occurrence": [
+        2,
+        249,
+        23
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            249,
+            23
+          ],
+          "form_arabic": "غُرْفَةً[",
+          "pos": "N"
+        },
+        {
+          "location": [
+            25,
+            75,
+            3
+          ],
+          "form_arabic": "ٱلْغُرْفَةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            29,
+            58,
+            8
+          ],
+          "form_arabic": "غُرَفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            39,
+            20,
+            6
+          ],
+          "form_arabic": "غُرَفٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            39,
+            20,
+            9
+          ],
+          "form_arabic": "غُرَفٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "{gotarafa",
+      "lemma_arabic": "ٱغْتَرَفَ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        2,
+        249,
+        22
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            249,
+            22
+          ],
+          "form_arabic": "ٱغْتَرَفَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "gurufa`t",
+      "lemma_arabic": "غُرُفَٰت",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        34,
+        37,
+        22
+      ],
+      "occurrences": [
+        {
+          "location": [
+            34,
+            37,
+            22
+          ],
+          "form_arabic": "ٱلْغُرُفَٰتِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "jry",
+      "root_arabic": "جري",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        29,
+        58
+      ]
+    },
+    {
+      "root": "tHt",
+      "root_arabic": "تحت",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        29,
+        58
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        29,
+        58
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        29,
+        58
+      ]
+    },
+    {
+      "root": "jzy",
+      "root_arabic": "جزي",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        25,
+        75
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        39,
+        20
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        39,
+        20
+      ]
+    },
+    {
+      "root": "fwq",
+      "root_arabic": "فوق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        39,
+        20
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        39,
+        20
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        39,
+        20
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        39,
+        20
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        29,
+        58
+      ]
+    },
+    {
+      "root": "bwA",
+      "root_arabic": "بوا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        29,
+        58
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        29,
+        58
+      ]
+    },
+    {
+      "root": "Ajr",
+      "root_arabic": "اجر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        29,
+        58
+      ]
+    },
+    {
+      "root": "xld",
+      "root_arabic": "خلد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        29,
+        58
+      ]
+    },
+    {
+      "root": "DEf",
+      "root_arabic": "ضعف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "zlf",
+      "root_arabic": "زلف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        25,
+        75
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        25,
+        75
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "jwz",
+      "root_arabic": "جوز",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "Znn",
+      "root_arabic": "ظنن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "fSl",
+      "root_arabic": "فصل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "fAy",
+      "root_arabic": "فاي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "jnd",
+      "root_arabic": "جند",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "lys",
+      "root_arabic": "ليس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "Twq",
+      "root_arabic": "طوق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "blw",
+      "root_arabic": "بلو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "glb",
+      "root_arabic": "غلب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "TEm",
+      "root_arabic": "طعم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        249
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 25,
+        "name_english": "Al-Furqaan",
+        "name_arabic": "سُورَةُ الفُرۡقَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 29,
+        "name_english": "Al-Ankaboot",
+        "name_arabic": "سُورَةُ العَنكَبُوتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 34,
+        "name_english": "Saba",
+        "name_arabic": "سُورَةُ سَبَإٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 5
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        249,
+        22
+      ],
+      "form_arabic": "ٱغْتَرَفَ",
+      "lemma": "{gotarafa",
+      "lemma_arabic": "ٱغْتَرَفَ",
+      "pos": "V",
+      "ayah_id": "2:249",
+      "ayah_arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلۡجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبۡتَلِيكُم بِنَهَرࣲ فَمَن شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّي وَمَن لَّمۡ يَطۡعَمۡهُ فَإِنَّهُۥ مِنِّيٓ إِلَّا مَنِ ٱغۡتَرَفَ غُرۡفَةَۢ بِيَدِهِۦۚ فَشَرِبُواْ مِنۡهُ إِلَّا قَلِيلࣰ ا مِّنۡهُمۡۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ قَالُواْ لَا طَاقَةَ لَنَا ٱلۡيَوۡمَ بِجَالُوتَ وَجُنُودِهِۦۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ ٱللَّهِ كَم مِّن فِئَةࣲ قَلِيلَةٍ غَلَبَتۡ فِئَةࣰ كَثِيرَةَۢ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "takes",
+      "translations": {
+        "saheeh": "And when Saul went forth with the soldiers, he said, \"Indeed, Allah will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allah said, \"How many a small company has overcome a large company by permission of Allah. And Allah is with the patient.\"",
+        "pickthall": "And when Saul set out with the army, he said: Lo! Allah will try you by (the ordeal of) a river. Whosoever therefore drinketh thereof he is not of me, and whosoever tasteth it not he is of me, save him who taketh (thereof) in the hollow of his hand. But they drank thereof, all save a few of them. And after he had crossed (the river), he and those who believed with him, they said: We have no power this day against Goliath and his hosts. But those who knew that they would meet Allah exclaimed: How many a little company hath overcome a mighty host by Allah's leave! Allah is with the steadfast.",
+        "khattab": "When Saul marched forth with his army, he cautioned: “Allah will test you with a river. So whoever drinks ˹his fill˺ from it is not with me, and whoever does not taste it—except a sip from the hollow of his hands—is definitely with me.” They all drank ˹their fill˺ except for a few! When he and the ˹remaining˺ faithful with him crossed the river, they said, “Now we are no match for Goliath and his warriors.” But those ˹believers˺ who were certain they would meet Allah reasoned, “How many times has a small force vanquished a mighty army by the Will of Allah! And Allah is ˹always˺ with the steadfast.”",
+        "arberry": "And when Saul went forth with the hosts he said, 'God will try you with a river; whosoever drinks of it is not of me, and whoso tastes it flot, he is of me, saving him who scoops up with his hand.' But they drank of it, except a few of them; and when he crossed it, and those who believed with him, they said, 'We have no power today against Goliath and his hosts.' Said those who reckoned they should meet God, 'How often a little company has overcome a numerous company, by God's leave! And God is with the patient.'"
+      }
+    },
+    {
+      "location": [
+        2,
+        249,
+        23
+      ],
+      "form_arabic": "غُرْفَةً[",
+      "lemma": "gurofap",
+      "lemma_arabic": "غُرْفَة",
+      "pos": "N",
+      "ayah_id": "2:249",
+      "ayah_arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلۡجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبۡتَلِيكُم بِنَهَرࣲ فَمَن شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّي وَمَن لَّمۡ يَطۡعَمۡهُ فَإِنَّهُۥ مِنِّيٓ إِلَّا مَنِ ٱغۡتَرَفَ غُرۡفَةَۢ بِيَدِهِۦۚ فَشَرِبُواْ مِنۡهُ إِلَّا قَلِيلࣰ ا مِّنۡهُمۡۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ قَالُواْ لَا طَاقَةَ لَنَا ٱلۡيَوۡمَ بِجَالُوتَ وَجُنُودِهِۦۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ ٱللَّهِ كَم مِّن فِئَةࣲ قَلِيلَةٍ غَلَبَتۡ فِئَةࣰ كَثِيرَةَۢ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(in the) hollow",
+      "translations": {
+        "saheeh": "And when Saul went forth with the soldiers, he said, \"Indeed, Allah will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allah said, \"How many a small company has overcome a large company by permission of Allah. And Allah is with the patient.\"",
+        "pickthall": "And when Saul set out with the army, he said: Lo! Allah will try you by (the ordeal of) a river. Whosoever therefore drinketh thereof he is not of me, and whosoever tasteth it not he is of me, save him who taketh (thereof) in the hollow of his hand. But they drank thereof, all save a few of them. And after he had crossed (the river), he and those who believed with him, they said: We have no power this day against Goliath and his hosts. But those who knew that they would meet Allah exclaimed: How many a little company hath overcome a mighty host by Allah's leave! Allah is with the steadfast.",
+        "khattab": "When Saul marched forth with his army, he cautioned: “Allah will test you with a river. So whoever drinks ˹his fill˺ from it is not with me, and whoever does not taste it—except a sip from the hollow of his hands—is definitely with me.” They all drank ˹their fill˺ except for a few! When he and the ˹remaining˺ faithful with him crossed the river, they said, “Now we are no match for Goliath and his warriors.” But those ˹believers˺ who were certain they would meet Allah reasoned, “How many times has a small force vanquished a mighty army by the Will of Allah! And Allah is ˹always˺ with the steadfast.”",
+        "arberry": "And when Saul went forth with the hosts he said, 'God will try you with a river; whosoever drinks of it is not of me, and whoso tastes it flot, he is of me, saving him who scoops up with his hand.' But they drank of it, except a few of them; and when he crossed it, and those who believed with him, they said, 'We have no power today against Goliath and his hosts.' Said those who reckoned they should meet God, 'How often a little company has overcome a numerous company, by God's leave! And God is with the patient.'"
+      }
+    },
+    {
+      "location": [
+        25,
+        75,
+        3
+      ],
+      "form_arabic": "ٱلْغُرْفَةَ",
+      "lemma": "gurofap",
+      "lemma_arabic": "غُرْفَة",
+      "pos": "N",
+      "ayah_id": "25:75",
+      "ayah_arabic": "أُوْلَٰٓئِكَ يُجۡزَوۡنَ ٱلۡغُرۡفَةَ بِمَا صَبَرُواْ وَيُلَقَّوۡنَ فِيهَا تَحِيَّةࣰ وَسَلَٰمًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "the Chamber",
+      "translations": {
+        "saheeh": "Those will be awarded the Chamber for what they patiently endured, and they will be received therein with greetings and [words of] peace.",
+        "pickthall": "They will be awarded the high place forasmuch as they were steadfast, and they will meet therein with welcome and the ward of peace,",
+        "khattab": "It is they who will be rewarded with ˹elevated˺ mansions ˹in Paradise˺ for their perseverance, and will be received with salutations and ˹greetings of˺ peace",
+        "arberry": "Those shall be recompensed with the highest heaven, for that they endured patiently, and they shall receive therein a greeting and --' Peace!'"
+      }
+    },
+    {
+      "location": [
+        29,
+        58,
+        8
+      ],
+      "form_arabic": "غُرَفًا",
+      "lemma": "gurofap",
+      "lemma_arabic": "غُرْفَة",
+      "pos": "N",
+      "ayah_id": "29:58",
+      "ayah_arabic": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَنُبَوِّئَنَّهُم مِّنَ ٱلۡجَنَّةِ غُرَفࣰ ا تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ نِعۡمَ أَجۡرُ ٱلۡعَٰمِلِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ankaboot",
+      "literal_gloss": "lofty dwellings",
+      "translations": {
+        "saheeh": "And those who have believed and done righteous deeds - We will surely assign to them of Paradise [elevated] chambers beneath which rivers flow, wherein they abide eternally. Excellent is the reward of the [righteous] workers",
+        "pickthall": "Those who believe and do good works, them verily We shall house in lofty dwellings of the Garden underneath which rivers flow. There they will dwell secure. How sweet the guerdon of the toilers,",
+        "khattab": "˹As for˺ those who believe and do good, We will certainly house them in ˹elevated˺ mansions in Paradise, under which rivers flow, to stay there forever. How excellent is the reward for those who work ˹righteousness!˺—",
+        "arberry": "And those who believe, and do righteous deeds, We shall surely lodge them in lofty chambers of paradise, underneath which rivers flow, therein dwelling forever; and excellent is the wage of those who labour,"
+      }
+    },
+    {
+      "location": [
+        34,
+        37,
+        22
+      ],
+      "form_arabic": "ٱلْغُرُفَٰتِ",
+      "lemma": "gurufa`t",
+      "lemma_arabic": "غُرُفَٰت",
+      "pos": "N",
+      "ayah_id": "34:37",
+      "ayah_arabic": "وَمَآ أَمۡوَٰلُكُمۡ وَلَآ أَوۡلَٰدُكُم بِٱلَّتِي تُقَرِّبُكُمۡ عِندَنَا زُلۡفَىٰٓ إِلَّا مَنۡ ءَامَنَ وَعَمِلَ صَٰلِحࣰ ا فَأُوْلَٰٓئِكَ لَهُمۡ جَزَآءُ ٱلضِّعۡفِ بِمَا عَمِلُواْ وَهُمۡ فِي ٱلۡغُرُفَٰتِ ءَامِنُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saba",
+      "literal_gloss": "the high dwellings",
+      "translations": {
+        "saheeh": "And it is not your wealth or your children that bring you nearer to Us in position, but it is [by being] one who has believed and done righteousness. For them there will be the double reward for what they did, and they will be in the upper chambers [of Paradise], safe [and secure].",
+        "pickthall": "And it is not your wealth nor your children that will bring you near unto Us, but he who believeth and doeth good (he draweth near). As for such, theirs will be twofold reward for what they did and they will dwell secure in lofty halls.",
+        "khattab": "It is not your wealth or children that bring you closer to Us. But those who believe and do good—it is they who will have a multiplied reward for what they did, and they will be secure in ˹elevated˺ mansions",
+        "arberry": "It is not your wealth nor your children that shall bring you nigh in nearness to Us, except for him who believes, and does righteousness; those -- there awaits them the double recompense for that they did, and they shall be in the lofty chambers in security."
+      }
+    },
+    {
+      "location": [
+        39,
+        20,
+        6
+      ],
+      "form_arabic": "غُرَفٌ",
+      "lemma": "gurofap",
+      "lemma_arabic": "غُرْفَة",
+      "pos": "N",
+      "ayah_id": "39:20",
+      "ayah_arabic": "لَٰكِنِ ٱلَّذِينَ ٱتَّقَوۡاْ رَبَّهُمۡ لَهُمۡ غُرَفࣱ مِّن فَوۡقِهَا غُرَفࣱ مَّبۡنِيَّةࣱ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ وَعۡدَ ٱللَّهِ لَا يُخۡلِفُ ٱللَّهُ ٱلۡمِيعَادَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "(are) lofty mansions",
+      "translations": {
+        "saheeh": "But those who have feared their Lord - for them are chambers, above them chambers built high, beneath which rivers flow. [This is] the promise of Allah. Allah does not fail in [His] promise.",
+        "pickthall": "But those who keep their duty to their Lord, for them are lofty halls with lofty halls above them, built (for them), beneath which rivers flow. (It is) a promise of Allah. Allah faileth not His promise.",
+        "khattab": "But those mindful of their Lord will have ˹elevated˺ mansions, built one above the other, under which rivers flow. ˹That is˺ the promise of Allah. ˹And˺ Allah never fails in ˹His˺ promise",
+        "arberry": "But those who fear their Lord -- for them await lofty chambers, above which are built lofty chambers, underneath which rivers flow -- God's promise; God fails not the tryst."
+      }
+    },
+    {
+      "location": [
+        39,
+        20,
+        9
+      ],
+      "form_arabic": "غُرَفٌ",
+      "lemma": "gurofap",
+      "lemma_arabic": "غُرْفَة",
+      "pos": "N",
+      "ayah_id": "39:20",
+      "ayah_arabic": "لَٰكِنِ ٱلَّذِينَ ٱتَّقَوۡاْ رَبَّهُمۡ لَهُمۡ غُرَفࣱ مِّن فَوۡقِهَا غُرَفࣱ مَّبۡنِيَّةࣱ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ وَعۡدَ ٱللَّهِ لَا يُخۡلِفُ ٱللَّهُ ٱلۡمِيعَادَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "lofty mansions",
+      "translations": {
+        "saheeh": "But those who have feared their Lord - for them are chambers, above them chambers built high, beneath which rivers flow. [This is] the promise of Allah. Allah does not fail in [His] promise.",
+        "pickthall": "But those who keep their duty to their Lord, for them are lofty halls with lofty halls above them, built (for them), beneath which rivers flow. (It is) a promise of Allah. Allah faileth not His promise.",
+        "khattab": "But those mindful of their Lord will have ˹elevated˺ mansions, built one above the other, under which rivers flow. ˹That is˺ the promise of Allah. ˹And˺ Allah never fails in ˹His˺ promise",
+        "arberry": "But those who fear their Lord -- for them await lofty chambers, above which are built lofty chambers, underneath which rivers flow -- God's promise; God fails not the tryst."
+      }
+    }
+  ]
+}

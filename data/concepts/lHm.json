@@ -1,0 +1,1664 @@
+{
+  "root": "lHm",
+  "root_arabic": "لحم",
+  "stats": {
+    "occurrences": 12,
+    "lemmas": 1,
+    "ayahs": 12,
+    "surahs": 10,
+    "pos_distribution": {
+      "N": 12
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "count": 12,
+      "pos_distribution": {
+        "N": 12
+      },
+      "first_occurrence": [
+        2,
+        173,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            173,
+            6
+          ],
+          "form_arabic": "وَلَحْمَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            259,
+            56
+          ],
+          "form_arabic": "لَحْمًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            5,
+            3,
+            5
+          ],
+          "form_arabic": "وَلَحْمُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            6,
+            145,
+            20
+          ],
+          "form_arabic": "لَحْمَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            16,
+            14,
+            7
+          ],
+          "form_arabic": "لَحْمًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            16,
+            115,
+            6
+          ],
+          "form_arabic": "وَلَحْمَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            22,
+            37,
+            4
+          ],
+          "form_arabic": "لُحُومُهَا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            23,
+            14,
+            13
+          ],
+          "form_arabic": "لَحْمًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            35,
+            12,
+            15
+          ],
+          "form_arabic": "لَحْمًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            49,
+            12,
+            22
+          ],
+          "form_arabic": "لَحْمَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            52,
+            22,
+            3
+          ],
+          "form_arabic": "وَلَحْمٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            56,
+            21,
+            1
+          ],
+          "form_arabic": "وَلَحْمِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 8,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 6,
+      "share": 0.5,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "dmw",
+      "root_arabic": "دمو",
+      "ayahs_together": 5,
+      "share": 0.4167,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 5,
+      "share": 0.4167,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 5,
+      "share": 0.4167,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "hll",
+      "root_arabic": "هلل",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "xnzr",
+      "root_arabic": "خنزر",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "Drr",
+      "root_arabic": "ضرر",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "Avm",
+      "root_arabic": "اثم",
+      "ayahs_together": 3,
+      "share": 0.25,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "Edw",
+      "root_arabic": "عدو",
+      "ayahs_together": 3,
+      "share": 0.25,
+      "first_together": [
+        2,
+        173
+      ]
+    },
+    {
+      "root": "sxr",
+      "root_arabic": "سخر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        37
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        37
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "TEm",
+      "root_arabic": "طعم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "fsq",
+      "root_arabic": "فسق",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "flk",
+      "root_arabic": "فلك",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "lbs",
+      "root_arabic": "لبس",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "mxr",
+      "root_arabic": "مخر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "Trw",
+      "root_arabic": "طرو",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "Hly",
+      "root_arabic": "حلي",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "bHr",
+      "root_arabic": "بحر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        14
+      ]
+    },
+    {
+      "root": "$hw",
+      "root_arabic": "شهو",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        52,
+        22
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "ksw",
+      "root_arabic": "كسو",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        37
+      ]
+    },
+    {
+      "root": "b$r",
+      "root_arabic": "بشر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        37
+      ]
+    },
+    {
+      "root": "nyl",
+      "root_arabic": "نيل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        37
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        37
+      ]
+    },
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "jnb",
+      "root_arabic": "جنب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "Znn",
+      "root_arabic": "ظنن",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "krh",
+      "root_arabic": "كره",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "gyb",
+      "root_arabic": "غيب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "jss",
+      "root_arabic": "جسس",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        49,
+        12
+      ]
+    },
+    {
+      "root": "wHy",
+      "root_arabic": "وحي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        6,
+        145
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        6,
+        145
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        6,
+        145
+      ]
+    },
+    {
+      "root": "rjs",
+      "root_arabic": "رجس",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        6,
+        145
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        6,
+        145
+      ]
+    },
+    {
+      "root": "sfH",
+      "root_arabic": "سفح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        6,
+        145
+      ]
+    },
+    {
+      "root": "swg",
+      "root_arabic": "سوغ",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        35,
+        12
+      ]
+    },
+    {
+      "root": "frt",
+      "root_arabic": "فرت",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        35,
+        12
+      ]
+    },
+    {
+      "root": "mlH",
+      "root_arabic": "ملح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        35,
+        12
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        35,
+        12
+      ]
+    },
+    {
+      "root": "Ajj",
+      "root_arabic": "اجج",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        35,
+        12
+      ]
+    },
+    {
+      "root": "swy",
+      "root_arabic": "سوي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        35,
+        12
+      ]
+    },
+    {
+      "root": "fkh",
+      "root_arabic": "فكه",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        52,
+        22
+      ]
+    },
+    {
+      "root": "mdd",
+      "root_arabic": "مدد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        52,
+        22
+      ]
+    },
+    {
+      "root": "sbE",
+      "root_arabic": "سبع",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "x$y",
+      "root_arabic": "خشي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "yAs",
+      "root_arabic": "ياس",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "wq*",
+      "root_arabic": "وقذ",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "tmm",
+      "root_arabic": "تمم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "kml",
+      "root_arabic": "كمل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "rdy",
+      "root_arabic": "ردي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "zlm",
+      "root_arabic": "زلم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "*kw",
+      "root_arabic": "ذكو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "nSb",
+      "root_arabic": "نصب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "qsm",
+      "root_arabic": "قسم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "xmS",
+      "root_arabic": "خمص",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "*bH",
+      "root_arabic": "ذبح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "jnf",
+      "root_arabic": "جنف",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "xnq",
+      "root_arabic": "خنق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "nTH",
+      "root_arabic": "نطح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "Tyr",
+      "root_arabic": "طير",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        56,
+        21
+      ]
+    },
+    {
+      "root": "qry",
+      "root_arabic": "قري",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "n$z",
+      "root_arabic": "نشز",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "lbv",
+      "root_arabic": "لبث",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Er$",
+      "root_arabic": "عرش",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Any",
+      "root_arabic": "اني",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Ewm",
+      "root_arabic": "عوم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Hmr",
+      "root_arabic": "حمر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "snh",
+      "root_arabic": "سنه",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "mrr",
+      "root_arabic": "مرر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "kyf",
+      "root_arabic": "كيف",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "xwy",
+      "root_arabic": "خوي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "mAy",
+      "root_arabic": "ماي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "n$A",
+      "root_arabic": "نشا",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "Elq",
+      "root_arabic": "علق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "mDg",
+      "root_arabic": "مضغ",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "brk",
+      "root_arabic": "برك",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "nTf",
+      "root_arabic": "نطف",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        23,
+        14
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 16,
+        "name_english": "An-Nahl",
+        "name_arabic": "سُورَةُ النَّحۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 23,
+        "name_english": "Al-Muminoon",
+        "name_arabic": "سُورَةُ المُؤۡمِنُونَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 35,
+        "name_english": "Faatir",
+        "name_arabic": "سُورَةُ فَاطِرٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 49,
+        "name_english": "Al-Hujuraat",
+        "name_arabic": "سُورَةُ الحُجُرَاتِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 52,
+        "name_english": "At-Tur",
+        "name_arabic": "سُورَةُ الطُّورِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 5,
+      "Meccan": 7
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        173,
+        6
+      ],
+      "form_arabic": "وَلَحْمَ",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "2:173",
+      "ayah_arabic": "إِنَّمَا حَرَّمَ عَلَيۡكُمُ ٱلۡمَيۡتَةَ وَٱلدَّمَ وَلَحۡمَ ٱلۡخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيۡرِ ٱللَّهِۖ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغࣲ وَلَا عَادࣲ فَلَآ إِثۡمَ عَلَيۡهِۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "and flesh",
+      "translations": {
+        "saheeh": "He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], there is no sin upon him. Indeed, Allah is Forgiving and Merciful.",
+        "pickthall": "He hath forbidden you only carrion, and blood, and swineflesh, and that which hath been immolated to (the name of) any other than Allah. But he who is driven by necessity, neither craving nor transgressing, it is no sin for him. Lo! Allah is Forgiving, Merciful.",
+        "khattab": "He has only forbidden you ˹to eat˺ carrion, blood, swine, and what is slaughtered in the name of any other than Allah. But if someone is compelled by necessity—neither driven by desire nor exceeding immediate need—they will not be sinful. Surely Allah is All-Forgiving, Most Merciful",
+        "arberry": "These things only has He forbidden you: carrion, blood, the flesh of swine, what has been hollowed to other than God. Yet who so is constrained, not desiring nor transgressing, no sin shall be on him; God is All-forgiving, All-compassionate."
+      }
+    },
+    {
+      "location": [
+        2,
+        259,
+        56
+      ],
+      "form_arabic": "لَحْمًا",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "2:259",
+      "ayah_arabic": "أَوۡ كَٱلَّذِي مَرَّ عَلَىٰ قَرۡيَةࣲ وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحۡيِۦ هَٰذِهِ ٱللَّهُ بَعۡدَ مَوۡتِهَاۖ فَأَمَاتَهُ ٱللَّهُ مِاْئَةَ عَامࣲ ثُمَّ بَعَثَهُۥۖ قَالَ كَمۡ لَبِثۡتَۖ قَالَ لَبِثۡتُ يَوۡمًا أَوۡ بَعۡضَ يَوۡمࣲۖ قَالَ بَل لَّبِثۡتَ مِاْئَةَ عَامࣲ فَٱنظُرۡ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمۡ يَتَسَنَّهۡۖ وَٱنظُرۡ إِلَىٰ حِمَارِكَ وَلِنَجۡعَلَكَ ءَايَةࣰ لِّلنَّاسِۖ وَٱنظُرۡ إِلَى ٱلۡعِظَامِ كَيۡفَ نُنشِزُهَا ثُمَّ نَكۡسُوهَا لَحۡمࣰ اۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعۡلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(with) flesh",
+      "translations": {
+        "saheeh": "Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, \"How will Allah bring this to life after its death?\" So Allah caused him to die for a hundred years; then He revived him. He said, \"How long have you remained?\" The man said, \"I have remained a day or part of a day.\" He said, \"Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh.\" And when it became clear to him, he said, \"I know that Allah is over all things competent.\"",
+        "pickthall": "Or (bethink thee of) the like of him who, passing by a township which had fallen into utter ruin, exclaimed: How shall Allah give this township life after its death? And Allah made him die a hundred years, then brought him back to life. He said: How long hast thou tarried? (The man) said: I have tarried a day or part of a day. (He) said: Nay, but thou hast tarried for a hundred years. Just look at thy food and drink which have not rotted! Look at thine ass! And, that We may make thee a token unto mankind, look at the bones, how We adjust them and then cover them with flesh! And when (the matter) became clear unto him, he said: I know now that Allah is Able to do all things.",
+        "khattab": "Or ˹are you not aware of˺ the one who passed by a city which was in ruins. He wondered, “How could Allah bring this back to life after its destruction?” So Allah caused him to die for a hundred years then brought him back to life. Allah asked, “How long have you remained ˹in this state˺?” He replied, “Perhaps a day or part of a day.” Allah said, “No! You have remained here for a hundred years! Just look at your food and drink—they have not spoiled. ˹But now˺ look at ˹the remains of˺ your donkey! And ˹so˺ We have made you into a sign for humanity. And look at the bones ˹of the donkey˺, how We bring them together then clothe them with flesh!” When this was made clear to him, he declared, “˹Now˺ I know that Allah is Most Capable of everything.”",
+        "arberry": "Or such as he who passed by a city that was fallen down upon its turrets; he said, 'How shall God give life to this now it is dead?' So God made him die a hundred years, then He raised him up, saying, 'How long hast thou tarried?' He said, 'I have tarried a day, or part of a day.' Said He, 'Nay; thou hast tarried a hundred years. Look at thy food and drink -- it has not spoiled; and look at thy ass. So We would make thee a sign for the people. And look at the bones; how We shall set them up, and then clothe them with flesh.' So, when it was made clear to him, he said, 'I know that God is powerful over everything.'"
+      }
+    },
+    {
+      "location": [
+        5,
+        3,
+        5
+      ],
+      "form_arabic": "وَلَحْمُ",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "5:3",
+      "ayah_arabic": "حُرِّمَتۡ عَلَيۡكُمُ ٱلۡمَيۡتَةُ وَٱلدَّمُ وَلَحۡمُ ٱلۡخِنزِيرِ وَمَآ أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦ وَٱلۡمُنۡخَنِقَةُ وَٱلۡمَوۡقُوذَةُ وَٱلۡمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيۡتُمۡ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسۡتَقۡسِمُواْ بِٱلۡأَزۡلَٰمِۚ ذَٰلِكُمۡ فِسۡقٌۗ ٱلۡيَوۡمَ يَئِسَ ٱلَّذِينَ كَفَرُواْ مِن دِينِكُمۡ فَلَا تَخۡشَوۡهُمۡ وَٱخۡشَوۡنِۚ ٱلۡيَوۡمَ أَكۡمَلۡتُ لَكُمۡ دِينَكُمۡ وَأَتۡمَمۡتُ عَلَيۡكُمۡ نِعۡمَتِي وَرَضِيتُ لَكُمُ ٱلۡإِسۡلَٰمَ دِينࣰ اۚ فَمَنِ ٱضۡطُرَّ فِي مَخۡمَصَةٍ غَيۡرَ مُتَجَانِفࣲ لِّإِثۡمࣲ فَإِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "and flesh",
+      "translations": {
+        "saheeh": "Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allah is Forgiving and Merciful.",
+        "pickthall": "Forbidden unto you (for food) are carrion and blood and swineflesh, and that which hath been dedicated unto any other than Allah, and the strangled, and the dead through beating, and the dead through falling from a height, and that which hath been killed by (the goring of) horns, and the devoured of wild beasts, saving that which ye make lawful (by the death-stroke), and that which hath been immolated unto idols. And (forbidden is it) that ye swear by the divining arrows. This is an abomination. This day are those who disbelieve in despair of (ever harming) your religion; so fear them not, fear Me! This day have I perfected your religion for you and completed My favour unto you, and have chosen for you as religion al-Islam. Whoso is forced by hunger, not by will, to sin: (for him) lo! Allah is Forgiving, Merciful.",
+        "khattab": "Forbidden to you are carrion, blood, and swine; what is slaughtered in the name of any other than Allah; what is killed by strangling, beating, a fall, or by being gored to death; what is partly eaten by a predator unless you slaughter it; and what is sacrificed on altars. You are also forbidden to draw lots for decisions. This is all evil. Today the disbelievers have given up all hope of ˹undermining˺ your faith. So do not fear them; fear Me! Today I have perfected your faith for you, completed My favour upon you, and chosen Islam as your way. But whoever is compelled by extreme hunger—not intending to sin—then surely Allah is All-Forgiving, Most Merciful",
+        "arberry": "Forbidden to you are carrion, blood, the flesh of swine, what has been hallowed to other than God, the beast strangled; the beast beaten down, the beast fallen to death, the beast gored, and that devoured by beasts of prey - excepting that you have sacrificed duly -- as also things sacrificed to idols, and partition by the divining arrows; that is ungodliness. Today the unbelievers have despaired of your religion; therefore fear them not, but fear you Me. Today I have perfected your religion for you, and I have completed My blessing upon you, and I have approved Islam for your religion. But whosoever is constrained in emptiness and not inclining purposely to sin -- God is All-forgiving, All-compassionate."
+      }
+    },
+    {
+      "location": [
+        6,
+        145,
+        20
+      ],
+      "form_arabic": "لَحْمَ",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "6:145",
+      "ayah_arabic": "قُل لَّآ أَجِدُ فِي مَآ أُوحِيَ إِلَيَّ مُحَرَّمًا عَلَىٰ طَاعِمࣲ يَطۡعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيۡتَةً أَوۡ دَمࣰ ا مَّسۡفُوحًا أَوۡ لَحۡمَ خِنزِيرࣲ فَإِنَّهُۥ رِجۡسٌ أَوۡ فِسۡقًا أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦۚ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغࣲ وَلَا عَادࣲ فَإِنَّ رَبَّكَ غَفُورࣱ رَّحِيمࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "(the) flesh",
+      "translations": {
+        "saheeh": "Say, \"I do not find within that which was revealed to me [anything] forbidden to one who would eat it unless it be a dead animal or blood spilled out or the flesh of swine - for indeed, it is impure - or it be [that slaughtered in] disobedience, dedicated to other than Allah. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], then indeed, your Lord is Forgiving and Merciful.\"",
+        "pickthall": "Say: I find not in that which is revealed unto me aught prohibited to an eater that he eat thereof, except it be carrion, or blood poured forth, or swineflesh - for that verily is foul - or the abomination which was immolated to the name of other than Allah. But whoso is compelled (thereto), neither craving nor transgressing, (for him) lo! thy Lord is Forgiving, Merciful.",
+        "khattab": "Say, ˹O Prophet,˺ “I do not find in what has been revealed to me anything forbidden to eat except carrion, running blood, swine—which is impure—or a sinful offering in the name of any other than Allah. But if someone is compelled by necessity—neither driven by desire nor exceeding immediate need—then surely your Lord is All-Forgiving, Most Merciful.”",
+        "arberry": "Say: 'I do not find, in what is revealed to me, aught forbidden to him who eats thereof except it be carrion, or blood outpoured, or the flesh of swine -- that is an abomination -- or an ungodly thing that has been hallowed to other than God; yet whoso is constrained, not desiring nor transgressing, surely thy Lord is All-forgiving, All-compassionate.'"
+      }
+    },
+    {
+      "location": [
+        16,
+        14,
+        7
+      ],
+      "form_arabic": "لَحْمًا",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "16:14",
+      "ayah_arabic": "وَهُوَ ٱلَّذِي سَخَّرَ ٱلۡبَحۡرَ لِتَأۡكُلُواْ مِنۡهُ لَحۡمࣰ ا طَرِيࣰّ ا وَتَسۡتَخۡرِجُواْ مِنۡهُ حِلۡيَةࣰ تَلۡبَسُونَهَاۖ وَتَرَى ٱلۡفُلۡكَ مَوَاخِرَ فِيهِ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Nahl",
+      "literal_gloss": "meat",
+      "translations": {
+        "saheeh": "And it is He who subjected the sea for you to eat from it tender meat and to extract from it ornaments which you wear. And you see the ships plowing through it, and [He subjected it] that you may seek of His bounty; and perhaps you will be grateful.",
+        "pickthall": "And He it is Who hath constrained the sea to be of service that ye eat fresh meat from thence, and bring forth from thence ornaments which ye wear. And thou seest the ships ploughing it that ye (mankind) may seek of His bounty and that haply ye may give thanks.",
+        "khattab": "And He is the One Who has subjected the sea, so from it you may eat tender seafood and extract ornaments to wear. And you see the ships ploughing their way through it, so you may seek His bounty and give thanks ˹to Him˺",
+        "arberry": "It is He who subjected to you the sea, that you may eat of it fresh flesh, and bring forth out of it ornaments for you to wear; and thou mayest see the ships cleaving through it; and that you may seek of His bounty, and so haply you will be thankful."
+      }
+    },
+    {
+      "location": [
+        16,
+        115,
+        6
+      ],
+      "form_arabic": "وَلَحْمَ",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "16:115",
+      "ayah_arabic": "إِنَّمَا حَرَّمَ عَلَيۡكُمُ ٱلۡمَيۡتَةَ وَٱلدَّمَ وَلَحۡمَ ٱلۡخِنزِيرِ وَمَآ أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦۖ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغࣲ وَلَا عَادࣲ فَإِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Nahl",
+      "literal_gloss": "and the flesh",
+      "translations": {
+        "saheeh": "He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit] - then indeed, Allah is Forgiving and Merciful.",
+        "pickthall": "He hath forbidden for you only carrion and blood and swineflesh and that which hath been immolated in the name of any other than Allah; but he who is driven thereto, neither craving nor transgressing, lo! then Allah is Forgiving, Merciful.",
+        "khattab": "He has only forbidden you ˹to eat˺ carrion, blood, swine, and what is slaughtered in the name of any other than Allah. But if someone is compelled by necessity—neither driven by desire nor exceeding immediate need—then surely Allah is All-Forgiving, Most Merciful",
+        "arberry": "These things only He has forbidden you: carrion, blood, the flesh of swine, what has been hallowed to other than God. Yet whoso is constrained, not desiring nor transgressing, God is All-forgiving, All-compassionate."
+      }
+    },
+    {
+      "location": [
+        22,
+        37,
+        4
+      ],
+      "form_arabic": "لُحُومُهَا",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "22:37",
+      "ayah_arabic": "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقۡوَىٰ مِنكُمۡۚ كَذَٰلِكَ سَخَّرَهَا لَكُمۡ لِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡۗ وَبَشِّرِ ٱلۡمُحۡسِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "their meat",
+      "translations": {
+        "saheeh": "Their meat will not reach Allah, nor will their blood, but what reaches Him is piety from you. Thus have We subjected them to you that you may glorify Allah for that [to] which He has guided you; and give good tidings to the doers of good.",
+        "pickthall": "Their flesh and their food reach not Allah, but the devotion from you reacheth Him. Thus have We made them subject unto you that ye may magnify Allah that He hath guided you. And give good tidings (O Muhammad) to the good.",
+        "khattab": "Neither their meat nor blood reaches Allah. Rather, it is your piety that reaches Him. This is how He has subjected them to you so that you may proclaim the greatness of Allah for what He has guided you to, and give good news to the good-doers",
+        "arberry": "The flesh of them shall not reach God, neither their blood, but godliness from you shall reach Him. So He has subjected them to you, that you may magnify God for that He has guided you. And give thou good tidings unto the good-doers."
+      }
+    },
+    {
+      "location": [
+        23,
+        14,
+        13
+      ],
+      "form_arabic": "لَحْمًا",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "23:14",
+      "ayah_arabic": "ثُمَّ خَلَقۡنَا ٱلنُّطۡفَةَ عَلَقَةࣰ فَخَلَقۡنَا ٱلۡعَلَقَةَ مُضۡغَةࣰ فَخَلَقۡنَا ٱلۡمُضۡغَةَ عِظَٰمࣰ ا فَكَسَوۡنَا ٱلۡعِظَٰمَ لَحۡمࣰ ا ثُمَّ أَنشَأۡنَٰهُ خَلۡقًا ءَاخَرَۚ فَتَبَارَكَ ٱللَّهُ أَحۡسَنُ ٱلۡخَٰلِقِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muminoon",
+      "literal_gloss": "(with) flesh",
+      "translations": {
+        "saheeh": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.",
+        "pickthall": "Then fashioned We the drop a clot, then fashioned We the clot a little lump, then fashioned We the little lump bones, then clothed the bones with flesh, and then produced it as another creation. So blessed be Allah, the Best of creators!",
+        "khattab": "then We developed the drop into a clinging clot ˹of blood˺, then developed the clot into a lump ˹of flesh˺, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation. So Blessed is Allah, the Best of Creators",
+        "arberry": "then We created of the drop a clot then We created of the clot a tissue then We created of the tissue bones then We garmented the bones in flesh; thereafter We produced him as another creature. So blessed be God, the fairest of creators!"
+      }
+    },
+    {
+      "location": [
+        35,
+        12,
+        15
+      ],
+      "form_arabic": "لَحْمًا",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "35:12",
+      "ayah_arabic": "وَمَا يَسۡتَوِي ٱلۡبَحۡرَانِ هَٰذَا عَذۡبࣱ فُرَاتࣱ سَآئِغࣱ شَرَابُهُۥ وَهَٰذَا مِلۡحٌ أُجَاجࣱۖ وَمِن كُلࣲّ تَأۡكُلُونَ لَحۡمࣰ ا طَرِيࣰّ ا وَتَسۡتَخۡرِجُونَ حِلۡيَةࣰ تَلۡبَسُونَهَاۖ وَتَرَى ٱلۡفُلۡكَ فِيهِ مَوَاخِرَ لِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Faatir",
+      "literal_gloss": "meat",
+      "translations": {
+        "saheeh": "And not alike are the two bodies of water. One is fresh and sweet, palatable for drinking, and one is salty and bitter. And from each you eat tender meat and extract ornaments which you wear, and you see the ships plowing through [them] that you might seek of His bounty; and perhaps you will be grateful.",
+        "pickthall": "And the two seas are not alike: this, fresh, sweet, good to drink, this (other) bitter, salt. And from them both ye eat fresh meat and derive the ornament that ye wear. And thou seest the ship cleaving them with its prow that ye may seek of His bounty, and that haply ye may give thanks.",
+        "khattab": "The two bodies of water are not alike: one is fresh, palatable, and pleasant to drink and the other is salty and bitter. Yet from them both you eat tender seafood and extract ornaments to wear. And you see the ships ploughing their way through both, so you may seek His bounty and give thanks ˹to Him˺",
+        "arberry": "Not equal are the two seas; this is sweet, grateful to taste, delicious to drink, and that is salt, bitter to the tongue. Yet of both you eat fresh flesh, and bring forth out of it ornaments for you to wear; and thou mayest see the ships cleaving through it, that you may seek of His bounty, and so haply you will be thankful."
+      }
+    },
+    {
+      "location": [
+        49,
+        12,
+        22
+      ],
+      "form_arabic": "لَحْمَ",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "49:12",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱجۡتَنِبُواْ كَثِيرࣰ ا مِّنَ ٱلظَّنِّ إِنَّ بَعۡضَ ٱلظَّنِّ إِثۡمࣱۖ وَلَا تَجَسَّسُواْ وَلَا يَغۡتَب بَّعۡضُكُم بَعۡضًاۚ أَيُحِبُّ أَحَدُكُمۡ أَن يَأۡكُلَ لَحۡمَ أَخِيهِ مَيۡتࣰ ا فَكَرِهۡتُمُوهُۚ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ تَوَّابࣱ رَّحِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hujuraat",
+      "literal_gloss": "(the) flesh",
+      "translations": {
+        "saheeh": "O you who have believed, avoid much [negative] assumption. Indeed, some assumption is sin. And do not spy or backbite each other. Would one of you like to eat the flesh of his brother when dead? You would detest it. And fear Allah; indeed, Allah is Accepting of repentance and Merciful.",
+        "pickthall": "O ye who believe! Shun much suspicion; for lo! some suspicion is a crime. And spy not, neither backbite one another. Would one of you love to eat the flesh of his dead brother? Ye abhor that (so abhor the other)! And keep your duty (to Allah). Lo! Allah is Relenting, Merciful.",
+        "khattab": "O believers! Avoid many suspicions, ˹for˺ indeed, some suspicions are sinful. And do not spy, nor backbite one another. Would any of you like to eat the flesh of their dead brother? You would despise that! And fear Allah. Surely Allah is ˹the˺ Accepter of Repentance, Most Merciful",
+        "arberry": "O believers, eschew much suspicion; some suspicion is a sin. And do not spy, neither backbite one another; would any of you like to eat the flesh of his brother dead? You would abominate it. And fear you God; assuredly God turns, and He is All-compassionate."
+      }
+    },
+    {
+      "location": [
+        52,
+        22,
+        3
+      ],
+      "form_arabic": "وَلَحْمٍ",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "52:22",
+      "ayah_arabic": "وَأَمۡدَدۡنَٰهُم بِفَٰكِهَةࣲ وَلَحۡمࣲ مِّمَّا يَشۡتَهُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "and meat",
+      "translations": {
+        "saheeh": "And We will provide them with fruit and meat from whatever they desire.",
+        "pickthall": "And We provide them with fruit and meat such as they desire.",
+        "khattab": "And We will ˹continually˺ provide them with whatever fruit or meat they desire",
+        "arberry": "And We shall succour them with fruits and flesh such as they desire"
+      }
+    },
+    {
+      "location": [
+        56,
+        21,
+        1
+      ],
+      "form_arabic": "وَلَحْمِ",
+      "lemma": "laHom",
+      "lemma_arabic": "لَحْم",
+      "pos": "N",
+      "ayah_id": "56:21",
+      "ayah_arabic": "وَلَحۡمِ طَيۡرࣲ مِّمَّا يَشۡتَهُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "And (the) flesh",
+      "translations": {
+        "saheeh": "And the meat of fowl, from whatever they desire.",
+        "pickthall": "And flesh of fowls that they desire.",
+        "khattab": "and meat from any bird they desire",
+        "arberry": "and such flesh of fowl as they desire,"
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "root": "khn",
+  "root_arabic": "كهن",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "kaAhin",
+      "lemma_arabic": "كَاهِن",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        52,
+        29,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            52,
+            29,
+            6
+          ],
+          "form_arabic": "بِكَاهِنٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            69,
+            42,
+            3
+          ],
+          "form_arabic": "كَاهِنٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        52,
+        29
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        52,
+        29
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        52,
+        29
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        52,
+        29
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        69,
+        42
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        69,
+        42
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 52,
+        "name_english": "At-Tur",
+        "name_arabic": "سُورَةُ الطُّورِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 69,
+        "name_english": "Al-Haaqqa",
+        "name_arabic": "سُورَةُ الحَاقَّةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        52,
+        29,
+        6
+      ],
+      "form_arabic": "بِكَاهِنٍ",
+      "lemma": "kaAhin",
+      "lemma_arabic": "كَاهِن",
+      "pos": "N",
+      "ayah_id": "52:29",
+      "ayah_arabic": "فَذَكِّرۡ فَمَآ أَنتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنࣲ وَلَا مَجۡنُونٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "a soothsayer",
+      "translations": {
+        "saheeh": "So remind [O Muhammad], for you are not, by the favor of your Lord, a soothsayer or a madman.",
+        "pickthall": "Therefor warn (men, O Muhammad). By the grace of Allah thou art neither soothsayer nor madman.",
+        "khattab": "So ˹continue to˺ remind ˹all, O Prophet˺. For you, by the grace of your Lord, are not a fortune-teller or a madman",
+        "arberry": "Therefore remind! by thy Lord's blessing thou art not a soothsayer neither possessed."
+      }
+    },
+    {
+      "location": [
+        69,
+        42,
+        3
+      ],
+      "form_arabic": "كَاهِنٍ",
+      "lemma": "kaAhin",
+      "lemma_arabic": "كَاهِن",
+      "pos": "N",
+      "ayah_id": "69:42",
+      "ayah_arabic": "وَلَا بِقَوۡلِ كَاهِنࣲۚ قَلِيلࣰ ا مَّا تَذَكَّرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Haaqqa",
+      "literal_gloss": "(of) a soothsayer",
+      "translations": {
+        "saheeh": "Nor the word of a soothsayer; little do you remember.",
+        "pickthall": "Nor diviner's speech - little is it that ye remember!",
+        "khattab": "Nor is it the mumbling of a fortune-teller, ˹yet˺ you are hardly mindful",
+        "arberry": "nor the speech of a soothsayer (little do you remember)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "root": "dxr",
+  "root_arabic": "دخر",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 1,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "N": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "da`xiruwn",
+      "lemma_arabic": "دَٰخِرُون",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        16,
+        48,
+        17
+      ],
+      "occurrences": [
+        {
+          "location": [
+            16,
+            48,
+            17
+          ],
+          "form_arabic": "دَٰخِرُونَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            27,
+            87,
+            18
+          ],
+          "form_arabic": "دَٰخِرِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            37,
+            18,
+            4
+          ],
+          "form_arabic": "دَٰخِرُونَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            40,
+            60,
+            13
+          ],
+          "form_arabic": "دَاخِرِينَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        16,
+        48
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        16,
+        48
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        37,
+        18
+      ]
+    },
+    {
+      "root": "nfx",
+      "root_arabic": "نفخ",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        27,
+        87
+      ]
+    },
+    {
+      "root": "fzE",
+      "root_arabic": "فزع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        27,
+        87
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        27,
+        87
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        27,
+        87
+      ]
+    },
+    {
+      "root": "Swr",
+      "root_arabic": "صور",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        27,
+        87
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        27,
+        87
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        27,
+        87
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        27,
+        87
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        16,
+        48
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        16,
+        48
+      ]
+    },
+    {
+      "root": "fyA",
+      "root_arabic": "فيا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        16,
+        48
+      ]
+    },
+    {
+      "root": "ymn",
+      "root_arabic": "يمن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        16,
+        48
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        16,
+        48
+      ]
+    },
+    {
+      "root": "$ml",
+      "root_arabic": "شمل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        16,
+        48
+      ]
+    },
+    {
+      "root": "Zll",
+      "root_arabic": "ظلل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        16,
+        48
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        40,
+        60
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        40,
+        60
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        40,
+        60
+      ]
+    },
+    {
+      "root": "jwb",
+      "root_arabic": "جوب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        40,
+        60
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        40,
+        60
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        40,
+        60
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 16,
+        "name_english": "An-Nahl",
+        "name_arabic": "سُورَةُ النَّحۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 27,
+        "name_english": "An-Naml",
+        "name_arabic": "سُورَةُ النَّمۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 40,
+        "name_english": "Ghafir",
+        "name_arabic": "سُورَةُ غَافِرٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        16,
+        48,
+        17
+      ],
+      "form_arabic": "دَٰخِرُونَ",
+      "lemma": "da`xiruwn",
+      "lemma_arabic": "دَٰخِرُون",
+      "pos": "N",
+      "ayah_id": "16:48",
+      "ayah_arabic": "أَوَلَمۡ يَرَوۡاْ إِلَىٰ مَا خَلَقَ ٱللَّهُ مِن شَيۡءࣲ يَتَفَيَّؤُاْ ظِلَٰلُهُۥ عَنِ ٱلۡيَمِينِ وَٱلشَّمَآئِلِ سُجَّدࣰ ا لِّلَّهِ وَهُمۡ دَٰخِرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Nahl",
+      "literal_gloss": "(are) humble",
+      "translations": {
+        "saheeh": "Have they not considered what things Allah has created? Their shadows incline to the right and to the left, prostrating to Allah, while they are humble.",
+        "pickthall": "Have they not observed all things that Allah hath created, how their shadows incline to the right and to the left, making prostration unto Allah, and they are lowly?",
+        "khattab": "Have they not considered how the shadows of everything Allah has created incline to the right and the left ˹as the sun moves˺, totally submitting to Allah in all humility",
+        "arberry": "Have they not regarded all things that God has created casting their shadows to the right and to the left, bowing themselves before God in all lowliness?"
+      }
+    },
+    {
+      "location": [
+        27,
+        87,
+        18
+      ],
+      "form_arabic": "دَٰخِرِينَ",
+      "lemma": "da`xiruwn",
+      "lemma_arabic": "دَٰخِرُون",
+      "pos": "N",
+      "ayah_id": "27:87",
+      "ayah_arabic": "وَيَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَفَزِعَ مَن فِي ٱلسَّمَٰوَٰتِ وَمَن فِي ٱلۡأَرۡضِ إِلَّا مَن شَآءَ ٱللَّهُۚ وَكُلٌّ أَتَوۡهُ دَٰخِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naml",
+      "literal_gloss": "humbled",
+      "translations": {
+        "saheeh": "And [warn of] the Day the Horn will be blown, and whoever is in the heavens and whoever is on the earth will be terrified except whom Allah wills. And all will come to Him humbled.",
+        "pickthall": "And (remind them of) the Day when the Trumpet will be blown, and all who are in the heavens and the earth will start in fear, save him whom Allah willeth. And all come unto Him, humbled.",
+        "khattab": "And ˹beware of˺ the Day the Trumpet will be blown, and all those in the heavens and all those on the earth will be horrified ˹to the point of death˺, except those Allah wills ˹to spare˺. And all will come before Him, fully humbled",
+        "arberry": "On the day the Trumpet is blown, and terrified is whosoever is in the heavens and earth, excepting whom God wills, and every one shall come to Him, all utterly abject;"
+      }
+    },
+    {
+      "location": [
+        37,
+        18,
+        4
+      ],
+      "form_arabic": "دَٰخِرُونَ",
+      "lemma": "da`xiruwn",
+      "lemma_arabic": "دَٰخِرُون",
+      "pos": "N",
+      "ayah_id": "37:18",
+      "ayah_arabic": "قُلۡ نَعَمۡ وَأَنتُمۡ دَٰخِرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "(will be) humiliated",
+      "translations": {
+        "saheeh": "Say, \"Yes, and you will be [rendered] contemptible.\"",
+        "pickthall": "Say (O Muhammad): Ye, in truth; and ye will be brought low.",
+        "khattab": "Say, “Yes! And you will be fully humbled.”",
+        "arberry": "Say: 'Yes, and in all lowliness.'"
+      }
+    },
+    {
+      "location": [
+        40,
+        60,
+        13
+      ],
+      "form_arabic": "دَاخِرِينَ",
+      "lemma": "da`xiruwn",
+      "lemma_arabic": "دَٰخِرُون",
+      "pos": "N",
+      "ayah_id": "40:60",
+      "ayah_arabic": "وَقَالَ رَبُّكُمُ ٱدۡعُونِيٓ أَسۡتَجِبۡ لَكُمۡۚ إِنَّ ٱلَّذِينَ يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِي سَيَدۡخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ghafir",
+      "literal_gloss": "(in) humiliation",
+      "translations": {
+        "saheeh": "And your Lord says, \"Call upon Me; I will respond to you.\" Indeed, those who disdain My worship will enter Hell [rendered] contemptible.",
+        "pickthall": "And your Lord hath said: Pray unto Me and I will hear your prayer. Lo! those who scorn My service, they will enter hell, disgraced.",
+        "khattab": "Your Lord has proclaimed, “Call upon Me, I will respond to you. Surely those who are too proud to worship Me will enter Hell, fully humbled.”",
+        "arberry": "Your Lord has said, 'Call upon Me and I will answer you. Surely those who wax too proud to do Me service shall enter Gehenna utterly abject.'"
+      }
+    }
+  ]
+}

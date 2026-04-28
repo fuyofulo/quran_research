@@ -1,0 +1,593 @@
+{
+  "root": "mhl",
+  "root_arabic": "مهل",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 3,
+    "ayahs": 5,
+    "surahs": 5,
+    "pos_distribution": {
+      "N": 3,
+      "V": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "muhol",
+      "lemma_arabic": "مُهْل",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        18,
+        29,
+        22
+      ],
+      "occurrences": [
+        {
+          "location": [
+            18,
+            29,
+            22
+          ],
+          "form_arabic": "كَٱلْمُهْلِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            44,
+            45,
+            1
+          ],
+          "form_arabic": "كَٱلْمُهْلِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            70,
+            8,
+            4
+          ],
+          "form_arabic": "كَٱلْمُهْلِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "mah~ili",
+      "lemma_arabic": "مَهِّلِ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        73,
+        11,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            73,
+            11,
+            5
+          ],
+          "form_arabic": "وَمَهِّلْهُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            86,
+            17,
+            1
+          ],
+          "form_arabic": "فَمَهِّلِ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": ">amohilo",
+      "lemma_arabic": "أَمْهِلْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        86,
+        17,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            86,
+            17,
+            3
+          ],
+          "form_arabic": "أَمْهِلْهُمْ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "bTn",
+      "root_arabic": "بطن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        44,
+        45
+      ]
+    },
+    {
+      "root": "gly",
+      "root_arabic": "غلي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        44,
+        45
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        86,
+        17
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "HwT",
+      "root_arabic": "حوط",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "bAs",
+      "root_arabic": "باس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "gwv",
+      "root_arabic": "غوث",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "Etd",
+      "root_arabic": "عتد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "rfq",
+      "root_arabic": "رفق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "$wy",
+      "root_arabic": "شوي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "srdq",
+      "root_arabic": "سردق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        70,
+        8
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        70,
+        8
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        70,
+        8
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        73,
+        11
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        73,
+        11
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        73,
+        11
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        73,
+        11
+      ]
+    },
+    {
+      "root": "w*r",
+      "root_arabic": "وذر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        73,
+        11
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 86,
+        "name_english": "At-Taariq",
+        "name_arabic": "سُورَةُ الطَّارِقِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 44,
+        "name_english": "Ad-Dukhaan",
+        "name_arabic": "سُورَةُ الدُّخَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 70,
+        "name_english": "Al-Ma'aarij",
+        "name_arabic": "سُورَةُ المَعَارِجِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 73,
+        "name_english": "Al-Muzzammil",
+        "name_arabic": "سُورَةُ المُزَّمِّلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        18,
+        29,
+        22
+      ],
+      "form_arabic": "كَٱلْمُهْلِ",
+      "lemma": "muhol",
+      "lemma_arabic": "مُهْل",
+      "pos": "N",
+      "ayah_id": "18:29",
+      "ayah_arabic": "وَقُلِ ٱلۡحَقُّ مِن رَّبِّكُمۡۖ فَمَن شَآءَ فَلۡيُؤۡمِن وَمَن شَآءَ فَلۡيَكۡفُرۡۚ إِنَّآ أَعۡتَدۡنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمۡ سُرَادِقُهَاۚ وَإِن يَسۡتَغِيثُواْ يُغَاثُواْ بِمَآءࣲ كَٱلۡمُهۡلِ يَشۡوِي ٱلۡوُجُوهَۚ بِئۡسَ ٱلشَّرَابُ وَسَآءَتۡ مُرۡتَفَقًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "like molten brass",
+      "translations": {
+        "saheeh": "And say, \"The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve.\" Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.",
+        "pickthall": "Say: (It is) the truth from the Lord of you (all). Then whosoever will, let him believe, and whosoever will, let him disbelieve. Lo! We have prepared for disbelievers Fire. Its tent encloseth them. If they ask for showers, they will be showered with water like to molten lead which burneth the faces. Calamitous the drink and ill the resting-place!",
+        "khattab": "And say, ˹O Prophet,˺ “˹This is˺ the truth from your Lord. Whoever wills let them believe, and whoever wills let them disbelieve.” Surely We have prepared for the wrongdoers a Fire whose walls will ˹completely˺ surround them. When they cry for aid, they will be aided with water like molten metal, which will burn ˹their˺ faces. What a horrible drink! And what a terrible place to rest",
+        "arberry": "Say: 'The truth is from your Lord; so let whosoever will believe, and let whosoever will disbelieve.' Surely We have prepared for the evildoers a fire, whose pavilion encompasses them; if they call for succour, they will be succoured with water like molten copper, that shall scald their faces -- how evil a potion, and how evil a resting-place!"
+      }
+    },
+    {
+      "location": [
+        44,
+        45,
+        1
+      ],
+      "form_arabic": "كَٱلْمُهْلِ",
+      "lemma": "muhol",
+      "lemma_arabic": "مُهْل",
+      "pos": "N",
+      "ayah_id": "44:45",
+      "ayah_arabic": "كَٱلۡمُهۡلِ يَغۡلِي فِي ٱلۡبُطُونِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ad-Dukhaan",
+      "literal_gloss": "Like the murky oil",
+      "translations": {
+        "saheeh": "Like murky oil, it boils within bellies",
+        "pickthall": "Like molten brass, it seetheth in their bellies",
+        "khattab": "Like molten metal, it will boil in the bellies",
+        "arberry": "like molten copper, bubbling in the belly"
+      }
+    },
+    {
+      "location": [
+        70,
+        8,
+        4
+      ],
+      "form_arabic": "كَٱلْمُهْلِ",
+      "lemma": "muhol",
+      "lemma_arabic": "مُهْل",
+      "pos": "N",
+      "ayah_id": "70:8",
+      "ayah_arabic": "يَوۡمَ تَكُونُ ٱلسَّمَآءُ كَٱلۡمُهۡلِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ma'aarij",
+      "literal_gloss": "like molten copper",
+      "translations": {
+        "saheeh": "On the Day the sky will be like murky oil,",
+        "pickthall": "The day when the sky will become as molten copper,",
+        "khattab": "On that Day the sky will be like molten brass",
+        "arberry": "Upon the day when heaven shall be as molten copper"
+      }
+    },
+    {
+      "location": [
+        73,
+        11,
+        5
+      ],
+      "form_arabic": "وَمَهِّلْهُمْ",
+      "lemma": "mah~ili",
+      "lemma_arabic": "مَهِّلِ",
+      "pos": "V",
+      "ayah_id": "73:11",
+      "ayah_arabic": "وَذَرۡنِي وَٱلۡمُكَذِّبِينَ أُوْلِي ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيلًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muzzammil",
+      "literal_gloss": "and allow them respite ",
+      "translations": {
+        "saheeh": "And leave Me with [the matter of] the deniers, those of ease [in life], and allow them respite a little.",
+        "pickthall": "Leave Me to deal with the deniers, lords of ease and comfort (in this life); and do thou respite them awhile.",
+        "khattab": "And leave to Me the deniers—the people of luxury—and bear with them for a little while",
+        "arberry": "Leave Me to those who cry lies, those prosperous ones, and respite them a little,"
+      }
+    },
+    {
+      "location": [
+        86,
+        17,
+        1
+      ],
+      "form_arabic": "فَمَهِّلِ",
+      "lemma": "mah~ili",
+      "lemma_arabic": "مَهِّلِ",
+      "pos": "V",
+      "ayah_id": "86:17",
+      "ayah_arabic": "فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Taariq",
+      "literal_gloss": "So give respite",
+      "translations": {
+        "saheeh": "So allow time for the disbelievers. Leave them awhile.",
+        "pickthall": "So give a respite to the disbelievers. Deal thou gently with them for a while.",
+        "khattab": "So bear with the disbelievers ˹O Prophet˺. Let them be for ˹just˺ a little while",
+        "arberry": "So respite the unbelievers; delay with them awhile."
+      }
+    },
+    {
+      "location": [
+        86,
+        17,
+        3
+      ],
+      "form_arabic": "أَمْهِلْهُمْ",
+      "lemma": ">amohilo",
+      "lemma_arabic": "أَمْهِلْ",
+      "pos": "V",
+      "ayah_id": "86:17",
+      "ayah_arabic": "فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Taariq",
+      "literal_gloss": "Give respite to them ",
+      "translations": {
+        "saheeh": "So allow time for the disbelievers. Leave them awhile.",
+        "pickthall": "So give a respite to the disbelievers. Deal thou gently with them for a while.",
+        "khattab": "So bear with the disbelievers ˹O Prophet˺. Let them be for ˹just˺ a little while",
+        "arberry": "So respite the unbelievers; delay with them awhile."
+      }
+    }
+  ]
+}

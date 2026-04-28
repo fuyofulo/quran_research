@@ -1,0 +1,750 @@
+{
+  "root": "nkv",
+  "root_arabic": "نكث",
+  "stats": {
+    "occurrences": 7,
+    "lemmas": 2,
+    "ayahs": 6,
+    "surahs": 5,
+    "pos_distribution": {
+      "V": 6,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "n~akava",
+      "lemma_arabic": "نَّكَثَ",
+      "count": 6,
+      "pos_distribution": {
+        "V": 6
+      },
+      "first_occurrence": [
+        7,
+        135,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            7,
+            135,
+            11
+          ],
+          "form_arabic": "يَنكُثُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            12,
+            2
+          ],
+          "form_arabic": "نَّكَثُو^ا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            13,
+            4
+          ],
+          "form_arabic": "نَّكَثُو^ا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            43,
+            50,
+            7
+          ],
+          "form_arabic": "يَنكُثُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            48,
+            10,
+            12
+          ],
+          "form_arabic": "نَّكَثَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            48,
+            10,
+            14
+          ],
+          "form_arabic": "يَنكُثُ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": ">anka`v",
+      "lemma_arabic": "أَنكَٰث",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        16,
+        92,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            16,
+            92,
+            9
+          ],
+          "form_arabic": "أَنكَٰثًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "ymn",
+      "root_arabic": "يمن",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "k$f",
+      "root_arabic": "كشف",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        135
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "Ehd",
+      "root_arabic": "عهد",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        43,
+        50
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "bdA",
+      "root_arabic": "بدا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "x$y",
+      "root_arabic": "خشي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "hmm",
+      "root_arabic": "همم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "mrr",
+      "root_arabic": "مرر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        13
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        7,
+        135
+      ]
+    },
+    {
+      "root": "Ajl",
+      "root_arabic": "اجل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        7,
+        135
+      ]
+    },
+    {
+      "root": "rjz",
+      "root_arabic": "رجز",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        7,
+        135
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "TEn",
+      "root_arabic": "طعن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "nhy",
+      "root_arabic": "نهي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "gzl",
+      "root_arabic": "غزل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        92
+      ]
+    },
+    {
+      "root": "nqD",
+      "root_arabic": "نقض",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        92
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        92
+      ]
+    },
+    {
+      "root": "qwy",
+      "root_arabic": "قوي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        92
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        92
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        92
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        92
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        92
+      ]
+    },
+    {
+      "root": "rbw",
+      "root_arabic": "ربو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        92
+      ]
+    },
+    {
+      "root": "blw",
+      "root_arabic": "بلو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        16,
+        92
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        48,
+        10
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        48,
+        10
+      ]
+    },
+    {
+      "root": "fwq",
+      "root_arabic": "فوق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        48,
+        10
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        48,
+        10
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        48,
+        10
+      ]
+    },
+    {
+      "root": "Ajr",
+      "root_arabic": "اجر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        48,
+        10
+      ]
+    },
+    {
+      "root": "byE",
+      "root_arabic": "بيع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        48,
+        10
+      ]
+    },
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        48,
+        10
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 48,
+        "name_english": "Al-Fath",
+        "name_arabic": "سُورَةُ الفَتۡحِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 16,
+        "name_english": "An-Nahl",
+        "name_arabic": "سُورَةُ النَّحۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 43,
+        "name_english": "Az-Zukhruf",
+        "name_arabic": "سُورَةُ الزُّخۡرُفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3,
+      "Medinan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        7,
+        135,
+        11
+      ],
+      "form_arabic": "يَنكُثُونَ",
+      "lemma": "n~akava",
+      "lemma_arabic": "نَّكَثَ",
+      "pos": "V",
+      "ayah_id": "7:135",
+      "ayah_arabic": "فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلرِّجۡزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمۡ يَنكُثُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "broke (the word)",
+      "translations": {
+        "saheeh": "But when We removed the punishment from them until a term which they were to reach, then at once they broke their word.",
+        "pickthall": "But when We did remove from them the terror for a term which they must reach, behold! they broke their covenant.",
+        "khattab": "But as soon as We removed the torment from them—until they met their inevitable fate—they broke their promise",
+        "arberry": "But when We removed from them the wrath unto a term that they should come to, lo, they broke their troth."
+      }
+    },
+    {
+      "location": [
+        9,
+        12,
+        2
+      ],
+      "form_arabic": "نَّكَثُو^ا@",
+      "lemma": "n~akava",
+      "lemma_arabic": "نَّكَثَ",
+      "pos": "V",
+      "ayah_id": "9:12",
+      "ayah_arabic": "وَإِن نَّكَثُوٓاْ أَيۡمَٰنَهُم مِّنۢ بَعۡدِ عَهۡدِهِمۡ وَطَعَنُواْ فِي دِينِكُمۡ فَقَٰتِلُوٓاْ أَئِمَّةَ ٱلۡكُفۡرِ إِنَّهُمۡ لَآ أَيۡمَٰنَ لَهُمۡ لَعَلَّهُمۡ يَنتَهُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "they break",
+      "translations": {
+        "saheeh": "And if they break their oaths after their treaty and defame your religion, then fight the leaders of disbelief, for indeed, there are no oaths [sacred] to them; [fight them that] they might cease.",
+        "pickthall": "And if they break their pledges after their treaty (hath been made with you) and assail your religion, then fight the heads of disbelief - Lo! they have no binding oaths - in order that they may desist.",
+        "khattab": "But if they break their oaths after making a pledge and attack your faith, then fight the champions of disbelief—who never honour their oaths—so perhaps they will desist",
+        "arberry": "But if they break their oaths after their covenant and thrust at your religion, then fight the leaders of unbelief; they have no sacred oaths; haply they will give over."
+      }
+    },
+    {
+      "location": [
+        9,
+        13,
+        4
+      ],
+      "form_arabic": "نَّكَثُو^ا@",
+      "lemma": "n~akava",
+      "lemma_arabic": "نَّكَثَ",
+      "pos": "V",
+      "ayah_id": "9:13",
+      "ayah_arabic": "أَلَا تُقَٰتِلُونَ قَوۡمࣰ ا نَّكَثُوٓاْ أَيۡمَٰنَهُمۡ وَهَمُّواْ بِإِخۡرَاجِ ٱلرَّسُولِ وَهُم بَدَءُوكُمۡ أَوَّلَ مَرَّةٍۚ أَتَخۡشَوۡنَهُمۡۚ فَٱللَّهُ أَحَقُّ أَن تَخۡشَوۡهُ إِن كُنتُم مُّؤۡمِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "who broke",
+      "translations": {
+        "saheeh": "Would you not fight a people who broke their oaths and determined to expel the Messenger, and they had begun [the attack upon] you the first time? Do you fear them? But Allah has more right that you should fear Him, if you are [truly] believers.",
+        "pickthall": "Will ye not fight a folk who broke their solemn pledges, and purposed to drive out the messenger and did attack you first? What! Fear ye them? Now Allah hath more right that ye should fear Him, if ye are believers",
+        "khattab": "Will you not fight those who have broken their oaths, conspired to expel the Messenger ˹from Mecca˺, and attacked you first? Do you fear them? Allah is more deserving of your fear, if you are ˹true˺ believers",
+        "arberry": "Will you not fight a people who broke their oaths and purposed to expel the Messenger, beginning the first time against you? Are you afraid of them? You would do better to be afraid of God, if you are believers."
+      }
+    },
+    {
+      "location": [
+        16,
+        92,
+        9
+      ],
+      "form_arabic": "أَنكَٰثًا",
+      "lemma": ">anka`v",
+      "lemma_arabic": "أَنكَٰث",
+      "pos": "N",
+      "ayah_id": "16:92",
+      "ayah_arabic": "وَلَا تَكُونُواْ كَٱلَّتِي نَقَضَتۡ غَزۡلَهَا مِنۢ بَعۡدِ قُوَّةٍ أَنكَٰثࣰ ا تَتَّخِذُونَ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ أَن تَكُونَ أُمَّةٌ هِيَ أَرۡبَىٰ مِنۡ أُمَّةٍۚ إِنَّمَا يَبۡلُوكُمُ ٱللَّهُ بِهِۦۚ وَلَيُبَيِّنَنَّ لَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ مَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Nahl",
+      "literal_gloss": "(into) untwisted strands",
+      "translations": {
+        "saheeh": "And do not be like she who untwisted her spun thread after it was strong [by] taking your oaths as [means of] deceit between you because one community is more plentiful [in number or wealth] than another community. Allah only tries you thereby. And He will surely make clear to you on the Day of Resurrection that over which you used to differ.",
+        "pickthall": "And be not like unto her who unravelleth the thread, after she hath made it strong, to thin filaments, making your oaths a deceit between you because of a nation being more numerous than (another) nation. Allah only trieth you thereby, and He verily will explain to you on the Day of Resurrection that wherein ye differed.",
+        "khattab": "Do not be like the woman who ˹foolishly˺ unravels her yarn after it is firmly spun, by taking your oaths as a means of deceiving one another in favour of a stronger group. Surely Allah tests you through this. And on the Day of Judgment He will certainly make your differences clear to you",
+        "arberry": "And be not as a woman who breaks her thread, after it is firmly spun, into fibres, by taking your oaths as mere mutual deceit, one nation being more numerous than another nation. God only tries you thereby; and certainly He will make clear to you upon the Day of Resurrection that whereon you were at variance."
+      }
+    },
+    {
+      "location": [
+        43,
+        50,
+        7
+      ],
+      "form_arabic": "يَنكُثُونَ",
+      "lemma": "n~akava",
+      "lemma_arabic": "نَّكَثَ",
+      "pos": "V",
+      "ayah_id": "43:50",
+      "ayah_arabic": "فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِذَا هُمۡ يَنكُثُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zukhruf",
+      "literal_gloss": "broke (their word)",
+      "translations": {
+        "saheeh": "But when We removed from them the affliction, at once they broke their word.",
+        "pickthall": "But when We eased them of the torment, behold! they broke their word.",
+        "khattab": "But as soon as We removed the torments from them, they broke their promise",
+        "arberry": "But when We removed from them the chastisement, behold, they broke their troth."
+      }
+    },
+    {
+      "location": [
+        48,
+        10,
+        12
+      ],
+      "form_arabic": "نَّكَثَ",
+      "lemma": "n~akava",
+      "lemma_arabic": "نَّكَثَ",
+      "pos": "V",
+      "ayah_id": "48:10",
+      "ayah_arabic": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوۡقَ أَيۡدِيهِمۡۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفۡسِهِۦۖ وَمَنۡ أَوۡفَىٰ بِمَا عَٰهَدَ عَلَيۡهُ ٱللَّهَ فَسَيُؤۡتِيهِ أَجۡرًا عَظِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Fath",
+      "literal_gloss": "breaks (his oath)",
+      "translations": {
+        "saheeh": "Indeed, those who pledge allegiance to you, [O Muhammad] - they are actually pledging allegiance to Allah. The hand of Allah is over their hands. So he who breaks his word only breaks it to the detriment of himself. And he who fulfills that which he has promised Allah - He will give him a great reward.",
+        "pickthall": "Lo! those who swear allegiance unto thee (Muhammad), swear allegiance only unto Allah. The Hand of Allah is above their hands. So whosoever breaketh his oath, breaketh it only to his soul's hurt; while whosoever keepeth his covenant with Allah, on him will He bestow immense reward.",
+        "khattab": "Surely those who pledge allegiance to you ˹O Prophet˺ are actually pledging allegiance to Allah. Allah’s Hand is over theirs. Whoever breaks their pledge, it will only be to their own loss. And whoever fulfils their pledge to Allah, He will grant them a great reward",
+        "arberry": "Those who swear fealty to thee swear fealty in truth to God; God's hand is over their hands. Then whosoever breaks his oath breaks it but to his own hurt; and whoso fulfils his covenant made with God, God will give him a mighty wage."
+      }
+    },
+    {
+      "location": [
+        48,
+        10,
+        14
+      ],
+      "form_arabic": "يَنكُثُ",
+      "lemma": "n~akava",
+      "lemma_arabic": "نَّكَثَ",
+      "pos": "V",
+      "ayah_id": "48:10",
+      "ayah_arabic": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوۡقَ أَيۡدِيهِمۡۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفۡسِهِۦۖ وَمَنۡ أَوۡفَىٰ بِمَا عَٰهَدَ عَلَيۡهُ ٱللَّهَ فَسَيُؤۡتِيهِ أَجۡرًا عَظِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Fath",
+      "literal_gloss": "he breaks",
+      "translations": {
+        "saheeh": "Indeed, those who pledge allegiance to you, [O Muhammad] - they are actually pledging allegiance to Allah. The hand of Allah is over their hands. So he who breaks his word only breaks it to the detriment of himself. And he who fulfills that which he has promised Allah - He will give him a great reward.",
+        "pickthall": "Lo! those who swear allegiance unto thee (Muhammad), swear allegiance only unto Allah. The Hand of Allah is above their hands. So whosoever breaketh his oath, breaketh it only to his soul's hurt; while whosoever keepeth his covenant with Allah, on him will He bestow immense reward.",
+        "khattab": "Surely those who pledge allegiance to you ˹O Prophet˺ are actually pledging allegiance to Allah. Allah’s Hand is over theirs. Whoever breaks their pledge, it will only be to their own loss. And whoever fulfils their pledge to Allah, He will grant them a great reward",
+        "arberry": "Those who swear fealty to thee swear fealty in truth to God; God's hand is over their hands. Then whosoever breaks his oath breaks it but to his own hurt; and whoso fulfils his covenant made with God, God will give him a mighty wage."
+      }
+    }
+  ]
+}

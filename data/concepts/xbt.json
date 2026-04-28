@@ -1,0 +1,435 @@
+{
+  "root": "xbt",
+  "root_arabic": "خبت",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 2,
+    "ayahs": 3,
+    "surahs": 2,
+    "pos_distribution": {
+      "V": 2,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">axobatu",
+      "lemma_arabic": "أَخْبَتُ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        11,
+        23,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            23,
+            6
+          ],
+          "form_arabic": "وَأَخْبَتُو^ا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            22,
+            54,
+            11
+          ],
+          "form_arabic": "فَتُخْبِتَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "muxobitiyn",
+      "lemma_arabic": "مُخْبِتِين",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        22,
+        34,
+        20
+      ],
+      "occurrences": [
+        {
+          "location": [
+            22,
+            34,
+            20
+          ],
+          "form_arabic": "ٱلْمُخْبِتِينَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        11,
+        23
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        11,
+        23
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        23
+      ]
+    },
+    {
+      "root": "xld",
+      "root_arabic": "خلد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        23
+      ]
+    },
+    {
+      "root": "SHb",
+      "root_arabic": "صحب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        23
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        23
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        23
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        54
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        54
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        54
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        54
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        54
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        54
+      ]
+    },
+    {
+      "root": "SrT",
+      "root_arabic": "صرط",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        54
+      ]
+    },
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "b$r",
+      "root_arabic": "بشر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "nsk",
+      "root_arabic": "نسك",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "bhm",
+      "root_arabic": "بهم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        34
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 1,
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        11,
+        23,
+        6
+      ],
+      "form_arabic": "وَأَخْبَتُو^ا@",
+      "lemma": ">axobatu",
+      "lemma_arabic": "أَخْبَتُ",
+      "pos": "V",
+      "ayah_id": "11:23",
+      "ayah_arabic": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَخۡبَتُوٓاْ إِلَىٰ رَبِّهِمۡ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "and humble themselves",
+      "translations": {
+        "saheeh": "Indeed, they who have believed and done righteous deeds and humbled themselves to their Lord - those are the companions of Paradise; they will abide eternally therein.",
+        "pickthall": "Lo! those who believe and do good works and humble themselves before their Lord: such are rightful owners of the Garden; they will abide therein.",
+        "khattab": "Surely those who believe, do good, and humble themselves before their Lord will be the residents of Paradise. They will be there forever",
+        "arberry": "But those who believe, and do righteous deeds, and have humbled themselves unto their Lord -- they shall be the inhabitants of Paradise, therein dwelling forever."
+      }
+    },
+    {
+      "location": [
+        22,
+        34,
+        20
+      ],
+      "form_arabic": "ٱلْمُخْبِتِينَ",
+      "lemma": "muxobitiyn",
+      "lemma_arabic": "مُخْبِتِين",
+      "pos": "N",
+      "ayah_id": "22:34",
+      "ayah_arabic": "وَلِكُلِّ أُمَّةࣲ جَعَلۡنَا مَنسَكࣰ ا لِّيَذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلۡأَنۡعَٰمِۗ فَإِلَٰهُكُمۡ إِلَٰهࣱ وَٰحِدࣱ فَلَهُۥٓ أَسۡلِمُواْۗ وَبَشِّرِ ٱلۡمُخۡبِتِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "(to) the humble ones",
+      "translations": {
+        "saheeh": "And for all religion We have appointed a rite [of sacrifice] that they may mention the name of Allah over what He has provided for them of [sacrificial] animals. For your god is one God, so to Him submit. And, [O Muhammad], give good tidings to the humble [before their Lord]",
+        "pickthall": "And for every nation have We appointed a ritual, that they may mention the name of Allah over the beast of cattle that He hath given them for food; and your god is One God, therefor surrender unto Him. And give good tidings (O Muhammad) to the humble,",
+        "khattab": "For every community We appointed a rite of sacrifice so that they may pronounce the Name of Allah over the sacrificial animals He has provided for them. For your God is only One God, so submit yourselves to Him ˹alone˺. And give good news ˹O Prophet˺ to the humble",
+        "arberry": "We have appointed for every nation a holy rite, that they may mention God's Name over such beasts of the flocks as He has provided them. Your God is One God, so to Him surrender. And give thou good tidings unto the humble"
+      }
+    },
+    {
+      "location": [
+        22,
+        54,
+        11
+      ],
+      "form_arabic": "فَتُخْبِتَ",
+      "lemma": ">axobatu",
+      "lemma_arabic": "أَخْبَتُ",
+      "pos": "V",
+      "ayah_id": "22:54",
+      "ayah_arabic": "وَلِيَعۡلَمَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ فَيُؤۡمِنُواْ بِهِۦ فَتُخۡبِتَ لَهُۥ قُلُوبُهُمۡۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ ءَامَنُوٓاْ إِلَىٰ صِرَٰطࣲ مُّسۡتَقِيمࣲ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "and may humbly submit",
+      "translations": {
+        "saheeh": "And so those who were given knowledge may know that it is the truth from your Lord and [therefore] believe in it, and their hearts humbly submit to it. And indeed is Allah the Guide of those who have believed to a straight path.",
+        "pickthall": "And that those who have been given knowledge may know that it is the truth from thy Lord, so that they may believe therein and their hearts may submit humbly unto Him. Lo! Allah verily is guiding those who believe unto a right path.",
+        "khattab": "˹This is˺ also so that those gifted with knowledge would know that this ˹revelation˺ is the truth from your Lord, so they have faith in it, and so their hearts would submit humbly to it. And Allah surely guides the believers to the Straight Path",
+        "arberry": "and that they who have been given knowledge may know that it is the truth from thy Lord and believe in it, and so their hearts be humble unto Him; and assuredly God ever guides those who believe to a straight path."
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "root": "xfD",
+  "root_arabic": "خفض",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "V": 3,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "{xofiDo",
+      "lemma_arabic": "ٱخْفِضْ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        15,
+        88,
+        13
+      ],
+      "occurrences": [
+        {
+          "location": [
+            15,
+            88,
+            13
+          ],
+          "form_arabic": "وَٱخْفِضْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            17,
+            24,
+            1
+          ],
+          "form_arabic": "وَٱخْفِضْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            26,
+            215,
+            1
+          ],
+          "form_arabic": "وَٱخْفِضْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "xaAfiDap",
+      "lemma_arabic": "خَافِضَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        56,
+        3,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            56,
+            3,
+            1
+          ],
+          "form_arabic": "خَافِضَةٌ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        15,
+        88
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        15,
+        88
+      ]
+    },
+    {
+      "root": "rbw",
+      "root_arabic": "ربو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        24
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        24
+      ]
+    },
+    {
+      "root": "Sgr",
+      "root_arabic": "صغر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        24
+      ]
+    },
+    {
+      "root": "*ll",
+      "root_arabic": "ذلل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        24
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        24
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        24
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        26,
+        215
+      ]
+    },
+    {
+      "root": "rfE",
+      "root_arabic": "رفع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        56,
+        3
+      ]
+    },
+    {
+      "root": "mdd",
+      "root_arabic": "مدد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        15,
+        88
+      ]
+    },
+    {
+      "root": "Eyn",
+      "root_arabic": "عين",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        15,
+        88
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        15,
+        88
+      ]
+    },
+    {
+      "root": "Hzn",
+      "root_arabic": "حزن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        15,
+        88
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        15,
+        88
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 15,
+        "name_english": "Al-Hijr",
+        "name_arabic": "سُورَةُ الحِجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 26,
+        "name_english": "Ash-Shu'araa",
+        "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        15,
+        88,
+        13
+      ],
+      "form_arabic": "وَٱخْفِضْ",
+      "lemma": "{xofiDo",
+      "lemma_arabic": "ٱخْفِضْ",
+      "pos": "V",
+      "ayah_id": "15:88",
+      "ayah_arabic": "لَا تَمُدَّنَّ عَيۡنَيۡكَ إِلَىٰ مَا مَتَّعۡنَا بِهِۦٓ أَزۡوَٰجࣰ ا مِّنۡهُمۡ وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَٱخۡفِضۡ جَنَاحَكَ لِلۡمُؤۡمِنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Hijr",
+      "literal_gloss": "And lower",
+      "translations": {
+        "saheeh": "Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of the disbelievers, and do not grieve over them. And lower your wing to the believers",
+        "pickthall": "Strain not thine eyes toward that which We cause some wedded pairs among them to enjoin, and be not grieved on their account, and lower thy wing (in tenderness) for the believers.",
+        "khattab": "Do not let your eyes crave the ˹fleeting˺ pleasures We have provided for some of the disbelievers, nor grieve for them. And be gracious to the believers",
+        "arberry": "Stretch not thine eyes to that We have given pairs of them to enjoy; and do not sorrow for them, and lower thy wing unto the believers,"
+      }
+    },
+    {
+      "location": [
+        17,
+        24,
+        1
+      ],
+      "form_arabic": "وَٱخْفِضْ",
+      "lemma": "{xofiDo",
+      "lemma_arabic": "ٱخْفِضْ",
+      "pos": "V",
+      "ayah_id": "17:24",
+      "ayah_arabic": "وَٱخۡفِضۡ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحۡمَةِ وَقُل رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِي صَغِيرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "And lower",
+      "translations": {
+        "saheeh": "And lower to them the wing of humility out of mercy and say, \"My Lord, have mercy upon them as they brought me up [when I was] small.\"",
+        "pickthall": "And lower unto them the wing of submission through mercy, and say: My Lord! Have mercy on them both as they did care for me when I was little.",
+        "khattab": "And be humble with them out of mercy, and pray, “My Lord! Be merciful to them as they raised me when I was young.”",
+        "arberry": "and lower to them the wing of humbleness out of mercy and say; 'My Lord, have mercy upon them, as they raised me up when I was little.'"
+      }
+    },
+    {
+      "location": [
+        26,
+        215,
+        1
+      ],
+      "form_arabic": "وَٱخْفِضْ",
+      "lemma": "{xofiDo",
+      "lemma_arabic": "ٱخْفِضْ",
+      "pos": "V",
+      "ayah_id": "26:215",
+      "ayah_arabic": "وَٱخۡفِضۡ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "And lower",
+      "translations": {
+        "saheeh": "And lower your wing to those who follow you of the believers.",
+        "pickthall": "And lower thy wing (in kindness) unto those believers who follow thee.",
+        "khattab": "and be gracious to the believers who follow you",
+        "arberry": "Lower thy wing to those who follow thee, being believers;"
+      }
+    },
+    {
+      "location": [
+        56,
+        3,
+        1
+      ],
+      "form_arabic": "خَافِضَةٌ",
+      "lemma": "xaAfiDap",
+      "lemma_arabic": "خَافِضَة",
+      "pos": "N",
+      "ayah_id": "56:3",
+      "ayah_arabic": "خَافِضَةࣱ رَّافِعَةٌ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "Bringing down",
+      "translations": {
+        "saheeh": "It will bring down [some] and raise up [others].",
+        "pickthall": "Abasing (some), exalting (others);",
+        "khattab": "It will debase ˹some˺ and elevate ˹others˺",
+        "arberry": "abasing, exalting,"
+      }
+    }
+  ]
+}

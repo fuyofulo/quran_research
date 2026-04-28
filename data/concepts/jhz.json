@@ -1,0 +1,338 @@
+{
+  "root": "jhz",
+  "root_arabic": "جهز",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 2,
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "jah~aza",
+      "lemma_arabic": "جَهَّزَ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        12,
+        59,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            59,
+            2
+          ],
+          "form_arabic": "جَهَّزَهُم",
+          "pos": "V"
+        },
+        {
+          "location": [
+            12,
+            70,
+            2
+          ],
+          "form_arabic": "جَهَّزَهُم",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "jahaAz",
+      "lemma_arabic": "جَهَاز",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        12,
+        59,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            59,
+            3
+          ],
+          "form_arabic": "بِجَهَازِهِمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            70,
+            3
+          ],
+          "form_arabic": "بِجَهَازِهِمْ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "sqy",
+      "root_arabic": "سقي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "rHl",
+      "root_arabic": "رحل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "srq",
+      "root_arabic": "سرق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "Eyr",
+      "root_arabic": "عير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "kyl",
+      "root_arabic": "كيل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        12,
+        59
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 4
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        12,
+        59,
+        2
+      ],
+      "form_arabic": "جَهَّزَهُم",
+      "lemma": "jah~aza",
+      "lemma_arabic": "جَهَّزَ",
+      "pos": "V",
+      "ayah_id": "12:59",
+      "ayah_arabic": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ قَالَ ٱئۡتُونِي بِأَخࣲ لَّكُم مِّنۡ أَبِيكُمۡۚ أَلَا تَرَوۡنَ أَنِّيٓ أُوفِي ٱلۡكَيۡلَ وَأَنَا۠ خَيۡرُ ٱلۡمُنزِلِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "he had furnished them",
+      "translations": {
+        "saheeh": "And when he had furnished them with their supplies, he said, \"Bring me a brother of yours from your father. Do not you see that I give full measure and that I am the best of accommodators?",
+        "pickthall": "And when he provided them with their provision he said: Bring unto me a brother of yours from your father. See ye not that I fill up the measure and I am the best of hosts?",
+        "khattab": "When he had provided them with their supplies, he demanded, “Bring me your brother on your father’s side. Do you not see that I give full measure and I am the best of hosts",
+        "arberry": "When he had equipped them with their equipment be said, 'Bring me a certain brother of yours from your father. Do you not see that I fill up the measure, and am the best of hosts?"
+      }
+    },
+    {
+      "location": [
+        12,
+        59,
+        3
+      ],
+      "form_arabic": "بِجَهَازِهِمْ",
+      "lemma": "jahaAz",
+      "lemma_arabic": "جَهَاز",
+      "pos": "N",
+      "ayah_id": "12:59",
+      "ayah_arabic": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ قَالَ ٱئۡتُونِي بِأَخࣲ لَّكُم مِّنۡ أَبِيكُمۡۚ أَلَا تَرَوۡنَ أَنِّيٓ أُوفِي ٱلۡكَيۡلَ وَأَنَا۠ خَيۡرُ ٱلۡمُنزِلِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "with their supplies",
+      "translations": {
+        "saheeh": "And when he had furnished them with their supplies, he said, \"Bring me a brother of yours from your father. Do not you see that I give full measure and that I am the best of accommodators?",
+        "pickthall": "And when he provided them with their provision he said: Bring unto me a brother of yours from your father. See ye not that I fill up the measure and I am the best of hosts?",
+        "khattab": "When he had provided them with their supplies, he demanded, “Bring me your brother on your father’s side. Do you not see that I give full measure and I am the best of hosts",
+        "arberry": "When he had equipped them with their equipment be said, 'Bring me a certain brother of yours from your father. Do you not see that I fill up the measure, and am the best of hosts?"
+      }
+    },
+    {
+      "location": [
+        12,
+        70,
+        2
+      ],
+      "form_arabic": "جَهَّزَهُم",
+      "lemma": "jah~aza",
+      "lemma_arabic": "جَهَّزَ",
+      "pos": "V",
+      "ayah_id": "12:70",
+      "ayah_arabic": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ جَعَلَ ٱلسِّقَايَةَ فِي رَحۡلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلۡعِيرُ إِنَّكُمۡ لَسَٰرِقُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "he had furnished them",
+      "translations": {
+        "saheeh": "So when he had furnished them with their supplies, he put the [gold measuring] bowl into the bag of his brother. Then an announcer called out, \"O caravan, indeed you are thieves.\"",
+        "pickthall": "And when he provided them with their provision, he put the drinking-cup in his brother's saddlebag, and then a crier cried: O camel-riders! Lo! ye are surely thieves!",
+        "khattab": "When Joseph had provided them with supplies, he slipped the royal cup into his brother’s bag. Then a herald cried, “O people of the caravan! You must be thieves!”",
+        "arberry": "Then, when he had equipped them with their equipment, he put his drinking-cup into the saddlebag of his brother. Then a herald proclaimed, 'Ho, cameleers, you are robbers!'"
+      }
+    },
+    {
+      "location": [
+        12,
+        70,
+        3
+      ],
+      "form_arabic": "بِجَهَازِهِمْ",
+      "lemma": "jahaAz",
+      "lemma_arabic": "جَهَاز",
+      "pos": "N",
+      "ayah_id": "12:70",
+      "ayah_arabic": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ جَعَلَ ٱلسِّقَايَةَ فِي رَحۡلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلۡعِيرُ إِنَّكُمۡ لَسَٰرِقُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "with their supplies",
+      "translations": {
+        "saheeh": "So when he had furnished them with their supplies, he put the [gold measuring] bowl into the bag of his brother. Then an announcer called out, \"O caravan, indeed you are thieves.\"",
+        "pickthall": "And when he provided them with their provision, he put the drinking-cup in his brother's saddlebag, and then a crier cried: O camel-riders! Lo! ye are surely thieves!",
+        "khattab": "When Joseph had provided them with supplies, he slipped the royal cup into his brother’s bag. Then a herald cried, “O people of the caravan! You must be thieves!”",
+        "arberry": "Then, when he had equipped them with their equipment, he put his drinking-cup into the saddlebag of his brother. Then a herald proclaimed, 'Ho, cameleers, you are robbers!'"
+      }
+    }
+  ]
+}

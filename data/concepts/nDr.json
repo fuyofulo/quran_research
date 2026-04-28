@@ -1,0 +1,261 @@
+{
+  "root": "nDr",
+  "root_arabic": "نضر",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 2,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "naDorap",
+      "lemma_arabic": "نَضْرَة",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        76,
+        11,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            76,
+            11,
+            7
+          ],
+          "form_arabic": "نَضْرَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            83,
+            24,
+            4
+          ],
+          "form_arabic": "نَضْرَةَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "n~aADirap",
+      "lemma_arabic": "نَّاضِرَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        75,
+        22,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            75,
+            22,
+            3
+          ],
+          "form_arabic": "نَّاضِرَةٌ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        75,
+        22
+      ]
+    },
+    {
+      "root": "$rr",
+      "root_arabic": "شرر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        76,
+        11
+      ]
+    },
+    {
+      "root": "srr",
+      "root_arabic": "سرر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        76,
+        11
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        76,
+        11
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        76,
+        11
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        76,
+        11
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        76,
+        11
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        83,
+        24
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        83,
+        24
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 75,
+        "name_english": "Al-Qiyaama",
+        "name_arabic": "سُورَةُ القِيَامَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 76,
+        "name_english": "Al-Insaan",
+        "name_arabic": "سُورَةُ الإِنسَانِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 83,
+        "name_english": "Al-Mutaffifin",
+        "name_arabic": "سُورَةُ المُطَفِّفِينَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        75,
+        22,
+        3
+      ],
+      "form_arabic": "نَّاضِرَةٌ",
+      "lemma": "n~aADirap",
+      "lemma_arabic": "نَّاضِرَة",
+      "pos": "N",
+      "ayah_id": "75:22",
+      "ayah_arabic": "وُجُوهࣱ يَوۡمَئِذࣲ نَّاضِرَةٌ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qiyaama",
+      "literal_gloss": "(will be) radiant",
+      "translations": {
+        "saheeh": "[Some] faces, that Day, will be radiant,",
+        "pickthall": "That day will faces be resplendent,",
+        "khattab": "On that Day ˹some˺ faces will be bright",
+        "arberry": "Upon that day faces shall be radiant,"
+      }
+    },
+    {
+      "location": [
+        76,
+        11,
+        7
+      ],
+      "form_arabic": "نَضْرَةً",
+      "lemma": "naDorap",
+      "lemma_arabic": "نَضْرَة",
+      "pos": "N",
+      "ayah_id": "76:11",
+      "ayah_arabic": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلۡيَوۡمِ وَلَقَّىٰهُمۡ نَضۡرَةࣰ وَسُرُورࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Insaan",
+      "literal_gloss": "radiance",
+      "translations": {
+        "saheeh": "So Allah will protect them from the evil of that Day and give them radiance and happiness",
+        "pickthall": "Therefor Allah hath warded off from them the evil of that day, and hath made them find brightness and joy;",
+        "khattab": "So Allah will deliver them from the horror of that Day, and grant them radiance and joy",
+        "arberry": "So God has guarded them from the evil of that day, and has procured them radiancy and gladness,"
+      }
+    },
+    {
+      "location": [
+        83,
+        24,
+        4
+      ],
+      "form_arabic": "نَضْرَةَ",
+      "lemma": "naDorap",
+      "lemma_arabic": "نَضْرَة",
+      "pos": "N",
+      "ayah_id": "83:24",
+      "ayah_arabic": "تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mutaffifin",
+      "literal_gloss": "(the) radiance",
+      "translations": {
+        "saheeh": "You will recognize in their faces the radiance of pleasure.",
+        "pickthall": "Thou wilt know in their faces the radiance of delight.",
+        "khattab": "You will recognize on their faces the glow of delight",
+        "arberry": "thou knowest in their faces the radiancy of bliss"
+      }
+    }
+  ]
+}

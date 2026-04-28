@@ -1,0 +1,492 @@
+{
+  "root": "Err",
+  "root_arabic": "عرر",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "muEotar~",
+      "lemma_arabic": "مُعْتَرّ",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        22,
+        36,
+        22
+      ],
+      "occurrences": [
+        {
+          "location": [
+            22,
+            36,
+            22
+          ],
+          "form_arabic": "وَٱلْمُعْتَرَّ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "m~aEar~ap",
+      "lemma_arabic": "مَّعَرَّة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        48,
+        25,
+        24
+      ],
+      "occurrences": [
+        {
+          "location": [
+            48,
+            25,
+            24
+          ],
+          "form_arabic": "مَّعَرَّةٌ[",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "TEm",
+      "root_arabic": "طعم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "$Er",
+      "root_arabic": "شعر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "Sff",
+      "root_arabic": "صفف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "jnb",
+      "root_arabic": "جنب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "sxr",
+      "root_arabic": "سخر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "qnE",
+      "root_arabic": "قنع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "wjb",
+      "root_arabic": "وجب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "bdn",
+      "root_arabic": "بدن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        22,
+        36
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "zyl",
+      "root_arabic": "زيل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "wTA",
+      "root_arabic": "وطا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "Ekf",
+      "root_arabic": "عكف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "Alm",
+      "root_arabic": "الم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    },
+    {
+      "root": "Sdd",
+      "root_arabic": "صدد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        48,
+        25
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 48,
+        "name_english": "Al-Fath",
+        "name_arabic": "سُورَةُ الفَتۡحِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        22,
+        36,
+        22
+      ],
+      "form_arabic": "وَٱلْمُعْتَرَّ",
+      "lemma": "muEotar~",
+      "lemma_arabic": "مُعْتَرّ",
+      "pos": "N",
+      "ayah_id": "22:36",
+      "ayah_arabic": "وَٱلۡبُدۡنَ جَعَلۡنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمۡ فِيهَا خَيۡرࣱۖ فَٱذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَيۡهَا صَوَآفَّۖ فَإِذَا وَجَبَتۡ جُنُوبُهَا فَكُلُواْ مِنۡهَا وَأَطۡعِمُواْ ٱلۡقَانِعَ وَٱلۡمُعۡتَرَّۚ كَذَٰلِكَ سَخَّرۡنَٰهَا لَكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "and the needy who ask",
+      "translations": {
+        "saheeh": "And the camels and cattle We have appointed for you as among the symbols of Allah; for you therein is good. So mention the name of Allah upon them when lined up [for sacrifice]; and when they are [lifeless] on their sides, then eat from them and feed the needy and the beggar. Thus have We subjected them to you that you may be grateful.",
+        "pickthall": "And the camels! We have appointed them among the ceremonies of Allah. Therein ye have much good. So mention the name of Allah over them when they are drawn up in lines. Then when their flanks fall (dead), eat thereof and feed the beggar and the suppliant. Thus have We made them subject unto you, that haply ye may give thanks.",
+        "khattab": "We have made sacrificial camels ˹and cattle˺ among the symbols of Allah, in which there is ˹much˺ good for you. So pronounce the Name of Allah over them when they are lined up ˹for sacrifice˺. Once they have fallen ˹lifeless˺ on their sides, you may eat from their meat, and feed the needy—those who do not beg, and those who do. In this way We have subjected these ˹animals˺ to you so that you may be grateful",
+        "arberry": "And the beasts of sacrifice -- We have appointed them for you as among God's waymarks; therein is good for you. So mention God's Name over them, standing in ranks then, when their flanks collapse, eat of them and feed the beggar and the suppliant. So We have subjected them to you; haply you will be thankful."
+      }
+    },
+    {
+      "location": [
+        48,
+        25,
+        24
+      ],
+      "form_arabic": "مَّعَرَّةٌ[",
+      "lemma": "m~aEar~ap",
+      "lemma_arabic": "مَّعَرَّة",
+      "pos": "N",
+      "ayah_id": "48:25",
+      "ayah_arabic": "هُمُ ٱلَّذِينَ كَفَرُواْ وَصَدُّوكُمۡ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَٱلۡهَدۡيَ مَعۡكُوفًا أَن يَبۡلُغَ مَحِلَّهُۥۚ وَلَوۡلَا رِجَالࣱ مُّؤۡمِنُونَ وَنِسَآءࣱ مُّؤۡمِنَٰتࣱ لَّمۡ تَعۡلَمُوهُمۡ أَن تَطَـُٔوهُمۡ فَتُصِيبَكُم مِّنۡهُم مَّعَرَّةُۢ بِغَيۡرِ عِلۡمࣲۖ لِّيُدۡخِلَ ٱللَّهُ فِي رَحۡمَتِهِۦ مَن يَشَآءُۚ لَوۡ تَزَيَّلُواْ لَعَذَّبۡنَا ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابًا أَلِيمًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Fath",
+      "literal_gloss": "any harm",
+      "translations": {
+        "saheeh": "They are the ones who disbelieved and obstructed you from al-Masjid al-Haram while the offering was prevented from reaching its place of sacrifice. And if not for believing men and believing women whom you did not know - that you might trample them and there would befall you because of them dishonor without [your] knowledge - [you would have been permitted to enter Makkah]. [This was so] that Allah might admit to His mercy whom He willed. If they had been apart [from them], We would have punished those who disbelieved among them with painful punishment",
+        "pickthall": "These it was who disbelieved and debarred you from the Inviolable Place of Worship, and debarred the offering from reaching its goal. And if it had not been for believing men and believing women, whom ye know not - lest ye should tread them under foot and thus incur guilt for them unknowingly; that Allah might bring into His mercy whom He will - If (the believers and the disbelievers) had been clearly separated We verily had punished those of them who disbelieved with painful punishment.",
+        "khattab": "They are the ones who persisted in disbelief and hindered you from the Sacred Mosque, preventing the sacrificial animals from reaching their destination. ˹We would have let you march through Mecca,˺ had there not been believing men and women, unknown to you. You might have trampled them underfoot, incurring guilt for ˹what you did to˺ them unknowingly. That was so Allah may admit into His mercy whoever He wills. Had those ˹unknown˺ believers stood apart, We would have certainly inflicted a painful punishment on the disbelievers",
+        "arberry": "They are the ones who disbelieved, and barred you from the Holy Mosque and the offering, detained so as not to reach its place of sacrifice. If it had not been for certain men believers and certain women believers whom you knew not, lest you should trample them, and there befall you guilt unwittingly on their account (that God may admit into His mercy whom He will), had they been separated clearly, then We would have chastised the unbelievers among them with a painful chastisement."
+      }
+    }
+  ]
+}

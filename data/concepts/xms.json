@@ -1,0 +1,1034 @@
+{
+  "root": "xms",
+  "root_arabic": "خمس",
+  "stats": {
+    "occurrences": 8,
+    "lemmas": 4,
+    "ayahs": 8,
+    "surahs": 7,
+    "pos_distribution": {
+      "N": 8
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "xamosap",
+      "lemma_arabic": "خَمْسَة",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        3,
+        125,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            125,
+            11
+          ],
+          "form_arabic": "بِخَمْسَةِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            18,
+            22,
+            6
+          ],
+          "form_arabic": "خَمْسَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            58,
+            7,
+            21
+          ],
+          "form_arabic": "خَمْسَةٍ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "xa`misap",
+      "lemma_arabic": "خَٰمِسَة",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        24,
+        7,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            24,
+            7,
+            1
+          ],
+          "form_arabic": "وَٱلْخَٰمِسَةُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            24,
+            9,
+            1
+          ],
+          "form_arabic": "وَٱلْخَٰمِسَةَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "xamosiyn",
+      "lemma_arabic": "خَمْسِين",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        29,
+        14,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            29,
+            14,
+            11
+          ],
+          "form_arabic": "خَمْسِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            70,
+            4,
+            9
+          ],
+          "form_arabic": "خَمْسِينَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "xumus",
+      "lemma_arabic": "خُمُس",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        8,
+        41,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            8,
+            41,
+            8
+          ],
+          "form_arabic": "خُمُسَهُ,",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 5,
+      "share": 0.625,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 4,
+      "share": 0.5,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "Alf",
+      "root_arabic": "الف",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        29,
+        14
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "snw",
+      "root_arabic": "سنو",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        29,
+        14
+      ]
+    },
+    {
+      "root": "rbE",
+      "root_arabic": "ربع",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "sds",
+      "root_arabic": "سدس",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "mlk",
+      "root_arabic": "ملك",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "Ewm",
+      "root_arabic": "عوم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        14
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        14
+      ]
+    },
+    {
+      "root": "lbv",
+      "root_arabic": "لبث",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        14
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        14
+      ]
+    },
+    {
+      "root": "Twf",
+      "root_arabic": "طوف",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        14
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        24,
+        7
+      ]
+    },
+    {
+      "root": "lEn",
+      "root_arabic": "لعن",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        24,
+        7
+      ]
+    },
+    {
+      "root": "njw",
+      "root_arabic": "نجو",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        58,
+        7
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        58,
+        7
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        58,
+        7
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        58,
+        7
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        58,
+        7
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        58,
+        7
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        58,
+        7
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        58,
+        7
+      ]
+    },
+    {
+      "root": "fwr",
+      "root_arabic": "فور",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "swm",
+      "root_arabic": "سوم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "mdd",
+      "root_arabic": "مدد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "Edd",
+      "root_arabic": "عدد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "fty",
+      "root_arabic": "فتي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "klb",
+      "root_arabic": "كلب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "Zhr",
+      "root_arabic": "ظهر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "rjm",
+      "root_arabic": "رجم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "mry",
+      "root_arabic": "مري",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "sbE",
+      "root_arabic": "سبع",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "vmn",
+      "root_arabic": "ثمن",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "gyb",
+      "root_arabic": "غيب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        18,
+        22
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        24,
+        9
+      ]
+    },
+    {
+      "root": "gDb",
+      "root_arabic": "غضب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        24,
+        9
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "skn",
+      "root_arabic": "سكن",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "frq",
+      "root_arabic": "فرق",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "ytm",
+      "root_arabic": "يتم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "gnm",
+      "root_arabic": "غنم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        8,
+        41
+      ]
+    },
+    {
+      "root": "rwH",
+      "root_arabic": "روح",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        70,
+        4
+      ]
+    },
+    {
+      "root": "Erj",
+      "root_arabic": "عرج",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        70,
+        4
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 8,
+        "name_english": "Al-Anfaal",
+        "name_arabic": "سُورَةُ الأَنفَالِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 29,
+        "name_english": "Al-Ankaboot",
+        "name_arabic": "سُورَةُ العَنكَبُوتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 58,
+        "name_english": "Al-Mujaadila",
+        "name_arabic": "سُورَةُ المُجَادلَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 70,
+        "name_english": "Al-Ma'aarij",
+        "name_arabic": "سُورَةُ المَعَارِجِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 5,
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        125,
+        11
+      ],
+      "form_arabic": "بِخَمْسَةِ",
+      "lemma": "xamosap",
+      "lemma_arabic": "خَمْسَة",
+      "pos": "N",
+      "ayah_id": "3:125",
+      "ayah_arabic": "بَلَىٰٓۚ إِن تَصۡبِرُواْ وَتَتَّقُواْ وَيَأۡتُوكُم مِّن فَوۡرِهِمۡ هَٰذَا يُمۡدِدۡكُمۡ رَبُّكُم بِخَمۡسَةِ ءَالَٰفࣲ مِّنَ ٱلۡمَلَٰٓئِكَةِ مُسَوِّمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "with five",
+      "translations": {
+        "saheeh": "Yes, if you remain patient and conscious of Allah and the enemy come upon you [attacking] in rage, your Lord will reinforce you with five thousand angels having marks [of distinction]",
+        "pickthall": "Nay, but if ye persevere, and keep from evil, and (the enemy) attack you suddenly, your Lord will help you with five thousand angels sweeping on.",
+        "khattab": "Most certainly, if you ˹believers˺ are firm and mindful ˹of Allah˺ and the enemy launches a sudden attack on you, Allah will reinforce you with five thousand angels designated ˹for battle˺",
+        "arberry": "Yea; if you are patient and godfearing, and the foe come against you instantly, your Lord will reinforce you with five thousand swooping angels.'"
+      }
+    },
+    {
+      "location": [
+        8,
+        41,
+        8
+      ],
+      "form_arabic": "خُمُسَهُ,",
+      "lemma": "xumus",
+      "lemma_arabic": "خُمُس",
+      "pos": "N",
+      "ayah_id": "8:41",
+      "ayah_arabic": "۞وَٱعۡلَمُوٓاْ أَنَّمَا غَنِمۡتُم مِّن شَيۡءࣲ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلۡنَا عَلَىٰ عَبۡدِنَا يَوۡمَ ٱلۡفُرۡقَانِ يَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "(is) one fifth of it",
+      "translations": {
+        "saheeh": "And know that anything you obtain of war booty - then indeed, for Allah is one fifth of it and for the Messenger and for [his] near relatives and the orphans, the needy, and the [stranded] traveler, if you have believed in Allah and in that which We sent down to Our Servant on the day of criterion - the day when the two armies met. And Allah, over all things, is competent.",
+        "pickthall": "And know that whatever ye take as spoils of war, lo! a fifth thereof is for Allah, and for the messenger and for the kinsman (who hath need) and orphans and the needy and the wayfarer, if ye believe in Allah and that which We revealed unto Our slave on the Day of Discrimination, the day when the two armies met. And Allah is Able to do all things.",
+        "khattab": "Know that whatever spoils you take, one-fifth is for Allah and the Messenger, his close relatives, orphans, the poor, and ˹needy˺ travellers, if you ˹truly˺ believe in Allah and what We revealed to Our servant on that decisive day when the two armies met ˹at Badr˺. And Allah is Most Capable of everything",
+        "arberry": "Know that, whatever booty you take, the fifth of it is God's, and the Messenger's, and the near kinsman's, and the orphans', and for the needy, and the traveller, if you believe in God and that We sent down upon Our servant on the day of salvation,. the day the two hosts encountered; and God is powerful over everything;"
+      }
+    },
+    {
+      "location": [
+        18,
+        22,
+        6
+      ],
+      "form_arabic": "خَمْسَةٌ",
+      "lemma": "xamosap",
+      "lemma_arabic": "خَمْسَة",
+      "pos": "N",
+      "ayah_id": "18:22",
+      "ayah_arabic": "سَيَقُولُونَ ثَلَٰثَةࣱ رَّابِعُهُمۡ كَلۡبُهُمۡ وَيَقُولُونَ خَمۡسَةࣱ سَادِسُهُمۡ كَلۡبُهُمۡ رَجۡمَۢا بِٱلۡغَيۡبِۖ وَيَقُولُونَ سَبۡعَةࣱ وَثَامِنُهُمۡ كَلۡبُهُمۡۚ قُل رَّبِّيٓ أَعۡلَمُ بِعِدَّتِهِم مَّا يَعۡلَمُهُمۡ إِلَّا قَلِيلࣱۗ فَلَا تُمَارِ فِيهِمۡ إِلَّا مِرَآءࣰ ظَٰهِرࣰ ا وَلَا تَسۡتَفۡتِ فِيهِم مِّنۡهُمۡ أَحَدࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "(they were) five",
+      "translations": {
+        "saheeh": "They will say there were three, the fourth of them being their dog; and they will say there were five, the sixth of them being their dog - guessing at the unseen; and they will say there were seven, and the eighth of them was their dog. Say, [O Muhammad], \"My Lord is most knowing of their number. None knows them except a few. So do not argue about them except with an obvious argument and do not inquire about them among [the speculators] from anyone.\"",
+        "pickthall": "(Some) will say: They were three, their dog the fourth, and (some) say: Five, their dog the sixth, guessing at random; and (some) say: Seven, and their dog the eighth. Say (O Muhammad): My Lord is Best Aware of their number. None knoweth them save a few. So contend not concerning them except with an outward contending, and ask not any of them to pronounce concerning them.",
+        "khattab": "Some will say, “They were three, their dog was the fourth,” while others will say, “They were five, their dog was the sixth,” ˹only˺ guessing blindly. And others will say, “They were seven and their dog was the eighth.” Say, ˹O Prophet,˺ “My Lord knows best their ˹exact˺ number. Only a few people know as well.” So do not argue about them except with sure knowledge, nor consult any of those ˹who debate˺ about them",
+        "arberry": "(They will say, 'Three; and 'their dog was the fourth of them.' They will say, 'Five; and their dog was the sixth of them, guessing at the Unseen. They will say, 'Seven; and their dog was the eighth of them.' Say: 'My Lord knows very well their number, and none knows them, except a few.' So do not dispute with them, except in outward disputation, and ask not any of them for a pronouncement on them."
+      }
+    },
+    {
+      "location": [
+        24,
+        7,
+        1
+      ],
+      "form_arabic": "وَٱلْخَٰمِسَةُ",
+      "lemma": "xa`misap",
+      "lemma_arabic": "خَٰمِسَة",
+      "pos": "N",
+      "ayah_id": "24:7",
+      "ayah_arabic": "وَٱلۡخَٰمِسَةُ أَنَّ لَعۡنَتَ ٱللَّهِ عَلَيۡهِ إِن كَانَ مِنَ ٱلۡكَٰذِبِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "And the fifth",
+      "translations": {
+        "saheeh": "And the fifth [oath will be] that the curse of Allah be upon him if he should be among the liars.",
+        "pickthall": "And yet a fifth, invoking the curse of Allah on him if he is of those who lie.",
+        "khattab": "and a fifth oath that Allah may condemn him if he is lying",
+        "arberry": "and a fifth time, that the curse of God shall be upon him, if he should be of the liars."
+      }
+    },
+    {
+      "location": [
+        24,
+        9,
+        1
+      ],
+      "form_arabic": "وَٱلْخَٰمِسَةَ",
+      "lemma": "xa`misap",
+      "lemma_arabic": "خَٰمِسَة",
+      "pos": "N",
+      "ayah_id": "24:9",
+      "ayah_arabic": "وَٱلۡخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيۡهَآ إِن كَانَ مِنَ ٱلصَّٰدِقِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "And the fifth",
+      "translations": {
+        "saheeh": "And the fifth [oath will be] that the wrath of Allah be upon her if he was of the truthful.",
+        "pickthall": "And a fifth (time) that the wrath of Allah be upon her if he speaketh truth.",
+        "khattab": "and a fifth oath that Allah may be displeased with her if he is telling the truth",
+        "arberry": "and a fifth time, that the wrath of God shall be upon her, if he should be of the truthful."
+      }
+    },
+    {
+      "location": [
+        29,
+        14,
+        11
+      ],
+      "form_arabic": "خَمْسِينَ",
+      "lemma": "xamosiyn",
+      "lemma_arabic": "خَمْسِين",
+      "pos": "N",
+      "ayah_id": "29:14",
+      "ayah_arabic": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَلَبِثَ فِيهِمۡ أَلۡفَ سَنَةٍ إِلَّا خَمۡسِينَ عَامࣰ ا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمۡ ظَٰلِمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ankaboot",
+      "literal_gloss": "fifty",
+      "translations": {
+        "saheeh": "And We certainly sent Noah to his people, and he remained among them a thousand years minus fifty years, and the flood seized them while they were wrongdoers.",
+        "pickthall": "And verily we sent Noah (as Our messenger) unto his folk, and he continued with them for a thousand years save fifty years; and the flood engulfed them, for they were wrong-doers.",
+        "khattab": "Indeed, We sent Noah to his people, and he remained among them for a thousand years, less fifty. Then the Flood overtook them, while they persisted in wrongdoing",
+        "arberry": "Indeed, We sent Noah to his people, and he tarried among them a thousand years, all but fifty; so the Flood seized them, while they were evildoers."
+      }
+    },
+    {
+      "location": [
+        58,
+        7,
+        21
+      ],
+      "form_arabic": "خَمْسَةٍ",
+      "lemma": "xamosap",
+      "lemma_arabic": "خَمْسَة",
+      "pos": "N",
+      "ayah_id": "58:7",
+      "ayah_arabic": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ مَا يَكُونُ مِن نَّجۡوَىٰ ثَلَٰثَةٍ إِلَّا هُوَ رَابِعُهُمۡ وَلَا خَمۡسَةٍ إِلَّا هُوَ سَادِسُهُمۡ وَلَآ أَدۡنَىٰ مِن ذَٰلِكَ وَلَآ أَكۡثَرَ إِلَّا هُوَ مَعَهُمۡ أَيۡنَ مَا كَانُواْۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوۡمَ ٱلۡقِيَٰمَةِۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Mujaadila",
+      "literal_gloss": "five",
+      "translations": {
+        "saheeh": "Have you not considered that Allah knows what is in the heavens and what is on the earth? There is in no private conversation three but that He is the fourth of them, nor are there five but that He is the sixth of them - and no less than that and no more except that He is with them [in knowledge] wherever they are. Then He will inform them of what they did, on the Day of Resurrection. Indeed Allah is, of all things, Knowing.",
+        "pickthall": "Hast thou not seen that Allah knoweth all that is in the heavens and all that is in the earth? There is no secret conference of three but He is their fourth, nor of five but He is their sixth, nor of less than that or more but He is with them wheresoever they may be; and afterward, on the Day of Resurrection, He will inform them of what they did. Lo! Allah is Knower of all things.",
+        "khattab": "Do you not see that Allah knows whatever is in the heavens and whatever is on the earth? If three converse privately, He is their fourth. If five, He is their sixth. Whether fewer or more, He is with them wherever they may be. Then, on the Day of Judgment, He will inform them of what they have done. Surely Allah has ˹perfect˺ knowledge of all things",
+        "arberry": "God has numbered it, and they have forgotten it. God is witness over everything. Hast thou not seen that God knows whatsoever is in the heavens, and whatsoever is in the earth? Three men conspire not secretly together, but He is the fourth of them, neither five men, but He is the sixth of them, neither fewer than that, neither more, but He is with them, wherever they may be; then He shall tell them what they have done, on the Day of Resurrection. Surely God has knowledge of everything."
+      }
+    },
+    {
+      "location": [
+        70,
+        4,
+        9
+      ],
+      "form_arabic": "خَمْسِينَ",
+      "lemma": "xamosiyn",
+      "lemma_arabic": "خَمْسِين",
+      "pos": "N",
+      "ayah_id": "70:4",
+      "ayah_arabic": "تَعۡرُجُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمࣲ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ma'aarij",
+      "literal_gloss": "(is) fifty",
+      "translations": {
+        "saheeh": "The angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years.",
+        "pickthall": "(Whereby) the angels and the Spirit ascend unto Him in a Day whereof the span is fifty thousand years.",
+        "khattab": "˹through which˺ the angels and the ˹holy˺ spirit will ascend to Him on a Day fifty thousand years in length",
+        "arberry": "To Him the angels and the Spirit mount up, in a day whereof the measure is fifty thousand years."
+      }
+    }
+  ]
+}

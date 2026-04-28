@@ -1,0 +1,422 @@
+{
+  "root": "HrD",
+  "root_arabic": "حرض",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 2,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "V": 2,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "Har~iDi",
+      "lemma_arabic": "حَرِّضِ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        4,
+        84,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            84,
+            9
+          ],
+          "form_arabic": "وَحَرِّضِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            8,
+            65,
+            3
+          ],
+          "form_arabic": "حَرِّضِ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "HaraD",
+      "lemma_arabic": "حَرَض",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        12,
+        85,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            85,
+            8
+          ],
+          "form_arabic": "حَرَضًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "bAs",
+      "root_arabic": "باس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "nkl",
+      "root_arabic": "نكل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "kff",
+      "root_arabic": "كفف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "klf",
+      "root_arabic": "كلف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "Esy",
+      "root_arabic": "عسي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        84
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        85
+      ]
+    },
+    {
+      "root": "hlk",
+      "root_arabic": "هلك",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        85
+      ]
+    },
+    {
+      "root": "ftA",
+      "root_arabic": "فتا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        85
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        85
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "glb",
+      "root_arabic": "غلب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "E$r",
+      "root_arabic": "عشر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "Alf",
+      "root_arabic": "الف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "mAy",
+      "root_arabic": "ماي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "fqh",
+      "root_arabic": "فقه",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        65
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 8,
+        "name_english": "Al-Anfaal",
+        "name_arabic": "سُورَةُ الأَنفَالِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        84,
+        9
+      ],
+      "form_arabic": "وَحَرِّضِ",
+      "lemma": "Har~iDi",
+      "lemma_arabic": "حَرِّضِ",
+      "pos": "V",
+      "ayah_id": "4:84",
+      "ayah_arabic": "فَقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفۡسَكَۚ وَحَرِّضِ ٱلۡمُؤۡمِنِينَۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأۡسَ ٱلَّذِينَ كَفَرُواْۚ وَٱللَّهُ أَشَدُّ بَأۡسࣰ ا وَأَشَدُّ تَنكِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "And encourage",
+      "translations": {
+        "saheeh": "So fight, [O Muhammad], in the cause of Allah; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allah will restrain the [military] might of those who disbelieve. And Allah is greater in might and stronger in [exemplary] punishment.",
+        "pickthall": "So fight (O Muhammad) in the way of Allah Thou art not taxed (with the responsibility for anyone) except thyself - and urge on the believers. Peradventure Allah will restrain the might of those who disbelieve. Allah is stronger in might and stronger in inflicting punishment.",
+        "khattab": "So fight in the cause of Allah ˹O Prophet˺. You are accountable for none but yourself. And motivate the believers ˹to fight˺, so perhaps Allah will curb the disbelievers’ might. And Allah is far superior in might and in punishment",
+        "arberry": "So do thou fight in the way of God; thou art charged only with thyself. And urge on the believers; haply God will restrain the unbelievers' might; God is stronger in might, more terrible in punishing."
+      }
+    },
+    {
+      "location": [
+        8,
+        65,
+        3
+      ],
+      "form_arabic": "حَرِّضِ",
+      "lemma": "Har~iDi",
+      "lemma_arabic": "حَرِّضِ",
+      "pos": "V",
+      "ayah_id": "8:65",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَرِّضِ ٱلۡمُؤۡمِنِينَ عَلَى ٱلۡقِتَالِۚ إِن يَكُن مِّنكُمۡ عِشۡرُونَ صَٰبِرُونَ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُم مِّاْئَةࣱ يَغۡلِبُوٓاْ أَلۡفࣰ ا مِّنَ ٱلَّذِينَ كَفَرُواْ بِأَنَّهُمۡ قَوۡمࣱ لَّا يَفۡقَهُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "Urge",
+      "translations": {
+        "saheeh": "O Prophet, urge the believers to battle. If there are among you twenty [who are] steadfast, they will overcome two hundred. And if there are among you one hundred [who are] steadfast, they will overcome a thousand of those who have disbelieved because they are a people who do not understand.",
+        "pickthall": "O Prophet! Exhort the believers to fight. If there be of you twenty steadfast they shall overcome two hundred, and if there be of you a hundred (steadfast) they shall overcome a thousand of those who disbelieve, because they (the disbelievers) are a folk without intelligence.",
+        "khattab": "O Prophet! Motivate the believers to fight. If there are twenty steadfast among you, they will overcome two hundred. And if there are one hundred of you, they will overcome one thousand of the disbelievers, for they are a people who do not comprehend",
+        "arberry": "O Prophet, urge on the believers to fight. If there be twenty of you, patient men, they will overcome two hundred; if there be a hundred of you, they will overcome a thousand unbelievers, for they are a people who understand not."
+      }
+    },
+    {
+      "location": [
+        12,
+        85,
+        8
+      ],
+      "form_arabic": "حَرَضًا",
+      "lemma": "HaraD",
+      "lemma_arabic": "حَرَض",
+      "pos": "N",
+      "ayah_id": "12:85",
+      "ayah_arabic": "قَالُواْ تَٱللَّهِ تَفۡتَؤُاْ تَذۡكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوۡ تَكُونَ مِنَ ٱلۡهَٰلِكِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "fatally ill",
+      "translations": {
+        "saheeh": "They said, \"By Allah, you will not cease remembering Joseph until you become fatally ill or become of those who perish.\"",
+        "pickthall": "They said: By Allah, thou wilt never cease remembering Joseph till thy health is ruined or thou art of those who perish!",
+        "khattab": "They said, “By Allah! You will not cease to remember Joseph until you lose your health or ˹even˺ your life.”",
+        "arberry": "'By God,' they said, 'thou wilt never cease mentioning Joseph till thou art consumed, or among the perishing.'"
+      }
+    }
+  ]
+}

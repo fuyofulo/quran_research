@@ -1,0 +1,1030 @@
+{
+  "root": "bEl",
+  "root_arabic": "بعل",
+  "stats": {
+    "occurrences": 7,
+    "lemmas": 2,
+    "ayahs": 5,
+    "surahs": 5,
+    "pos_distribution": {
+      "N": 6,
+      "PN": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "baEol",
+      "lemma_arabic": "بَعْل",
+      "count": 6,
+      "pos_distribution": {
+        "N": 6
+      },
+      "first_occurrence": [
+        2,
+        228,
+        22
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            228,
+            22
+          ],
+          "form_arabic": "وَبُعُولَتُهُنَّ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            128,
+            5
+          ],
+          "form_arabic": "بَعْلِهَا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            11,
+            72,
+            7
+          ],
+          "form_arabic": "بَعْلِى",
+          "pos": "N"
+        },
+        {
+          "location": [
+            24,
+            31,
+            23
+          ],
+          "form_arabic": "لِبُعُولَتِهِنَّ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            24,
+            31,
+            28
+          ],
+          "form_arabic": "بُعُولَتِهِنَّ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            24,
+            31,
+            33
+          ],
+          "form_arabic": "بُعُولَتِهِنَّ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "baEol2",
+      "lemma_arabic": "بَعْل2",
+      "count": 1,
+      "pos_distribution": {
+        "PN": 1
+      },
+      "first_occurrence": [
+        37,
+        125,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            37,
+            125,
+            2
+          ],
+          "form_arabic": "بَعْلًا",
+          "pos": "PN"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        11,
+        72
+      ]
+    },
+    {
+      "root": "w*r",
+      "root_arabic": "وذر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        37,
+        125
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        37,
+        125
+      ]
+    },
+    {
+      "root": "mrA",
+      "root_arabic": "مرا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "xbr",
+      "root_arabic": "خبر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "n$z",
+      "root_arabic": "نشز",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "$HH",
+      "root_arabic": "شحح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "HDr",
+      "root_arabic": "حضر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "ErD",
+      "root_arabic": "عرض",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "ktm",
+      "root_arabic": "كتم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Tlq",
+      "root_arabic": "طلق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Ezz",
+      "root_arabic": "عزز",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "drj",
+      "root_arabic": "درج",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "rbS",
+      "root_arabic": "ربص",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "xmr",
+      "root_arabic": "خمر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "mlk",
+      "root_arabic": "ملك",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "jyb",
+      "root_arabic": "جيب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "xfy",
+      "root_arabic": "خفي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "Arb",
+      "root_arabic": "ارب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "flH",
+      "root_arabic": "فلح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "ymn",
+      "root_arabic": "يمن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "Ewr",
+      "root_arabic": "عور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "zyn",
+      "root_arabic": "زين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "HfZ",
+      "root_arabic": "حفظ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "Zhr",
+      "root_arabic": "ظهر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "gDD",
+      "root_arabic": "غضض",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "Tfl",
+      "root_arabic": "طفل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "bdw",
+      "root_arabic": "بدو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "frj",
+      "root_arabic": "فرج",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        31
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        11,
+        72
+      ]
+    },
+    {
+      "root": "$yx",
+      "root_arabic": "شيخ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        11,
+        72
+      ]
+    },
+    {
+      "root": "Ejb",
+      "root_arabic": "عجب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        11,
+        72
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        11,
+        72
+      ]
+    },
+    {
+      "root": "Ejz",
+      "root_arabic": "عجز",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        11,
+        72
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 3
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 5,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        228,
+        22
+      ],
+      "form_arabic": "وَبُعُولَتُهُنَّ",
+      "lemma": "baEol",
+      "lemma_arabic": "بَعْل",
+      "pos": "N",
+      "ayah_id": "2:228",
+      "ayah_arabic": "وَٱلۡمُطَلَّقَٰتُ يَتَرَبَّصۡنَ بِأَنفُسِهِنَّ ثَلَٰثَةَ قُرُوٓءࣲۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكۡتُمۡنَ مَا خَلَقَ ٱللَّهُ فِيٓ أَرۡحَامِهِنَّ إِن كُنَّ يُؤۡمِنَّ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِي ذَٰلِكَ إِنۡ أَرَادُوٓاْ إِصۡلَٰحࣰ اۚ وَلَهُنَّ مِثۡلُ ٱلَّذِي عَلَيۡهِنَّ بِٱلۡمَعۡرُوفِۚ وَلِلرِّجَالِ عَلَيۡهِنَّ دَرَجَةࣱۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "And their husbands",
+      "translations": {
+        "saheeh": "Divorced women remain in waiting for three periods, and it is not lawful for them to conceal what Allah has created in their wombs if they believe in Allah and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to the wives is similar to what is expected of them, according to what is reasonable. But the men have a degree over them [in responsibility and authority]. And Allah is Exalted in Might and Wise.",
+        "pickthall": "Women who are divorced shall wait, keeping themselves apart, three (monthly) courses. And it is not lawful for them that they should conceal that which Allah hath created in their wombs if they are believers in Allah and the Last Day. And their husbands would do better to take them back in that case if they desire a reconciliation. And they (women) have rights similar to those (of men) over them in kindness, and men are a degree above them. Allah is Mighty, Wise.",
+        "khattab": "Divorced women must wait three monthly cycles ˹before they can re-marry˺. It is not lawful for them to conceal what Allah has created in their wombs, if they ˹truly˺ believe in Allah and the Last Day. And their husbands reserve the right to take them back within that period if they desire reconciliation. Women have rights similar to those of men equitably, although men have a degree ˹of responsibility˺ above them. And Allah is Almighty, All-Wise",
+        "arberry": "Divorced women shall wait by themselves for three periods; and it is not lawful for them to hide what God has created in their wombs; if they believe in God and the Last Day. In such time their mates have better right to restore them, if they desire to set things right. Women have such honourable rights as obligations, but their men have a degree above them; God is All-mighty, All-wise."
+      }
+    },
+    {
+      "location": [
+        4,
+        128,
+        5
+      ],
+      "form_arabic": "بَعْلِهَا",
+      "lemma": "baEol",
+      "lemma_arabic": "بَعْل",
+      "pos": "N",
+      "ayah_id": "4:128",
+      "ayah_arabic": "وَإِنِ ٱمۡرَأَةٌ خَافَتۡ مِنۢ بَعۡلِهَا نُشُوزًا أَوۡ إِعۡرَاضࣰ ا فَلَا جُنَاحَ عَلَيۡهِمَآ أَن يُصۡلِحَا بَيۡنَهُمَا صُلۡحࣰ اۚ وَٱلصُّلۡحُ خَيۡرࣱۗ وَأُحۡضِرَتِ ٱلۡأَنفُسُ ٱلشُّحَّۚ وَإِن تُحۡسِنُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِيرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "her husband",
+      "translations": {
+        "saheeh": "And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them - and settlement is best. And present in [human] souls is stinginess. But if you do good and fear Allah - then indeed Allah is ever, with what you do, Acquainted.",
+        "pickthall": "If a woman feareth ill treatment from her husband, or desertion, it is no sin for them twain if they make terms of peace between themselves. Peace is better. But greed hath been made present in the minds (of men). If ye do good and keep from evil, lo! Allah is ever Informed of what ye do.",
+        "khattab": "If a woman fears indifference or neglect from her husband, there is no blame on either of them if they seek ˹fair˺ settlement, which is best. Humans are ever inclined to selfishness. But if you are gracious and mindful ˹of Allah˺, surely Allah is All-Aware of what you do",
+        "arberry": "If a woman fear rebelliousness or aversion in her husband, there is no fault in them if the couple set things right between them; right settlement is better; and souls are very prone to avarice. If you do good and are godfearing, surely God is aware of the things you do."
+      }
+    },
+    {
+      "location": [
+        11,
+        72,
+        7
+      ],
+      "form_arabic": "بَعْلِى",
+      "lemma": "baEol",
+      "lemma_arabic": "بَعْل",
+      "pos": "N",
+      "ayah_id": "11:72",
+      "ayah_arabic": "قَالَتۡ يَٰوَيۡلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزࣱ وَهَٰذَا بَعۡلِي شَيۡخًاۖ إِنَّ هَٰذَا لَشَيۡءٌ عَجِيبࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "my husband",
+      "translations": {
+        "saheeh": "She said, \"Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man? Indeed, this is an amazing thing!\"",
+        "pickthall": "She said: Oh woe is me! Shall I bear a child when I am an old woman, and this my husband is an old man? Lo! this is a strange thing!",
+        "khattab": "She wondered, “Oh, my! How can I have a child in this old age, and my husband here is an old man? This is truly an astonishing thing!”",
+        "arberry": "She said, 'Woe is me! Shall I bear, being an old woman, and this my husband is an old man? This assuredly is a strange thing.'"
+      }
+    },
+    {
+      "location": [
+        24,
+        31,
+        23
+      ],
+      "form_arabic": "لِبُعُولَتِهِنَّ",
+      "lemma": "baEol",
+      "lemma_arabic": "بَعْل",
+      "pos": "N",
+      "ayah_id": "24:31",
+      "ayah_arabic": "وَقُل لِّلۡمُؤۡمِنَٰتِ يَغۡضُضۡنَ مِنۡ أَبۡصَٰرِهِنَّ وَيَحۡفَظۡنَ فُرُوجَهُنَّ وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنۡهَاۖ وَلۡيَضۡرِبۡنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّۖ وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوۡ ءَابَآئِهِنَّ أَوۡ ءَابَآءِ بُعُولَتِهِنَّ أَوۡ أَبۡنَآئِهِنَّ أَوۡ أَبۡنَآءِ بُعُولَتِهِنَّ أَوۡ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ أَخَوَٰتِهِنَّ أَوۡ نِسَآئِهِنَّ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيۡرِ أُوْلِي ٱلۡإِرۡبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفۡلِ ٱلَّذِينَ لَمۡ يَظۡهَرُواْ عَلَىٰ عَوۡرَٰتِ ٱلنِّسَآءِۖ وَلَا يَضۡرِبۡنَ بِأَرۡجُلِهِنَّ لِيُعۡلَمَ مَا يُخۡفِينَ مِن زِينَتِهِنَّۚ وَتُوبُوٓاْ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلۡمُؤۡمِنُونَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "to their husbands",
+      "translations": {
+        "saheeh": "And tell the believing women to reduce [some] of their vision and guard their private parts and not expose their adornment except that which [necessarily] appears thereof and to wrap [a portion of] their headcovers over their chests and not expose their adornment except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, that which their right hands possess, or those male attendants having no physical desire, or children who are not yet aware of the private aspects of women. And let them not stamp their feet to make known what they conceal of their adornment. And turn to Allah in repentance, all of you, O believers, that you might succeed.",
+        "pickthall": "And tell the believing women to lower their gaze and be modest, and to display of their adornment only that which is apparent, and to draw their veils over their bosoms, and not to reveal their adornment save to their own husbands or fathers or husbands' fathers, or their sons or their husbands' sons, or their brothers or their brothers' sons or sisters' sons, or their women, or their slaves, or male attendants who lack vigour, or children who know naught of women's nakedness. And let them not stamp their feet so as to reveal what they hide of their adornment. And turn unto Allah together, O believers, in order that ye may succeed.",
+        "khattab": "And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments except what normally appears. Let them draw their veils over their chests, and not reveal their ˹hidden˺ adornments except to their husbands, their fathers, their fathers-in-law, their sons, their stepsons, their brothers, their brothers’ sons or sisters’ sons, their fellow women, those ˹bondwomen˺ in their possession, male attendants with no desire, or children who are still unaware of women’s nakedness. Let them not stomp their feet, drawing attention to their hidden adornments. Turn to Allah in repentance all together, O believers, so that you may be successful",
+        "arberry": "And say to the believing women, that they cast down their eyes' and guard their private parts, and reveal not their adornment save such as is outward; and let them cast their veils over their bosoms, and not reveal their adornment save to their husbands, or their fathers, or their husbands' fathers, or their sons, or their husbands' sons, or their brothers, or their brothers' sons, or their sisters' sons, or their women, or what their right hands own, or such men as attend them, not having sexual desire, or children who have not yet attained knowledge of women's private parts; nor let them stamp their feet, so that their hidden ornament may be known. And turn all together to God, O you believers; haply so you will prosper."
+      }
+    },
+    {
+      "location": [
+        24,
+        31,
+        28
+      ],
+      "form_arabic": "بُعُولَتِهِنَّ",
+      "lemma": "baEol",
+      "lemma_arabic": "بَعْل",
+      "pos": "N",
+      "ayah_id": "24:31",
+      "ayah_arabic": "وَقُل لِّلۡمُؤۡمِنَٰتِ يَغۡضُضۡنَ مِنۡ أَبۡصَٰرِهِنَّ وَيَحۡفَظۡنَ فُرُوجَهُنَّ وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنۡهَاۖ وَلۡيَضۡرِبۡنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّۖ وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوۡ ءَابَآئِهِنَّ أَوۡ ءَابَآءِ بُعُولَتِهِنَّ أَوۡ أَبۡنَآئِهِنَّ أَوۡ أَبۡنَآءِ بُعُولَتِهِنَّ أَوۡ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ أَخَوَٰتِهِنَّ أَوۡ نِسَآئِهِنَّ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيۡرِ أُوْلِي ٱلۡإِرۡبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفۡلِ ٱلَّذِينَ لَمۡ يَظۡهَرُواْ عَلَىٰ عَوۡرَٰتِ ٱلنِّسَآءِۖ وَلَا يَضۡرِبۡنَ بِأَرۡجُلِهِنَّ لِيُعۡلَمَ مَا يُخۡفِينَ مِن زِينَتِهِنَّۚ وَتُوبُوٓاْ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلۡمُؤۡمِنُونَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "(of) their husbands",
+      "translations": {
+        "saheeh": "And tell the believing women to reduce [some] of their vision and guard their private parts and not expose their adornment except that which [necessarily] appears thereof and to wrap [a portion of] their headcovers over their chests and not expose their adornment except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, that which their right hands possess, or those male attendants having no physical desire, or children who are not yet aware of the private aspects of women. And let them not stamp their feet to make known what they conceal of their adornment. And turn to Allah in repentance, all of you, O believers, that you might succeed.",
+        "pickthall": "And tell the believing women to lower their gaze and be modest, and to display of their adornment only that which is apparent, and to draw their veils over their bosoms, and not to reveal their adornment save to their own husbands or fathers or husbands' fathers, or their sons or their husbands' sons, or their brothers or their brothers' sons or sisters' sons, or their women, or their slaves, or male attendants who lack vigour, or children who know naught of women's nakedness. And let them not stamp their feet so as to reveal what they hide of their adornment. And turn unto Allah together, O believers, in order that ye may succeed.",
+        "khattab": "And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments except what normally appears. Let them draw their veils over their chests, and not reveal their ˹hidden˺ adornments except to their husbands, their fathers, their fathers-in-law, their sons, their stepsons, their brothers, their brothers’ sons or sisters’ sons, their fellow women, those ˹bondwomen˺ in their possession, male attendants with no desire, or children who are still unaware of women’s nakedness. Let them not stomp their feet, drawing attention to their hidden adornments. Turn to Allah in repentance all together, O believers, so that you may be successful",
+        "arberry": "And say to the believing women, that they cast down their eyes' and guard their private parts, and reveal not their adornment save such as is outward; and let them cast their veils over their bosoms, and not reveal their adornment save to their husbands, or their fathers, or their husbands' fathers, or their sons, or their husbands' sons, or their brothers, or their brothers' sons, or their sisters' sons, or their women, or what their right hands own, or such men as attend them, not having sexual desire, or children who have not yet attained knowledge of women's private parts; nor let them stamp their feet, so that their hidden ornament may be known. And turn all together to God, O you believers; haply so you will prosper."
+      }
+    },
+    {
+      "location": [
+        24,
+        31,
+        33
+      ],
+      "form_arabic": "بُعُولَتِهِنَّ",
+      "lemma": "baEol",
+      "lemma_arabic": "بَعْل",
+      "pos": "N",
+      "ayah_id": "24:31",
+      "ayah_arabic": "وَقُل لِّلۡمُؤۡمِنَٰتِ يَغۡضُضۡنَ مِنۡ أَبۡصَٰرِهِنَّ وَيَحۡفَظۡنَ فُرُوجَهُنَّ وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنۡهَاۖ وَلۡيَضۡرِبۡنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّۖ وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوۡ ءَابَآئِهِنَّ أَوۡ ءَابَآءِ بُعُولَتِهِنَّ أَوۡ أَبۡنَآئِهِنَّ أَوۡ أَبۡنَآءِ بُعُولَتِهِنَّ أَوۡ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ أَخَوَٰتِهِنَّ أَوۡ نِسَآئِهِنَّ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيۡرِ أُوْلِي ٱلۡإِرۡبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفۡلِ ٱلَّذِينَ لَمۡ يَظۡهَرُواْ عَلَىٰ عَوۡرَٰتِ ٱلنِّسَآءِۖ وَلَا يَضۡرِبۡنَ بِأَرۡجُلِهِنَّ لِيُعۡلَمَ مَا يُخۡفِينَ مِن زِينَتِهِنَّۚ وَتُوبُوٓاْ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلۡمُؤۡمِنُونَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "(of) their husbands",
+      "translations": {
+        "saheeh": "And tell the believing women to reduce [some] of their vision and guard their private parts and not expose their adornment except that which [necessarily] appears thereof and to wrap [a portion of] their headcovers over their chests and not expose their adornment except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, that which their right hands possess, or those male attendants having no physical desire, or children who are not yet aware of the private aspects of women. And let them not stamp their feet to make known what they conceal of their adornment. And turn to Allah in repentance, all of you, O believers, that you might succeed.",
+        "pickthall": "And tell the believing women to lower their gaze and be modest, and to display of their adornment only that which is apparent, and to draw their veils over their bosoms, and not to reveal their adornment save to their own husbands or fathers or husbands' fathers, or their sons or their husbands' sons, or their brothers or their brothers' sons or sisters' sons, or their women, or their slaves, or male attendants who lack vigour, or children who know naught of women's nakedness. And let them not stamp their feet so as to reveal what they hide of their adornment. And turn unto Allah together, O believers, in order that ye may succeed.",
+        "khattab": "And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments except what normally appears. Let them draw their veils over their chests, and not reveal their ˹hidden˺ adornments except to their husbands, their fathers, their fathers-in-law, their sons, their stepsons, their brothers, their brothers’ sons or sisters’ sons, their fellow women, those ˹bondwomen˺ in their possession, male attendants with no desire, or children who are still unaware of women’s nakedness. Let them not stomp their feet, drawing attention to their hidden adornments. Turn to Allah in repentance all together, O believers, so that you may be successful",
+        "arberry": "And say to the believing women, that they cast down their eyes' and guard their private parts, and reveal not their adornment save such as is outward; and let them cast their veils over their bosoms, and not reveal their adornment save to their husbands, or their fathers, or their husbands' fathers, or their sons, or their husbands' sons, or their brothers, or their brothers' sons, or their sisters' sons, or their women, or what their right hands own, or such men as attend them, not having sexual desire, or children who have not yet attained knowledge of women's private parts; nor let them stamp their feet, so that their hidden ornament may be known. And turn all together to God, O you believers; haply so you will prosper."
+      }
+    },
+    {
+      "location": [
+        37,
+        125,
+        2
+      ],
+      "form_arabic": "بَعْلًا",
+      "lemma": "baEol2",
+      "lemma_arabic": "بَعْل2",
+      "pos": "PN",
+      "ayah_id": "37:125",
+      "ayah_arabic": "أَتَدۡعُونَ بَعۡلࣰ ا وَتَذَرُونَ أَحۡسَنَ ٱلۡخَٰلِقِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "Baal",
+      "translations": {
+        "saheeh": "Do you call upon Ba'l and leave the best of creators -",
+        "pickthall": "Will ye cry unto Baal and forsake the Best of creators,",
+        "khattab": "Do you call upon ˹the idol of˺ Ba’l and abandon the Best of Creators—",
+        "arberry": "Do you call on Baal, and abandon the Best of creators?"
+      }
+    }
+  ]
+}

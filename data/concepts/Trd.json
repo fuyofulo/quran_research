@@ -1,0 +1,443 @@
+{
+  "root": "Trd",
+  "root_arabic": "طرد",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 2,
+    "ayahs": 4,
+    "surahs": 3,
+    "pos_distribution": {
+      "V": 3,
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "Tarad",
+      "lemma_arabic": "طَرَد",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        6,
+        52,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            6,
+            52,
+            2
+          ],
+          "form_arabic": "تَطْرُدِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            6,
+            52,
+            22
+          ],
+          "form_arabic": "فَتَطْرُدَهُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            11,
+            30,
+            7
+          ],
+          "form_arabic": "طَرَدتُّهُمْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "TaArid",
+      "lemma_arabic": "طَارِد",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        11,
+        29,
+        13
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            29,
+            13
+          ],
+          "form_arabic": "بِطَارِدِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            26,
+            114,
+            3
+          ],
+          "form_arabic": "بِطَارِدِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        29
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        29
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        6,
+        52
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        29
+      ]
+    },
+    {
+      "root": "jhl",
+      "root_arabic": "جهل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        29
+      ]
+    },
+    {
+      "root": "Ajr",
+      "root_arabic": "اجر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        29
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        29
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        29
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        29
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        29
+      ]
+    },
+    {
+      "root": "Hsb",
+      "root_arabic": "حسب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        52
+      ]
+    },
+    {
+      "root": "E$w",
+      "root_arabic": "عشو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        52
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        52
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        52
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        52
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        52
+      ]
+    },
+    {
+      "root": "gdw",
+      "root_arabic": "غدو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        52
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        52
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        52
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        30
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        30
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 26,
+        "name_english": "Ash-Shu'araa",
+        "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 5
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        6,
+        52,
+        2
+      ],
+      "form_arabic": "تَطْرُدِ",
+      "lemma": "Tarad",
+      "lemma_arabic": "طَرَد",
+      "pos": "V",
+      "ayah_id": "6:52",
+      "ayah_arabic": "وَلَا تَطۡرُدِ ٱلَّذِينَ يَدۡعُونَ رَبَّهُم بِٱلۡغَدَوٰةِ وَٱلۡعَشِيِّ يُرِيدُونَ وَجۡهَهُۥۖ مَا عَلَيۡكَ مِنۡ حِسَابِهِم مِّن شَيۡءࣲ وَمَا مِنۡ حِسَابِكَ عَلَيۡهِم مِّن شَيۡءࣲ فَتَطۡرُدَهُمۡ فَتَكُونَ مِنَ ٱلظَّٰلِمِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "send away",
+      "translations": {
+        "saheeh": "And do not send away those who call upon their Lord morning and afternoon, seeking His countenance. Not upon you is anything of their account and not upon them is anything of your account. So were you to send them away, you would [then] be of the wrongdoers.",
+        "pickthall": "Repel not those who call upon their Lord at morn and evening, seeking His Countenance. Thou art not accountable for them in aught, nor are they accountable for thee in aught, that thou shouldst repel them and be of the wrong-doers.",
+        "khattab": "˹O Prophet!˺ Do not dismiss those ˹poor believers˺ who invoke their Lord morning and evening, seeking His pleasure. You are not accountable for them whatsoever, nor are they accountable for you. So do not dismiss them, or you will be one of the wrongdoers",
+        "arberry": "And do not drive away those who call upon their Lord at morning and evening desiring His countenance; nothing of their account falls upon thee, and nothing of thy account falls upon them, that thou shouldst drive them away, and so become one of the evildoers."
+      }
+    },
+    {
+      "location": [
+        6,
+        52,
+        22
+      ],
+      "form_arabic": "فَتَطْرُدَهُمْ",
+      "lemma": "Tarad",
+      "lemma_arabic": "طَرَد",
+      "pos": "V",
+      "ayah_id": "6:52",
+      "ayah_arabic": "وَلَا تَطۡرُدِ ٱلَّذِينَ يَدۡعُونَ رَبَّهُم بِٱلۡغَدَوٰةِ وَٱلۡعَشِيِّ يُرِيدُونَ وَجۡهَهُۥۖ مَا عَلَيۡكَ مِنۡ حِسَابِهِم مِّن شَيۡءࣲ وَمَا مِنۡ حِسَابِكَ عَلَيۡهِم مِّن شَيۡءࣲ فَتَطۡرُدَهُمۡ فَتَكُونَ مِنَ ٱلظَّٰلِمِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "So were you to send them away",
+      "translations": {
+        "saheeh": "And do not send away those who call upon their Lord morning and afternoon, seeking His countenance. Not upon you is anything of their account and not upon them is anything of your account. So were you to send them away, you would [then] be of the wrongdoers.",
+        "pickthall": "Repel not those who call upon their Lord at morn and evening, seeking His Countenance. Thou art not accountable for them in aught, nor are they accountable for thee in aught, that thou shouldst repel them and be of the wrong-doers.",
+        "khattab": "˹O Prophet!˺ Do not dismiss those ˹poor believers˺ who invoke their Lord morning and evening, seeking His pleasure. You are not accountable for them whatsoever, nor are they accountable for you. So do not dismiss them, or you will be one of the wrongdoers",
+        "arberry": "And do not drive away those who call upon their Lord at morning and evening desiring His countenance; nothing of their account falls upon thee, and nothing of thy account falls upon them, that thou shouldst drive them away, and so become one of the evildoers."
+      }
+    },
+    {
+      "location": [
+        11,
+        29,
+        13
+      ],
+      "form_arabic": "بِطَارِدِ",
+      "lemma": "TaArid",
+      "lemma_arabic": "طَارِد",
+      "pos": "N",
+      "ayah_id": "11:29",
+      "ayah_arabic": "وَيَٰقَوۡمِ لَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مَالًاۖ إِنۡ أَجۡرِيَ إِلَّا عَلَى ٱللَّهِۚ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓاْۚ إِنَّهُم مُّلَٰقُواْ رَبِّهِمۡ وَلَٰكِنِّيٓ أَرَىٰكُمۡ قَوۡمࣰ ا تَجۡهَلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "going to drive away",
+      "translations": {
+        "saheeh": "And O my people, I ask not of you for it any wealth. My reward is not but from Allah. And I am not one to drive away those who have believed. Indeed, they will meet their Lord, but I see that you are a people behaving ignorantly.",
+        "pickthall": "And O my people! I ask of you no wealth therefor. My reward is the concern only of Allah, and I am not going to thrust away those who believe - Lo! they have to meet their Lord! - but I see you a folk that are ignorant.",
+        "khattab": "O my people! I do not ask you for a payment for this ˹message˺. My reward is only from Allah. And I will never dismiss the believers, for they will surely meet their Lord. But I can see that you are a people acting ignorantly",
+        "arberry": "O my people, I do not ask of you wealth for this; my wage falls only upon God. I will not drive away those who believe; they shall surely meet their Lord. But I see you are an ignorant people."
+      }
+    },
+    {
+      "location": [
+        11,
+        30,
+        7
+      ],
+      "form_arabic": "طَرَدتُّهُمْ",
+      "lemma": "Tarad",
+      "lemma_arabic": "طَرَد",
+      "pos": "V",
+      "ayah_id": "11:30",
+      "ayah_arabic": "وَيَٰقَوۡمِ مَن يَنصُرُنِي مِنَ ٱللَّهِ إِن طَرَدتُّهُمۡۚ أَفَلَا تَذَكَّرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "I drove them away",
+      "translations": {
+        "saheeh": "And O my people, who would protect me from Allah if I drove them away? Then will you not be reminded?",
+        "pickthall": "And, O my people! who would deliver me from Allah if I thrust them away? Will ye not then reflect?",
+        "khattab": "O my people! Who would protect me from Allah if I were to dismiss them? Will you not then be mindful",
+        "arberry": "O my people, who would help me against God, if I drive you away?"
+      }
+    },
+    {
+      "location": [
+        26,
+        114,
+        3
+      ],
+      "form_arabic": "بِطَارِدِ",
+      "lemma": "TaArid",
+      "lemma_arabic": "طَارِد",
+      "pos": "N",
+      "ayah_id": "26:114",
+      "ayah_arabic": "وَمَآ أَنَا۠ بِطَارِدِ ٱلۡمُؤۡمِنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "the one to drive away",
+      "translations": {
+        "saheeh": "And I am not one to drive away the believers.",
+        "pickthall": "And I am not (here) to repulse believers.",
+        "khattab": "I am not going to expel the believers",
+        "arberry": "I would not drive away the believers;"
+      }
+    }
+  ]
+}

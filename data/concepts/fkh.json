@@ -1,0 +1,1136 @@
+{
+  "root": "fkh",
+  "root_arabic": "فكه",
+  "stats": {
+    "occurrences": 19,
+    "lemmas": 5,
+    "ayahs": 19,
+    "surahs": 12,
+    "pos_distribution": {
+      "N": 18,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "count": 11,
+      "pos_distribution": {
+        "N": 11
+      },
+      "first_occurrence": [
+        36,
+        57,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            36,
+            57,
+            3
+          ],
+          "form_arabic": "فَٰكِهَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            38,
+            51,
+            5
+          ],
+          "form_arabic": "بِفَٰكِهَةٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            43,
+            73,
+            3
+          ],
+          "form_arabic": "فَٰكِهَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            44,
+            55,
+            4
+          ],
+          "form_arabic": "فَٰكِهَةٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            52,
+            22,
+            2
+          ],
+          "form_arabic": "بِفَٰكِهَةٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            55,
+            11,
+            2
+          ],
+          "form_arabic": "فَٰكِهَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            55,
+            52,
+            4
+          ],
+          "form_arabic": "فَٰكِهَةٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            55,
+            68,
+            2
+          ],
+          "form_arabic": "فَٰكِهَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            56,
+            20,
+            1
+          ],
+          "form_arabic": "وَفَٰكِهَةٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            56,
+            32,
+            1
+          ],
+          "form_arabic": "وَفَٰكِهَةٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            80,
+            31,
+            1
+          ],
+          "form_arabic": "وَفَٰكِهَةً",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "fawa`kih",
+      "lemma_arabic": "فَوَٰكِه",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        23,
+        19,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            23,
+            19,
+            10
+          ],
+          "form_arabic": "فَوَٰكِهُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            37,
+            42,
+            1
+          ],
+          "form_arabic": "فَوَٰكِهُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            77,
+            42,
+            1
+          ],
+          "form_arabic": "وَفَوَٰكِهَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "fa`kihiyn",
+      "lemma_arabic": "فَٰكِهِين",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        36,
+        55,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            36,
+            55,
+            7
+          ],
+          "form_arabic": "فَٰكِهُونَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            44,
+            27,
+            4
+          ],
+          "form_arabic": "فَٰكِهِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            52,
+            18,
+            1
+          ],
+          "form_arabic": "فَٰكِهِينَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "tafak~ahu",
+      "lemma_arabic": "تَفَكَّهُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        56,
+        65,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            56,
+            65,
+            6
+          ],
+          "form_arabic": "تَفَكَّهُونَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "fakihiyn",
+      "lemma_arabic": "فَكِهِين",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        83,
+        31,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            83,
+            31,
+            6
+          ],
+          "form_arabic": "فَكِهِينَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 4,
+      "share": 0.2105,
+      "first_together": [
+        23,
+        19
+      ]
+    },
+    {
+      "root": "nxl",
+      "root_arabic": "نخل",
+      "ayahs_together": 3,
+      "share": 0.1579,
+      "first_together": [
+        23,
+        19
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 3,
+      "share": 0.1579,
+      "first_together": [
+        36,
+        57
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 2,
+      "share": 0.1053,
+      "first_together": [
+        23,
+        19
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 2,
+      "share": 0.1053,
+      "first_together": [
+        23,
+        19
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.1053,
+      "first_together": [
+        44,
+        55
+      ]
+    },
+    {
+      "root": "$hw",
+      "root_arabic": "شهو",
+      "ayahs_together": 2,
+      "share": 0.1053,
+      "first_together": [
+        52,
+        22
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        56,
+        65
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        56,
+        65
+      ]
+    },
+    {
+      "root": "HTm",
+      "root_arabic": "حطم",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        56,
+        65
+      ]
+    },
+    {
+      "root": "Zll",
+      "root_arabic": "ظلل",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        56,
+        65
+      ]
+    },
+    {
+      "root": "kmm",
+      "root_arabic": "كمم",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        55,
+        11
+      ]
+    },
+    {
+      "root": "Enb",
+      "root_arabic": "عنب",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        23,
+        19
+      ]
+    },
+    {
+      "root": "n$A",
+      "root_arabic": "نشا",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        23,
+        19
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        52,
+        18
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        52,
+        18
+      ]
+    },
+    {
+      "root": "jHm",
+      "root_arabic": "جحم",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        52,
+        18
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        52,
+        18
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        52,
+        18
+      ]
+    },
+    {
+      "root": "Abb",
+      "root_arabic": "ابب",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        80,
+        31
+      ]
+    },
+    {
+      "root": "krm",
+      "root_arabic": "كرم",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        37,
+        42
+      ]
+    },
+    {
+      "root": "SHb",
+      "root_arabic": "صحب",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        36,
+        55
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        36,
+        55
+      ]
+    },
+    {
+      "root": "$gl",
+      "root_arabic": "شغل",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        36,
+        55
+      ]
+    },
+    {
+      "root": "rmn",
+      "root_arabic": "رمن",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        55,
+        68
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        55,
+        52
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        56,
+        20
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        44,
+        55
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        38,
+        51
+      ]
+    },
+    {
+      "root": "wkA",
+      "root_arabic": "وكا",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        38,
+        51
+      ]
+    },
+    {
+      "root": "mdd",
+      "root_arabic": "مدد",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        52,
+        22
+      ]
+    },
+    {
+      "root": "lHm",
+      "root_arabic": "لحم",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        52,
+        22
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        83,
+        31
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        83,
+        31
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        44,
+        27
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.0526,
+      "first_together": [
+        44,
+        27
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 55,
+        "name_english": "Ar-Rahmaan",
+        "name_arabic": "سُورَةُ الرَّحۡمَٰن",
+        "revelation": "Medinan",
+        "occurrences": 3
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 3
+      },
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 44,
+        "name_english": "Ad-Dukhaan",
+        "name_arabic": "سُورَةُ الدُّخَانِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 52,
+        "name_english": "At-Tur",
+        "name_arabic": "سُورَةُ الطُّورِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 23,
+        "name_english": "Al-Muminoon",
+        "name_arabic": "سُورَةُ المُؤۡمِنُونَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 38,
+        "name_english": "Saad",
+        "name_arabic": "سُورَةُ صٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 43,
+        "name_english": "Az-Zukhruf",
+        "name_arabic": "سُورَةُ الزُّخۡرُفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 77,
+        "name_english": "Al-Mursalaat",
+        "name_arabic": "سُورَةُ المُرۡسَلَاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 80,
+        "name_english": "Abasa",
+        "name_arabic": "سُورَةُ عَبَسَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 83,
+        "name_english": "Al-Mutaffifin",
+        "name_arabic": "سُورَةُ المُطَفِّفِينَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 16,
+      "Medinan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        23,
+        19,
+        10
+      ],
+      "form_arabic": "فَوَٰكِهُ",
+      "lemma": "fawa`kih",
+      "lemma_arabic": "فَوَٰكِه",
+      "pos": "N",
+      "ayah_id": "23:19",
+      "ayah_arabic": "فَأَنشَأۡنَا لَكُم بِهِۦ جَنَّٰتࣲ مِّن نَّخِيلࣲ وَأَعۡنَٰبࣲ لَّكُمۡ فِيهَا فَوَٰكِهُ كَثِيرَةࣱ وَمِنۡهَا تَأۡكُلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muminoon",
+      "literal_gloss": "(are) fruits",
+      "translations": {
+        "saheeh": "And We brought forth for you thereby gardens of palm trees and grapevines in which for you are abundant fruits and from which you eat.",
+        "pickthall": "Then We produce for you therewith gardens of date-palms and grapes, wherein is much fruit for you and whereof ye eat;",
+        "khattab": "With it We produce for you gardens of palm trees and grapevines, in which there are abundant fruits, and from which you may eat",
+        "arberry": "Then We produced for you therewith gardens of palms and vines wherein are many fruits for you, and of them you eat,"
+      }
+    },
+    {
+      "location": [
+        36,
+        55,
+        7
+      ],
+      "form_arabic": "فَٰكِهُونَ",
+      "lemma": "fa`kihiyn",
+      "lemma_arabic": "فَٰكِهِين",
+      "pos": "N",
+      "ayah_id": "36:55",
+      "ayah_arabic": "إِنَّ أَصۡحَٰبَ ٱلۡجَنَّةِ ٱلۡيَوۡمَ فِي شُغُلࣲ فَٰكِهُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "(in) amusement",
+      "translations": {
+        "saheeh": "Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation -",
+        "pickthall": "Lo! those who merit paradise this day are happily employed,",
+        "khattab": "Indeed, on that Day the residents of Paradise will be busy enjoying themselves",
+        "arberry": "See, the inhabitants of Paradise today are busy in their rejoicing,"
+      }
+    },
+    {
+      "location": [
+        36,
+        57,
+        3
+      ],
+      "form_arabic": "فَٰكِهَةٌ",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "36:57",
+      "ayah_arabic": "لَهُمۡ فِيهَا فَٰكِهَةࣱ وَلَهُم مَّا يَدَّعُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "(are) fruits",
+      "translations": {
+        "saheeh": "For them therein is fruit, and for them is whatever they request [or wish]",
+        "pickthall": "Theirs the fruit (of their good deeds) and theirs (all) that they ask;",
+        "khattab": "There they will have fruits and whatever they desire",
+        "arberry": "therein they have fruits, and they have all that they call for."
+      }
+    },
+    {
+      "location": [
+        37,
+        42,
+        1
+      ],
+      "form_arabic": "فَوَٰكِهُ",
+      "lemma": "fawa`kih",
+      "lemma_arabic": "فَوَٰكِه",
+      "pos": "N",
+      "ayah_id": "37:42",
+      "ayah_arabic": "فَوَٰكِهُ وَهُم مُّكۡرَمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "Fruits",
+      "translations": {
+        "saheeh": "Fruits; and they will be honored",
+        "pickthall": "Fruits. And they will be honoured",
+        "khattab": "fruits ˹of every type˺. And they will be honoured",
+        "arberry": "fruits -- and they high-honoured"
+      }
+    },
+    {
+      "location": [
+        38,
+        51,
+        5
+      ],
+      "form_arabic": "بِفَٰكِهَةٍ",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "38:51",
+      "ayah_arabic": "مُتَّكِـِٔينَ فِيهَا يَدۡعُونَ فِيهَا بِفَٰكِهَةࣲ كَثِيرَةࣲ وَشَرَابࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "for fruit",
+      "translations": {
+        "saheeh": "Reclining within them, they will call therein for abundant fruit and drink.",
+        "pickthall": "Wherein, reclining, they call for plenteous fruit and cool drink (that is) therein.",
+        "khattab": "There they will recline, calling for abundant fruit and drink",
+        "arberry": "wherein they recline, and wherein they call for fruits abundant, and sweet potions,"
+      }
+    },
+    {
+      "location": [
+        43,
+        73,
+        3
+      ],
+      "form_arabic": "فَٰكِهَةٌ",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "43:73",
+      "ayah_arabic": "لَكُمۡ فِيهَا فَٰكِهَةࣱ كَثِيرَةࣱ مِّنۡهَا تَأۡكُلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zukhruf",
+      "literal_gloss": "(are) fruits",
+      "translations": {
+        "saheeh": "For you therein is much fruit from which you will eat.",
+        "pickthall": "Therein for you is fruit in plenty whence to eat.",
+        "khattab": "There you will have abundant fruit to eat from",
+        "arberry": "Therein you have abundant fruits, whereof you may eat.'"
+      }
+    },
+    {
+      "location": [
+        44,
+        27,
+        4
+      ],
+      "form_arabic": "فَٰكِهِينَ",
+      "lemma": "fa`kihiyn",
+      "lemma_arabic": "فَٰكِهِين",
+      "pos": "N",
+      "ayah_id": "44:27",
+      "ayah_arabic": "وَنَعۡمَةࣲ كَانُواْ فِيهَا فَٰكِهِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ad-Dukhaan",
+      "literal_gloss": "take delight",
+      "translations": {
+        "saheeh": "And comfort wherein they were amused.",
+        "pickthall": "And pleasant things wherein they took delight!",
+        "khattab": "and luxuries which they fully enjoyed",
+        "arberry": "and what prosperity they had rejoiced in!"
+      }
+    },
+    {
+      "location": [
+        44,
+        55,
+        4
+      ],
+      "form_arabic": "فَٰكِهَةٍ",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "44:55",
+      "ayah_arabic": "يَدۡعُونَ فِيهَا بِكُلِّ فَٰكِهَةٍ ءَامِنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ad-Dukhaan",
+      "literal_gloss": "(of) fruit",
+      "translations": {
+        "saheeh": "They will call therein for every [kind of] fruit - safe and secure.",
+        "pickthall": "They call therein for every fruit in safety.",
+        "khattab": "There they will call for every fruit in serenity",
+        "arberry": "therein calling for every fruit, secure."
+      }
+    },
+    {
+      "location": [
+        52,
+        18,
+        1
+      ],
+      "form_arabic": "فَٰكِهِينَ",
+      "lemma": "fa`kihiyn",
+      "lemma_arabic": "فَٰكِهِين",
+      "pos": "N",
+      "ayah_id": "52:18",
+      "ayah_arabic": "فَٰكِهِينَ بِمَآ ءَاتَىٰهُمۡ رَبُّهُمۡ وَوَقَىٰهُمۡ رَبُّهُمۡ عَذَابَ ٱلۡجَحِيمِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "Enjoying",
+      "translations": {
+        "saheeh": "Enjoying what their Lord has given them, and their Lord protected them from the punishment of Hellfire.",
+        "pickthall": "Happy because of what their Lord hath given them, and (because) their Lord hath warded off from them the torment of hell-fire.",
+        "khattab": "enjoying whatever their Lord will have granted them. And their Lord will have protected them from the torment of the Hellfire",
+        "arberry": "rejoicing in that their Lord has given them; and their Lord shall guard them against the chastisement of Hell."
+      }
+    },
+    {
+      "location": [
+        52,
+        22,
+        2
+      ],
+      "form_arabic": "بِفَٰكِهَةٍ",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "52:22",
+      "ayah_arabic": "وَأَمۡدَدۡنَٰهُم بِفَٰكِهَةࣲ وَلَحۡمࣲ مِّمَّا يَشۡتَهُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "with fruit",
+      "translations": {
+        "saheeh": "And We will provide them with fruit and meat from whatever they desire.",
+        "pickthall": "And We provide them with fruit and meat such as they desire.",
+        "khattab": "And We will ˹continually˺ provide them with whatever fruit or meat they desire",
+        "arberry": "And We shall succour them with fruits and flesh such as they desire"
+      }
+    },
+    {
+      "location": [
+        55,
+        11,
+        2
+      ],
+      "form_arabic": "فَٰكِهَةٌ",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "55:11",
+      "ayah_arabic": "فِيهَا فَٰكِهَةࣱ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "(is) fruit",
+      "translations": {
+        "saheeh": "Therein is fruit and palm trees having sheaths [of dates]",
+        "pickthall": "Wherein are fruit and sheathed palm-trees,",
+        "khattab": "In it are fruit, palm trees with date stalks",
+        "arberry": "therein fruits, and palm-trees with sheaths,"
+      }
+    },
+    {
+      "location": [
+        55,
+        52,
+        4
+      ],
+      "form_arabic": "فَٰكِهَةٍ",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "55:52",
+      "ayah_arabic": "فِيهِمَا مِن كُلِّ فَٰكِهَةࣲ زَوۡجَانِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "fruits",
+      "translations": {
+        "saheeh": "In both of them are of every fruit, two kinds.",
+        "pickthall": "Wherein is every kind of fruit in pairs.",
+        "khattab": "In each will be two types of every fruit",
+        "arberry": "therein of every fruit two kinds --"
+      }
+    },
+    {
+      "location": [
+        55,
+        68,
+        2
+      ],
+      "form_arabic": "فَٰكِهَةٌ",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "55:68",
+      "ayah_arabic": "فِيهِمَا فَٰكِهَةࣱ وَنَخۡلࣱ وَرُمَّانࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "(are) fruits",
+      "translations": {
+        "saheeh": "In both of them are fruit and palm trees and pomegranates.",
+        "pickthall": "Wherein is fruit, the date-palm and pomegranate.",
+        "khattab": "In both will be fruit, palm trees, and pomegranates",
+        "arberry": "therein fruits, and palm-trees, and pomegranates --"
+      }
+    },
+    {
+      "location": [
+        56,
+        20,
+        1
+      ],
+      "form_arabic": "وَفَٰكِهَةٍ",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "56:20",
+      "ayah_arabic": "وَفَٰكِهَةࣲ مِّمَّا يَتَخَيَّرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "And fruits",
+      "translations": {
+        "saheeh": "And fruit of what they select",
+        "pickthall": "And fruit that they prefer",
+        "khattab": "˹They will also be served˺ any fruit they choose",
+        "arberry": "and such fruits as they shall choose,"
+      }
+    },
+    {
+      "location": [
+        56,
+        32,
+        1
+      ],
+      "form_arabic": "وَفَٰكِهَةٍ",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "56:32",
+      "ayah_arabic": "وَفَٰكِهَةࣲ كَثِيرَةࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "And fruit",
+      "translations": {
+        "saheeh": "And fruit, abundant [and varied],",
+        "pickthall": "And fruit in plenty",
+        "khattab": "abundant fruit—",
+        "arberry": "and fruits abounding"
+      }
+    },
+    {
+      "location": [
+        56,
+        65,
+        6
+      ],
+      "form_arabic": "تَفَكَّهُونَ",
+      "lemma": "tafak~ahu",
+      "lemma_arabic": "تَفَكَّهُ",
+      "pos": "V",
+      "ayah_id": "56:65",
+      "ayah_arabic": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمࣰ ا فَظَلۡتُمۡ تَفَكَّهُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "wondering",
+      "translations": {
+        "saheeh": "If We willed, We could make it [dry] debris, and you would remain in wonder,",
+        "pickthall": "If We willed, We verily could make it chaff, then would ye cease not to exclaim:",
+        "khattab": "If We willed, We could simply reduce this ˹harvest˺ to chaff, leaving you to lament",
+        "arberry": "Did We will, We would make it broken orts, and you would remain bitterly jesting --"
+      }
+    },
+    {
+      "location": [
+        77,
+        42,
+        1
+      ],
+      "form_arabic": "وَفَوَٰكِهَ",
+      "lemma": "fawa`kih",
+      "lemma_arabic": "فَوَٰكِه",
+      "pos": "N",
+      "ayah_id": "77:42",
+      "ayah_arabic": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mursalaat",
+      "literal_gloss": "And fruits",
+      "translations": {
+        "saheeh": "And fruits from whatever they desire,",
+        "pickthall": "And fruits such as they desire.",
+        "khattab": "and any fruit they desire",
+        "arberry": "and such fruits as their hearts desire:"
+      }
+    },
+    {
+      "location": [
+        80,
+        31,
+        1
+      ],
+      "form_arabic": "وَفَٰكِهَةً",
+      "lemma": "fa`kihap",
+      "lemma_arabic": "فَٰكِهَة",
+      "pos": "N",
+      "ayah_id": "80:31",
+      "ayah_arabic": "وَفَٰكِهَةࣰ وَأَبࣰّ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Abasa",
+      "literal_gloss": "And fruits",
+      "translations": {
+        "saheeh": "And fruit and grass -",
+        "pickthall": "And fruits and grasses:",
+        "khattab": "and fruit and fodder—",
+        "arberry": "and fruits, and pastures,"
+      }
+    },
+    {
+      "location": [
+        83,
+        31,
+        6
+      ],
+      "form_arabic": "فَكِهِينَ",
+      "lemma": "fakihiyn",
+      "lemma_arabic": "فَكِهِين",
+      "pos": "N",
+      "ayah_id": "83:31",
+      "ayah_arabic": "وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mutaffifin",
+      "literal_gloss": "jesting",
+      "translations": {
+        "saheeh": "And when they returned to their people, they would return jesting.",
+        "pickthall": "And when they returned to their own folk, they returned jesting;",
+        "khattab": "and muse ˹over these exploits˺ upon returning to their own people",
+        "arberry": "and when they returned to their people they returned blithely,"
+      }
+    }
+  ]
+}

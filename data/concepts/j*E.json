@@ -1,0 +1,398 @@
+{
+  "root": "j*E",
+  "root_arabic": "جذع",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "ji*oE",
+      "lemma_arabic": "جِذْع",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        19,
+        23,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            19,
+            23,
+            4
+          ],
+          "form_arabic": "جِذْعِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            19,
+            25,
+            3
+          ],
+          "form_arabic": "بِجِذْعِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            20,
+            71,
+            20
+          ],
+          "form_arabic": "جُذُوعِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "nxl",
+      "root_arabic": "نخل",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        19,
+        23
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        19,
+        23
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        19,
+        23
+      ]
+    },
+    {
+      "root": "sqT",
+      "root_arabic": "سقط",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        19,
+        25
+      ]
+    },
+    {
+      "root": "jny",
+      "root_arabic": "جني",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        19,
+        25
+      ]
+    },
+    {
+      "root": "hzz",
+      "root_arabic": "هزز",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        19,
+        25
+      ]
+    },
+    {
+      "root": "rTb",
+      "root_arabic": "رطب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        19,
+        25
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "sHr",
+      "root_arabic": "سحر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "qTE",
+      "root_arabic": "قطع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "bqy",
+      "root_arabic": "بقي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "Slb",
+      "root_arabic": "صلب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        20,
+        71
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        19,
+        23
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        19,
+        23
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        19,
+        23
+      ]
+    },
+    {
+      "root": "nsy",
+      "root_arabic": "نسي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        19,
+        23
+      ]
+    },
+    {
+      "root": "mxD",
+      "root_arabic": "مخض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        19,
+        23
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 19,
+        "name_english": "Maryam",
+        "name_arabic": "سُورَةُ مَرۡيَمَ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 20,
+        "name_english": "Taa-Haa",
+        "name_arabic": "سُورَةُ طه",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        19,
+        23,
+        4
+      ],
+      "form_arabic": "جِذْعِ",
+      "lemma": "ji*oE",
+      "lemma_arabic": "جِذْع",
+      "pos": "N",
+      "ayah_id": "19:23",
+      "ayah_arabic": "فَأَجَآءَهَا ٱلۡمَخَاضُ إِلَىٰ جِذۡعِ ٱلنَّخۡلَةِ قَالَتۡ يَٰلَيۡتَنِي مِتُّ قَبۡلَ هَٰذَا وَكُنتُ نَسۡيࣰ ا مَّنسِيࣰّ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Maryam",
+      "literal_gloss": "(the) trunk",
+      "translations": {
+        "saheeh": "And the pains of childbirth drove her to the trunk of a palm tree. She said, \"Oh, I wish I had died before this and was in oblivion, forgotten.\"",
+        "pickthall": "And the pangs of childbirth drove her unto the trunk of the palm-tree. She said: Oh, would that I had died ere this and had become a thing of naught, forgotten!",
+        "khattab": "Then the pains of labour drove her to the trunk of a palm tree. She cried, “Alas! I wish I had died before this, and was a thing long forgotten!”",
+        "arberry": "And the birthpangs surprised her by the trunk of the palm-tree. She said, 'Would I had died ere this, and become a thing forgotten!'"
+      }
+    },
+    {
+      "location": [
+        19,
+        25,
+        3
+      ],
+      "form_arabic": "بِجِذْعِ",
+      "lemma": "ji*oE",
+      "lemma_arabic": "جِذْع",
+      "pos": "N",
+      "ayah_id": "19:25",
+      "ayah_arabic": "وَهُزِّيٓ إِلَيۡكِ بِجِذۡعِ ٱلنَّخۡلَةِ تُسَٰقِطۡ عَلَيۡكِ رُطَبࣰ ا جَنِيࣰّ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Maryam",
+      "literal_gloss": "(the) trunk",
+      "translations": {
+        "saheeh": "And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.",
+        "pickthall": "And shake the trunk of the palm-tree toward thee, thou wilt cause ripe dates to fall upon thee.",
+        "khattab": "And shake the trunk of this palm tree towards you, it will drop fresh, ripe dates upon you",
+        "arberry": "Shake also to thee the palm-trunk, and there shall come tumbling upon thee dates fresh and ripe."
+      }
+    },
+    {
+      "location": [
+        20,
+        71,
+        20
+      ],
+      "form_arabic": "جُذُوعِ",
+      "lemma": "ji*oE",
+      "lemma_arabic": "جِذْع",
+      "pos": "N",
+      "ayah_id": "20:71",
+      "ayah_arabic": "قَالَ ءَامَنتُمۡ لَهُۥ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِي عَلَّمَكُمُ ٱلسِّحۡرَۖ فَلَأُقَطِّعَنَّ أَيۡدِيَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَٰفࣲ وَلَأُصَلِّبَنَّكُمۡ فِي جُذُوعِ ٱلنَّخۡلِ وَلَتَعۡلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابࣰ ا وَأَبۡقَىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "(the) trunks",
+      "translations": {
+        "saheeh": "[Pharaoh] said, \"You believed him before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring.\"",
+        "pickthall": "(Pharaoh) said: Ye put faith in him before I give you leave. Lo! he is your chief who taught you magic. Now surely I shall cut off your hands and your feet alternately, and I shall crucify you on the trunks of palm trees, and ye shall know for certain which of us hath sterner and more lasting punishment.",
+        "khattab": "Pharaoh threatened, “How dare you believe in him before I give you permission? He must be your master who taught you magic. I will certainly cut off your hands and feet on opposite sides, and crucify you on the trunks of palm trees. You will really see whose punishment is more severe and more lasting.”",
+        "arberry": "Pharaoh said, 'Have you believed him before I gave you leave? Why, he is the chief of you, the same that taught you sorcery; I shall assuredly cut off alternately your hands and feet, then I shall crucify you upon the trunks of palm-trees; you shall know of a certainty which of us is more terrible in chastisement, and more abiding.'"
+      }
+    }
+  ]
+}

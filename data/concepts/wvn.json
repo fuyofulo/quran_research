@@ -1,0 +1,499 @@
+{
+  "root": "wvn",
+  "root_arabic": "وثن",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">awova`n",
+      "lemma_arabic": "أَوْثَٰن",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        22,
+        30,
+        21
+      ],
+      "occurrences": [
+        {
+          "location": [
+            22,
+            30,
+            21
+          ],
+          "form_arabic": "ٱلْأَوْثَٰنِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            29,
+            17,
+            6
+          ],
+          "form_arabic": "أَوْثَٰنًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            29,
+            25,
+            7
+          ],
+          "form_arabic": "أَوْثَٰنًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        29,
+        17
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "Awy",
+      "root_arabic": "اوي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "lEn",
+      "root_arabic": "لعن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "wdd",
+      "root_arabic": "ودد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        25
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "zwr",
+      "root_arabic": "زور",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "rjs",
+      "root_arabic": "رجس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "jnb",
+      "root_arabic": "جنب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "tlw",
+      "root_arabic": "تلو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        30
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        17
+      ]
+    },
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        17
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        17
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        17
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        17
+      ]
+    },
+    {
+      "root": "mlk",
+      "root_arabic": "ملك",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        17
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        17
+      ]
+    },
+    {
+      "root": "Afk",
+      "root_arabic": "افك",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        29,
+        17
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 29,
+        "name_english": "Al-Ankaboot",
+        "name_arabic": "سُورَةُ العَنكَبُوتِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        22,
+        30,
+        21
+      ],
+      "form_arabic": "ٱلْأَوْثَٰنِ",
+      "lemma": ">awova`n",
+      "lemma_arabic": "أَوْثَٰن",
+      "pos": "N",
+      "ayah_id": "22:30",
+      "ayah_arabic": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرࣱ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "the idols",
+      "translations": {
+        "saheeh": "That [has been commanded], and whoever honors the sacred ordinances of Allah - it is best for him in the sight of his Lord. And permitted to you are the grazing livestock, except what is recited to you. So avoid the uncleanliness of idols and avoid false statement,",
+        "pickthall": "That (is the command). And whoso magnifieth the sacred things of Allah, it will be well for him in the sight of his Lord. The cattle are lawful unto you save that which hath been told you. So shun the filth of idols, and shun lying speech,",
+        "khattab": "That is so. And whoever honours the rituals of Allah, it is best for them in the sight of their Lord. The ˹meat of˺ cattle has been made lawful for you, except what has ˹already˺ been recited to you. So shun the impurity of idolatry, and shun words of falsehood",
+        "arberry": "All that; and whosoever venerates the sacred things of God, it shall be better for him with his Lord. And permitted to you are the flocks, except that which is recited to you. And eschew the abomination of idols, and eschew the speaking of falsehood,"
+      }
+    },
+    {
+      "location": [
+        29,
+        17,
+        6
+      ],
+      "form_arabic": "أَوْثَٰنًا",
+      "lemma": ">awova`n",
+      "lemma_arabic": "أَوْثَٰن",
+      "pos": "N",
+      "ayah_id": "29:17",
+      "ayah_arabic": "إِنَّمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ أَوۡثَٰنࣰ ا وَتَخۡلُقُونَ إِفۡكًاۚ إِنَّ ٱلَّذِينَ تَعۡبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمۡلِكُونَ لَكُمۡ رِزۡقࣰ ا فَٱبۡتَغُواْ عِندَ ٱللَّهِ ٱلرِّزۡقَ وَٱعۡبُدُوهُ وَٱشۡكُرُواْ لَهُۥٓۖ إِلَيۡهِ تُرۡجَعُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ankaboot",
+      "literal_gloss": "idols",
+      "translations": {
+        "saheeh": "You only worship, besides Allah, idols, and you produce a falsehood. Indeed, those you worship besides Allah do not possess for you [the power of] provision. So seek from Allah provision and worship Him and be grateful to Him. To Him you will be returned.\"",
+        "pickthall": "Ye serve instead of Allah only idols, and ye only invent a lie. Lo! those whom ye serve instead of Allah own no provision for you. So seek your provision from Allah, and serve Him, and give thanks unto Him, (for) unto Him ye will be brought back.",
+        "khattab": "You worship besides Allah nothing but idols, simply creating lies ˹about them˺. Those you worship besides Allah certainly cannot give you any provision. So seek provision from Allah ˹alone˺, worship Him, and be grateful to Him. To Him you will ˹all˺ be returned",
+        "arberry": "You only serve, apart from God, idols and you create a calumny; those you serve, apart from God, have no power to provide for you. So seek after your provision with God, and serve Him, and be thankful to Him; unto Him you shall be returned."
+      }
+    },
+    {
+      "location": [
+        29,
+        25,
+        7
+      ],
+      "form_arabic": "أَوْثَٰنًا",
+      "lemma": ">awova`n",
+      "lemma_arabic": "أَوْثَٰن",
+      "pos": "N",
+      "ayah_id": "29:25",
+      "ayah_arabic": "وَقَالَ إِنَّمَا ٱتَّخَذۡتُم مِّن دُونِ ٱللَّهِ أَوۡثَٰنࣰ ا مَّوَدَّةَ بَيۡنِكُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ ثُمَّ يَوۡمَ ٱلۡقِيَٰمَةِ يَكۡفُرُ بَعۡضُكُم بِبَعۡضࣲ وَيَلۡعَنُ بَعۡضُكُم بَعۡضࣰ ا وَمَأۡوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ankaboot",
+      "literal_gloss": "idols",
+      "translations": {
+        "saheeh": "And [Abraham] said, \"You have only taken, other than Allah, idols as [a bond of] affection among you in worldly life. Then on the Day of Resurrection you will deny one another and curse one another, and your refuge will be the Fire, and you will not have any helpers.\"",
+        "pickthall": "He said: Ye have chosen only idols instead of Allah. The love between you is only in the life of the world. Then on the Day of Resurrection ye will deny each other and curse each other, and your abode will be the Fire, and ye will have no helpers.",
+        "khattab": "He said ˹to his people˺, “You have taken idols ˹for worship˺ instead of Allah, only to keep ˹the bond of˺ harmony among yourselves in this worldly life. But on the Day of Judgment you will disown and curse one another. Your home will be the Fire, and you will have no helper!”",
+        "arberry": "And he said, 'You have only taken to yourselves idols, apart from God, as a mark of mutual love between you in the present life; then upon the Day of Resurrection you will deny one another, and you will curse one another, and your refuge will be the Fire, and you will have no helpers.'"
+      }
+    }
+  ]
+}

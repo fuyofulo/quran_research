@@ -1,0 +1,197 @@
+{
+  "root": "rss",
+  "root_arabic": "رسس",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "r~as~",
+      "lemma_arabic": "رَّسّ",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        25,
+        38,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            25,
+            38,
+            4
+          ],
+          "form_arabic": "ٱلرَّسِّ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            50,
+            12,
+            6
+          ],
+          "form_arabic": "ٱلرَّسِّ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "SHb",
+      "root_arabic": "صحب",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        25,
+        38
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        50,
+        12
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        50,
+        12
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        50,
+        12
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        38
+      ]
+    },
+    {
+      "root": "qrn",
+      "root_arabic": "قرن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        38
+      ]
+    },
+    {
+      "root": "Ewd",
+      "root_arabic": "عود",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        38
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        38
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 25,
+        "name_english": "Al-Furqaan",
+        "name_arabic": "سُورَةُ الفُرۡقَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 50,
+        "name_english": "Qaaf",
+        "name_arabic": "سُورَةُ قٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        25,
+        38,
+        4
+      ],
+      "form_arabic": "ٱلرَّسِّ",
+      "lemma": "r~as~",
+      "lemma_arabic": "رَّسّ",
+      "pos": "N",
+      "ayah_id": "25:38",
+      "ayah_arabic": "وَعَادࣰ ا وَثَمُودَاْ وَأَصۡحَٰبَ ٱلرَّسِّ وَقُرُونَۢا بَيۡنَ ذَٰلِكَ كَثِيرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "(of) Ar-rass",
+      "translations": {
+        "saheeh": "And [We destroyed] 'Aad and Thamud and the companions of the well and many generations between them.",
+        "pickthall": "And (the tribes of) A'ad and Thamud, and the dwellers in Ar-Rass, and many generations in between.",
+        "khattab": "Also ˹We destroyed˺ ’Ȃd, Thamûd, and the people of the Water-pit, as well as many peoples in between",
+        "arberry": "And Ad, and Thamood, and the men of Er-Rass, and between that generations a many,"
+      }
+    },
+    {
+      "location": [
+        50,
+        12,
+        6
+      ],
+      "form_arabic": "ٱلرَّسِّ",
+      "lemma": "r~as~",
+      "lemma_arabic": "رَّسّ",
+      "pos": "N",
+      "ayah_id": "50:12",
+      "ayah_arabic": "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحࣲ وَأَصۡحَٰبُ ٱلرَّسِّ وَثَمُودُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Qaaf",
+      "literal_gloss": "(of) Ar-Raas",
+      "translations": {
+        "saheeh": "The people of Noah denied before them, and the companions of the well and Thamud",
+        "pickthall": "The folk of Noah denied (the truth) before them, and (so did) the dwellers at Ar-Rass and (the tribe of) Thamud,",
+        "khattab": "Before them, the people of Noah denied ˹the truth,˺ as did the people of the Water-pit, Thamûd",
+        "arberry": "Cried lies before them the people of Noah and the men of Er-Rass, and Thamood,"
+      }
+    }
+  ]
+}

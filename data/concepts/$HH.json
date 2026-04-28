@@ -1,0 +1,676 @@
+{
+  "root": "$HH",
+  "root_arabic": "شحح",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 1,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "N": 3,
+      "ADJ": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "$uH~",
+      "lemma_arabic": "شُحّ",
+      "count": 5,
+      "pos_distribution": {
+        "N": 3,
+        "ADJ": 2
+      },
+      "first_occurrence": [
+        4,
+        128,
+        20
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            128,
+            20
+          ],
+          "form_arabic": "ٱلشُّحَّ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            33,
+            19,
+            1
+          ],
+          "form_arabic": "أَشِحَّةً",
+          "pos": "ADJ"
+        },
+        {
+          "location": [
+            33,
+            19,
+            22
+          ],
+          "form_arabic": "أَشِحَّةً",
+          "pos": "ADJ"
+        },
+        {
+          "location": [
+            59,
+            9,
+            27
+          ],
+          "form_arabic": "شُحَّ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            64,
+            16,
+            12
+          ],
+          "form_arabic": "شُحَّ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "dwr",
+      "root_arabic": "دور",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "flH",
+      "root_arabic": "فلح",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "ErD",
+      "root_arabic": "عرض",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "bEl",
+      "root_arabic": "بعل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "mrA",
+      "root_arabic": "مرا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "xbr",
+      "root_arabic": "خبر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "n$z",
+      "root_arabic": "نشز",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "HDr",
+      "root_arabic": "حضر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        4,
+        128
+      ]
+    },
+    {
+      "root": "Sdr",
+      "root_arabic": "صدر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Avr",
+      "root_arabic": "اثر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "bwA",
+      "root_arabic": "بوا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Hwj",
+      "root_arabic": "حوج",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "hjr",
+      "root_arabic": "هجر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "xSS",
+      "root_arabic": "خصص",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "g$w",
+      "root_arabic": "غشو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "Hdd",
+      "root_arabic": "حدد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "HbT",
+      "root_arabic": "حبط",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "ysr",
+      "root_arabic": "يسر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "Eyn",
+      "root_arabic": "عين",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "lsn",
+      "root_arabic": "لسن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "slq",
+      "root_arabic": "سلق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        19
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        64,
+        16
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        64,
+        16
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        64,
+        16
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 33,
+        "name_english": "Al-Ahzaab",
+        "name_arabic": "سُورَةُ الأَحۡزَابِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 59,
+        "name_english": "Al-Hashr",
+        "name_arabic": "سُورَةُ الحَشۡرِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 64,
+        "name_english": "At-Taghaabun",
+        "name_arabic": "سُورَةُ التَّغَابُنِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 5
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        128,
+        20
+      ],
+      "form_arabic": "ٱلشُّحَّ",
+      "lemma": "$uH~",
+      "lemma_arabic": "شُحّ",
+      "pos": "N",
+      "ayah_id": "4:128",
+      "ayah_arabic": "وَإِنِ ٱمۡرَأَةٌ خَافَتۡ مِنۢ بَعۡلِهَا نُشُوزًا أَوۡ إِعۡرَاضࣰ ا فَلَا جُنَاحَ عَلَيۡهِمَآ أَن يُصۡلِحَا بَيۡنَهُمَا صُلۡحࣰ اۚ وَٱلصُّلۡحُ خَيۡرࣱۗ وَأُحۡضِرَتِ ٱلۡأَنفُسُ ٱلشُّحَّۚ وَإِن تُحۡسِنُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِيرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(by) greed",
+      "translations": {
+        "saheeh": "And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them - and settlement is best. And present in [human] souls is stinginess. But if you do good and fear Allah - then indeed Allah is ever, with what you do, Acquainted.",
+        "pickthall": "If a woman feareth ill treatment from her husband, or desertion, it is no sin for them twain if they make terms of peace between themselves. Peace is better. But greed hath been made present in the minds (of men). If ye do good and keep from evil, lo! Allah is ever Informed of what ye do.",
+        "khattab": "If a woman fears indifference or neglect from her husband, there is no blame on either of them if they seek ˹fair˺ settlement, which is best. Humans are ever inclined to selfishness. But if you are gracious and mindful ˹of Allah˺, surely Allah is All-Aware of what you do",
+        "arberry": "If a woman fear rebelliousness or aversion in her husband, there is no fault in them if the couple set things right between them; right settlement is better; and souls are very prone to avarice. If you do good and are godfearing, surely God is aware of the things you do."
+      }
+    },
+    {
+      "location": [
+        33,
+        19,
+        1
+      ],
+      "form_arabic": "أَشِحَّةً",
+      "lemma": "$uH~",
+      "lemma_arabic": "شُحّ",
+      "pos": "ADJ",
+      "ayah_id": "33:19",
+      "ayah_arabic": "أَشِحَّةً عَلَيۡكُمۡۖ فَإِذَا جَآءَ ٱلۡخَوۡفُ رَأَيۡتَهُمۡ يَنظُرُونَ إِلَيۡكَ تَدُورُ أَعۡيُنُهُمۡ كَٱلَّذِي يُغۡشَىٰ عَلَيۡهِ مِنَ ٱلۡمَوۡتِۖ فَإِذَا ذَهَبَ ٱلۡخَوۡفُ سَلَقُوكُم بِأَلۡسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلۡخَيۡرِۚ أُوْلَٰٓئِكَ لَمۡ يُؤۡمِنُواْ فَأَحۡبَطَ ٱللَّهُ أَعۡمَٰلَهُمۡۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "Miserly",
+      "translations": {
+        "saheeh": "Indisposed toward you. And when fear comes, you see them looking at you, their eyes revolving like one being overcome by death. But when fear departs, they lash you with sharp tongues, indisposed toward [any] good. Those have not believed, so Allah has rendered their deeds worthless, and ever is that, for Allah, easy.",
+        "pickthall": "Being sparing of their help to you (believers). But when the fear cometh, then thou (Muhammad) seest them regarding thee with rolling eyes like one who fainteth unto death. Then, when the fear departeth, they scald you with sharp tongues in their greed for wealth (from the spoil). Such have not believed. Therefor Allah maketh their deeds fruitless. And that is easy for Allah.",
+        "khattab": "˹They are˺ totally unwilling to assist you. When danger comes, you see them staring at you with their eyes rolling like someone in the throes of death. But once the danger is over, they slash you with razor-sharp tongues, ravenous for ˹worldly˺ gains. Such people have not ˹truly˺ believed, so Allah has rendered their deeds void. And that is easy for Allah",
+        "arberry": "being niggardly towards you. When fear comes upon them, thou seest them looking at thee, their eyes rolling like one who swoons of death; but when the fear departs, they flay you with sharp tongues, being niggardly to possess the good things. Those have never believed; God has made their works to fail; and that is easy for God."
+      }
+    },
+    {
+      "location": [
+        33,
+        19,
+        22
+      ],
+      "form_arabic": "أَشِحَّةً",
+      "lemma": "$uH~",
+      "lemma_arabic": "شُحّ",
+      "pos": "ADJ",
+      "ayah_id": "33:19",
+      "ayah_arabic": "أَشِحَّةً عَلَيۡكُمۡۖ فَإِذَا جَآءَ ٱلۡخَوۡفُ رَأَيۡتَهُمۡ يَنظُرُونَ إِلَيۡكَ تَدُورُ أَعۡيُنُهُمۡ كَٱلَّذِي يُغۡشَىٰ عَلَيۡهِ مِنَ ٱلۡمَوۡتِۖ فَإِذَا ذَهَبَ ٱلۡخَوۡفُ سَلَقُوكُم بِأَلۡسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلۡخَيۡرِۚ أُوْلَٰٓئِكَ لَمۡ يُؤۡمِنُواْ فَأَحۡبَطَ ٱللَّهُ أَعۡمَٰلَهُمۡۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "miserly",
+      "translations": {
+        "saheeh": "Indisposed toward you. And when fear comes, you see them looking at you, their eyes revolving like one being overcome by death. But when fear departs, they lash you with sharp tongues, indisposed toward [any] good. Those have not believed, so Allah has rendered their deeds worthless, and ever is that, for Allah, easy.",
+        "pickthall": "Being sparing of their help to you (believers). But when the fear cometh, then thou (Muhammad) seest them regarding thee with rolling eyes like one who fainteth unto death. Then, when the fear departeth, they scald you with sharp tongues in their greed for wealth (from the spoil). Such have not believed. Therefor Allah maketh their deeds fruitless. And that is easy for Allah.",
+        "khattab": "˹They are˺ totally unwilling to assist you. When danger comes, you see them staring at you with their eyes rolling like someone in the throes of death. But once the danger is over, they slash you with razor-sharp tongues, ravenous for ˹worldly˺ gains. Such people have not ˹truly˺ believed, so Allah has rendered their deeds void. And that is easy for Allah",
+        "arberry": "being niggardly towards you. When fear comes upon them, thou seest them looking at thee, their eyes rolling like one who swoons of death; but when the fear departs, they flay you with sharp tongues, being niggardly to possess the good things. Those have never believed; God has made their works to fail; and that is easy for God."
+      }
+    },
+    {
+      "location": [
+        59,
+        9,
+        27
+      ],
+      "form_arabic": "شُحَّ",
+      "lemma": "$uH~",
+      "lemma_arabic": "شُحّ",
+      "pos": "N",
+      "ayah_id": "59:9",
+      "ayah_arabic": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلۡإِيمَٰنَ مِن قَبۡلِهِمۡ يُحِبُّونَ مَنۡ هَاجَرَ إِلَيۡهِمۡ وَلَا يَجِدُونَ فِي صُدُورِهِمۡ حَاجَةࣰ مِّمَّآ أُوتُواْ وَيُؤۡثِرُونَ عَلَىٰٓ أَنفُسِهِمۡ وَلَوۡ كَانَ بِهِمۡ خَصَاصَةࣱۚ وَمَن يُوقَ شُحَّ نَفۡسِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hashr",
+      "literal_gloss": "(from) stinginess",
+      "translations": {
+        "saheeh": "And [also for] those who were settled in al-Madinah and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what the emigrants were given but give [them] preference over themselves, even though they are in privation. And whoever is protected from the stinginess of his soul - it is those who will be the successful.",
+        "pickthall": "Those who entered the city and the faith before them love those who flee unto them for refuge, and find in their breasts no need for that which hath been given them, but prefer (the fugitives) above themselves though poverty become their lot. And whoso is saved from his own avarice - such are they who are successful.",
+        "khattab": "As for those who had settled in the city and ˹embraced˺ the faith before ˹the arrival of˺ the emigrants, they love whoever immigrates to them, never having a desire in their hearts for whatever ˹of the gains˺ is given to the emigrants. They give ˹the emigrants˺ preference over themselves even though they may be in need. And whoever is saved from the selfishness of their own souls, it is they who are ˹truly˺ successful",
+        "arberry": "And those who made their dwelling in the abode, and in belief, before them; love whosoever has emigrated to them, not finding in their breasts any need for what they have been given, and preferring others above themselves, even though poverty be their portion. And whoso is guarded against the avarice of his own soul, those -- they are the prosperers."
+      }
+    },
+    {
+      "location": [
+        64,
+        16,
+        12
+      ],
+      "form_arabic": "شُحَّ",
+      "lemma": "$uH~",
+      "lemma_arabic": "شُحّ",
+      "pos": "N",
+      "ayah_id": "64:16",
+      "ayah_arabic": "فَٱتَّقُواْ ٱللَّهَ مَا ٱسۡتَطَعۡتُمۡ وَٱسۡمَعُواْ وَأَطِيعُواْ وَأَنفِقُواْ خَيۡرࣰ ا لِّأَنفُسِكُمۡۗ وَمَن يُوقَ شُحَّ نَفۡسِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Taghaabun",
+      "literal_gloss": "(from the) greediness",
+      "translations": {
+        "saheeh": "So fear Allah as much as you are able and listen and obey and spend [in the way of Allah]; it is better for your selves. And whoever is protected from the stinginess of his soul - it is those who will be the successful.",
+        "pickthall": "So keep your duty to Allah as best ye can, and listen, and obey, and spend; that is better for your souls. And whoso is saved from his own greed, such are the successful.",
+        "khattab": "So be mindful of Allah to the best of your ability, hear and obey, and spend in charity—that will be best for you. And whoever is saved from the selfishness of their own souls, it is they who are ˹truly˺ successful",
+        "arberry": "So fear God as far as you are able, and give ear, and obey, and expend well for yourselves. And whosoever is guarded against the avarice of his own soul, those -- they are the prosperers."
+      }
+    }
+  ]
+}

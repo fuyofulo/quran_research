@@ -1,0 +1,604 @@
+{
+  "root": "Amd",
+  "root_arabic": "امد",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 1,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "N": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">amad",
+      "lemma_arabic": "أَمَد",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        3,
+        30,
+        19
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            30,
+            19
+          ],
+          "form_arabic": "أَمَدً[ا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            18,
+            12,
+            9
+          ],
+          "form_arabic": "أَمَدًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            57,
+            16,
+            23
+          ],
+          "form_arabic": "ٱلْأَمَدُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            72,
+            25,
+            11
+          ],
+          "form_arabic": "أَمَدًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        72,
+        25
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        72,
+        25
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        72,
+        25
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        72,
+        25
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        72,
+        25
+      ]
+    },
+    {
+      "root": "dry",
+      "root_arabic": "دري",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        72,
+        25
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "rAf",
+      "root_arabic": "راف",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "HDr",
+      "root_arabic": "حضر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "H*r",
+      "root_arabic": "حذر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "wdd",
+      "root_arabic": "ودد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        30
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        18,
+        12
+      ]
+    },
+    {
+      "root": "HSy",
+      "root_arabic": "حصي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        18,
+        12
+      ]
+    },
+    {
+      "root": "lbv",
+      "root_arabic": "لبث",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        18,
+        12
+      ]
+    },
+    {
+      "root": "Hzb",
+      "root_arabic": "حزب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        18,
+        12
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        18,
+        12
+      ]
+    },
+    {
+      "root": "Any",
+      "root_arabic": "اني",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "fsq",
+      "root_arabic": "فسق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "qsw",
+      "root_arabic": "قسو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "Twl",
+      "root_arabic": "طول",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "x$E",
+      "root_arabic": "خشع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        57,
+        16
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 57,
+        "name_english": "Al-Hadid",
+        "name_arabic": "سُورَةُ الحَدِيدِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 72,
+        "name_english": "Al-Jinn",
+        "name_arabic": "سُورَةُ الجِنِّ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        30,
+        19
+      ],
+      "form_arabic": "أَمَدً[ا",
+      "lemma": ">amad",
+      "lemma_arabic": "أَمَد",
+      "pos": "N",
+      "ayah_id": "3:30",
+      "ayah_arabic": "يَوۡمَ تَجِدُ كُلُّ نَفۡسࣲ مَّا عَمِلَتۡ مِنۡ خَيۡرࣲ مُّحۡضَرࣰ ا وَمَا عَمِلَتۡ مِن سُوٓءࣲ تَوَدُّ لَوۡ أَنَّ بَيۡنَهَا وَبَيۡنَهُۥٓ أَمَدَۢا بَعِيدࣰ اۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَٱللَّهُ رَءُوفُۢ بِٱلۡعِبَادِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "(was) a distance",
+      "translations": {
+        "saheeh": "The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allah warns you of Himself, and Allah is Kind to [His] servants.\"",
+        "pickthall": "On the Day when every soul will find itself confronted with all that it hath done of good and all that it hath done of evil (every soul) will long that there might be a mighty space of distance between it and that (evil). Allah biddeth you beware of Him. And Allah is Full of Pity for (His) bondmen.",
+        "khattab": "˹Watch for˺ the Day when every soul will be presented with whatever good it has done. And it will wish that its misdeeds were far off. And Allah warns you about Himself. And Allah is Ever Gracious to ˹His˺ servants",
+        "arberry": "The day every soul shall find what it has done of good brought forward, and what it has done of evil; it will wish if there were only a far space between it and that day. God warns you that you beware of Him; and God is gentle with His servants."
+      }
+    },
+    {
+      "location": [
+        18,
+        12,
+        9
+      ],
+      "form_arabic": "أَمَدًا",
+      "lemma": ">amad",
+      "lemma_arabic": "أَمَد",
+      "pos": "N",
+      "ayah_id": "18:12",
+      "ayah_arabic": "ثُمَّ بَعَثۡنَٰهُمۡ لِنَعۡلَمَ أَيُّ ٱلۡحِزۡبَيۡنِ أَحۡصَىٰ لِمَا لَبِثُوٓاْ أَمَدࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "(in) time",
+      "translations": {
+        "saheeh": "Then We awakened them that We might show which of the two factions was most precise in calculating what [extent] they had remained in time.",
+        "pickthall": "And afterward We raised them up that We might know which of the two parties would best calculate the time that they had tarried.",
+        "khattab": "then We raised them so We may show which of the two groups would make a better estimation of the length of their stay",
+        "arberry": "Afterwards. We raised them up again, that We might know which of the two parties would better calculate the while they had tarried."
+      }
+    },
+    {
+      "location": [
+        57,
+        16,
+        23
+      ],
+      "form_arabic": "ٱلْأَمَدُ",
+      "lemma": ">amad",
+      "lemma_arabic": "أَمَد",
+      "pos": "N",
+      "ayah_id": "57:16",
+      "ayah_arabic": "۞أَلَمۡ يَأۡنِ لِلَّذِينَ ءَامَنُوٓاْ أَن تَخۡشَعَ قُلُوبُهُمۡ لِذِكۡرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلۡحَقِّ وَلَا يَكُونُواْ كَٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلُ فَطَالَ عَلَيۡهِمُ ٱلۡأَمَدُ فَقَسَتۡ قُلُوبُهُمۡۖ وَكَثِيرࣱ مِّنۡهُمۡ فَٰسِقُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hadid",
+      "literal_gloss": "the term",
+      "translations": {
+        "saheeh": "Has the time not come for those who have believed that their hearts should become humbly submissive at the remembrance of Allah and what has come down of the truth? And let them not be like those who were given the Scripture before, and a long period passed over them, so their hearts hardened; and many of them are defiantly disobedient.",
+        "pickthall": "Is not the time ripe for the hearts of those who believe to submit to Allah's reminder and to the truth which is revealed, that they become not as those who received the scripture of old but the term was prolonged for them and so their hearts were hardened, and many of them are evil-livers.",
+        "khattab": "Has the time not yet come for believers’ hearts to be humbled at the remembrance of Allah and what has been revealed of the truth, and not be like those given the Scripture before—˹those˺ who were spoiled for so long that their hearts became hardened. And many of them are ˹still˺ rebellious",
+        "arberry": "Is it not time that the hearts of those who believe should be humbled to the Remembrance of God and the Truth which He has sent down, and that they should not be as those to whom the Book was given aforetime, and the term seemed over long to them, so that their hearts have become hard, and many of them are ungodly?"
+      }
+    },
+    {
+      "location": [
+        72,
+        25,
+        11
+      ],
+      "form_arabic": "أَمَدًا",
+      "lemma": ">amad",
+      "lemma_arabic": "أَمَد",
+      "pos": "N",
+      "ayah_id": "72:25",
+      "ayah_arabic": "قُلۡ إِنۡ أَدۡرِيٓ أَقَرِيبࣱ مَّا تُوعَدُونَ أَمۡ يَجۡعَلُ لَهُۥ رَبِّيٓ أَمَدًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Jinn",
+      "literal_gloss": "a (distant) term",
+      "translations": {
+        "saheeh": "Say, \"I do not know if what you are promised is near or if my Lord will grant for it a [long] period.\"",
+        "pickthall": "Say (O Muhammad, unto the disbelievers): I know not whether that which ye are promised is nigh, or if my Lord hath set a distant term for it.",
+        "khattab": "Say, “I do not know if what you are promised is near or my Lord has set a distant time for it",
+        "arberry": "Say: 'I do not know whether that which you are promised is nigh, or whether my Lord will appoint for it a space;"
+      }
+    }
+  ]
+}

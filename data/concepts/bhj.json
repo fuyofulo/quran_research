@@ -1,0 +1,612 @@
+{
+  "root": "bhj",
+  "root_arabic": "بهج",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 2,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "ADJ": 2,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "bahiyj",
+      "lemma_arabic": "بَهِيج",
+      "count": 2,
+      "pos_distribution": {
+        "ADJ": 2
+      },
+      "first_occurrence": [
+        22,
+        5,
+        69
+      ],
+      "occurrences": [
+        {
+          "location": [
+            22,
+            5,
+            69
+          ],
+          "form_arabic": "بَهِيجٍ",
+          "pos": "ADJ"
+        },
+        {
+          "location": [
+            50,
+            7,
+            11
+          ],
+          "form_arabic": "بَهِيجٍ",
+          "pos": "ADJ"
+        }
+      ]
+    },
+    {
+      "lemma": "bahojap",
+      "lemma_arabic": "بَهْجَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        27,
+        60,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            27,
+            60,
+            14
+          ],
+          "form_arabic": "بَهْجَةٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "nbt",
+      "root_arabic": "نبت",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "$jr",
+      "root_arabic": "شجر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        27,
+        60
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        27,
+        60
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        27,
+        60
+      ]
+    },
+    {
+      "root": "Edl",
+      "root_arabic": "عدل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        27,
+        60
+      ]
+    },
+    {
+      "root": "Hdq",
+      "root_arabic": "حدق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        27,
+        60
+      ]
+    },
+    {
+      "root": "rsw",
+      "root_arabic": "رسو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        50,
+        7
+      ]
+    },
+    {
+      "root": "mdd",
+      "root_arabic": "مدد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        50,
+        7
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        50,
+        7
+      ]
+    },
+    {
+      "root": "hzz",
+      "root_arabic": "هزز",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "trb",
+      "root_arabic": "ترب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "ryb",
+      "root_arabic": "ريب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "r*l",
+      "root_arabic": "رذل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "Elq",
+      "root_arabic": "علق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "nTf",
+      "root_arabic": "نطف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "Tfl",
+      "root_arabic": "طفل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "mDg",
+      "root_arabic": "مضغ",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "Ajl",
+      "root_arabic": "اجل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "Emr",
+      "root_arabic": "عمر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "rbw",
+      "root_arabic": "ربو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "hmd",
+      "root_arabic": "همد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "qrr",
+      "root_arabic": "قرر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 27,
+        "name_english": "An-Naml",
+        "name_arabic": "سُورَةُ النَّمۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 50,
+        "name_english": "Qaaf",
+        "name_arabic": "سُورَةُ قٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        22,
+        5,
+        69
+      ],
+      "form_arabic": "بَهِيجٍ",
+      "lemma": "bahiyj",
+      "lemma_arabic": "بَهِيج",
+      "pos": "ADJ",
+      "ayah_id": "22:5",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِي رَيۡبࣲ مِّنَ ٱلۡبَعۡثِ فَإِنَّا خَلَقۡنَٰكُم مِّن تُرَابࣲ ثُمَّ مِن نُّطۡفَةࣲ ثُمَّ مِنۡ عَلَقَةࣲ ثُمَّ مِن مُّضۡغَةࣲ مُّخَلَّقَةࣲ وَغَيۡرِ مُخَلَّقَةࣲ لِّنُبَيِّنَ لَكُمۡۚ وَنُقِرُّ فِي ٱلۡأَرۡحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلࣲ مُّسَمࣰّ ى ثُمَّ نُخۡرِجُكُمۡ طِفۡلࣰ ا ثُمَّ لِتَبۡلُغُوٓاْ أَشُدَّكُمۡۖ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرۡذَلِ ٱلۡعُمُرِ لِكَيۡلَا يَعۡلَمَ مِنۢ بَعۡدِ عِلۡمࣲ شَيۡـࣰٔ اۚ وَتَرَى ٱلۡأَرۡضَ هَامِدَةࣰ فَإِذَآ أَنزَلۡنَا عَلَيۡهَا ٱلۡمَآءَ ٱهۡتَزَّتۡ وَرَبَتۡ وَأَنۢبَتَتۡ مِن كُلِّ زَوۡجِۭ بَهِيجࣲ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "beautiful",
+      "translations": {
+        "saheeh": "O People, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.",
+        "pickthall": "O mankind! if ye are in doubt concerning the Resurrection, then lo! We have created you from dust, then from a drop of seed, then from a clot, then from a little lump of flesh shapely and shapeless, that We may make (it) clear for you. And We cause what We will to remain in the wombs for an appointed time, and afterward We bring you forth as infants, then (give you growth) that ye attain your full strength. And among you there is he who dieth (young), and among you there is he who is brought back to the most abject time of life, so that, after knowledge, he knoweth naught. And thou (Muhammad) seest the earth barren, but when We send down water thereon, it doth thrill and swell and put forth every lovely kind (of growth).",
+        "khattab": "O humanity! If you are in doubt about the Resurrection, then ˹know that˺ We did create you from dust, then from a sperm-drop, then ˹developed you into˺ a clinging clot ˹of blood˺, then a lump of flesh—fully formed or unformed—in order to demonstrate ˹Our power˺ to you. ˹Then˺ We settle whatever ˹embryo˺ We will in the womb for an appointed term, then bring you forth as infants, so that you may reach your prime. Some of you ˹may˺ die ˹young˺, while others are left to reach the most feeble stage of life so that they may know nothing after having known much. And you see the earth lifeless, but as soon as We send down rain upon it, it begins to stir ˹to life˺ and swell, producing every type of pleasant plant",
+        "arberry": "O men, if you are in doubt as to the Uprising, surely We created you of dust then of a sperm-drop, then of a blood clot, then of a lump of flesh, formed and unformed that We may make clear to you. And We establish in the wombs what We will, till a stated term, then We deliver you as infants, then that you may come of age; and some of you die, and some of you are kept back unto the vilest state of life, that after knowing somewhat, they may know nothing. And thou beholdest the earth blackened, then, when We send down water upon it, it quivers, and swells, and puts forth herbs of every joyous kind."
+      }
+    },
+    {
+      "location": [
+        27,
+        60,
+        14
+      ],
+      "form_arabic": "بَهْجَةٍ",
+      "lemma": "bahojap",
+      "lemma_arabic": "بَهْجَة",
+      "pos": "N",
+      "ayah_id": "27:60",
+      "ayah_arabic": "أَمَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءࣰ فَأَنۢبَتۡنَا بِهِۦ حَدَآئِقَ ذَاتَ بَهۡجَةࣲ مَّا كَانَ لَكُمۡ أَن تُنۢبِتُواْ شَجَرَهَآۗ أَءِلَٰهࣱ مَّعَ ٱللَّهِۚ بَلۡ هُمۡ قَوۡمࣱ يَعۡدِلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naml",
+      "literal_gloss": "of beauty (and delight)",
+      "translations": {
+        "saheeh": "[More precisely], is He [not best] who created the heavens and the earth and sent down for you rain from the sky, causing to grow thereby gardens of joyful beauty which you could not [otherwise] have grown the trees thereof? Is there a deity with Allah? [No], but they are a people who ascribe equals [to Him].",
+        "pickthall": "Is not He (best) Who created the heavens and the earth, and sendeth down for you water from the sky wherewith We cause to spring forth joyous orchards, whose trees it never hath been yours to cause to grow. Is there any Allah beside Allah? Nay, but they are folk who ascribe equals (unto Him)!",
+        "khattab": "Or ˹ask them,˺ “Who created the heavens and the earth, and sends down rain for you from the sky, by which We cause delightful gardens to grow? You could never cause their trees to grow. Was it another god besides Allah?” Absolutely not! But they are a people who set up equals ˹to Allah˺",
+        "arberry": "He who created the heavens and earth, and sent down for you out of heaven water; and We caused to grow therewith gardens full of loveliness whose trees you could never grow. Is there a god with God? Nay, but they are a people who assign to Him equals!"
+      }
+    },
+    {
+      "location": [
+        50,
+        7,
+        11
+      ],
+      "form_arabic": "بَهِيجٍ",
+      "lemma": "bahiyj",
+      "lemma_arabic": "بَهِيج",
+      "pos": "ADJ",
+      "ayah_id": "50:7",
+      "ayah_arabic": "وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجِۭ بَهِيجࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Qaaf",
+      "literal_gloss": "beautiful",
+      "translations": {
+        "saheeh": "And the earth - We spread it out and cast therein firmly set mountains and made grow therein [something] of every beautiful kind,",
+        "pickthall": "And the earth have We spread out, and have flung firm hills therein, and have caused of every lovely kind to grow thereon,",
+        "khattab": "As for the earth, We spread it out and placed upon it firm mountains, and produced in it every type of pleasant plant—",
+        "arberry": "And the earth -- We stretched it forth, and cast on it firm mountains, and We caused to grow therein of every joyous kind"
+      }
+    }
+  ]
+}

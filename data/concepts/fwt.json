@@ -1,0 +1,683 @@
+{
+  "root": "fwt",
+  "root_arabic": "فوت",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 3,
+    "ayahs": 5,
+    "surahs": 5,
+    "pos_distribution": {
+      "V": 3,
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "faAta",
+      "lemma_arabic": "فَاتَ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        3,
+        153,
+        18
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            153,
+            18
+          ],
+          "form_arabic": "فَاتَكُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            57,
+            23,
+            5
+          ],
+          "form_arabic": "فَاتَكُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            60,
+            11,
+            2
+          ],
+          "form_arabic": "فَاتَكُمْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "fawot",
+      "lemma_arabic": "فَوْت",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        34,
+        51,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            34,
+            51,
+            6
+          ],
+          "form_arabic": "فَوْتَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "tafa`wut",
+      "lemma_arabic": "تَفَٰوُت",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        67,
+        3,
+        12
+      ],
+      "occurrences": [
+        {
+          "location": [
+            67,
+            3,
+            12
+          ],
+          "form_arabic": "تَفَٰوُتٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        57,
+        23
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        34,
+        51
+      ]
+    },
+    {
+      "root": "Eqb",
+      "root_arabic": "عقب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        60,
+        11
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        60,
+        11
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        60,
+        11
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        60,
+        11
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        60,
+        11
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        60,
+        11
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        60,
+        11
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        60,
+        11
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        60,
+        11
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        57,
+        23
+      ]
+    },
+    {
+      "root": "xyl",
+      "root_arabic": "خيل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        57,
+        23
+      ]
+    },
+    {
+      "root": "Asw",
+      "root_arabic": "اسو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        57,
+        23
+      ]
+    },
+    {
+      "root": "fxr",
+      "root_arabic": "فخر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        57,
+        23
+      ]
+    },
+    {
+      "root": "frH",
+      "root_arabic": "فرح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        57,
+        23
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        57,
+        23
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        34,
+        51
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        34,
+        51
+      ]
+    },
+    {
+      "root": "fzE",
+      "root_arabic": "فزع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        34,
+        51
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        34,
+        51
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        3
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        3
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        3
+      ]
+    },
+    {
+      "root": "sbE",
+      "root_arabic": "سبع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        3
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        3
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        3
+      ]
+    },
+    {
+      "root": "fTr",
+      "root_arabic": "فطر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        3
+      ]
+    },
+    {
+      "root": "Tbq",
+      "root_arabic": "طبق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        3
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "SEd",
+      "root_arabic": "صعد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "gmm",
+      "root_arabic": "غمم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "Hzn",
+      "root_arabic": "حزن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "xbr",
+      "root_arabic": "خبر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "vwb",
+      "root_arabic": "ثوب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    },
+    {
+      "root": "lwy",
+      "root_arabic": "لوي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        153
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 34,
+        "name_english": "Saba",
+        "name_arabic": "سُورَةُ سَبَإٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 57,
+        "name_english": "Al-Hadid",
+        "name_arabic": "سُورَةُ الحَدِيدِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 60,
+        "name_english": "Al-Mumtahana",
+        "name_arabic": "سُورَةُ المُمۡتَحنَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 67,
+        "name_english": "Al-Mulk",
+        "name_arabic": "سُورَةُ المُلۡكِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 3,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        153,
+        18
+      ],
+      "form_arabic": "فَاتَكُمْ",
+      "lemma": "faAta",
+      "lemma_arabic": "فَاتَ",
+      "pos": "V",
+      "ayah_id": "3:153",
+      "ayah_arabic": "۞إِذۡ تُصۡعِدُونَ وَلَا تَلۡوُۥنَ عَلَىٰٓ أَحَدࣲ وَٱلرَّسُولُ يَدۡعُوكُمۡ فِيٓ أُخۡرَىٰكُمۡ فَأَثَٰبَكُمۡ غَمَّۢا بِغَمࣲّ لِّكَيۡلَا تَحۡزَنُواْ عَلَىٰ مَا فَاتَكُمۡ وَلَا مَآ أَصَٰبَكُمۡۗ وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "escaped you",
+      "translations": {
+        "saheeh": "[Remember] when you [fled and] climbed [the mountain] without looking aside at anyone while the Messenger was calling you from behind. So Allah repaid you with distress upon distress so you would not grieve for that which had escaped you [of victory and spoils of war] or [for] that which had befallen you [of injury and death]. And Allah is [fully] Acquainted with what you do.",
+        "pickthall": "When ye climbed (the hill) and paid no heed to anyone, while the messenger, in your rear, was calling you (to fight). Therefor He rewarded you grief for (his) grief, that (He might teach) you not to sorrow either for that which ye missed or for that which befell you. Allah is Informed of what ye do.",
+        "khattab": "˹Remember˺ when you were running far away ˹in panic˺—not looking at anyone—while the Messenger was calling to you from behind! So Allah rewarded your disobedience with distress upon distress. Now, do not grieve over the victory you were denied or the injury you suffered. And Allah is All-Aware of what you do",
+        "arberry": "When you were going up, not twisting about for anyone, and the Messenger was calling you in your rear; so He rewarded you with grief on grief that you might not sorrow for what escaped you neither for what smote you; and God is aware of the things you do."
+      }
+    },
+    {
+      "location": [
+        34,
+        51,
+        6
+      ],
+      "form_arabic": "فَوْتَ",
+      "lemma": "fawot",
+      "lemma_arabic": "فَوْت",
+      "pos": "N",
+      "ayah_id": "34:51",
+      "ayah_arabic": "وَلَوۡ تَرَىٰٓ إِذۡ فَزِعُواْ فَلَا فَوۡتَ وَأُخِذُواْ مِن مَّكَانࣲ قَرِيبࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saba",
+      "literal_gloss": "escape",
+      "translations": {
+        "saheeh": "And if you could see when they are terrified but there is no escape, and they will be seized from a place nearby.",
+        "pickthall": "Couldst thou but see when they are terrified with no escape, and are seized from near at hand,",
+        "khattab": "If only you could see when they will be horrified with no escape ˹on Judgment Day˺! And they will be seized from a nearby place",
+        "arberry": "Ah, if thou couldst see when they are terrified, and there is no escape, and they are seized from a place near at hand,"
+      }
+    },
+    {
+      "location": [
+        57,
+        23,
+        5
+      ],
+      "form_arabic": "فَاتَكُمْ",
+      "lemma": "faAta",
+      "lemma_arabic": "فَاتَ",
+      "pos": "V",
+      "ayah_id": "57:23",
+      "ayah_arabic": "لِّكَيۡلَا تَأۡسَوۡاْ عَلَىٰ مَا فَاتَكُمۡ وَلَا تَفۡرَحُواْ بِمَآ ءَاتَىٰكُمۡۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخۡتَالࣲ فَخُورٍ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hadid",
+      "literal_gloss": "has escaped you",
+      "translations": {
+        "saheeh": "In order that you not despair over what has eluded you and not exult [in pride] over what He has given you. And Allah does not like everyone self-deluded and boastful -",
+        "pickthall": "That ye grieve not for the sake of that which hath escaped you, nor yet exult because of that which hath been given. Allah loveth not all prideful boasters,",
+        "khattab": "˹We let you know this˺ so that you neither grieve over what you have missed nor boast over what He has granted you. For Allah does not like whoever is arrogant, boastful—",
+        "arberry": "that you may not grieve for what escapes you, nor rejoice in what has come to you; God loves not any man proud and boastful,"
+      }
+    },
+    {
+      "location": [
+        60,
+        11,
+        2
+      ],
+      "form_arabic": "فَاتَكُمْ",
+      "lemma": "faAta",
+      "lemma_arabic": "فَاتَ",
+      "pos": "V",
+      "ayah_id": "60:11",
+      "ayah_arabic": "وَإِن فَاتَكُمۡ شَيۡءࣱ مِّنۡ أَزۡوَٰجِكُمۡ إِلَى ٱلۡكُفَّارِ فَعَاقَبۡتُمۡ فَـَٔاتُواْ ٱلَّذِينَ ذَهَبَتۡ أَزۡوَٰجُهُم مِّثۡلَ مَآ أَنفَقُواْۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ أَنتُم بِهِۦ مُؤۡمِنُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Mumtahana",
+      "literal_gloss": "have gone from you",
+      "translations": {
+        "saheeh": "And if you have lost any of your wives to the disbelievers and you subsequently obtain [something], then give those whose wives have gone the equivalent of what they had spent. And fear Allah, in whom you are believers.",
+        "pickthall": "And if any of your wives have gone from you unto the disbelievers and afterward ye have your turn (of triumph), then give unto those whose wives have gone the like of that which they have spent, and keep your duty to Allah in Whom ye are believers.",
+        "khattab": "And if any of your wives desert you to the disbelievers, and later you take spoils from them, then pay those whose wives have gone, the equivalent of whatever ˹dowry˺ they had paid. And be mindful of Allah, in Whom you believe",
+        "arberry": "And if any of your wives slips away from you to the unbelievers, and then you retaliate, give those whose wives have gone away the like of what they have expended. And fear God, in whom you believe."
+      }
+    },
+    {
+      "location": [
+        67,
+        3,
+        12
+      ],
+      "form_arabic": "تَفَٰوُتٍ",
+      "lemma": "tafa`wut",
+      "lemma_arabic": "تَفَٰوُت",
+      "pos": "N",
+      "ayah_id": "67:3",
+      "ayah_arabic": "ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتࣲ طِبَاقࣰ اۖ مَّا تَرَىٰ فِي خَلۡقِ ٱلرَّحۡمَٰنِ مِن تَفَٰوُتࣲۖ فَٱرۡجِعِ ٱلۡبَصَرَ هَلۡ تَرَىٰ مِن فُطُورࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mulk",
+      "literal_gloss": "fault",
+      "translations": {
+        "saheeh": "[And] who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks?",
+        "pickthall": "Who hath created seven heavens in harmony. Thou (Muhammad) canst see no fault in the Beneficent One's creation; then look again: Canst thou see any rifts?",
+        "khattab": "˹He is the One˺ Who created seven heavens, one above the other. You will never see any imperfection in the creation of the Most Compassionate. So look again: do you see any flaws",
+        "arberry": "who created seven heavens one upon another. Thou seest not in the creation of the All-merciful any imperfection. Return thy gaze; seest thou any fissure?"
+      }
+    }
+  ]
+}

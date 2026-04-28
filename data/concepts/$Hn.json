@@ -1,0 +1,215 @@
+{
+  "root": "$Hn",
+  "root_arabic": "شحن",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "ma$oHuwn",
+      "lemma_arabic": "مَشْحُون",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        26,
+        119,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            26,
+            119,
+            6
+          ],
+          "form_arabic": "ٱلْمَشْحُونِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            36,
+            41,
+            8
+          ],
+          "form_arabic": "ٱلْمَشْحُونِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            37,
+            140,
+            5
+          ],
+          "form_arabic": "ٱلْمَشْحُونِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "flk",
+      "root_arabic": "فلك",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        26,
+        119
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        36,
+        41
+      ]
+    },
+    {
+      "root": "Hml",
+      "root_arabic": "حمل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        36,
+        41
+      ]
+    },
+    {
+      "root": "*rr",
+      "root_arabic": "ذرر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        36,
+        41
+      ]
+    },
+    {
+      "root": "njw",
+      "root_arabic": "نجو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        26,
+        119
+      ]
+    },
+    {
+      "root": "Abq",
+      "root_arabic": "ابق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        37,
+        140
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 26,
+        "name_english": "Ash-Shu'araa",
+        "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        26,
+        119,
+        6
+      ],
+      "form_arabic": "ٱلْمَشْحُونِ",
+      "lemma": "ma$oHuwn",
+      "lemma_arabic": "مَشْحُون",
+      "pos": "N",
+      "ayah_id": "26:119",
+      "ayah_arabic": "فَأَنجَيۡنَٰهُ وَمَن مَّعَهُۥ فِي ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "laden",
+      "translations": {
+        "saheeh": "So We saved him and those with him in the laden ship.",
+        "pickthall": "And We saved him and those with him in the laden ship.",
+        "khattab": "So We saved him and those with him in the fully loaded Ark",
+        "arberry": "So We delivered him, and those with him, in the laden ship,"
+      }
+    },
+    {
+      "location": [
+        36,
+        41,
+        8
+      ],
+      "form_arabic": "ٱلْمَشْحُونِ",
+      "lemma": "ma$oHuwn",
+      "lemma_arabic": "مَشْحُون",
+      "pos": "N",
+      "ayah_id": "36:41",
+      "ayah_arabic": "وَءَايَةࣱ لَّهُمۡ أَنَّا حَمَلۡنَا ذُرِّيَّتَهُمۡ فِي ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "laden",
+      "translations": {
+        "saheeh": "And a sign for them is that We carried their forefathers in a laden ship.",
+        "pickthall": "And a token unto them is that We bear their offspring in the laden ship,",
+        "khattab": "Another sign for them is that We carried their ancestors ˹with Noah˺ in the fully loaded Ark",
+        "arberry": "And a sign for them is that We carried their seed in the laden ship,"
+      }
+    },
+    {
+      "location": [
+        37,
+        140,
+        5
+      ],
+      "form_arabic": "ٱلْمَشْحُونِ",
+      "lemma": "ma$oHuwn",
+      "lemma_arabic": "مَشْحُون",
+      "pos": "N",
+      "ayah_id": "37:140",
+      "ayah_arabic": "إِذۡ أَبَقَ إِلَى ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "laden",
+      "translations": {
+        "saheeh": "[Mention] when he ran away to the laden ship.",
+        "pickthall": "When he fled unto the laden ship,",
+        "khattab": "˹Remember˺ when he fled to the overloaded ship",
+        "arberry": "when he ran away to the laden ship"
+      }
+    }
+  ]
+}

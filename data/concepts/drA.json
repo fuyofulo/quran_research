@@ -1,0 +1,577 @@
+{
+  "root": "drA",
+  "root_arabic": "درا",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 2,
+    "ayahs": 5,
+    "surahs": 5,
+    "pos_distribution": {
+      "V": 5
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yadora&uA@",
+      "lemma_arabic": "يَدْرَؤُا@",
+      "count": 4,
+      "pos_distribution": {
+        "V": 4
+      },
+      "first_occurrence": [
+        3,
+        168,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            168,
+            10
+          ],
+          "form_arabic": "فَٱدْرَءُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            13,
+            22,
+            13
+          ],
+          "form_arabic": "وَيَدْرَءُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            24,
+            8,
+            1
+          ],
+          "form_arabic": "وَيَدْرَؤُا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            28,
+            54,
+            7
+          ],
+          "form_arabic": "وَيَدْرَءُونَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "{d~a`ra`#o",
+      "lemma_arabic": "ٱدَّٰرَٰ#ْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        2,
+        72,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            72,
+            4
+          ],
+          "form_arabic": "فَٱدَّٰرَٰ#ْتُمْ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        72
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        72
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        72
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        72
+      ]
+    },
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "rbE",
+      "root_arabic": "ربع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        8
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        8
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        8
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        8
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        72
+      ]
+    },
+    {
+      "root": "ktm",
+      "root_arabic": "كتم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        72
+      ]
+    },
+    {
+      "root": "qEd",
+      "root_arabic": "قعد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        168
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        168
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        168
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        168
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        168
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        168
+      ]
+    },
+    {
+      "root": "Ajr",
+      "root_arabic": "اجر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        54
+      ]
+    },
+    {
+      "root": "mrr",
+      "root_arabic": "مرر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        54
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        54
+      ]
+    },
+    {
+      "root": "dwr",
+      "root_arabic": "دور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "srr",
+      "root_arabic": "سرر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "Eln",
+      "root_arabic": "علن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        13,
+        22
+      ]
+    },
+    {
+      "root": "Eqb",
+      "root_arabic": "عقب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        13,
+        22
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 13,
+        "name_english": "Ar-Ra'd",
+        "name_arabic": "سُورَةُ الرَّعۡدِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 28,
+        "name_english": "Al-Qasas",
+        "name_arabic": "سُورَةُ القَصَصِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 4,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        72,
+        4
+      ],
+      "form_arabic": "فَٱدَّٰرَٰ#ْتُمْ",
+      "lemma": "{d~a`ra`#o",
+      "lemma_arabic": "ٱدَّٰرَٰ#ْ",
+      "pos": "V",
+      "ayah_id": "2:72",
+      "ayah_arabic": "وَإِذۡ قَتَلۡتُمۡ نَفۡسࣰ ا فَٱدَّٰرَٰٔتُمۡ فِيهَاۖ وَٱللَّهُ مُخۡرِجࣱ مَّا كُنتُمۡ تَكۡتُمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "then you disputed",
+      "translations": {
+        "saheeh": "And [recall] when you slew a man and disputed over it, but Allah was to bring out that which you were concealing.",
+        "pickthall": "And (remember) when ye slew a man and disagreed concerning it and Allah brought forth that which ye were hiding.",
+        "khattab": "˹This is˺ when a man was killed and you disputed who the killer was, but Allah revealed what you concealed",
+        "arberry": "And when you killed a living soul, and disputed thereon -- and God disclosed what you were hiding --"
+      }
+    },
+    {
+      "location": [
+        3,
+        168,
+        10
+      ],
+      "form_arabic": "فَٱدْرَءُوا@",
+      "lemma": "yadora&uA@",
+      "lemma_arabic": "يَدْرَؤُا@",
+      "pos": "V",
+      "ayah_id": "3:168",
+      "ayah_arabic": "ٱلَّذِينَ قَالُواْ لِإِخۡوَٰنِهِمۡ وَقَعَدُواْ لَوۡ أَطَاعُونَا مَا قُتِلُواْۗ قُلۡ فَٱدۡرَءُواْ عَنۡ أَنفُسِكُمُ ٱلۡمَوۡتَ إِن كُنتُمۡ صَٰدِقِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "Then avert",
+      "translations": {
+        "saheeh": "Those who said about their brothers while sitting [at home], \"If they had obeyed us, they would not have been killed.\" Say, \"Then prevent death from yourselves, if you should be truthful.\"",
+        "pickthall": "Those who, while they sat at home, said of their brethren (who were fighting for the cause of Allah): If they had been guided by us they would not have been slain. Say (unto them, O Muhammad): Then avert death from yourselves if ye are truthful.",
+        "khattab": "Those who sat at home, saying about their brothers, “Had they listened to us, they would not have been killed.” Say, ˹O Prophet,˺ “Try not to die if what you say is true!”",
+        "arberry": "who said of their brothers (and they themselves held back), 'Had they obeyed us, they would not have been slain.' Say: 'Then avert death from yourselves, if you speak truly.'"
+      }
+    },
+    {
+      "location": [
+        13,
+        22,
+        13
+      ],
+      "form_arabic": "وَيَدْرَءُونَ",
+      "lemma": "yadora&uA@",
+      "lemma_arabic": "يَدْرَؤُا@",
+      "pos": "V",
+      "ayah_id": "13:22",
+      "ayah_arabic": "وَٱلَّذِينَ صَبَرُواْ ٱبۡتِغَآءَ وَجۡهِ رَبِّهِمۡ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَنفَقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرࣰّ ا وَعَلَانِيَةࣰ وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ أُوْلَٰٓئِكَ لَهُمۡ عُقۡبَى ٱلدَّارِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Ra'd",
+      "literal_gloss": "and they repel",
+      "translations": {
+        "saheeh": "And those who are patient, seeking the countenance of their Lord, and establish prayer and spend from what We have provided for them secretly and publicly and prevent evil with good - those will have the good consequence of [this] home -",
+        "pickthall": "Such as persevere in seeking their Lord's Countenance and are regular in prayer and spend of that which We bestow upon them secretly and openly, and overcome evil with good. Theirs will be the sequel of the (heavenly) Home,",
+        "khattab": "And ˹they are˺ those who endure patiently, seeking their Lord’s pleasure, establish prayer, donate from what We have provided for them—secretly and openly—and respond to evil with good. It is they who will have the ultimate abode",
+        "arberry": "patient men, desirous of the Face of their Lord, who perform the prayer, and expend of that We have provided them, secretly and in public, and who avert evil with good -- theirs shall be the Ultimate Abode,"
+      }
+    },
+    {
+      "location": [
+        24,
+        8,
+        1
+      ],
+      "form_arabic": "وَيَدْرَؤُا@",
+      "lemma": "yadora&uA@",
+      "lemma_arabic": "يَدْرَؤُا@",
+      "pos": "V",
+      "ayah_id": "24:8",
+      "ayah_arabic": "وَيَدۡرَؤُاْ عَنۡهَا ٱلۡعَذَابَ أَن تَشۡهَدَ أَرۡبَعَ شَهَٰدَٰتِۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلۡكَٰذِبِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "But it would prevent",
+      "translations": {
+        "saheeh": "But it will prevent punishment from her if she gives four testimonies [swearing] by Allah that indeed, he is of the liars.",
+        "pickthall": "And it shall avert the punishment from her if she bear witness before Allah four times that the thing he saith is indeed false,",
+        "khattab": "For her to be spared the punishment, she must swear four times by Allah that he is telling a lie",
+        "arberry": "It shall avert from her the chastisement if she testify by God four times that he is of the liars,"
+      }
+    },
+    {
+      "location": [
+        28,
+        54,
+        7
+      ],
+      "form_arabic": "وَيَدْرَءُونَ",
+      "lemma": "yadora&uA@",
+      "lemma_arabic": "يَدْرَؤُا@",
+      "pos": "V",
+      "ayah_id": "28:54",
+      "ayah_arabic": "أُوْلَٰٓئِكَ يُؤۡتَوۡنَ أَجۡرَهُم مَّرَّتَيۡنِ بِمَا صَبَرُواْ وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qasas",
+      "literal_gloss": "and they repel",
+      "translations": {
+        "saheeh": "Those will be given their reward twice for what they patiently endured and [because] they avert evil through good, and from what We have provided them they spend.",
+        "pickthall": "These will be given their reward twice over, because they are steadfast and repel evil with good, and spend of that wherewith We have provided them,",
+        "khattab": "These ˹believers˺ will be given a double reward for their perseverance, responding to evil with good, and for donating from what We have provided for them",
+        "arberry": "These shall be given their wage twice over for that they patiently endured, and avert evil with good, and expend of that We have provided them."
+      }
+    }
+  ]
+}

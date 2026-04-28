@@ -1,0 +1,626 @@
+{
+  "root": "fr$",
+  "root_arabic": "فرش",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 4,
+    "ayahs": 6,
+    "surahs": 6,
+    "pos_distribution": {
+      "N": 5,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "fira`$",
+      "lemma_arabic": "فِرَٰش",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        2,
+        22,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            22,
+            5
+          ],
+          "form_arabic": "فِرَٰشًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            55,
+            54,
+            3
+          ],
+          "form_arabic": "فُرُشٍ]",
+          "pos": "N"
+        },
+        {
+          "location": [
+            56,
+            34,
+            1
+          ],
+          "form_arabic": "وَفُرُشٍ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "faro$",
+      "lemma_arabic": "فَرْش",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        6,
+        142,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            6,
+            142,
+            4
+          ],
+          "form_arabic": "وَفَرْشًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "fara$o",
+      "lemma_arabic": "فَرَشْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        51,
+        48,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            51,
+            48,
+            2
+          ],
+          "form_arabic": "فَرَشْنَٰهَا",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "faraA$",
+      "lemma_arabic": "فَرَاش",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        101,
+        4,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            101,
+            4,
+            4
+          ],
+          "form_arabic": "كَٱلْفَرَاشِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        142
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        101,
+        4
+      ]
+    },
+    {
+      "root": "bvv",
+      "root_arabic": "بثث",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        101,
+        4
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        101,
+        4
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        101,
+        4
+      ]
+    },
+    {
+      "root": "xTw",
+      "root_arabic": "خطو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        142
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        142
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        142
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        142
+      ]
+    },
+    {
+      "root": "$Tn",
+      "root_arabic": "شطن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        142
+      ]
+    },
+    {
+      "root": "Hml",
+      "root_arabic": "حمل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        142
+      ]
+    },
+    {
+      "root": "Edw",
+      "root_arabic": "عدو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        142
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "vmr",
+      "root_arabic": "ثمر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "ndd",
+      "root_arabic": "ندد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        22
+      ]
+    },
+    {
+      "root": "mhd",
+      "root_arabic": "مهد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        51,
+        48
+      ]
+    },
+    {
+      "root": "rfE",
+      "root_arabic": "رفع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        56,
+        34
+      ]
+    },
+    {
+      "root": "jny",
+      "root_arabic": "جني",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        54
+      ]
+    },
+    {
+      "root": "bTn",
+      "root_arabic": "بطن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        54
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        54
+      ]
+    },
+    {
+      "root": "wkA",
+      "root_arabic": "وكا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        54
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        54
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 51,
+        "name_english": "Adh-Dhaariyat",
+        "name_arabic": "سُورَةُ الذَّارِيَاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 55,
+        "name_english": "Ar-Rahmaan",
+        "name_arabic": "سُورَةُ الرَّحۡمَٰن",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 101,
+        "name_english": "Al-Qaari'a",
+        "name_arabic": "سُورَةُ القَارِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        22,
+        5
+      ],
+      "form_arabic": "فِرَٰشًا",
+      "lemma": "fira`$",
+      "lemma_arabic": "فِرَٰش",
+      "pos": "N",
+      "ayah_id": "2:22",
+      "ayah_arabic": "ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ فِرَٰشࣰ ا وَٱلسَّمَآءَ بِنَآءࣰ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءࣰ فَأَخۡرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزۡقࣰ ا لَّكُمۡۖ فَلَا تَجۡعَلُواْ لِلَّهِ أَندَادࣰ ا وَأَنتُمۡ تَعۡلَمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "a resting place",
+      "translations": {
+        "saheeh": "[He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky, rain and brought forth thereby fruits as provision for you. So do not attribute to Allah equals while you know [that there is nothing similar to Him].",
+        "pickthall": "Who hath appointed the earth a resting-place for you, and the sky a canopy; and causeth water to pour down from the sky, thereby producing fruits as food for you. And do not set up rivals to Allah when ye know (better).",
+        "khattab": "˹He is the One˺ Who has made the earth a place of settlement for you and the sky a canopy; and sends down rain from the sky, causing fruits to grow as a provision for you. So do not knowingly set up equals to Allah ˹in worship˺",
+        "arberry": "who assigned to you the earth for a couch, and heaven for an edifice, and sent down out of heaven water, wherewith He brought forth fruits for your provision; so set not up compeers to God wittingly."
+      }
+    },
+    {
+      "location": [
+        6,
+        142,
+        4
+      ],
+      "form_arabic": "وَفَرْشًا",
+      "lemma": "faro$",
+      "lemma_arabic": "فَرْش",
+      "pos": "N",
+      "ayah_id": "6:142",
+      "ayah_arabic": "وَمِنَ ٱلۡأَنۡعَٰمِ حَمُولَةࣰ وَفَرۡشࣰ اۚ كُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوࣱّ مُّبِينࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "and (some for) meat",
+      "translations": {
+        "saheeh": "And of the grazing livestock are carriers [of burdens] and those [too] small. Eat of what Allah has provided for you and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.",
+        "pickthall": "And of the cattle (He produceth) some for burdens, some for food. Eat of that which Allah hath bestowed upon you, and follow not the footsteps of the devil, for lo! he is an open foe to you.",
+        "khattab": "Some cattle are fit for labour, others are too small. Eat of what Allah has provided for you and do not follow Satan’s footsteps. Certainly, he is your sworn enemy",
+        "arberry": "And of the cattle, for burthen and for slaughter, eat of what God has provided you; and follow not the steps of Satan; he is a manifest foe to you."
+      }
+    },
+    {
+      "location": [
+        51,
+        48,
+        2
+      ],
+      "form_arabic": "فَرَشْنَٰهَا",
+      "lemma": "fara$o",
+      "lemma_arabic": "فَرَشْ",
+      "pos": "V",
+      "ayah_id": "51:48",
+      "ayah_arabic": "وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Adh-Dhaariyat",
+      "literal_gloss": "We have spread it",
+      "translations": {
+        "saheeh": "And the earth We have spread out, and excellent is the preparer.",
+        "pickthall": "And the earth have We laid out, how gracious is the Spreader (thereof)!",
+        "khattab": "As for the earth, We spread it out. How superbly did We smooth it out",
+        "arberry": "And the earth -- We spread it forth; O excellent Smoothers!"
+      }
+    },
+    {
+      "location": [
+        55,
+        54,
+        3
+      ],
+      "form_arabic": "فُرُشٍ]",
+      "lemma": "fira`$",
+      "lemma_arabic": "فِرَٰش",
+      "pos": "N",
+      "ayah_id": "55:54",
+      "ayah_arabic": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقࣲۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانࣲ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "couches",
+      "translations": {
+        "saheeh": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+        "pickthall": "Reclining upon couches lined with silk brocade, the fruit of both the gardens near to hand.",
+        "khattab": "Those ˹believers˺ will recline on furnishings lined with rich brocade. And the fruit of both Gardens will hang within reach",
+        "arberry": "reclining upon couches lined with brocade, the fruits of the gardens nigh to gather --"
+      }
+    },
+    {
+      "location": [
+        56,
+        34,
+        1
+      ],
+      "form_arabic": "وَفُرُشٍ",
+      "lemma": "fira`$",
+      "lemma_arabic": "فِرَٰش",
+      "pos": "N",
+      "ayah_id": "56:34",
+      "ayah_arabic": "وَفُرُشࣲ مَّرۡفُوعَةٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "And (on) couches",
+      "translations": {
+        "saheeh": "And [upon] beds raised high.",
+        "pickthall": "And raised couches;",
+        "khattab": "and elevated furnishings",
+        "arberry": "and upraised couches."
+      }
+    },
+    {
+      "location": [
+        101,
+        4,
+        4
+      ],
+      "form_arabic": "كَٱلْفَرَاشِ",
+      "lemma": "faraA$",
+      "lemma_arabic": "فَرَاش",
+      "pos": "N",
+      "ayah_id": "101:4",
+      "ayah_arabic": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qaari'a",
+      "literal_gloss": "like moths",
+      "translations": {
+        "saheeh": "It is the Day when people will be like moths, dispersed,",
+        "pickthall": "A day wherein mankind will be as thickly-scattered moths",
+        "khattab": "˹It is˺ the Day people will be like scattered moths",
+        "arberry": "The day that men shall be like scattered moths,"
+      }
+    }
+  ]
+}

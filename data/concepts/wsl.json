@@ -1,0 +1,278 @@
+{
+  "root": "wsl",
+  "root_arabic": "وسل",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "wasiylap",
+      "lemma_arabic": "وَسِيلَة",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        5,
+        35,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            35,
+            8
+          ],
+          "form_arabic": "ٱلْوَسِيلَةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            17,
+            57,
+            7
+          ],
+          "form_arabic": "ٱلْوَسِيلَةَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        5,
+        35
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        57
+      ]
+    },
+    {
+      "root": "H*r",
+      "root_arabic": "حذر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        57
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        57
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        57
+      ]
+    },
+    {
+      "root": "rjw",
+      "root_arabic": "رجو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        57
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        57
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        57
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        57
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        57
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        35
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        35
+      ]
+    },
+    {
+      "root": "flH",
+      "root_arabic": "فلح",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        35
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        35
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        35
+      ]
+    },
+    {
+      "root": "jhd",
+      "root_arabic": "جهد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        35
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        5,
+        35,
+        8
+      ],
+      "form_arabic": "ٱلْوَسِيلَةَ",
+      "lemma": "wasiylap",
+      "lemma_arabic": "وَسِيلَة",
+      "pos": "N",
+      "ayah_id": "5:35",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَٱبۡتَغُوٓاْ إِلَيۡهِ ٱلۡوَسِيلَةَ وَجَٰهِدُواْ فِي سَبِيلِهِۦ لَعَلَّكُمۡ تُفۡلِحُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "the means",
+      "translations": {
+        "saheeh": "O you who have believed, fear Allah and seek the means [of nearness] to Him and strive in His cause that you may succeed.",
+        "pickthall": "O ye who believe! Be mindful of your duty to Allah, and seek the way of approach unto Him, and strive in His way in order that ye may succeed.",
+        "khattab": "O believers! Be mindful of Allah and seek what brings you closer to Him and struggle in His Way, so you may be successful",
+        "arberry": "O believers, fear God, and seek the means to come to Him, and struggle in His way; haply you will prosper."
+      }
+    },
+    {
+      "location": [
+        17,
+        57,
+        7
+      ],
+      "form_arabic": "ٱلْوَسِيلَةَ",
+      "lemma": "wasiylap",
+      "lemma_arabic": "وَسِيلَة",
+      "pos": "N",
+      "ayah_id": "17:57",
+      "ayah_arabic": "أُوْلَٰٓئِكَ ٱلَّذِينَ يَدۡعُونَ يَبۡتَغُونَ إِلَىٰ رَبِّهِمُ ٱلۡوَسِيلَةَ أَيُّهُمۡ أَقۡرَبُ وَيَرۡجُونَ رَحۡمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحۡذُورࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "the means of access",
+      "translations": {
+        "saheeh": "Those whom they invoke seek means of access to their Lord, [striving as to] which of them would be nearest, and they hope for His mercy and fear His punishment. Indeed, the punishment of your Lord is ever feared.",
+        "pickthall": "Those unto whom they cry seek the way of approach to their Lord, which of them shall be the nearest; they hope for His mercy and they fear His doom. Lo! the doom of thy Lord is to be shunned.",
+        "khattab": "˹Even˺ the closest ˹to Allah˺ of those invoked would be seeking a way to their Lord, hoping for His mercy, and fearing His punishment. Indeed, your Lord’s torment is fearsome",
+        "arberry": "Those they call upon are themselves seeking the means to come to their Lord, which of them shall be nearer; they hope for His mercy, and fear His chastisement. Surely thy Lord's chastisement is a thing to beware of."
+      }
+    }
+  ]
+}

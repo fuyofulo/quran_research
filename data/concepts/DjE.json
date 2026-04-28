@@ -1,0 +1,726 @@
+{
+  "root": "DjE",
+  "root_arabic": "ضجع",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "maDaAjiE",
+      "lemma_arabic": "مَضَاجِع",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        3,
+        154,
+        62
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            154,
+            62
+          ],
+          "form_arabic": "مَضَاجِعِهِمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            34,
+            28
+          ],
+          "form_arabic": "ٱلْمَضَاجِعِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            32,
+            16,
+            4
+          ],
+          "form_arabic": "ٱلْمَضَاجِعِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "bdw",
+      "root_arabic": "بدو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "hmm",
+      "root_arabic": "همم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "xfy",
+      "root_arabic": "خفي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "jhl",
+      "root_arabic": "جهل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "mHS",
+      "root_arabic": "محص",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "blw",
+      "root_arabic": "بلو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "Znn",
+      "root_arabic": "ظنن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "gmm",
+      "root_arabic": "غمم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "brz",
+      "root_arabic": "برز",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "nEs",
+      "root_arabic": "نعس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "Sdr",
+      "root_arabic": "صدر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "g$w",
+      "root_arabic": "غشو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "byt",
+      "root_arabic": "بيت",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "Twf",
+      "root_arabic": "طوف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        154
+      ]
+    },
+    {
+      "root": "wEZ",
+      "root_arabic": "وعظ",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "HfZ",
+      "root_arabic": "حفظ",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "gyb",
+      "root_arabic": "غيب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "hjr",
+      "root_arabic": "هجر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "n$z",
+      "root_arabic": "نشز",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "qnt",
+      "root_arabic": "قنت",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "Elw",
+      "root_arabic": "علو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        34
+      ]
+    },
+    {
+      "root": "jfw",
+      "root_arabic": "جفو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        16
+      ]
+    },
+    {
+      "root": "TmE",
+      "root_arabic": "طمع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        16
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        16
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        16
+      ]
+    },
+    {
+      "root": "jnb",
+      "root_arabic": "جنب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        16
+      ]
+    },
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        16
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 32,
+        "name_english": "As-Sajda",
+        "name_arabic": "سُورَةُ السَّجۡدَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        154,
+        62
+      ],
+      "form_arabic": "مَضَاجِعِهِمْ",
+      "lemma": "maDaAjiE",
+      "lemma_arabic": "مَضَاجِع",
+      "pos": "N",
+      "ayah_id": "3:154",
+      "ayah_arabic": "ثُمَّ أَنزَلَ عَلَيۡكُم مِّنۢ بَعۡدِ ٱلۡغَمِّ أَمَنَةࣰ نُّعَاسࣰ ا يَغۡشَىٰ طَآئِفَةࣰ مِّنكُمۡۖ وَطَآئِفَةࣱ قَدۡ أَهَمَّتۡهُمۡ أَنفُسُهُمۡ يَظُنُّونَ بِٱللَّهِ غَيۡرَ ٱلۡحَقِّ ظَنَّ ٱلۡجَٰهِلِيَّةِۖ يَقُولُونَ هَل لَّنَا مِنَ ٱلۡأَمۡرِ مِن شَيۡءࣲۗ قُلۡ إِنَّ ٱلۡأَمۡرَ كُلَّهُۥ لِلَّهِۗ يُخۡفُونَ فِيٓ أَنفُسِهِم مَّا لَا يُبۡدُونَ لَكَۖ يَقُولُونَ لَوۡ كَانَ لَنَا مِنَ ٱلۡأَمۡرِ شَيۡءࣱ مَّا قُتِلۡنَا هَٰهُنَاۗ قُل لَّوۡ كُنتُمۡ فِي بُيُوتِكُمۡ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيۡهِمُ ٱلۡقَتۡلُ إِلَىٰ مَضَاجِعِهِمۡۖ وَلِيَبۡتَلِيَ ٱللَّهُ مَا فِي صُدُورِكُمۡ وَلِيُمَحِّصَ مَا فِي قُلُوبِكُمۡۚ وَٱللَّهُ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "their places of death",
+      "translations": {
+        "saheeh": "Then after distress, He sent down upon you security [in the form of] drowsiness, overcoming a faction of you, while another faction worried about themselves, thinking of Allah other than the truth - the thought of ignorance, saying, \"Is there anything for us [to have done] in this matter?\" Say, \"Indeed, the matter belongs completely to Allah.\" They conceal within themselves what they will not reveal to you. They say, \"If there was anything we could have done in the matter, some of us would not have been killed right here.\" Say, \"Even if you had been inside your houses, those decreed to be killed would have come out to their death beds.\" [It was] so that Allah might test what is in your breasts and purify what is in your hearts. And Allah is Knowing of that within the breasts.",
+        "pickthall": "Then, after grief, He sent down security for you. As slumber did it overcome a party of you, while (the other) party, who were anxious on their own account, thought wrongly of Allah, the thought of ignorance. They said: Have we any part in the cause? Say (O Muhammad): The cause belongeth wholly to Allah. They hide within themselves (a thought) which they reveal not unto thee, saying: Had we had any part in the cause we should not have been slain here. Say: Even though ye had been in your houses, those appointed to be slain would have gone forth to the places where they were to lie. (All this hath been) in order that Allah might try what is in your breasts and prove what is in your hearts. Allah is Aware of what is hidden in the breasts (of men).",
+        "khattab": "Then after distress, He sent down serenity in the form of drowsiness overcoming some of you, while others were disturbed by evil thoughts about Allah—the thoughts of ˹pre-Islamic˺ ignorance. They ask, “Do we have a say in the matter?” Say, ˹O Prophet,˺ “All matters are destined by Allah.” They conceal in their hearts what they do not reveal to you. They say ˹to themselves˺, “If we had any say in the matter, none of us would have come to die here.” Say, ˹O Prophet,˺ “Even if you were to remain in your homes, those among you who were destined to be killed would have met the same fate.” Through this, Allah tests what is within you and purifies what is in your hearts. And Allah knows best what is ˹hidden˺ in the heart",
+        "arberry": "Then He sent down upon you, after grief, security -- a slumber overcoming a party of you; and a party themselves had grieved, thinking of God thoughts that were not true such as the pagans thought, saying, 'Have we any part whatever in the affair?' Say: 'The affair belongs to God entirely.' They were concealing in their hearts that they show not to thee, saying, 'Ah, if we had had a part in the affair, never would we have been slain here.' Say: 'Even if you had been in your houses, those for whom slaying was appointed would have sallied forth unto their last couches'; and that God might try what was in your breasts, and that He might prove what was in your hearts; and God knows the thoughts in the breasts."
+      }
+    },
+    {
+      "location": [
+        4,
+        34,
+        28
+      ],
+      "form_arabic": "ٱلْمَضَاجِعِ",
+      "lemma": "maDaAjiE",
+      "lemma_arabic": "مَضَاجِع",
+      "pos": "N",
+      "ayah_id": "4:34",
+      "ayah_arabic": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعۡضَهُمۡ عَلَىٰ بَعۡضࣲ وَبِمَآ أَنفَقُواْ مِنۡ أَمۡوَٰلِهِمۡۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتࣱ لِّلۡغَيۡبِ بِمَا حَفِظَ ٱللَّهُۚ وَٱلَّٰتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهۡجُرُوهُنَّ فِي ٱلۡمَضَاجِعِ وَٱضۡرِبُوهُنَّۖ فَإِنۡ أَطَعۡنَكُمۡ فَلَا تَبۡغُواْ عَلَيۡهِنَّ سَبِيلًاۗ إِنَّ ٱللَّهَ كَانَ عَلِيࣰّ ا كَبِيرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "the bed",
+      "translations": {
+        "saheeh": "Men are in charge of women by [right of] what Allah has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allah would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them. But if they obey you [once more], seek no means against them. Indeed, Allah is ever Exalted and Grand.",
+        "pickthall": "Men are in charge of women, because Allah hath made the one of them to excel the other, and because they spend of their property (for the support of women). So good women are the obedient, guarding in secret that which Allah hath guarded. As for those from whom ye fear rebellion, admonish them and banish them to beds apart, and scourge them. Then if they obey you, seek not a way against them. Lo! Allah is ever High, Exalted, Great.",
+        "khattab": "Men are the caretakers of women, as men have been provisioned by Allah over women and tasked with supporting them financially. And righteous women are devoutly obedient and, when alone, protective of what Allah has entrusted them with. And if you sense ill-conduct from your women, advise them ˹first˺, ˹if they persist,˺ do not share their beds, ˹but if they still persist,˺ then discipline them ˹gently˺. But if they change their ways, do not be unjust to them. Surely Allah is Most High, All-Great",
+        "arberry": "Men are the managers of the affairs of women for that God has preferred in bounty one of them over another, and for that they have expended of their property. Righteous women are therefore obedient, guarding the secret for God's guarding. And those you fear may be rebellious admonish; banish them to their couches, and beat them. If they then obey you, look not for any way against them; God is All-high, All-great."
+      }
+    },
+    {
+      "location": [
+        32,
+        16,
+        4
+      ],
+      "form_arabic": "ٱلْمَضَاجِعِ",
+      "lemma": "maDaAjiE",
+      "lemma_arabic": "مَضَاجِع",
+      "pos": "N",
+      "ayah_id": "32:16",
+      "ayah_arabic": "تَتَجَافَىٰ جُنُوبُهُمۡ عَنِ ٱلۡمَضَاجِعِ يَدۡعُونَ رَبَّهُمۡ خَوۡفࣰ ا وَطَمَعࣰ ا وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Sajda",
+      "literal_gloss": "(their) beds",
+      "translations": {
+        "saheeh": "They arise from [their] beds; they supplicate their Lord in fear and aspiration, and from what We have provided them, they spend.",
+        "pickthall": "Who forsake their beds to cry unto their Lord in fear and hope, and spend of that We have bestowed on them.",
+        "khattab": "They abandon their beds, invoking their Lord with hope and fear, and donate from what We have provided for them",
+        "arberry": "Their sides shun their couches as they call on their Lord in fear and hope; and they expend of that We have provided them."
+      }
+    }
+  ]
+}

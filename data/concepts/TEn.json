@@ -1,0 +1,423 @@
+{
+  "root": "TEn",
+  "root_arabic": "طعن",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 1,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "TaEon",
+      "lemma_arabic": "طَعْن",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        4,
+        46,
+        17
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            46,
+            17
+          ],
+          "form_arabic": "وَطَعْنًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "TaEanu",
+      "lemma_arabic": "طَعَنُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        9,
+        12,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            9,
+            12,
+            7
+          ],
+          "form_arabic": "وَطَعَنُوا@",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "Ehd",
+      "root_arabic": "عهد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "nhy",
+      "root_arabic": "نهي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "nkv",
+      "root_arabic": "نكث",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "ymn",
+      "root_arabic": "يمن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        12
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "Hrf",
+      "root_arabic": "حرف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "ESy",
+      "root_arabic": "عصي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "rEy",
+      "root_arabic": "رعي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "lwy",
+      "root_arabic": "لوي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "lsn",
+      "root_arabic": "لسن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "hwd",
+      "root_arabic": "هود",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "wDE",
+      "root_arabic": "وضع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    },
+    {
+      "root": "lEn",
+      "root_arabic": "لعن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        46
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        46,
+        17
+      ],
+      "form_arabic": "وَطَعْنًا",
+      "lemma": "TaEon",
+      "lemma_arabic": "طَعْن",
+      "pos": "N",
+      "ayah_id": "4:46",
+      "ayah_arabic": "مِّنَ ٱلَّذِينَ هَادُواْ يُحَرِّفُونَ ٱلۡكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعۡنَا وَعَصَيۡنَا وَٱسۡمَعۡ غَيۡرَ مُسۡمَعࣲ وَرَٰعِنَا لَيَّۢا بِأَلۡسِنَتِهِمۡ وَطَعۡنࣰ ا فِي ٱلدِّينِۚ وَلَوۡ أَنَّهُمۡ قَالُواْ سَمِعۡنَا وَأَطَعۡنَا وَٱسۡمَعۡ وَٱنظُرۡنَا لَكَانَ خَيۡرࣰ ا لَّهُمۡ وَأَقۡوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ فَلَا يُؤۡمِنُونَ إِلَّا قَلِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "and defaming",
+      "translations": {
+        "saheeh": "Among the Jews are those who distort words from their [proper] usages and say, \"We hear and disobey\" and \"Hear but be not heard\" and \"Ra'ina,\" twisting their tongues and defaming the religion. And if they had said [instead], \"We hear and obey\" and \"Wait for us [to understand],\" it would have been better for them and more suitable. But Allah has cursed them for their disbelief, so they believe not, except for a few.",
+        "pickthall": "Some of those who are Jews change words from their context and say: \"We hear and disobey; hear thou as one who heareth not\" and \"Listen to us!\" distorting with their tongues and slandering religion. If they had said: \"We hear and we obey: hear thou, and look at us\" it had been better for them, and more upright. But Allah hath cursed them for their disbelief, so they believe not, save a few.",
+        "khattab": "Some Jews take words out of context and say, “We listen and we disobey,” “Hear! May you never hear,” and “Râ’ina!” [Herd us!]—playing with words and discrediting the faith. Had they said ˹courteously˺, “We hear and obey,” “Listen to us,” and “Unẓurna,” [Tend to us!] it would have been better for them and more proper. Allah has condemned them for their disbelief, so they do not believe except for a few",
+        "arberry": "Some of the Jews pervert words from their meanings saying, 'We have heard and we disobey' and 'Hear, and be thou not given to hear' and 'Observe us,' twisting with their tongues and traducing religion. If they had said, 'We have heard and obey' and 'Hear' and 'Regard us,' it would have been better for them, and more upright; but God has cursed them for their unbelief so they believe not except a few."
+      }
+    },
+    {
+      "location": [
+        9,
+        12,
+        7
+      ],
+      "form_arabic": "وَطَعَنُوا@",
+      "lemma": "TaEanu",
+      "lemma_arabic": "طَعَنُ",
+      "pos": "V",
+      "ayah_id": "9:12",
+      "ayah_arabic": "وَإِن نَّكَثُوٓاْ أَيۡمَٰنَهُم مِّنۢ بَعۡدِ عَهۡدِهِمۡ وَطَعَنُواْ فِي دِينِكُمۡ فَقَٰتِلُوٓاْ أَئِمَّةَ ٱلۡكُفۡرِ إِنَّهُمۡ لَآ أَيۡمَٰنَ لَهُمۡ لَعَلَّهُمۡ يَنتَهُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "and defame",
+      "translations": {
+        "saheeh": "And if they break their oaths after their treaty and defame your religion, then fight the leaders of disbelief, for indeed, there are no oaths [sacred] to them; [fight them that] they might cease.",
+        "pickthall": "And if they break their pledges after their treaty (hath been made with you) and assail your religion, then fight the heads of disbelief - Lo! they have no binding oaths - in order that they may desist.",
+        "khattab": "But if they break their oaths after making a pledge and attack your faith, then fight the champions of disbelief—who never honour their oaths—so perhaps they will desist",
+        "arberry": "But if they break their oaths after their covenant and thrust at your religion, then fight the leaders of unbelief; they have no sacred oaths; haply they will give over."
+      }
+    }
+  ]
+}

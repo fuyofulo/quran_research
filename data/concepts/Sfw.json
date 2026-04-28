@@ -1,0 +1,1724 @@
+{
+  "root": "Sfw",
+  "root_arabic": "صفو",
+  "stats": {
+    "occurrences": 17,
+    "lemmas": 5,
+    "ayahs": 16,
+    "surahs": 12,
+    "pos_distribution": {
+      "V": 14,
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "count": 12,
+      "pos_distribution": {
+        "V": 12
+      },
+      "first_occurrence": [
+        2,
+        130,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            130,
+            11
+          ],
+          "form_arabic": "ٱصْطَفَيْنَٰهُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            2,
+            132,
+            9
+          ],
+          "form_arabic": "ٱصْطَفَىٰ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            2,
+            247,
+            29
+          ],
+          "form_arabic": "ٱصْطَفَىٰهُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            3,
+            33,
+            3
+          ],
+          "form_arabic": "ٱصْطَفَىٰ^",
+          "pos": "V"
+        },
+        {
+          "location": [
+            3,
+            42,
+            7
+          ],
+          "form_arabic": "ٱصْطَفَىٰكِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            3,
+            42,
+            9
+          ],
+          "form_arabic": "وَٱصْطَفَىٰكِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            7,
+            144,
+            4
+          ],
+          "form_arabic": "ٱصْطَفَيْتُكَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            22,
+            75,
+            2
+          ],
+          "form_arabic": "يَصْطَفِى",
+          "pos": "V"
+        },
+        {
+          "location": [
+            27,
+            59,
+            8
+          ],
+          "form_arabic": "ٱصْطَفَىٰ^",
+          "pos": "V"
+        },
+        {
+          "location": [
+            35,
+            32,
+            5
+          ],
+          "form_arabic": "ٱصْطَفَيْنَا",
+          "pos": "V"
+        },
+        {
+          "location": [
+            37,
+            153,
+            1
+          ],
+          "form_arabic": "أَصْطَفَى",
+          "pos": "V"
+        },
+        {
+          "location": [
+            39,
+            4,
+            7
+          ],
+          "form_arabic": "لَّٱصْطَفَىٰ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": ">aSofaY`",
+      "lemma_arabic": "أَصْفَىٰ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        17,
+        40,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            17,
+            40,
+            1
+          ],
+          "form_arabic": "أَفَأَصْفَىٰكُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            43,
+            16,
+            6
+          ],
+          "form_arabic": "وَأَصْفَىٰكُم",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "SafowaAn",
+      "lemma_arabic": "صَفْوَان",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        2,
+        264,
+        21
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            264,
+            21
+          ],
+          "form_arabic": "صَفْوَانٍ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "muSoTafayon",
+      "lemma_arabic": "مُصْطَفَيْن",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        38,
+        47,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            38,
+            47,
+            4
+          ],
+          "form_arabic": "ٱلْمُصْطَفَيْنَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "m~uSaf~FY",
+      "lemma_arabic": "مُّصَفًّى",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        47,
+        15,
+        26
+      ],
+      "occurrences": [
+        {
+          "location": [
+            47,
+            15,
+            26
+          ],
+          "form_arabic": "مُّصَفًّى",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 9,
+      "share": 0.5625,
+      "first_together": [
+        2,
+        132
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 5,
+      "share": 0.3125,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 4,
+      "share": 0.25,
+      "first_together": [
+        2,
+        132
+      ]
+    },
+    {
+      "root": "mlk",
+      "root_arabic": "ملك",
+      "ayahs_together": 4,
+      "share": 0.25,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 4,
+      "share": 0.25,
+      "first_together": [
+        7,
+        144
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 3,
+      "share": 0.1875,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 3,
+      "share": 0.1875,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 3,
+      "share": 0.1875,
+      "first_together": [
+        27,
+        59
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 3,
+      "share": 0.1875,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        132
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        7,
+        144
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        27,
+        59
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        39,
+        4
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        17,
+        40
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        3,
+        33
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        132
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        132
+      ]
+    },
+    {
+      "root": "wSy",
+      "root_arabic": "وصي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        132
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        22,
+        75
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        22,
+        75
+      ]
+    },
+    {
+      "root": "Hmd",
+      "root_arabic": "حمد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        27,
+        59
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        27,
+        59
+      ]
+    },
+    {
+      "root": "wbl",
+      "root_arabic": "وبل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "trb",
+      "root_arabic": "ترب",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "A*y",
+      "root_arabic": "اذي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "mnn",
+      "root_arabic": "منن",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "bTl",
+      "root_arabic": "بطل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "trk",
+      "root_arabic": "ترك",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "Sld",
+      "root_arabic": "صلد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        264
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        3,
+        42
+      ]
+    },
+    {
+      "root": "Thr",
+      "root_arabic": "طهر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        3,
+        42
+      ]
+    },
+    {
+      "root": "sbq",
+      "root_arabic": "سبق",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        35,
+        32
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        35,
+        32
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        35,
+        32
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        35,
+        32
+      ]
+    },
+    {
+      "root": "qSd",
+      "root_arabic": "قصد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        35,
+        32
+      ]
+    },
+    {
+      "root": "wrv",
+      "root_arabic": "ورث",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        35,
+        32
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        35,
+        32
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        35,
+        32
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        39,
+        4
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        39,
+        4
+      ]
+    },
+    {
+      "root": "sbH",
+      "root_arabic": "سبح",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        39,
+        4
+      ]
+    },
+    {
+      "root": "qhr",
+      "root_arabic": "قهر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        39,
+        4
+      ]
+    },
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        39,
+        4
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        144
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        144
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        38,
+        47
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "wsE",
+      "root_arabic": "وسع",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "zyd",
+      "root_arabic": "زيد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "Any",
+      "root_arabic": "اني",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "bsT",
+      "root_arabic": "بسط",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "jsm",
+      "root_arabic": "جسم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        247
+      ]
+    },
+    {
+      "root": "Anv",
+      "root_arabic": "انث",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        17,
+        40
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        17,
+        40
+      ]
+    },
+    {
+      "root": "TEm",
+      "root_arabic": "طعم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "Hmm",
+      "root_arabic": "حمم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "l**",
+      "root_arabic": "لذذ",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "lbn",
+      "root_arabic": "لبن",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "vmr",
+      "root_arabic": "ثمر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "qTE",
+      "root_arabic": "قطع",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "sqy",
+      "root_arabic": "سقي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "Esl",
+      "root_arabic": "عسل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "mEy",
+      "root_arabic": "معي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "Asn",
+      "root_arabic": "اسن",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "xmr",
+      "root_arabic": "خمر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "xld",
+      "root_arabic": "خلد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        47,
+        15
+      ]
+    },
+    {
+      "root": "sfh",
+      "root_arabic": "سفه",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "mll",
+      "root_arabic": "ملل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "rgb",
+      "root_arabic": "رغب",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        130
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 4
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 3
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 27,
+        "name_english": "An-Naml",
+        "name_arabic": "سُورَةُ النَّمۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 35,
+        "name_english": "Faatir",
+        "name_arabic": "سُورَةُ فَاطِرٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 38,
+        "name_english": "Saad",
+        "name_arabic": "سُورَةُ صٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 43,
+        "name_english": "Az-Zukhruf",
+        "name_arabic": "سُورَةُ الزُّخۡرُفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 47,
+        "name_english": "Muhammad",
+        "name_arabic": "سُورَةُ مُحَمَّدٍ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 9,
+      "Meccan": 8
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        130,
+        11
+      ],
+      "form_arabic": "ٱصْطَفَيْنَٰهُ",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "2:130",
+      "ayah_arabic": "وَمَن يَرۡغَبُ عَن مِّلَّةِ إِبۡرَٰهِـۧمَ إِلَّا مَن سَفِهَ نَفۡسَهُۥۚ وَلَقَدِ ٱصۡطَفَيۡنَٰهُ فِي ٱلدُّنۡيَاۖ وَإِنَّهُۥ فِي ٱلۡأٓخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "We chose him",
+      "translations": {
+        "saheeh": "And who would be averse to the religion of Abraham except one who makes a fool of himself. And We had chosen him in this world, and indeed he, in the Hereafter, will be among the righteous.",
+        "pickthall": "And who forsaketh the religion of Abraham save him who befooleth himself? Verily We chose him in the world, and lo! in the Hereafter he is among the righteous.",
+        "khattab": "And who would reject the faith of Abraham except a fool! We certainly chose him in this life, and in the Hereafter he will surely be among the righteous",
+        "arberry": "Who therefore shrinks from the religion of Abraham, except he be foolish-minded? Indeed, We chose him in the present world, and in the world to come he shall be among the righteous."
+      }
+    },
+    {
+      "location": [
+        2,
+        132,
+        9
+      ],
+      "form_arabic": "ٱصْطَفَىٰ",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "2:132",
+      "ayah_arabic": "وَوَصَّىٰ بِهَآ إِبۡرَٰهِـۧمُ بَنِيهِ وَيَعۡقُوبُ يَٰبَنِيَّ إِنَّ ٱللَّهَ ٱصۡطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسۡلِمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "has chosen",
+      "translations": {
+        "saheeh": "And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], \"O my sons, indeed Allah has chosen for you this religion, so do not die except while you are Muslims.\"",
+        "pickthall": "The same did Abraham enjoin upon his sons, and also Jacob, (saying): O my sons! Lo! Allah hath chosen for you the (true) religion; therefore die not save as men who have surrendered (unto Him).",
+        "khattab": "This was the advice of Abraham—as well as Jacob—to his children, ˹saying˺, “Indeed, Allah has chosen for you this faith; so do not die except in ˹a state of full˺ submission.”",
+        "arberry": "And Abraham charged his sons with this and Jacob likewise: 'My sons, God has chosen for you the religion; see that you die not save in surrender.'"
+      }
+    },
+    {
+      "location": [
+        2,
+        247,
+        29
+      ],
+      "form_arabic": "ٱصْطَفَىٰهُ",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "2:247",
+      "ayah_arabic": "وَقَالَ لَهُمۡ نَبِيُّهُمۡ إِنَّ ٱللَّهَ قَدۡ بَعَثَ لَكُمۡ طَالُوتَ مَلِكࣰ اۚ قَالُوٓاْ أَنَّىٰ يَكُونُ لَهُ ٱلۡمُلۡكُ عَلَيۡنَا وَنَحۡنُ أَحَقُّ بِٱلۡمُلۡكِ مِنۡهُ وَلَمۡ يُؤۡتَ سَعَةࣰ مِّنَ ٱلۡمَالِۚ قَالَ إِنَّ ٱللَّهَ ٱصۡطَفَىٰهُ عَلَيۡكُمۡ وَزَادَهُۥ بَسۡطَةࣰ فِي ٱلۡعِلۡمِ وَٱلۡجِسۡمِۖ وَٱللَّهُ يُؤۡتِي مُلۡكَهُۥ مَن يَشَآءُۚ وَٱللَّهُ وَٰسِعٌ عَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "has chosen him",
+      "translations": {
+        "saheeh": "And their prophet said to them, \"Indeed, Allah has sent to you Saul as a king.\" They said, \"How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?\" He said, \"Indeed, Allah has chosen him over you and has increased him abundantly in knowledge and stature. And Allah gives His sovereignty to whom He wills. And Allah is all-Encompassing [in favor] and Knowing.\"",
+        "pickthall": "Their Prophet said unto them: Lo! Allah hath raised up Saul to be a king for you. They said: How can he have kingdom over us when we are more deserving of the kingdom than he is, since he hath not been given wealth enough? He said: Lo! Allah hath chosen him above you, and hath increased him abundantly in wisdom and stature. Allah bestoweth His Sovereignty on whom He will. Allah is All-Embracing, All-Knowing.",
+        "khattab": "Their prophet told them, “Allah has appointed Saul to be your king.” They protested, “How can he be our king when some of us are more deserving of kingship than he, and he has not been blessed with vast riches?” He replied, “Allah has chosen him over you and blessed him with knowledge and stature. Allah grants kingship to whoever He wills. And Allah is All-Bountiful, All-Knowing.”",
+        "arberry": "Then their Prophet said to them, 'Verily God has raised up Saul for you as king.' They said, 'How should he be king over us who have better right than he to kingship, seeing he has not been given amplitude of wealth?' He said, 'God has chosen him over you, and has increased him broadly in knowledge and body. God gives the kingship to whom He will; and God is All-embracing, All-knowing.'"
+      }
+    },
+    {
+      "location": [
+        2,
+        264,
+        21
+      ],
+      "form_arabic": "صَفْوَانٍ",
+      "lemma": "SafowaAn",
+      "lemma_arabic": "صَفْوَان",
+      "pos": "N",
+      "ayah_id": "2:264",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُبۡطِلُواْ صَدَقَٰتِكُم بِٱلۡمَنِّ وَٱلۡأَذَىٰ كَٱلَّذِي يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۖ فَمَثَلُهُۥ كَمَثَلِ صَفۡوَانٍ عَلَيۡهِ تُرَابࣱ فَأَصَابَهُۥ وَابِلࣱ فَتَرَكَهُۥ صَلۡدࣰ اۖ لَّا يَقۡدِرُونَ عَلَىٰ شَيۡءࣲ مِّمَّا كَسَبُواْۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(that of a) smooth rock",
+      "translations": {
+        "saheeh": "O you who have believed, do not invalidate your charities with reminders or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allah and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allah does not guide the disbelieving people.",
+        "pickthall": "O ye who believe! Render not vain your almsgiving by reproach and injury, like him who spendeth his wealth only to be seen of men and believeth not in Allah and the Last Day. His likeness is as the likeness of a rock whereon is dust of earth; a rainstorm smiteth it, leaving it smooth and bare. They have no control of aught of that which they have gained. Allah guideth not the disbelieving folk.",
+        "khattab": "O believers! Do not waste your charity with reminders ˹of your generosity˺ or hurtful words, like those who donate their wealth just to show off and do not believe in Allah or the Last Day. Their example is that of a hard barren rock covered with a thin layer of soil hit by a strong rain—leaving it just a bare stone. Such people are unable to preserve the reward of their charity. Allah does not guide ˹such˺ disbelieving people",
+        "arberry": "O believers, void not your freewill offerings with reproach and injury, as one who expends of his substance to show off to men and believes not in God and the Last Day. The likeness of him is as the likeness of a smooth rock on which is soil, and a torrent smites it, and leaves it barren. They have no power over anything that they have earned. God guides not the people of the unbelievers."
+      }
+    },
+    {
+      "location": [
+        3,
+        33,
+        3
+      ],
+      "form_arabic": "ٱصْطَفَىٰ^",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "3:33",
+      "ayah_arabic": "۞إِنَّ ٱللَّهَ ٱصۡطَفَىٰٓ ءَادَمَ وَنُوحࣰ ا وَءَالَ إِبۡرَٰهِيمَ وَءَالَ عِمۡرَٰنَ عَلَى ٱلۡعَٰلَمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "chose",
+      "translations": {
+        "saheeh": "Indeed, Allah chose Adam and Noah and the family of Abraham and the family of 'Imran over the worlds -",
+        "pickthall": "Lo! Allah preferred Adam and Noah and the Family of Abraham and the Family of 'Imran above (all His) creatures.",
+        "khattab": "Indeed, Allah chose Adam, Noah, the family of Abraham, and the family of ’Imrân above all people ˹of their time˺",
+        "arberry": "God chose Adam and Noah and the House of Abraham and the House of Imran above all beings, the"
+      }
+    },
+    {
+      "location": [
+        3,
+        42,
+        7
+      ],
+      "form_arabic": "ٱصْطَفَىٰكِ",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "3:42",
+      "ayah_arabic": "وَإِذۡ قَالَتِ ٱلۡمَلَٰٓئِكَةُ يَٰمَرۡيَمُ إِنَّ ٱللَّهَ ٱصۡطَفَىٰكِ وَطَهَّرَكِ وَٱصۡطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلۡعَٰلَمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "(has) chosen you",
+      "translations": {
+        "saheeh": "And [mention] when the angels said, \"O Mary, indeed Allah has chosen you and purified you and chosen you above the women of the worlds.",
+        "pickthall": "And when the angels said: O Mary! Lo! Allah hath chosen thee and made thee pure, and hath preferred thee above (all) the women of creation.",
+        "khattab": "And ˹remember˺ when the angels said, “O Mary! Surely Allah has selected you, purified you, and chosen you over all women of the world",
+        "arberry": "And when the angels said, 'Mary, God has chosen thee, and purified thee; He has chosen thee above all women."
+      }
+    },
+    {
+      "location": [
+        3,
+        42,
+        9
+      ],
+      "form_arabic": "وَٱصْطَفَىٰكِ",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "3:42",
+      "ayah_arabic": "وَإِذۡ قَالَتِ ٱلۡمَلَٰٓئِكَةُ يَٰمَرۡيَمُ إِنَّ ٱللَّهَ ٱصۡطَفَىٰكِ وَطَهَّرَكِ وَٱصۡطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلۡعَٰلَمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "and chosen you",
+      "translations": {
+        "saheeh": "And [mention] when the angels said, \"O Mary, indeed Allah has chosen you and purified you and chosen you above the women of the worlds.",
+        "pickthall": "And when the angels said: O Mary! Lo! Allah hath chosen thee and made thee pure, and hath preferred thee above (all) the women of creation.",
+        "khattab": "And ˹remember˺ when the angels said, “O Mary! Surely Allah has selected you, purified you, and chosen you over all women of the world",
+        "arberry": "And when the angels said, 'Mary, God has chosen thee, and purified thee; He has chosen thee above all women."
+      }
+    },
+    {
+      "location": [
+        7,
+        144,
+        4
+      ],
+      "form_arabic": "ٱصْطَفَيْتُكَ",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "7:144",
+      "ayah_arabic": "قَالَ يَٰمُوسَىٰٓ إِنِّي ٱصۡطَفَيۡتُكَ عَلَى ٱلنَّاسِ بِرِسَٰلَٰتِي وَبِكَلَٰمِي فَخُذۡ مَآ ءَاتَيۡتُكَ وَكُن مِّنَ ٱلشَّٰكِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "have chosen you",
+      "translations": {
+        "saheeh": "[Allah] said, \"O Moses, I have chosen you over the people with My messages and My words [to you]. So take what I have given you and be among the grateful.\"",
+        "pickthall": "He said: O Moses! I have preferred thee above mankind by My messages and by My speaking (unto thee). So hold that which I have given thee, and be among the thankful.",
+        "khattab": "Allah said, “O Moses! I have ˹already˺ elevated you above all others by My messages and speech. So hold firmly to what I have given you and be grateful.”",
+        "arberry": "Said He, 'Moses, I have chosen thee above all men for My Messages and My Utterance; take what I have given thee, and be of the thankful.'"
+      }
+    },
+    {
+      "location": [
+        17,
+        40,
+        1
+      ],
+      "form_arabic": "أَفَأَصْفَىٰكُمْ",
+      "lemma": ">aSofaY`",
+      "lemma_arabic": "أَصْفَىٰ",
+      "pos": "V",
+      "ayah_id": "17:40",
+      "ayah_arabic": "أَفَأَصۡفَىٰكُمۡ رَبُّكُم بِٱلۡبَنِينَ وَٱتَّخَذَ مِنَ ٱلۡمَلَٰٓئِكَةِ إِنَٰثًاۚ إِنَّكُمۡ لَتَقُولُونَ قَوۡلًا عَظِيمࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "Then has your Lord chosen (for) you",
+      "translations": {
+        "saheeh": "Then, has your Lord chosen you for [having] sons and taken from among the angels daughters? Indeed, you say a grave saying.",
+        "pickthall": "Hath your Lord then distinguished you (O men of Makka) by giving you sons, and hath chosen for Himself females from among the angels? Lo! verily ye speak an awful word!",
+        "khattab": "Has your Lord favoured you ˹pagans˺ with sons and taken angels as ˹His˺ daughters? You are truly making an outrageous claim",
+        "arberry": "What, has your Lord favoured you with sons and taken to Himself from the angels females? Surely it is a monstrous thing you are saying!"
+      }
+    },
+    {
+      "location": [
+        22,
+        75,
+        2
+      ],
+      "form_arabic": "يَصْطَفِى",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "22:75",
+      "ayah_arabic": "ٱللَّهُ يَصۡطَفِي مِنَ ٱلۡمَلَٰٓئِكَةِ رُسُلࣰ ا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "chooses",
+      "translations": {
+        "saheeh": "Allah chooses from the angels messengers and from the people. Indeed, Allah is Hearing and Seeing.",
+        "pickthall": "Allah chooseth from the angels messengers, and (also) from mankind. Lo! Allah is Hearer, Seer.",
+        "khattab": "Allah selects messengers from both angels and people, for Allah is truly All-Hearing, All-Seeing",
+        "arberry": "God chooses of the angels Messengers and of mankind; surely God is All-hearing, All-seeing."
+      }
+    },
+    {
+      "location": [
+        27,
+        59,
+        8
+      ],
+      "form_arabic": "ٱصْطَفَىٰ^",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "27:59",
+      "ayah_arabic": "قُلِ ٱلۡحَمۡدُ لِلَّهِ وَسَلَٰمٌ عَلَىٰ عِبَادِهِ ٱلَّذِينَ ٱصۡطَفَىٰٓۗ ءَآللَّهُ خَيۡرٌ أَمَّا يُشۡرِكُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naml",
+      "literal_gloss": "He has chosen",
+      "translations": {
+        "saheeh": "Say, [O Muhammad], \"Praise be to Allah, and peace upon His servants whom He has chosen. Is Allah better or what they associate with Him?\"",
+        "pickthall": "Say (O Muhammad): Praise be to Allah, and peace be on His slaves whom He hath chosen! Is Allah best, or (all) that ye ascribe as partners (unto Him)?",
+        "khattab": "Say, ˹O Prophet,˺ “Praise be to Allah, and peace be upon the servants He has chosen.” ˹Ask the disbelievers,˺ “Which is better: Allah or whatever ˹gods˺ they associate ˹with Him˺?”",
+        "arberry": "Say: 'Praise belongs to God, and peace be on His servants whom He has chosen.' What, is God better, or that they associate?"
+      }
+    },
+    {
+      "location": [
+        35,
+        32,
+        5
+      ],
+      "form_arabic": "ٱصْطَفَيْنَا",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "35:32",
+      "ayah_arabic": "ثُمَّ أَوۡرَثۡنَا ٱلۡكِتَٰبَ ٱلَّذِينَ ٱصۡطَفَيۡنَا مِنۡ عِبَادِنَاۖ فَمِنۡهُمۡ ظَالِمࣱ لِّنَفۡسِهِۦ وَمِنۡهُم مُّقۡتَصِدࣱ وَمِنۡهُمۡ سَابِقُۢ بِٱلۡخَيۡرَٰتِ بِإِذۡنِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Faatir",
+      "literal_gloss": "We have chosen",
+      "translations": {
+        "saheeh": "Then we caused to inherit the Book those We have chosen of Our servants; and among them is he who wrongs himself, and among them is he who is moderate, and among them is he who is foremost in good deeds by permission of Allah. That [inheritance] is what is the great bounty.",
+        "pickthall": "Then We gave the Scripture as inheritance unto those whom We elected of Our bondmen. But of them are some who wrong themselves and of them are some who are lukewarm, and of them are some who outstrip (others) through good deeds, by Allah's leave. That is the great favour!",
+        "khattab": "Then We granted the Book to those We have chosen from Our servants. Some of them wrong themselves, some follow a middle course, and some are foremost in good deeds by Allah’s Will. That is ˹truly˺ the greatest bounty",
+        "arberry": "Then We bequeathed the Book on those of Our servants We chose; but of them some wrong themselves, some of them are lukewarm, and some are outstrippers in good works by the leave of God; that is the great bounty."
+      }
+    },
+    {
+      "location": [
+        37,
+        153,
+        1
+      ],
+      "form_arabic": "أَصْطَفَى",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "37:153",
+      "ayah_arabic": "أَصۡطَفَى ٱلۡبَنَاتِ عَلَى ٱلۡبَنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "Has He chosen",
+      "translations": {
+        "saheeh": "Has He chosen daughters over sons?",
+        "pickthall": "(And again of their falsehood): He hath preferred daughters to sons.",
+        "khattab": "Has He chosen daughters over sons",
+        "arberry": "Has He chosen daughters above sons?"
+      }
+    },
+    {
+      "location": [
+        38,
+        47,
+        4
+      ],
+      "form_arabic": "ٱلْمُصْطَفَيْنَ",
+      "lemma": "muSoTafayon",
+      "lemma_arabic": "مُصْطَفَيْن",
+      "pos": "N",
+      "ayah_id": "38:47",
+      "ayah_arabic": "وَإِنَّهُمۡ عِندَنَا لَمِنَ ٱلۡمُصۡطَفَيۡنَ ٱلۡأَخۡيَارِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "the chosen ones",
+      "translations": {
+        "saheeh": "And indeed they are, to Us, among the chosen and outstanding.",
+        "pickthall": "Lo! in Our sight they are verily of the elect, the excellent.",
+        "khattab": "And in Our sight they are truly among the chosen and the finest",
+        "arberry": "and in Our sight they are of the chosen, the excellent."
+      }
+    },
+    {
+      "location": [
+        39,
+        4,
+        7
+      ],
+      "form_arabic": "لَّٱصْطَفَىٰ",
+      "lemma": "{SoTafaY`",
+      "lemma_arabic": "ٱصْطَفَىٰ",
+      "pos": "V",
+      "ayah_id": "39:4",
+      "ayah_arabic": "لَّوۡ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدࣰ ا لَّٱصۡطَفَىٰ مِمَّا يَخۡلُقُ مَا يَشَآءُۚ سُبۡحَٰنَهُۥۖ هُوَ ٱللَّهُ ٱلۡوَٰحِدُ ٱلۡقَهَّارُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "surely, He (could) have chosen",
+      "translations": {
+        "saheeh": "If Allah had intended to take a son, He could have chosen from what He creates whatever He willed. Exalted is He; He is Allah, the One, the Prevailing.",
+        "pickthall": "If Allah had willed to choose a son, He could have chosen what He would of that which He hath created. Be He Glorified! He is Allah, the One, the Absolute.",
+        "khattab": "Had it been Allah’s Will to have offspring, He could have chosen whatever He willed of His creation. Glory be to Him! He is Allah—the One, the Supreme",
+        "arberry": "Had God desired to take to Him a son, He would have chosen whatever He willed of that He has created. Glory be to Him! He is God, the One, the Omnipotent."
+      }
+    },
+    {
+      "location": [
+        43,
+        16,
+        6
+      ],
+      "form_arabic": "وَأَصْفَىٰكُم",
+      "lemma": ">aSofaY`",
+      "lemma_arabic": "أَصْفَىٰ",
+      "pos": "V",
+      "ayah_id": "43:16",
+      "ayah_arabic": "أَمِ ٱتَّخَذَ مِمَّا يَخۡلُقُ بَنَاتࣲ وَأَصۡفَىٰكُم بِٱلۡبَنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zukhruf",
+      "literal_gloss": "and He has chosen (for) you",
+      "translations": {
+        "saheeh": "Or has He taken, out of what He has created, daughters and chosen you for [having] sons?",
+        "pickthall": "Or chooseth He daughters of all that He hath created, and honoureth He you with sons?",
+        "khattab": "Has He taken ˹angels as His˺ daughters from what He created, and favoured you ˹O pagans˺ with sons",
+        "arberry": "Or has He taken to Himself, from that He creates, daughters, and favoured you with sons?"
+      }
+    },
+    {
+      "location": [
+        47,
+        15,
+        26
+      ],
+      "form_arabic": "مُّصَفًّى",
+      "lemma": "m~uSaf~FY",
+      "lemma_arabic": "مُّصَفًّى",
+      "pos": "N",
+      "ayah_id": "47:15",
+      "ayah_arabic": "مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ فِيهَآ أَنۡهَٰرࣱ مِّن مَّآءٍ غَيۡرِ ءَاسِنࣲ وَأَنۡهَٰرࣱ مِّن لَّبَنࣲ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرࣱ مِّنۡ خَمۡرࣲ لَّذَّةࣲ لِّلشَّٰرِبِينَ وَأَنۡهَٰرࣱ مِّنۡ عَسَلࣲ مُّصَفࣰّ ىۖ وَلَهُمۡ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةࣱ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدࣱ فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمࣰ ا فَقَطَّعَ أَمۡعَآءَهُمۡ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Muhammad",
+      "literal_gloss": "purified",
+      "translations": {
+        "saheeh": "Is the description of Paradise, which the righteous are promised, wherein are rivers of water unaltered, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink, and rivers of purified honey, in which they will have from all [kinds of] fruits and forgiveness from their Lord, like [that of] those who abide eternally in the Fire and are given to drink scalding water that will sever their intestines?",
+        "pickthall": "A similitude of the Garden which those who keep their duty (to Allah) are promised: Therein are rivers of water unpolluted, and rivers of milk whereof the flavour changeth not, and rivers of wine delicious to the drinkers, and rivers of clear-run honey; therein for them is every kind of fruit, with pardon from their Lord. (Are those who enjoy all this) like those who are immortal in the Fire and are given boiling water to drink so that it teareth their bowels?",
+        "khattab": "The description of the Paradise promised to the righteous is that in it are rivers of fresh water, rivers of milk that never changes in taste, rivers of wine delicious to drink, and rivers of pure honey. There they will ˹also˺ have all kinds of fruit, and forgiveness from their Lord. ˹Can they be˺ like those who will stay in the Fire forever, left to drink boiling water that will tear apart their insides",
+        "arberry": "This is the similitude of Paradise which the godfearing have been promised: therein are rivers of water unstaling, rivers of milk unchanging in flavour, and rivers of wine -- a delight to the drinkers, rivers, too, of honey purified; and therein for them is every fruit, and forgiveness from their Lord -- Are they as he who dwells forever in the Fire, such as are given to drink boiling water, that tears their bowels asunder?"
+      }
+    }
+  ]
+}

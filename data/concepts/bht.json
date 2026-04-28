@@ -1,0 +1,918 @@
+{
+  "root": "bht",
+  "root_arabic": "بهت",
+  "stats": {
+    "occurrences": 8,
+    "lemmas": 2,
+    "ayahs": 8,
+    "surahs": 6,
+    "pos_distribution": {
+      "N": 6,
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "buhota`n",
+      "lemma_arabic": "بُهْتَٰن",
+      "count": 6,
+      "pos_distribution": {
+        "N": 6
+      },
+      "first_occurrence": [
+        4,
+        20,
+        15
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            20,
+            15
+          ],
+          "form_arabic": "بُهْتَٰنًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            112,
+            12
+          ],
+          "form_arabic": "بُهْتَٰنًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            156,
+            5
+          ],
+          "form_arabic": "بُهْتَٰنًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            24,
+            16,
+            13
+          ],
+          "form_arabic": "بُهْتَٰنٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            33,
+            58,
+            10
+          ],
+          "form_arabic": "بُهْتَٰنًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            60,
+            12,
+            22
+          ],
+          "form_arabic": "بِبُهْتَٰنٍ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "buhita",
+      "lemma_arabic": "بُهِتَ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        2,
+        258,
+        36
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            258,
+            36
+          ],
+          "form_arabic": "فَبُهِتَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            21,
+            40,
+            4
+          ],
+          "form_arabic": "فَتَبْهَتُهُمْ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 4,
+      "share": 0.5,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 4,
+      "share": 0.5,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "Avm",
+      "root_arabic": "اثم",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        4,
+        112
+      ]
+    },
+    {
+      "root": "Hml",
+      "root_arabic": "حمل",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        4,
+        112
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        33,
+        58
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        4,
+        156
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "$rq",
+      "root_arabic": "شرق",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "mlk",
+      "root_arabic": "ملك",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "Hjj",
+      "root_arabic": "حجج",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "$ms",
+      "root_arabic": "شمس",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "grb",
+      "root_arabic": "غرب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        258
+      ]
+    },
+    {
+      "root": "brA",
+      "root_arabic": "برا",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        4,
+        112
+      ]
+    },
+    {
+      "root": "rmy",
+      "root_arabic": "رمي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        4,
+        112
+      ]
+    },
+    {
+      "root": "xTA",
+      "root_arabic": "خطا",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        4,
+        112
+      ]
+    },
+    {
+      "root": "A*y",
+      "root_arabic": "اذي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        33,
+        58
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        33,
+        58
+      ]
+    },
+    {
+      "root": "sbH",
+      "root_arabic": "سبح",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        24,
+        16
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        24,
+        16
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        24,
+        16
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        21,
+        40
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        21,
+        40
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        21,
+        40
+      ]
+    },
+    {
+      "root": "bgt",
+      "root_arabic": "بغت",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        21,
+        40
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "fry",
+      "root_arabic": "فري",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "byE",
+      "root_arabic": "بيع",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "srq",
+      "root_arabic": "سرق",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "zny",
+      "root_arabic": "زني",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "ESy",
+      "root_arabic": "عصي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "qnTr",
+      "root_arabic": "قنطر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "bdl",
+      "root_arabic": "بدل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        4,
+        20
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 3
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 21,
+        "name_english": "Al-Anbiyaa",
+        "name_arabic": "سُورَةُ الأَنبِيَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 33,
+        "name_english": "Al-Ahzaab",
+        "name_arabic": "سُورَةُ الأَحۡزَابِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 60,
+        "name_english": "Al-Mumtahana",
+        "name_arabic": "سُورَةُ المُمۡتَحنَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 7,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        258,
+        36
+      ],
+      "form_arabic": "فَبُهِتَ",
+      "lemma": "buhita",
+      "lemma_arabic": "بُهِتَ",
+      "pos": "V",
+      "ayah_id": "2:258",
+      "ayah_arabic": "أَلَمۡ تَرَ إِلَى ٱلَّذِي حَآجَّ إِبۡرَٰهِـۧمَ فِي رَبِّهِۦٓ أَنۡ ءَاتَىٰهُ ٱللَّهُ ٱلۡمُلۡكَ إِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّيَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحۡيِۦ وَأُمِيتُۖ قَالَ إِبۡرَٰهِـۧمُ فَإِنَّ ٱللَّهَ يَأۡتِي بِٱلشَّمۡسِ مِنَ ٱلۡمَشۡرِقِ فَأۡتِ بِهَا مِنَ ٱلۡمَغۡرِبِ فَبُهِتَ ٱلَّذِي كَفَرَۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "So became dumbfounded",
+      "translations": {
+        "saheeh": "Have you not considered the one who argued with Abraham about his Lord [merely] because Allah had given him kingship? When Abraham said, \"My Lord is the one who gives life and causes death,\" he said, \"I give life and cause death.\" Abraham said, \"Indeed, Allah brings up the sun from the east, so bring it up from the west.\" So the disbeliever was overwhelmed [by astonishment], and Allah does not guide the wrongdoing people.",
+        "pickthall": "Bethink thee of him who had an argument with Abraham about his Lord, because Allah had given him the kingdom; how, when Abraham said: My Lord is He Who giveth life and causeth death, he answered: I give life and cause death. Abraham said: Lo! Allah causeth the sun to rise in the East, so do thou cause it to come up from the West. Thus was the disbeliever abashed. And Allah guideth not wrongdoing folk.",
+        "khattab": "Are you ˹O Prophet˺ not aware of the one who argued with Abraham about his Lord because Allah had granted him kingship? ˹Remember˺ when Abraham said, “My Lord is the One Who has power to give life and cause death.” He argued, “I too have the power to give life and cause death.” Abraham challenged ˹him˺, “Allah causes the sun to rise from the east. So make it rise from the west.” And so the disbeliever was dumbstruck. And Allah does not guide the wrongdoing people",
+        "arberry": "Hast thou not regarded him who disputed with Abraham, concerning his Lord, that God had given him the kingship? When Abraham said, 'My Lord is He who gives life, and makes to die,' he said, 'I give life, and make to die.' Said Abraham, 'God brings the sun from the east; so bring thou it from the west.' Then the unbeliever was confounded. God guides not the people of the evildoers."
+      }
+    },
+    {
+      "location": [
+        4,
+        20,
+        15
+      ],
+      "form_arabic": "بُهْتَٰنًا",
+      "lemma": "buhota`n",
+      "lemma_arabic": "بُهْتَٰن",
+      "pos": "N",
+      "ayah_id": "4:20",
+      "ayah_arabic": "وَإِنۡ أَرَدتُّمُ ٱسۡتِبۡدَالَ زَوۡجࣲ مَّكَانَ زَوۡجࣲ وَءَاتَيۡتُمۡ إِحۡدَىٰهُنَّ قِنطَارࣰ ا فَلَا تَأۡخُذُواْ مِنۡهُ شَيۡـًٔاۚ أَتَأۡخُذُونَهُۥ بُهۡتَٰنࣰ ا وَإِثۡمࣰ ا مُّبِينࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(by) slander",
+      "translations": {
+        "saheeh": "But if you want to replace one wife with another and you have given one of them a great amount [in gifts], do not take [back] from it anything. Would you take it in injustice and manifest sin?",
+        "pickthall": "And if ye wish to exchange one wife for another and ye have given unto one of them a sum of money (however great), take nothing from it. Would ye take it by the way of calumny and open wrong?",
+        "khattab": "If you desire to replace a wife with another and you have given the former ˹even˺ a stack of gold ˹as a dowry˺, do not take any of it back. Would you ˹still˺ take it unjustly and very sinfully",
+        "arberry": "And if you desire to exchange a wife in place of another, and you have given to one a hundredweight, take of it nothing. What, will you take it by way of calumny and manifest sin?"
+      }
+    },
+    {
+      "location": [
+        4,
+        112,
+        12
+      ],
+      "form_arabic": "بُهْتَٰنًا",
+      "lemma": "buhota`n",
+      "lemma_arabic": "بُهْتَٰن",
+      "pos": "N",
+      "ayah_id": "4:112",
+      "ayah_arabic": "وَمَن يَكۡسِبۡ خَطِيٓـَٔةً أَوۡ إِثۡمࣰ ا ثُمَّ يَرۡمِ بِهِۦ بَرِيٓـࣰٔ ا فَقَدِ ٱحۡتَمَلَ بُهۡتَٰنࣰ ا وَإِثۡمࣰ ا مُّبِينࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(with) a slander",
+      "translations": {
+        "saheeh": "But whoever earns an offense or a sin and then blames it on an innocent [person] has taken upon himself a slander and manifest sin.",
+        "pickthall": "And whoso committeth a delinquency or crime, then throweth (the blame) thereof upon the innocent, hath burdened himself with falsehood and a flagrant crime.",
+        "khattab": "And whoever commits an evil or sinful deed then blames it on an innocent person, they will definitely bear the guilt of slander and blatant sin",
+        "arberry": "And whosoever earns a fault or a sin and then casts it upon the innocent, thereby has laid upon himself calumny and manifest sin."
+      }
+    },
+    {
+      "location": [
+        4,
+        156,
+        5
+      ],
+      "form_arabic": "بُهْتَٰنًا",
+      "lemma": "buhota`n",
+      "lemma_arabic": "بُهْتَٰن",
+      "pos": "N",
+      "ayah_id": "4:156",
+      "ayah_arabic": "وَبِكُفۡرِهِمۡ وَقَوۡلِهِمۡ عَلَىٰ مَرۡيَمَ بُهۡتَٰنًا عَظِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "a slander",
+      "translations": {
+        "saheeh": "And [We cursed them] for their disbelief and their saying against Mary a great slander,",
+        "pickthall": "And because of their disbelief and of their speaking against Mary a tremendous calumny;",
+        "khattab": "and for their denial and outrageous accusation against Mary",
+        "arberry": "and for their unbelief, and their uttering against Mary a mighty calumny,"
+      }
+    },
+    {
+      "location": [
+        21,
+        40,
+        4
+      ],
+      "form_arabic": "فَتَبْهَتُهُمْ",
+      "lemma": "buhita",
+      "lemma_arabic": "بُهِتَ",
+      "pos": "V",
+      "ayah_id": "21:40",
+      "ayah_arabic": "بَلۡ تَأۡتِيهِم بَغۡتَةࣰ فَتَبۡهَتُهُمۡ فَلَا يَسۡتَطِيعُونَ رَدَّهَا وَلَا هُمۡ يُنظَرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Anbiyaa",
+      "literal_gloss": "and bewilder them",
+      "translations": {
+        "saheeh": "Rather, it will come to them unexpectedly and bewilder them, and they will not be able to repel it, nor will they be reprieved.",
+        "pickthall": "Nay, but it will come upon them unawares so that it will stupefy them, and they will be unable to repel it, neither will they be reprieved.",
+        "khattab": "In fact, the Hour will take them by surprise, leaving them stunned. So they will not be able to avert it, nor will it be delayed from them",
+        "arberry": "Nay, but it shall come upon them suddenly, dumbfounding them, and they shall not be able to repel it, nor shall they be respited."
+      }
+    },
+    {
+      "location": [
+        24,
+        16,
+        13
+      ],
+      "form_arabic": "بُهْتَٰنٌ",
+      "lemma": "buhota`n",
+      "lemma_arabic": "بُهْتَٰن",
+      "pos": "N",
+      "ayah_id": "24:16",
+      "ayah_arabic": "وَلَوۡلَآ إِذۡ سَمِعۡتُمُوهُ قُلۡتُم مَّا يَكُونُ لَنَآ أَن نَّتَكَلَّمَ بِهَٰذَا سُبۡحَٰنَكَ هَٰذَا بُهۡتَٰنٌ عَظِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "(is) a slander",
+      "translations": {
+        "saheeh": "And why, when you heard it, did you not say, \"It is not for us to speak of this. Exalted are You, [O Allah]; this is a great slander\"?",
+        "pickthall": "Wherefor, when ye heard it, said ye not: It is not for us to speak of this. Glory be to Thee (O Allah)! This is awful calumny.",
+        "khattab": "If only you had said upon hearing it, “How can we speak about such a thing! Glory be to You ˹O Lord˺! This is a heinous slander!”",
+        "arberry": "And why, when you heard it, did you not say, 'It is not for us to speak about this; glory be to Thee! This is a mighty calumny'?"
+      }
+    },
+    {
+      "location": [
+        33,
+        58,
+        10
+      ],
+      "form_arabic": "بُهْتَٰنًا",
+      "lemma": "buhota`n",
+      "lemma_arabic": "بُهْتَٰن",
+      "pos": "N",
+      "ayah_id": "33:58",
+      "ayah_arabic": "وَٱلَّذِينَ يُؤۡذُونَ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ بِغَيۡرِ مَا ٱكۡتَسَبُواْ فَقَدِ ٱحۡتَمَلُواْ بُهۡتَٰنࣰ ا وَإِثۡمࣰ ا مُّبِينࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "false accusation",
+      "translations": {
+        "saheeh": "And those who harm believing men and believing women for [something] other than what they have earned have certainly born upon themselves a slander and manifest sin.",
+        "pickthall": "And those who malign believing men and believing women undeservedly, they bear the guilt of slander and manifest sin.",
+        "khattab": "As for those who abuse believing men and women unjustifiably, they will definitely bear the guilt of slander and blatant sin",
+        "arberry": "And those who hurt believing men and believing women, without that they have earned it, have laid upon themselves calumny and manifest sin."
+      }
+    },
+    {
+      "location": [
+        60,
+        12,
+        22
+      ],
+      "form_arabic": "بِبُهْتَٰنٍ",
+      "lemma": "buhota`n",
+      "lemma_arabic": "بُهْتَٰن",
+      "pos": "N",
+      "ayah_id": "60:12",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا جَآءَكَ ٱلۡمُؤۡمِنَٰتُ يُبَايِعۡنَكَ عَلَىٰٓ أَن لَّا يُشۡرِكۡنَ بِٱللَّهِ شَيۡـࣰٔ ا وَلَا يَسۡرِقۡنَ وَلَا يَزۡنِينَ وَلَا يَقۡتُلۡنَ أَوۡلَٰدَهُنَّ وَلَا يَأۡتِينَ بِبُهۡتَٰنࣲ يَفۡتَرِينَهُۥ بَيۡنَ أَيۡدِيهِنَّ وَأَرۡجُلِهِنَّ وَلَا يَعۡصِينَكَ فِي مَعۡرُوفࣲ فَبَايِعۡهُنَّ وَٱسۡتَغۡفِرۡ لَهُنَّ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Mumtahana",
+      "literal_gloss": "slander",
+      "translations": {
+        "saheeh": "O Prophet, when the believing women come to you pledging to you that they will not associate anything with Allah, nor will they steal, nor will they commit unlawful sexual intercourse, nor will they kill their children, nor will they bring forth a slander they have invented between their arms and legs, nor will they disobey you in what is right - then accept their pledge and ask forgiveness for them of Allah. Indeed, Allah is Forgiving and Merciful.",
+        "pickthall": "O Prophet! If believing women come unto thee, taking oath of allegiance unto thee that they will ascribe no thing as partner unto Allah, and will neither steal nor commit adultery nor kill their children, nor produce any lie that they have devised between their hands and feet, nor disobey thee in what is right, then accept their allegiance and ask Allah to forgive them. Lo! Allah is Forgiving, Merciful.",
+        "khattab": "O Prophet! When the believing women come to you, pledging to you that they will neither associate anything with Allah ˹in worship˺, nor steal, nor fornicate, nor kill their children, nor falsely attribute ˹illegitimate˺ children to their husbands, nor disobey you in what is right, then accept their pledge, and ask Allah to forgive them. Surely Allah is All-Forgiving, Most Merciful",
+        "arberry": "O Prophet, when believing women come to thee, swearing fealty to thee upon the terms that they will not associate with God anything, and will not steal, neither commit adultery, nor slay their children, nor bring a calumny they forge between their hands and their feet, nor disobey thee in aught honourable, ask God's forgiveness for them; God is All-forgiving, All-compassionate."
+      }
+    }
+  ]
+}

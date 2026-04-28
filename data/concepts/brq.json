@@ -1,0 +1,759 @@
+{
+  "root": "brq",
+  "root_arabic": "برق",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 2,
+    "ayahs": 6,
+    "surahs": 5,
+    "pos_distribution": {
+      "N": 5,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "baroq",
+      "lemma_arabic": "بَرْق",
+      "count": 5,
+      "pos_distribution": {
+        "N": 5
+      },
+      "first_occurrence": [
+        2,
+        19,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            19,
+            8
+          ],
+          "form_arabic": "وَبَرْقٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            20,
+            2
+          ],
+          "form_arabic": "ٱلْبَرْقُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            13,
+            12,
+            4
+          ],
+          "form_arabic": "ٱلْبَرْقَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            24,
+            43,
+            36
+          ],
+          "form_arabic": "بَرْقِهِ.",
+          "pos": "N"
+        },
+        {
+          "location": [
+            30,
+            24,
+            4
+          ],
+          "form_arabic": "ٱلْبَرْقَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "bariqa",
+      "lemma_arabic": "بَرِقَ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        75,
+        7,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            75,
+            7,
+            2
+          ],
+          "form_arabic": "بَرِقَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        13,
+        12
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "TmE",
+      "root_arabic": "طمع",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        13,
+        12
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        13,
+        12
+      ]
+    },
+    {
+      "root": "sHb",
+      "root_arabic": "سحب",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        13,
+        12
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        24
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        24
+      ]
+    },
+    {
+      "root": "Eql",
+      "root_arabic": "عقل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        24
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        24
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        24
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        24
+      ]
+    },
+    {
+      "root": "rkm",
+      "root_arabic": "ركم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "brd",
+      "root_arabic": "برد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "zjw",
+      "root_arabic": "زجو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "wdq",
+      "root_arabic": "ودق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "jbl",
+      "root_arabic": "جبل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "xll",
+      "root_arabic": "خلل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "Srf",
+      "root_arabic": "صرف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "Alf",
+      "root_arabic": "الف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "snw",
+      "root_arabic": "سنو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "m$y",
+      "root_arabic": "مشي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "DwA",
+      "root_arabic": "ضوا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "xTf",
+      "root_arabic": "خطف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "H*r",
+      "root_arabic": "حذر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "SEq",
+      "root_arabic": "صعق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "HwT",
+      "root_arabic": "حوط",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "SbE",
+      "root_arabic": "صبع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "rEd",
+      "root_arabic": "رعد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        19
+      ]
+    },
+    {
+      "root": "n$A",
+      "root_arabic": "نشا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        13,
+        12
+      ]
+    },
+    {
+      "root": "vql",
+      "root_arabic": "ثقل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        13,
+        12
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 13,
+        "name_english": "Ar-Ra'd",
+        "name_arabic": "سُورَةُ الرَّعۡدِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 30,
+        "name_english": "Ar-Room",
+        "name_arabic": "سُورَةُ الرُّومِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 75,
+        "name_english": "Al-Qiyaama",
+        "name_arabic": "سُورَةُ القِيَامَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 4,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        19,
+        8
+      ],
+      "form_arabic": "وَبَرْقٌ",
+      "lemma": "baroq",
+      "lemma_arabic": "بَرْق",
+      "pos": "N",
+      "ayah_id": "2:19",
+      "ayah_arabic": "أَوۡ كَصَيِّبࣲ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتࣱ وَرَعۡدࣱ وَبَرۡقࣱ يَجۡعَلُونَ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلۡمَوۡتِۚ وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "and lightning",
+      "translations": {
+        "saheeh": "Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning. They put their fingers in their ears against the thunderclaps in dread of death. But Allah is encompassing of the disbelievers.",
+        "pickthall": "Or like a rainstorm from the sky, wherein is darkness, thunder and the flash of lightning. They thrust their fingers in their ears by reason of the thunder-claps, for fear of death, Allah encompasseth the disbelievers (in His guidance, His omniscience and His omnipotence).",
+        "khattab": "Or ˹those caught in˺ a rainstorm from the sky with darkness, thunder, and lightning. They press their fingers into their ears at the sound of every thunder-clap for fear of death. And Allah encompasses the disbelievers ˹by His might˺",
+        "arberry": "or as a cloudburst out of heaven in which is darkness, and thunder, and lightning -- they put their fingers in their ears against the thunderclaps, fearful of death; and God encompasses the unbelievers;"
+      }
+    },
+    {
+      "location": [
+        2,
+        20,
+        2
+      ],
+      "form_arabic": "ٱلْبَرْقُ",
+      "lemma": "baroq",
+      "lemma_arabic": "بَرْق",
+      "pos": "N",
+      "ayah_id": "2:20",
+      "ayah_arabic": "يَكَادُ ٱلۡبَرۡقُ يَخۡطَفُ أَبۡصَٰرَهُمۡۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوۡاْ فِيهِ وَإِذَآ أَظۡلَمَ عَلَيۡهِمۡ قَامُواْۚ وَلَوۡ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمۡعِهِمۡ وَأَبۡصَٰرِهِمۡۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "the lightning",
+      "translations": {
+        "saheeh": "The lightning almost snatches away their sight. Every time it lights [the way] for them, they walk therein; but when darkness comes over them, they stand [still]. And if Allah had willed, He could have taken away their hearing and their sight. Indeed, Allah is over all things competent.",
+        "pickthall": "The lightning almost snatcheth away their sight from them. As often as it flasheth forth for them they walk therein, and when it darkeneth against them they stand still. If Allah willed, He could destroy their hearing and their sight. Lo! Allah is able to do all things.",
+        "khattab": "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still. Had Allah willed, He could have taken away their hearing and sight. Surely Allah is Most Capable of everything",
+        "arberry": "the lightning wellnigh snatches away their sight; whensoever it gives them light, they walk in it, and when the darkness is over them, they halt; had God willed, He would have taken away their hearing and their sight. Truly, God is powerful over everything."
+      }
+    },
+    {
+      "location": [
+        13,
+        12,
+        4
+      ],
+      "form_arabic": "ٱلْبَرْقَ",
+      "lemma": "baroq",
+      "lemma_arabic": "بَرْق",
+      "pos": "N",
+      "ayah_id": "13:12",
+      "ayah_arabic": "هُوَ ٱلَّذِي يُرِيكُمُ ٱلۡبَرۡقَ خَوۡفࣰ ا وَطَمَعࣰ ا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Ra'd",
+      "literal_gloss": "the lightning",
+      "translations": {
+        "saheeh": "It is He who shows you lightening, [causing] fear and aspiration, and generates the heavy clouds.",
+        "pickthall": "He it is Who showeth you the lightning, a fear and a hope, and raiseth the heavy clouds.",
+        "khattab": "He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds",
+        "arberry": "It is He who shows you the lightning, for fear and hope, and produces the heavy clouds;"
+      }
+    },
+    {
+      "location": [
+        24,
+        43,
+        36
+      ],
+      "form_arabic": "بَرْقِهِ.",
+      "lemma": "baroq",
+      "lemma_arabic": "بَرْق",
+      "pos": "N",
+      "ayah_id": "24:43",
+      "ayah_arabic": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يُزۡجِي سَحَابࣰ ا ثُمَّ يُؤَلِّفُ بَيۡنَهُۥ ثُمَّ يَجۡعَلُهُۥ رُكَامࣰ ا فَتَرَى ٱلۡوَدۡقَ يَخۡرُجُ مِنۡ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالࣲ فِيهَا مِنۢ بَرَدࣲ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصۡرِفُهُۥ عَن مَّن يَشَآءُۖ يَكَادُ سَنَا بَرۡقِهِۦ يَذۡهَبُ بِٱلۡأَبۡصَٰرِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "(of) its lighting",
+      "translations": {
+        "saheeh": "Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.",
+        "pickthall": "Hast thou not seen how Allah wafteth the clouds, then gathereth them, then maketh them layers, and thou seest the rain come forth from between them; He sendeth down from the heaven mountains wherein is hail, and smiteth therewith whom He will, and averteth it from whom He will. The flashing of His lightning all but snatcheth away the sight.",
+        "khattab": "Do you not see that Allah gently drives the clouds, then joins them together, piling them up into masses, from which you see raindrops come forth? And He sends down from the sky mountains ˹of clouds˺ loaded with hail, pouring it on whoever He wills and averting it from whoever He wills. The flash of the clouds’ lightning nearly takes away eyesight",
+        "arberry": "'hast thou not seen how God drives the clouds, then composes them, then converts them into a mass, then thou seest the rain issuing out of the midst of them? And He sends down out of heaven mountains, wherein is hail, so that He smites whom He will with it, and turns it aside from whom He will; wellnigh the gleam of His lightning snatches away the sight."
+      }
+    },
+    {
+      "location": [
+        30,
+        24,
+        4
+      ],
+      "form_arabic": "ٱلْبَرْقَ",
+      "lemma": "baroq",
+      "lemma_arabic": "بَرْق",
+      "pos": "N",
+      "ayah_id": "30:24",
+      "ayah_arabic": "وَمِنۡ ءَايَٰتِهِۦ يُرِيكُمُ ٱلۡبَرۡقَ خَوۡفࣰ ا وَطَمَعࣰ ا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءࣰ فَيُحۡيِۦ بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَآۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتࣲ لِّقَوۡمࣲ يَعۡقِلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ar-Room",
+      "literal_gloss": "the lightning",
+      "translations": {
+        "saheeh": "And of His signs is [that] He shows you the lightning [causing] fear and aspiration, and He sends down rain from the sky by which He brings to life the earth after its lifelessness. Indeed in that are signs for a people who use reason.",
+        "pickthall": "And of His signs is this: He showeth you the lightning for a fear and for a hope, and sendeth down water from the sky, and thereby quickeneth the earth after her death. Lo! herein indeed are portents for folk who understand.",
+        "khattab": "And one of His signs is that He shows you lightning, inspiring ˹you with˺ hope and fear. And He sends down rain from the sky, reviving the earth after its death. Surely in this are signs for people who understand",
+        "arberry": "And of His signs He shows you lightning, for fear and hope, and that He sends down out of heaven water and He revives the earth after it is dead. Surely in that are signs for a people who understand."
+      }
+    },
+    {
+      "location": [
+        75,
+        7,
+        2
+      ],
+      "form_arabic": "بَرِقَ",
+      "lemma": "bariqa",
+      "lemma_arabic": "بَرِقَ",
+      "pos": "V",
+      "ayah_id": "75:7",
+      "ayah_arabic": "فَإِذَا بَرِقَ ٱلۡبَصَرُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qiyaama",
+      "literal_gloss": "is dazzled",
+      "translations": {
+        "saheeh": "So when vision is dazzled",
+        "pickthall": "But when sight is confounded",
+        "khattab": "But when the sight is stunned",
+        "arberry": "But when the sight is dazed"
+      }
+    }
+  ]
+}

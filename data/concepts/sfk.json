@@ -1,0 +1,300 @@
+{
+  "root": "sfk",
+  "root_arabic": "سفك",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yasofiku",
+      "lemma_arabic": "يَسْفِكُ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        2,
+        30,
+        16
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            30,
+            16
+          ],
+          "form_arabic": "وَيَسْفِكُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            2,
+            84,
+            5
+          ],
+          "form_arabic": "تَسْفِكُونَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "dmw",
+      "root_arabic": "دمو",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        84
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        84
+      ]
+    },
+    {
+      "root": "qrr",
+      "root_arabic": "قرر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        84
+      ]
+    },
+    {
+      "root": "wvq",
+      "root_arabic": "وثق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        84
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        84
+      ]
+    },
+    {
+      "root": "dwr",
+      "root_arabic": "دور",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        84
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        84
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "sbH",
+      "root_arabic": "سبح",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "mlk",
+      "root_arabic": "ملك",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "qds",
+      "root_arabic": "قدس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "Hmd",
+      "root_arabic": "حمد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "fsd",
+      "root_arabic": "فسد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        30
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        30,
+        16
+      ],
+      "form_arabic": "وَيَسْفِكُ",
+      "lemma": "yasofiku",
+      "lemma_arabic": "يَسْفِكُ",
+      "pos": "V",
+      "ayah_id": "2:30",
+      "ayah_arabic": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي جَاعِلࣱ فِي ٱلۡأَرۡضِ خَلِيفَةࣰۖ قَالُوٓاْ أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ وَنَحۡنُ نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَكَۖ قَالَ إِنِّيٓ أَعۡلَمُ مَا لَا تَعۡلَمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "and will shed",
+      "translations": {
+        "saheeh": "And [mention, O Muhammad], when your Lord said to the angels, \"Indeed, I will make upon the earth a successive authority.\" They said, \"Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?\" Allah said, \"Indeed, I know that which you do not know.\"",
+        "pickthall": "And when thy Lord said unto the angels: Lo! I am about to place a viceroy in the earth, they said: Wilt thou place therein one who will do harm therein and will shed blood, while we, we hymn Thy praise and sanctify Thee? He said: Surely I know that which ye know not.",
+        "khattab": "˹Remember˺ when your Lord said to the angels, “I am going to place a successive ˹human˺ authority on earth.” They asked ˹Allah˺, “Will You place in it someone who will spread corruption there and shed blood while we glorify Your praises and proclaim Your holiness?” Allah responded, “I know what you do not know.”",
+        "arberry": "And when thy Lord said to the angels, 'I am setting in the earth a viceroy.' They said, 'What, wilt Thou set therein one who will do corruption there, and shed blood, while We proclaim Thy praise and call Thee Holy?' He said, 'Assuredly I know that you know not.'"
+      }
+    },
+    {
+      "location": [
+        2,
+        84,
+        5
+      ],
+      "form_arabic": "تَسْفِكُونَ",
+      "lemma": "yasofiku",
+      "lemma_arabic": "يَسْفِكُ",
+      "pos": "V",
+      "ayah_id": "2:84",
+      "ayah_arabic": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ لَا تَسۡفِكُونَ دِمَآءَكُمۡ وَلَا تُخۡرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمۡ ثُمَّ أَقۡرَرۡتُمۡ وَأَنتُمۡ تَشۡهَدُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "will you shed",
+      "translations": {
+        "saheeh": "And [recall] when We took your covenant, [saying], \"Do not shed each other's blood or evict one another from your homes.\" Then you acknowledged [this] while you were witnessing.",
+        "pickthall": "And when We made with you a covenant (saying): Shed not the blood of your people nor turn (a party of) your people out of your dwellings. Then ye ratified (Our covenant) and ye were witnesses (thereto).",
+        "khattab": "And ˹remember˺ when We took your covenant that you would neither shed each other’s blood nor expel each other from their homes, you gave your pledge and bore witness",
+        "arberry": "And when We took compact with you: 'You shall not shed your own blood, neither expel your own from your habitations'; then you confirmed it and yourselves bore witness."
+      }
+    }
+  ]
+}

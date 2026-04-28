@@ -1,0 +1,625 @@
+{
+  "root": "qnTr",
+  "root_arabic": "قنطر",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 3,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 3,
+      "ADJ": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "qinTaAr",
+      "lemma_arabic": "قِنطَار",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        3,
+        14,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            14,
+            8
+          ],
+          "form_arabic": "وَٱلْقَنَٰطِيرِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            3,
+            75,
+            7
+          ],
+          "form_arabic": "بِقِنطَارٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            20,
+            9
+          ],
+          "form_arabic": "قِنطَارًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "muqanTarap",
+      "lemma_arabic": "مُقَنطَرَة",
+      "count": 1,
+      "pos_distribution": {
+        "ADJ": 1
+      },
+      "first_occurrence": [
+        3,
+        14,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            14,
+            9
+          ],
+          "form_arabic": "ٱلْمُقَنطَرَةِ",
+          "pos": "ADJ"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "lys",
+      "root_arabic": "ليس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "dnr",
+      "root_arabic": "دنر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "Ady",
+      "root_arabic": "ادي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "dwm",
+      "root_arabic": "دوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        75
+      ]
+    },
+    {
+      "root": "zyn",
+      "root_arabic": "زين",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "$hw",
+      "root_arabic": "شهو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "Awb",
+      "root_arabic": "اوب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "Hrv",
+      "root_arabic": "حرث",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "fDD",
+      "root_arabic": "فضض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "swm",
+      "root_arabic": "سوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "xyl",
+      "root_arabic": "خيل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        14
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "Avm",
+      "root_arabic": "اثم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "bht",
+      "root_arabic": "بهت",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    },
+    {
+      "root": "bdl",
+      "root_arabic": "بدل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        20
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 3
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        14,
+        8
+      ],
+      "form_arabic": "وَٱلْقَنَٰطِيرِ",
+      "lemma": "qinTaAr",
+      "lemma_arabic": "قِنطَار",
+      "pos": "N",
+      "ayah_id": "3:14",
+      "ayah_arabic": "زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلۡبَنِينَ وَٱلۡقَنَٰطِيرِ ٱلۡمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلۡفِضَّةِ وَٱلۡخَيۡلِ ٱلۡمُسَوَّمَةِ وَٱلۡأَنۡعَٰمِ وَٱلۡحَرۡثِۗ ذَٰلِكَ مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَٱللَّهُ عِندَهُۥ حُسۡنُ ٱلۡمَـَٔابِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "and [the] heaps",
+      "translations": {
+        "saheeh": "Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allah has with Him the best return.",
+        "pickthall": "Beautified for mankind is love of the joys (that come) from women and offspring; and stored-up heaps of gold and silver, and horses branded (with their mark), and cattle and land. That is comfort of the life of the world. Allah! With Him is a more excellent abode.",
+        "khattab": "The enjoyment of ˹worldly˺ desires—women, children, treasures of gold and silver, fine horses, cattle, and fertile land—has been made appealing to people. These are the pleasures of this worldly life, but with Allah is the finest destination",
+        "arberry": "Decked out fair to men is the love of lusts -- women, children, heaped-up heaps of gold and silver, horses of mark, cattle and tillage. That is the enjoyment of the present life; but God -- with Him is the fairest resort."
+      }
+    },
+    {
+      "location": [
+        3,
+        14,
+        9
+      ],
+      "form_arabic": "ٱلْمُقَنطَرَةِ",
+      "lemma": "muqanTarap",
+      "lemma_arabic": "مُقَنطَرَة",
+      "pos": "ADJ",
+      "ayah_id": "3:14",
+      "ayah_arabic": "زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلۡبَنِينَ وَٱلۡقَنَٰطِيرِ ٱلۡمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلۡفِضَّةِ وَٱلۡخَيۡلِ ٱلۡمُسَوَّمَةِ وَٱلۡأَنۡعَٰمِ وَٱلۡحَرۡثِۗ ذَٰلِكَ مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَٱللَّهُ عِندَهُۥ حُسۡنُ ٱلۡمَـَٔابِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "[the] stored up",
+      "translations": {
+        "saheeh": "Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allah has with Him the best return.",
+        "pickthall": "Beautified for mankind is love of the joys (that come) from women and offspring; and stored-up heaps of gold and silver, and horses branded (with their mark), and cattle and land. That is comfort of the life of the world. Allah! With Him is a more excellent abode.",
+        "khattab": "The enjoyment of ˹worldly˺ desires—women, children, treasures of gold and silver, fine horses, cattle, and fertile land—has been made appealing to people. These are the pleasures of this worldly life, but with Allah is the finest destination",
+        "arberry": "Decked out fair to men is the love of lusts -- women, children, heaped-up heaps of gold and silver, horses of mark, cattle and tillage. That is the enjoyment of the present life; but God -- with Him is the fairest resort."
+      }
+    },
+    {
+      "location": [
+        3,
+        75,
+        7
+      ],
+      "form_arabic": "بِقِنطَارٍ",
+      "lemma": "qinTaAr",
+      "lemma_arabic": "قِنطَار",
+      "pos": "N",
+      "ayah_id": "3:75",
+      "ayah_arabic": "۞وَمِنۡ أَهۡلِ ٱلۡكِتَٰبِ مَنۡ إِن تَأۡمَنۡهُ بِقِنطَارࣲ يُؤَدِّهِۦٓ إِلَيۡكَ وَمِنۡهُم مَّنۡ إِن تَأۡمَنۡهُ بِدِينَارࣲ لَّا يُؤَدِّهِۦٓ إِلَيۡكَ إِلَّا مَا دُمۡتَ عَلَيۡهِ قَآئِمࣰ اۗ ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَيۡسَ عَلَيۡنَا فِي ٱلۡأُمِّيِّـۧنَ سَبِيلࣱ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "with a great amount of wealth",
+      "translations": {
+        "saheeh": "And among the People of the Scripture is he who, if you entrust him with a great amount [of wealth], he will return it to you. And among them is he who, if you entrust him with a [single] silver coin, he will not return it to you unless you are constantly standing over him [demanding it]. That is because they say, \"There is no blame upon us concerning the unlearned.\" And they speak untruth about Allah while they know [it].",
+        "pickthall": "Among the People of the Scripture there is he who, if thou trust him with a weight of treasure, will return it to thee. And among them there is he who, if thou trust him with a piece of gold, will not return it to thee unless thou keep standing over him. That is because they say: We have no duty to the Gentiles. They speak a lie concerning Allah knowingly.",
+        "khattab": "There are some among the People of the Book who, if entrusted with a stack of gold, will readily return it. Yet there are others who, if entrusted with a single coin, will not repay it unless you constantly demand it. This is because they say, “We are not accountable for ˹exploiting˺ the Gentiles.” And ˹so˺ they attribute lies to Allah knowingly",
+        "arberry": "And of the People of the Book is he who, if thou trust him with a hundredweight, will restore it thee; and of them is he who, if thou trust him with one pound, will not restore it thee, unless ever thou standest over him. That, because they say, 'There is no way over us as to the common people.' They speak falsehood against God and that wittingly."
+      }
+    },
+    {
+      "location": [
+        4,
+        20,
+        9
+      ],
+      "form_arabic": "قِنطَارًا",
+      "lemma": "qinTaAr",
+      "lemma_arabic": "قِنطَار",
+      "pos": "N",
+      "ayah_id": "4:20",
+      "ayah_arabic": "وَإِنۡ أَرَدتُّمُ ٱسۡتِبۡدَالَ زَوۡجࣲ مَّكَانَ زَوۡجࣲ وَءَاتَيۡتُمۡ إِحۡدَىٰهُنَّ قِنطَارࣰ ا فَلَا تَأۡخُذُواْ مِنۡهُ شَيۡـًٔاۚ أَتَأۡخُذُونَهُۥ بُهۡتَٰنࣰ ا وَإِثۡمࣰ ا مُّبِينࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "heap (of gold)",
+      "translations": {
+        "saheeh": "But if you want to replace one wife with another and you have given one of them a great amount [in gifts], do not take [back] from it anything. Would you take it in injustice and manifest sin?",
+        "pickthall": "And if ye wish to exchange one wife for another and ye have given unto one of them a sum of money (however great), take nothing from it. Would ye take it by the way of calumny and open wrong?",
+        "khattab": "If you desire to replace a wife with another and you have given the former ˹even˺ a stack of gold ˹as a dowry˺, do not take any of it back. Would you ˹still˺ take it unjustly and very sinfully",
+        "arberry": "And if you desire to exchange a wife in place of another, and you have given to one a hundredweight, take of it nothing. What, will you take it by way of calumny and manifest sin?"
+      }
+    }
+  ]
+}

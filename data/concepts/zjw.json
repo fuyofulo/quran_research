@@ -1,0 +1,582 @@
+{
+  "root": "zjw",
+  "root_arabic": "زجو",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 2,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "V": 2,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yuzojiY",
+      "lemma_arabic": "يُزْجِى",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        17,
+        66,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            17,
+            66,
+            3
+          ],
+          "form_arabic": "يُزْجِى",
+          "pos": "V"
+        },
+        {
+          "location": [
+            24,
+            43,
+            5
+          ],
+          "form_arabic": "يُزْجِى",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "m~uzojaY`p",
+      "lemma_arabic": "مُّزْجَىٰة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        12,
+        88,
+        12
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            88,
+            12
+          ],
+          "form_arabic": "مُّزْجَىٰةٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        66
+      ]
+    },
+    {
+      "root": "flk",
+      "root_arabic": "فلك",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        66
+      ]
+    },
+    {
+      "root": "bHr",
+      "root_arabic": "بحر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        66
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        66
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        66
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        66
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        66
+      ]
+    },
+    {
+      "root": "snw",
+      "root_arabic": "سنو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "rkm",
+      "root_arabic": "ركم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "xll",
+      "root_arabic": "خلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "Srf",
+      "root_arabic": "صرف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "wdq",
+      "root_arabic": "ودق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "brq",
+      "root_arabic": "برق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "sHb",
+      "root_arabic": "سحب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "brd",
+      "root_arabic": "برد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "jbl",
+      "root_arabic": "جبل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "Alf",
+      "root_arabic": "الف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        43
+      ]
+    },
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "Drr",
+      "root_arabic": "ضرر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "Ezz",
+      "root_arabic": "عزز",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "bDE",
+      "root_arabic": "بضع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "kyl",
+      "root_arabic": "كيل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "mss",
+      "root_arabic": "مسس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "jzy",
+      "root_arabic": "جزي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        12,
+        88
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        12,
+        88,
+        12
+      ],
+      "form_arabic": "مُّزْجَىٰةٍ",
+      "lemma": "m~uzojaY`p",
+      "lemma_arabic": "مُّزْجَىٰة",
+      "pos": "N",
+      "ayah_id": "12:88",
+      "ayah_arabic": "فَلَمَّا دَخَلُواْ عَلَيۡهِ قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ مَسَّنَا وَأَهۡلَنَا ٱلضُّرُّ وَجِئۡنَا بِبِضَٰعَةࣲ مُّزۡجَىٰةࣲ فَأَوۡفِ لَنَا ٱلۡكَيۡلَ وَتَصَدَّقۡ عَلَيۡنَآۖ إِنَّ ٱللَّهَ يَجۡزِي ٱلۡمُتَصَدِّقِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "(of) little value",
+      "translations": {
+        "saheeh": "So when they entered upon Joseph, they said, \"O 'Azeez, adversity has touched us and our family, and we have come with goods poor in quality, but give us full measure and be charitable to us. Indeed, Allah rewards the charitable.\"",
+        "pickthall": "And when they came (again) before him (Joseph) they said: O ruler! Misfortune hath touched us and our folk, and we bring but poor merchandise, so fill for us the measure and be charitable unto us. Lo! Allah will requite the charitable,",
+        "khattab": "When they entered Joseph’s presence, they pleaded, “O Chief Minister! We and our family have been touched with hardship, and we have brought only a few worthless coins, but ˹please˺ give us our supplies in full and be charitable to us. Indeed, Allah rewards the charitable.”",
+        "arberry": "So, when they entered unto him, they said, 'O mighty prince, affliction has visited us and our people. We come with merchandise of scant worth. Fill up to us the measure, and be charitable to us; surely God recompenses the charitable.'"
+      }
+    },
+    {
+      "location": [
+        17,
+        66,
+        3
+      ],
+      "form_arabic": "يُزْجِى",
+      "lemma": "yuzojiY",
+      "lemma_arabic": "يُزْجِى",
+      "pos": "V",
+      "ayah_id": "17:66",
+      "ayah_arabic": "رَّبُّكُمُ ٱلَّذِي يُزۡجِي لَكُمُ ٱلۡفُلۡكَ فِي ٱلۡبَحۡرِ لِتَبۡتَغُواْ مِن فَضۡلِهِۦٓۚ إِنَّهُۥ كَانَ بِكُمۡ رَحِيمࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "drives",
+      "translations": {
+        "saheeh": "It is your Lord who drives the ship for you through the sea that you may seek of His bounty. Indeed, He is ever, to you, Merciful.",
+        "pickthall": "(O mankind), your Lord is He Who driveth for you the ship upon the sea that ye may seek of His bounty. Lo! He was ever Merciful toward you.",
+        "khattab": "It is your Lord Who steers the ships for you through the sea, so that you may seek His bounty. Surely He is ever Merciful to you",
+        "arberry": "Your Lord it is who drives for you the ships on the sea that you may seek His bounty; surely He is All-compassionate towards you."
+      }
+    },
+    {
+      "location": [
+        24,
+        43,
+        5
+      ],
+      "form_arabic": "يُزْجِى",
+      "lemma": "yuzojiY",
+      "lemma_arabic": "يُزْجِى",
+      "pos": "V",
+      "ayah_id": "24:43",
+      "ayah_arabic": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يُزۡجِي سَحَابࣰ ا ثُمَّ يُؤَلِّفُ بَيۡنَهُۥ ثُمَّ يَجۡعَلُهُۥ رُكَامࣰ ا فَتَرَى ٱلۡوَدۡقَ يَخۡرُجُ مِنۡ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالࣲ فِيهَا مِنۢ بَرَدࣲ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصۡرِفُهُۥ عَن مَّن يَشَآءُۖ يَكَادُ سَنَا بَرۡقِهِۦ يَذۡهَبُ بِٱلۡأَبۡصَٰرِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "drives",
+      "translations": {
+        "saheeh": "Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.",
+        "pickthall": "Hast thou not seen how Allah wafteth the clouds, then gathereth them, then maketh them layers, and thou seest the rain come forth from between them; He sendeth down from the heaven mountains wherein is hail, and smiteth therewith whom He will, and averteth it from whom He will. The flashing of His lightning all but snatcheth away the sight.",
+        "khattab": "Do you not see that Allah gently drives the clouds, then joins them together, piling them up into masses, from which you see raindrops come forth? And He sends down from the sky mountains ˹of clouds˺ loaded with hail, pouring it on whoever He wills and averting it from whoever He wills. The flash of the clouds’ lightning nearly takes away eyesight",
+        "arberry": "'hast thou not seen how God drives the clouds, then composes them, then converts them into a mass, then thou seest the rain issuing out of the midst of them? And He sends down out of heaven mountains, wherein is hail, so that He smites whom He will with it, and turns it aside from whom He will; wellnigh the gleam of His lightning snatches away the sight."
+      }
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "root": "hTE",
+  "root_arabic": "هطع",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "muhoTiEiyn",
+      "lemma_arabic": "مُهْطِعِين",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        14,
+        43,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            14,
+            43,
+            1
+          ],
+          "form_arabic": "مُهْطِعِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            54,
+            8,
+            1
+          ],
+          "form_arabic": "مُّهْطِعِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            70,
+            36,
+            5
+          ],
+          "form_arabic": "مُهْطِعِينَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        54,
+        8
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        70,
+        36
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        54,
+        8
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        54,
+        8
+      ]
+    },
+    {
+      "root": "Esr",
+      "root_arabic": "عسر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        54,
+        8
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        54,
+        8
+      ]
+    },
+    {
+      "root": "hwy",
+      "root_arabic": "هوي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        14,
+        43
+      ]
+    },
+    {
+      "root": "qnE",
+      "root_arabic": "قنع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        14,
+        43
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        14,
+        43
+      ]
+    },
+    {
+      "root": "Trf",
+      "root_arabic": "طرف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        14,
+        43
+      ]
+    },
+    {
+      "root": "rAs",
+      "root_arabic": "راس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        14,
+        43
+      ]
+    },
+    {
+      "root": "fAd",
+      "root_arabic": "فاد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        14,
+        43
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 14,
+        "name_english": "Ibrahim",
+        "name_arabic": "سُورَةُ إِبۡرَاهِيمَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 54,
+        "name_english": "Al-Qamar",
+        "name_arabic": "سُورَةُ القَمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 70,
+        "name_english": "Al-Ma'aarij",
+        "name_arabic": "سُورَةُ المَعَارِجِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        14,
+        43,
+        1
+      ],
+      "form_arabic": "مُهْطِعِينَ",
+      "lemma": "muhoTiEiyn",
+      "lemma_arabic": "مُهْطِعِين",
+      "pos": "N",
+      "ayah_id": "14:43",
+      "ayah_arabic": "مُهۡطِعِينَ مُقۡنِعِي رُءُوسِهِمۡ لَا يَرۡتَدُّ إِلَيۡهِمۡ طَرۡفُهُمۡۖ وَأَفۡـِٔدَتُهُمۡ هَوَآءࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ibrahim",
+      "literal_gloss": "Racing ahead",
+      "translations": {
+        "saheeh": "Racing ahead, their heads raised up, their glance does not come back to them, and their hearts are void.",
+        "pickthall": "As they come hurrying on in fear, their heads upraised, their gaze returning not to them, and their hearts as air.",
+        "khattab": "rushing forth, heads raised, never blinking, hearts void",
+        "arberry": "when they shall run with necks outstretched and heads erect, their glances never returned on themselves, their hearts void."
+      }
+    },
+    {
+      "location": [
+        54,
+        8,
+        1
+      ],
+      "form_arabic": "مُّهْطِعِينَ",
+      "lemma": "muhoTiEiyn",
+      "lemma_arabic": "مُهْطِعِين",
+      "pos": "N",
+      "ayah_id": "54:8",
+      "ayah_arabic": "مُّهۡطِعِينَ إِلَى ٱلدَّاعِۖ يَقُولُ ٱلۡكَٰفِرُونَ هَٰذَا يَوۡمٌ عَسِرࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qamar",
+      "literal_gloss": "Racing ahead",
+      "translations": {
+        "saheeh": "Racing ahead toward the Caller. The disbelievers will say, \"This is a difficult Day.\"",
+        "pickthall": "Hastening toward the summoner; the disbelievers say: This is a hard day.",
+        "khattab": "rushing towards the caller. The disbelievers will cry, “This is a difficult Day!”",
+        "arberry": "running with outstretched necks to the Caller. The unbelievers shall say, 'This is a hard day!'"
+      }
+    },
+    {
+      "location": [
+        70,
+        36,
+        5
+      ],
+      "form_arabic": "مُهْطِعِينَ",
+      "lemma": "muhoTiEiyn",
+      "lemma_arabic": "مُهْطِعِين",
+      "pos": "N",
+      "ayah_id": "70:36",
+      "ayah_arabic": "فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهۡطِعِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ma'aarij",
+      "literal_gloss": "(they) hasten",
+      "translations": {
+        "saheeh": "So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muhammad],",
+        "pickthall": "What aileth those who disbelieve, that they keep staring toward thee (O Muhammad), open-eyed,",
+        "khattab": "So what is the matter with the disbelievers that they rush ˹head-long˺ towards you ˹O Prophet˺",
+        "arberry": "What ails the unbelievers, running with outstretched necks"
+      }
+    }
+  ]
+}

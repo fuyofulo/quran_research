@@ -1,0 +1,1013 @@
+{
+  "root": "rfq",
+  "root_arabic": "رفق",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 4,
+    "ayahs": 5,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 5
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "murotafaq",
+      "lemma_arabic": "مُرْتَفَق",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        18,
+        29,
+        28
+      ],
+      "occurrences": [
+        {
+          "location": [
+            18,
+            29,
+            28
+          ],
+          "form_arabic": "مُرْتَفَقًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            18,
+            31,
+            28
+          ],
+          "form_arabic": "مُرْتَفَقًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "rafiyq",
+      "lemma_arabic": "رَفِيق",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        4,
+        69,
+        18
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            69,
+            18
+          ],
+          "form_arabic": "رَفِيقًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "maraAfiq",
+      "lemma_arabic": "مَرَافِق",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        5,
+        6,
+        12
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            6,
+            12
+          ],
+          "form_arabic": "ٱلْمَرَافِقِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "m~irofaq",
+      "lemma_arabic": "مِّرْفَق",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        18,
+        16,
+        19
+      ],
+      "occurrences": [
+        {
+          "location": [
+            18,
+            16,
+            19
+          ],
+          "form_arabic": "مِّرْفَقًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        4,
+        69
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        4,
+        69
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        18,
+        16
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        4,
+        69
+      ]
+    },
+    {
+      "root": "n$r",
+      "root_arabic": "نشر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        16
+      ]
+    },
+    {
+      "root": "hyA",
+      "root_arabic": "هيا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        16
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        16
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        16
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        16
+      ]
+    },
+    {
+      "root": "Awy",
+      "root_arabic": "اوي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        16
+      ]
+    },
+    {
+      "root": "Ezl",
+      "root_arabic": "عزل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        16
+      ]
+    },
+    {
+      "root": "khf",
+      "root_arabic": "كهف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        16
+      ]
+    },
+    {
+      "root": "Etd",
+      "root_arabic": "عتد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "$wy",
+      "root_arabic": "شوي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "HwT",
+      "root_arabic": "حوط",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "mhl",
+      "root_arabic": "مهل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "srdq",
+      "root_arabic": "سردق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "gwv",
+      "root_arabic": "غوث",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "bAs",
+      "root_arabic": "باس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        29
+      ]
+    },
+    {
+      "root": "msH",
+      "root_arabic": "مسح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "kEb",
+      "root_arabic": "كعب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "jnb",
+      "root_arabic": "جنب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "rAs",
+      "root_arabic": "راس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "lms",
+      "root_arabic": "لمس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "gsl",
+      "root_arabic": "غسل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "ymm",
+      "root_arabic": "يمم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "mrD",
+      "root_arabic": "مرض",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "Tyb",
+      "root_arabic": "طيب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "sfr",
+      "root_arabic": "سفر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "gwT",
+      "root_arabic": "غوط",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "Hrj",
+      "root_arabic": "حرج",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "tmm",
+      "root_arabic": "تمم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "SEd",
+      "root_arabic": "صعد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "Thr",
+      "root_arabic": "طهر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        6
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        69
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        69
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        69
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        69
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        69
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        69
+      ]
+    },
+    {
+      "root": "xDr",
+      "root_arabic": "خضر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "swr",
+      "root_arabic": "سور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "Ark",
+      "root_arabic": "ارك",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "Hly",
+      "root_arabic": "حلي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "wkA",
+      "root_arabic": "وكا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "vwb",
+      "root_arabic": "ثوب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "lbs",
+      "root_arabic": "لبس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "jry",
+      "root_arabic": "جري",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "tHt",
+      "root_arabic": "تحت",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 3
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        69,
+        18
+      ],
+      "form_arabic": "رَفِيقًا",
+      "lemma": "rafiyq",
+      "lemma_arabic": "رَفِيق",
+      "pos": "N",
+      "ayah_id": "4:69",
+      "ayah_arabic": "وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُوْلَٰٓئِكَ مَعَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَۚ وَحَسُنَ أُوْلَٰٓئِكَ رَفِيقࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "companion(s)",
+      "translations": {
+        "saheeh": "And whoever obeys Allah and the Messenger - those will be with the ones upon whom Allah has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions.",
+        "pickthall": "Whoso obeyeth Allah and the messenger, they are with those unto whom Allah hath shown favour, of the prophets and the saints and the martyrs and the righteous. The best of company are they!",
+        "khattab": "And whoever obeys Allah and the Messenger will be in the company of those blessed by Allah: the prophets, the people of truth, the martyrs, and the righteous—what honourable company",
+        "arberry": "Whosoever obeys God, and the Messenger -- they are with those whom God has blessed, Prophets, just men, martyrs, the righteous; good companions they!"
+      }
+    },
+    {
+      "location": [
+        5,
+        6,
+        12
+      ],
+      "form_arabic": "ٱلْمَرَافِقِ",
+      "lemma": "maraAfiq",
+      "lemma_arabic": "مَرَافِق",
+      "pos": "N",
+      "ayah_id": "5:6",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا قُمۡتُمۡ إِلَى ٱلصَّلَوٰةِ فَٱغۡسِلُواْ وُجُوهَكُمۡ وَأَيۡدِيَكُمۡ إِلَى ٱلۡمَرَافِقِ وَٱمۡسَحُواْ بِرُءُوسِكُمۡ وَأَرۡجُلَكُمۡ إِلَى ٱلۡكَعۡبَيۡنِۚ وَإِن كُنتُمۡ جُنُبࣰ ا فَٱطَّهَّرُواْۚ وَإِن كُنتُم مَّرۡضَىٰٓ أَوۡ عَلَىٰ سَفَرٍ أَوۡ جَآءَ أَحَدࣱ مِّنكُم مِّنَ ٱلۡغَآئِطِ أَوۡ لَٰمَسۡتُمُ ٱلنِّسَآءَ فَلَمۡ تَجِدُواْ مَآءࣰ فَتَيَمَّمُواْ صَعِيدࣰ ا طَيِّبࣰ ا فَٱمۡسَحُواْ بِوُجُوهِكُمۡ وَأَيۡدِيكُم مِّنۡهُۚ مَا يُرِيدُ ٱللَّهُ لِيَجۡعَلَ عَلَيۡكُم مِّنۡ حَرَجࣲ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمۡ وَلِيُتِمَّ نِعۡمَتَهُۥ عَلَيۡكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "the elbows",
+      "translations": {
+        "saheeh": "O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janabah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allah does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.",
+        "pickthall": "O ye who believe! When ye rise up for prayer, wash you faces, and your hands up to the elbows, and lightly rub your heads and (wash) your feet up to the ankles. And if ye are unclean, purify yourselves. And if ye are sick or on a journey, or one of you cometh from the closet, or ye have had contact with women, and ye find not water, then go to clean, high ground and rub your faces and your hands with some of it. Allah would not place a burden on you, but He would purify you and would perfect His grace upon you, that ye may give thanks.",
+        "khattab": "O believers! When you rise up for prayer, wash your faces and your hands up to the elbows, wipe your heads, and wash your feet to the ankles. And if you are in a state of ˹full˺ impurity, then take a full bath. But if you are ill, on a journey, or have relieved yourselves, or have been intimate with your wives and cannot find water, then purify yourselves with clean earth by wiping your faces and hands. It is not Allah’s Will to burden you, but to purify you and complete His favour upon you, so perhaps you will be grateful",
+        "arberry": "O believers, when you stand up to pray wash your faces, and your hands up to the elbows, and wipe your heads, and your feet up to the ankles. If you are defiled, purify yourselves; but if you are sick or on a journey, or if any of you comes from the privy, or you have touched women, and you can find no water, then have recourse to wholesome dust and wipe your faces and your hands with it. God does not desire to make any impediment for you; but He desires to purify you, and that He may complete His blessing upon you; haply you will be thankful."
+      }
+    },
+    {
+      "location": [
+        18,
+        16,
+        19
+      ],
+      "form_arabic": "مِّرْفَقًا",
+      "lemma": "m~irofaq",
+      "lemma_arabic": "مِّرْفَق",
+      "pos": "N",
+      "ayah_id": "18:16",
+      "ayah_arabic": "وَإِذِ ٱعۡتَزَلۡتُمُوهُمۡ وَمَا يَعۡبُدُونَ إِلَّا ٱللَّهَ فَأۡوُۥٓاْ إِلَى ٱلۡكَهۡفِ يَنشُرۡ لَكُمۡ رَبُّكُم مِّن رَّحۡمَتِهِۦ وَيُهَيِّئۡ لَكُم مِّنۡ أَمۡرِكُم مِّرۡفَقࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "(in) ease",
+      "translations": {
+        "saheeh": "[The youths said to one another], \"And when you have withdrawn from them and that which they worship other than Allah, retreat to the cave. Your Lord will spread out for you of His mercy and will prepare for you from your affair facility.\"",
+        "pickthall": "And when ye withdraw from them and that which they worship except Allah, then seek refuge in the Cave; your Lord will spread for you of His mercy and will prepare for you a pillow in your plight.",
+        "khattab": "Since you have distanced yourselves from them and what they worship besides Allah, take refuge in the cave. Your Lord will extend His mercy to you and accommodate you in your ordeal.”",
+        "arberry": "So, when you have gone apart from them and that they serve, excepting God, take refuge in the Cave, and your Lord will unfold to you of His mercy, and will furnish -- you with a gentle issue of your affair.'"
+      }
+    },
+    {
+      "location": [
+        18,
+        29,
+        28
+      ],
+      "form_arabic": "مُرْتَفَقًا",
+      "lemma": "murotafaq",
+      "lemma_arabic": "مُرْتَفَق",
+      "pos": "N",
+      "ayah_id": "18:29",
+      "ayah_arabic": "وَقُلِ ٱلۡحَقُّ مِن رَّبِّكُمۡۖ فَمَن شَآءَ فَلۡيُؤۡمِن وَمَن شَآءَ فَلۡيَكۡفُرۡۚ إِنَّآ أَعۡتَدۡنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمۡ سُرَادِقُهَاۚ وَإِن يَسۡتَغِيثُواْ يُغَاثُواْ بِمَآءࣲ كَٱلۡمُهۡلِ يَشۡوِي ٱلۡوُجُوهَۚ بِئۡسَ ٱلشَّرَابُ وَسَآءَتۡ مُرۡتَفَقًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "(is) the resting place",
+      "translations": {
+        "saheeh": "And say, \"The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve.\" Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.",
+        "pickthall": "Say: (It is) the truth from the Lord of you (all). Then whosoever will, let him believe, and whosoever will, let him disbelieve. Lo! We have prepared for disbelievers Fire. Its tent encloseth them. If they ask for showers, they will be showered with water like to molten lead which burneth the faces. Calamitous the drink and ill the resting-place!",
+        "khattab": "And say, ˹O Prophet,˺ “˹This is˺ the truth from your Lord. Whoever wills let them believe, and whoever wills let them disbelieve.” Surely We have prepared for the wrongdoers a Fire whose walls will ˹completely˺ surround them. When they cry for aid, they will be aided with water like molten metal, which will burn ˹their˺ faces. What a horrible drink! And what a terrible place to rest",
+        "arberry": "Say: 'The truth is from your Lord; so let whosoever will believe, and let whosoever will disbelieve.' Surely We have prepared for the evildoers a fire, whose pavilion encompasses them; if they call for succour, they will be succoured with water like molten copper, that shall scald their faces -- how evil a potion, and how evil a resting-place!"
+      }
+    },
+    {
+      "location": [
+        18,
+        31,
+        28
+      ],
+      "form_arabic": "مُرْتَفَقًا",
+      "lemma": "murotafaq",
+      "lemma_arabic": "مُرْتَفَق",
+      "pos": "N",
+      "ayah_id": "18:31",
+      "ayah_arabic": "أُوْلَٰٓئِكَ لَهُمۡ جَنَّٰتُ عَدۡنࣲ تَجۡرِي مِن تَحۡتِهِمُ ٱلۡأَنۡهَٰرُ يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبࣲ وَيَلۡبَسُونَ ثِيَابًا خُضۡرࣰ ا مِّن سُندُسࣲ وَإِسۡتَبۡرَقࣲ مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۚ نِعۡمَ ٱلثَّوَابُ وَحَسُنَتۡ مُرۡتَفَقࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "(is) the resting place",
+      "translations": {
+        "saheeh": "Those will have gardens of perpetual residence; beneath them rivers will flow. They will be adorned therein with bracelets of gold and will wear green garments of fine silk and brocade, reclining therein on adorned couches. Excellent is the reward, and good is the resting place.",
+        "pickthall": "As for such, theirs will be Gardens of Eden, wherein rivers flow beneath them; therein they will be given armlets of gold and will wear green robes of finest silk and gold embroidery, reclining upon throne therein. Blest the reward, and fair the resting-place!",
+        "khattab": "It is they who will have the Gardens of Eternity, with rivers flowing under their feet. There they will be adorned with bracelets of gold, and wear green garments of fine silk and rich brocade, reclining there on ˹canopied˺ couches. What a marvellous reward! And what a fabulous place to rest",
+        "arberry": "those -- theirs shall be Gardens of Eden, underneath which rivers flow; therein they shall be adorned with bracelets of gold, and they shall be robed in green garments of silk and brocade, therein reclining upon couches -- O, how excellent a reward! And O, how fair a resting-place!"
+      }
+    }
+  ]
+}

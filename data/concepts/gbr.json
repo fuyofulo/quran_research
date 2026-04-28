@@ -1,0 +1,513 @@
+{
+  "root": "gbr",
+  "root_arabic": "غبر",
+  "stats": {
+    "occurrences": 8,
+    "lemmas": 2,
+    "ayahs": 8,
+    "surahs": 7,
+    "pos_distribution": {
+      "N": 8
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "ga`biriyn",
+      "lemma_arabic": "غَٰبِرِين",
+      "count": 7,
+      "pos_distribution": {
+        "N": 7
+      },
+      "first_occurrence": [
+        7,
+        83,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            7,
+            83,
+            7
+          ],
+          "form_arabic": "ٱلْغَٰبِرِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            15,
+            60,
+            6
+          ],
+          "form_arabic": "ٱلْغَٰبِرِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            26,
+            171,
+            4
+          ],
+          "form_arabic": "ٱلْغَٰبِرِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            27,
+            57,
+            7
+          ],
+          "form_arabic": "ٱلْغَٰبِرِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            29,
+            32,
+            16
+          ],
+          "form_arabic": "ٱلْغَٰبِرِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            29,
+            33,
+            23
+          ],
+          "form_arabic": "ٱلْغَٰبِرِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            37,
+            135,
+            4
+          ],
+          "form_arabic": "ٱلْغَٰبِرِينَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "gabarap",
+      "lemma_arabic": "غَبَرَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        80,
+        40,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            80,
+            40,
+            4
+          ],
+          "form_arabic": "غَبَرَةٌ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "mrA",
+      "root_arabic": "مرا",
+      "ayahs_together": 5,
+      "share": 0.625,
+      "first_together": [
+        7,
+        83
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 4,
+      "share": 0.5,
+      "first_together": [
+        7,
+        83
+      ]
+    },
+    {
+      "root": "njw",
+      "root_arabic": "نجو",
+      "ayahs_together": 4,
+      "share": 0.5,
+      "first_together": [
+        7,
+        83
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        7,
+        83
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        29,
+        32
+      ]
+    },
+    {
+      "root": "Ejz",
+      "root_arabic": "عجز",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        26,
+        171
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        15,
+        60
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        80,
+        40
+      ]
+    },
+    {
+      "root": "*rE",
+      "root_arabic": "ذرع",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        33
+      ]
+    },
+    {
+      "root": "Dyq",
+      "root_arabic": "ضيق",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        33
+      ]
+    },
+    {
+      "root": "Hzn",
+      "root_arabic": "حزن",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        33
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        33
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        33
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        33
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        33
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        29,
+        32
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 29,
+        "name_english": "Al-Ankaboot",
+        "name_arabic": "سُورَةُ العَنكَبُوتِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 15,
+        "name_english": "Al-Hijr",
+        "name_arabic": "سُورَةُ الحِجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 26,
+        "name_english": "Ash-Shu'araa",
+        "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 27,
+        "name_english": "An-Naml",
+        "name_arabic": "سُورَةُ النَّمۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 80,
+        "name_english": "Abasa",
+        "name_arabic": "سُورَةُ عَبَسَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 8
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        7,
+        83,
+        7
+      ],
+      "form_arabic": "ٱلْغَٰبِرِينَ",
+      "lemma": "ga`biriyn",
+      "lemma_arabic": "غَٰبِرِين",
+      "pos": "N",
+      "ayah_id": "7:83",
+      "ayah_arabic": "فَأَنجَيۡنَٰهُ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "those who stayed behind",
+      "translations": {
+        "saheeh": "So We saved him and his family, except for his wife; she was of those who remained [with the evildoers].",
+        "pickthall": "And We rescued him and his household, save his wife, who was of those who stayed behind.",
+        "khattab": "So We saved him and his family except his wife, who was one of the doomed",
+        "arberry": "So We delivered him and his family, except his wife; she was one of those that tarried."
+      }
+    },
+    {
+      "location": [
+        15,
+        60,
+        6
+      ],
+      "form_arabic": "ٱلْغَٰبِرِينَ",
+      "lemma": "ga`biriyn",
+      "lemma_arabic": "غَٰبِرِين",
+      "pos": "N",
+      "ayah_id": "15:60",
+      "ayah_arabic": "إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ إِنَّهَا لَمِنَ ٱلۡغَٰبِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Hijr",
+      "literal_gloss": "those who remain behind",
+      "translations": {
+        "saheeh": "Except his wife.\" Allah decreed that she is of those who remain behind.",
+        "pickthall": "Except his wife, of whom We had decreed that she should be of those who stay behind.",
+        "khattab": "except his wife. We have determined that she will be one of the doomed.”",
+        "arberry": "all together, excepting his wife -- we have decreed, she shall surely be of those that tarry.'"
+      }
+    },
+    {
+      "location": [
+        26,
+        171,
+        4
+      ],
+      "form_arabic": "ٱلْغَٰبِرِينَ",
+      "lemma": "ga`biriyn",
+      "lemma_arabic": "غَٰبِرِين",
+      "pos": "N",
+      "ayah_id": "26:171",
+      "ayah_arabic": "إِلَّا عَجُوزࣰ ا فِي ٱلۡغَٰبِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "those who remained behind",
+      "translations": {
+        "saheeh": "Except an old woman among those who remained behind.",
+        "pickthall": "Save an old woman among those who stayed behind.",
+        "khattab": "except an old woman, who was one of the doomed",
+        "arberry": "save an old woman among those that tarried;"
+      }
+    },
+    {
+      "location": [
+        27,
+        57,
+        7
+      ],
+      "form_arabic": "ٱلْغَٰبِرِينَ",
+      "lemma": "ga`biriyn",
+      "lemma_arabic": "غَٰبِرِين",
+      "pos": "N",
+      "ayah_id": "27:57",
+      "ayah_arabic": "فَأَنجَيۡنَٰهُ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَٰهَا مِنَ ٱلۡغَٰبِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naml",
+      "literal_gloss": "those who remained behind",
+      "translations": {
+        "saheeh": "So We saved him and his family, except for his wife; We destined her to be of those who remained behind.",
+        "pickthall": "Then We saved him and his household save his wife; We destined her to be of those who stayed behind.",
+        "khattab": "So We delivered him and his family, except his wife. We had destined her to be one of the doomed",
+        "arberry": "So We delivered him and his family, except his wife; We decreed she should be of those that tarried."
+      }
+    },
+    {
+      "location": [
+        29,
+        32,
+        16
+      ],
+      "form_arabic": "ٱلْغَٰبِرِينَ",
+      "lemma": "ga`biriyn",
+      "lemma_arabic": "غَٰبِرِين",
+      "pos": "N",
+      "ayah_id": "29:32",
+      "ayah_arabic": "قَالَ إِنَّ فِيهَا لُوطࣰ اۚ قَالُواْ نَحۡنُ أَعۡلَمُ بِمَن فِيهَاۖ لَنُنَجِّيَنَّهُۥ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ankaboot",
+      "literal_gloss": "those who remain behind",
+      "translations": {
+        "saheeh": "[Abraham] said, \"Indeed, within it is Lot.\" They said, \"We are more knowing of who is within it. We will surely save him and his family, except his wife. She is to be of those who remain behind.\"",
+        "pickthall": "He said: Lo! Lot is there. They said: We are best aware of who is there. We are to deliver him and his household, all save his wife, who is of those who stay behind.",
+        "khattab": "He said, “But Lot is there!” They responded, “We know best who is there. We will certainly save him and his family—except his wife, who is one of the doomed.”",
+        "arberry": "He said, 'Lot is in it.' They said, 'We know very well who is in it; assuredly We shall deliver him and his family, except his wife; she has become of those that tarry.'"
+      }
+    },
+    {
+      "location": [
+        29,
+        33,
+        23
+      ],
+      "form_arabic": "ٱلْغَٰبِرِينَ",
+      "lemma": "ga`biriyn",
+      "lemma_arabic": "غَٰبِرِين",
+      "pos": "N",
+      "ayah_id": "29:33",
+      "ayah_arabic": "وَلَمَّآ أَن جَآءَتۡ رُسُلُنَا لُوطࣰ ا سِيٓءَ بِهِمۡ وَضَاقَ بِهِمۡ ذَرۡعࣰ اۖ وَقَالُواْ لَا تَخَفۡ وَلَا تَحۡزَنۡ إِنَّا مُنَجُّوكَ وَأَهۡلَكَ إِلَّا ٱمۡرَأَتَكَ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ankaboot",
+      "literal_gloss": "those who remain behind",
+      "translations": {
+        "saheeh": "And when Our messengers came to Lot, he was distressed for them and felt for them great discomfort. They said, \"Fear not, nor grieve. Indeed, we will save you and your family, except your wife; she is to be of those who remain behind.",
+        "pickthall": "And when Our messengers came unto Lot, he was troubled upon their account, for he could not protect them; but they said: Fear not, nor grieve! Lo! we are to deliver thee and thy household, (all) save thy wife, who is of those who stay behind.",
+        "khattab": "And when Our messenger-angels came to Lot, he was distressed and worried by their arrival. They reassured ˹him˺, “Do not fear, nor grieve. We will surely deliver you and your family—except your wife, who is one of the doomed",
+        "arberry": "When that Our messengers came to Lot he was troubled on their account and distressed for them; but they said, 'Fear not, neither sorrow, for surely we shall deliver thee and thy family, except thy wife; she has become of those that tarry."
+      }
+    },
+    {
+      "location": [
+        37,
+        135,
+        4
+      ],
+      "form_arabic": "ٱلْغَٰبِرِينَ",
+      "lemma": "ga`biriyn",
+      "lemma_arabic": "غَٰبِرِين",
+      "pos": "N",
+      "ayah_id": "37:135",
+      "ayah_arabic": "إِلَّا عَجُوزࣰ ا فِي ٱلۡغَٰبِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "those who remained behind",
+      "translations": {
+        "saheeh": "Except his wife among those who remained [with the evildoers].",
+        "pickthall": "Save an old woman among those who stayed behind;",
+        "khattab": "except an old woman, who was one of the doomed",
+        "arberry": "save an old woman among those that tarried;"
+      }
+    },
+    {
+      "location": [
+        80,
+        40,
+        4
+      ],
+      "form_arabic": "غَبَرَةٌ",
+      "lemma": "gabarap",
+      "lemma_arabic": "غَبَرَة",
+      "pos": "N",
+      "ayah_id": "80:40",
+      "ayah_arabic": "وَوُجُوهࣱ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Abasa",
+      "literal_gloss": "(will be) dust",
+      "translations": {
+        "saheeh": "And [other] faces, that Day, will have upon them dust.",
+        "pickthall": "And other faces, on that day, with dust upon them,",
+        "khattab": "while ˹other˺ faces will be dusty",
+        "arberry": "some faces on that day shall be dusty"
+      }
+    }
+  ]
+}

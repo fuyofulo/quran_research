@@ -1,0 +1,633 @@
+{
+  "root": "qnT",
+  "root_arabic": "قنط",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 3,
+    "ayahs": 6,
+    "surahs": 5,
+    "pos_distribution": {
+      "V": 4,
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "qanaTu",
+      "lemma_arabic": "قَنَطُ",
+      "count": 4,
+      "pos_distribution": {
+        "V": 4
+      },
+      "first_occurrence": [
+        15,
+        56,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            15,
+            56,
+            3
+          ],
+          "form_arabic": "يَقْنَطُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            30,
+            36,
+            15
+          ],
+          "form_arabic": "يَقْنَطُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            39,
+            53,
+            8
+          ],
+          "form_arabic": "تَقْنَطُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            42,
+            28,
+            8
+          ],
+          "form_arabic": "قَنَطُوا@",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "qa`niTiyn",
+      "lemma_arabic": "قَٰنِطِين",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        15,
+        55,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            15,
+            55,
+            7
+          ],
+          "form_arabic": "ٱلْقَٰنِطِينَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "qanuwT",
+      "lemma_arabic": "قَنُوط",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        41,
+        49,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            41,
+            49,
+            11
+          ],
+          "form_arabic": "قَنُوطٌ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 4,
+      "share": 0.6667,
+      "first_together": [
+        15,
+        56
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        15,
+        55
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        15,
+        56
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        15,
+        56
+      ]
+    },
+    {
+      "root": "srf",
+      "root_arabic": "سرف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        53
+      ]
+    },
+    {
+      "root": "*nb",
+      "root_arabic": "ذنب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        53
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        53
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        53
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        53
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        53
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        53
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        41,
+        49
+      ]
+    },
+    {
+      "root": "$rr",
+      "root_arabic": "شرر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        41,
+        49
+      ]
+    },
+    {
+      "root": "sAm",
+      "root_arabic": "سام",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        41,
+        49
+      ]
+    },
+    {
+      "root": "Ans",
+      "root_arabic": "انس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        41,
+        49
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        41,
+        49
+      ]
+    },
+    {
+      "root": "mss",
+      "root_arabic": "مسس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        41,
+        49
+      ]
+    },
+    {
+      "root": "yAs",
+      "root_arabic": "ياس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        41,
+        49
+      ]
+    },
+    {
+      "root": "frH",
+      "root_arabic": "فرح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        36
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        36
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        36
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        36
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        36
+      ]
+    },
+    {
+      "root": "*wq",
+      "root_arabic": "ذوق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        36
+      ]
+    },
+    {
+      "root": "qdm",
+      "root_arabic": "قدم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        30,
+        36
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        42,
+        28
+      ]
+    },
+    {
+      "root": "n$r",
+      "root_arabic": "نشر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        42,
+        28
+      ]
+    },
+    {
+      "root": "Hmd",
+      "root_arabic": "حمد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        42,
+        28
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        42,
+        28
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        42,
+        28
+      ]
+    },
+    {
+      "root": "gyv",
+      "root_arabic": "غيث",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        42,
+        28
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        15,
+        55
+      ]
+    },
+    {
+      "root": "b$r",
+      "root_arabic": "بشر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        15,
+        55
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        15,
+        55
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 15,
+        "name_english": "Al-Hijr",
+        "name_arabic": "سُورَةُ الحِجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 30,
+        "name_english": "Ar-Room",
+        "name_arabic": "سُورَةُ الرُّومِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 41,
+        "name_english": "Fussilat",
+        "name_arabic": "سُورَةُ فُصِّلَتۡ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 42,
+        "name_english": "Ash-Shura",
+        "name_arabic": "سُورَةُ الشُّورَىٰ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        15,
+        55,
+        7
+      ],
+      "form_arabic": "ٱلْقَٰنِطِينَ",
+      "lemma": "qa`niTiyn",
+      "lemma_arabic": "قَٰنِطِين",
+      "pos": "N",
+      "ayah_id": "15:55",
+      "ayah_arabic": "قَالُواْ بَشَّرۡنَٰكَ بِٱلۡحَقِّ فَلَا تَكُن مِّنَ ٱلۡقَٰنِطِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Hijr",
+      "literal_gloss": "the despairing",
+      "translations": {
+        "saheeh": "They said, \"We have given you good tidings in truth, so do not be of the despairing.\"",
+        "pickthall": "They said: We bring thee good tidings in truth. So be not thou of the despairing.",
+        "khattab": "They responded, “We give you good news in all truth, so do not be one of those who despair.”",
+        "arberry": "give me good tidings?' They said, 'We give thee good tidings of truth. Be not of those that despair.'"
+      }
+    },
+    {
+      "location": [
+        15,
+        56,
+        3
+      ],
+      "form_arabic": "يَقْنَطُ",
+      "lemma": "qanaTu",
+      "lemma_arabic": "قَنَطُ",
+      "pos": "V",
+      "ayah_id": "15:56",
+      "ayah_arabic": "قَالَ وَمَن يَقۡنَطُ مِن رَّحۡمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Hijr",
+      "literal_gloss": "despairs",
+      "translations": {
+        "saheeh": "He said, \"And who despairs of the mercy of his Lord except for those astray?\"",
+        "pickthall": "He said: And who despaireth of the mercy of his Lord save those who are astray?",
+        "khattab": "He exclaimed, “Who would despair of the mercy of their Lord except the misguided?”",
+        "arberry": "He said, 'And who despairs of the mercy of his Lord, excepting those that are astray?'"
+      }
+    },
+    {
+      "location": [
+        30,
+        36,
+        15
+      ],
+      "form_arabic": "يَقْنَطُونَ",
+      "lemma": "qanaTu",
+      "lemma_arabic": "قَنَطُ",
+      "pos": "V",
+      "ayah_id": "30:36",
+      "ayah_arabic": "وَإِذَآ أَذَقۡنَا ٱلنَّاسَ رَحۡمَةࣰ فَرِحُواْ بِهَاۖ وَإِن تُصِبۡهُمۡ سَيِّئَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ إِذَا هُمۡ يَقۡنَطُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ar-Room",
+      "literal_gloss": "despair",
+      "translations": {
+        "saheeh": "And when We let the people taste mercy, they rejoice therein, but if evil afflicts them for what their hands have put forth, immediately they despair.",
+        "pickthall": "And when We cause mankind to taste of mercy they rejoice therein; but if an evil thing befall them as the consequence of their own deeds, lo! they are in despair!",
+        "khattab": "If We give people a taste of mercy, they become prideful ˹because˺ of it. But if they are afflicted with an evil for what their hands have done, they instantly fall into despair",
+        "arberry": "And when We let men taste mercy, they rejoice in it; but if some evil befalls them for that their own hands have forwarded, behold, they despair."
+      }
+    },
+    {
+      "location": [
+        39,
+        53,
+        8
+      ],
+      "form_arabic": "تَقْنَطُوا@",
+      "lemma": "qanaTu",
+      "lemma_arabic": "قَنَطُ",
+      "pos": "V",
+      "ayah_id": "39:53",
+      "ayah_arabic": "۞قُلۡ يَٰعِبَادِيَ ٱلَّذِينَ أَسۡرَفُواْ عَلَىٰٓ أَنفُسِهِمۡ لَا تَقۡنَطُواْ مِن رَّحۡمَةِ ٱللَّهِۚ إِنَّ ٱللَّهَ يَغۡفِرُ ٱلذُّنُوبَ جَمِيعًاۚ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "despair",
+      "translations": {
+        "saheeh": "Say, \"O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.\"",
+        "pickthall": "Say: O My slaves who have been prodigal to their own hurt! Despair not of the mercy of Allah, Who forgiveth all sins. Lo! He is the Forgiving, the Merciful.",
+        "khattab": "Say, ˹O Prophet, that Allah says,˺ “O My servants who have exceeded the limits against their souls! Do not lose hope in Allah’s mercy, for Allah certainly forgives all sins. He is indeed the All-Forgiving, Most Merciful",
+        "arberry": "Say: 'O my people who have been prodigal against yourselves, do not despair of God's mercy; surely God forgives sins altogether; surely He is the All-forgiving, the All-compassionate."
+      }
+    },
+    {
+      "location": [
+        41,
+        49,
+        11
+      ],
+      "form_arabic": "قَنُوطٌ",
+      "lemma": "qanuwT",
+      "lemma_arabic": "قَنُوط",
+      "pos": "N",
+      "ayah_id": "41:49",
+      "ayah_arabic": "لَّا يَسۡـَٔمُ ٱلۡإِنسَٰنُ مِن دُعَآءِ ٱلۡخَيۡرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسࣱ قَنُوطࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Fussilat",
+      "literal_gloss": "(and) despairs",
+      "translations": {
+        "saheeh": "Man is not weary of supplication for good [things], but if evil touches him, he is hopeless and despairing.",
+        "pickthall": "Man tireth not of praying for good, and if ill toucheth him, then he is disheartened, desperate.",
+        "khattab": "One never tires of praying for good. And if touched with evil, they become desperate and hopeless",
+        "arberry": "Man wearies not of praying for good; but when evil visits him, then he is cast down and desperate."
+      }
+    },
+    {
+      "location": [
+        42,
+        28,
+        8
+      ],
+      "form_arabic": "قَنَطُوا@",
+      "lemma": "qanaTu",
+      "lemma_arabic": "قَنَطُ",
+      "pos": "V",
+      "ayah_id": "42:28",
+      "ayah_arabic": "وَهُوَ ٱلَّذِي يُنَزِّلُ ٱلۡغَيۡثَ مِنۢ بَعۡدِ مَا قَنَطُواْ وَيَنشُرُ رَحۡمَتَهُۥۚ وَهُوَ ٱلۡوَلِيُّ ٱلۡحَمِيدُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shura",
+      "literal_gloss": "they have despaired",
+      "translations": {
+        "saheeh": "And it is He who sends down the rain after they had despaired and spreads His mercy. And He is the Protector, the Praiseworthy.",
+        "pickthall": "And He it is Who sendeth down the saving rain after they have despaired, and spreadeth out His mercy. He is the Protecting Friend, the Praiseworthy.",
+        "khattab": "He is the One Who sends down rain after people have given up hope, spreading out His mercy. He is the Guardian, the Praiseworthy",
+        "arberry": "And it is He who sends down the rain after they have despaired, and He unfolds His mercy; He is the Protector, the All-laudable."
+      }
+    }
+  ]
+}

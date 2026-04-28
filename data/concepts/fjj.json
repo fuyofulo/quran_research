@@ -1,0 +1,308 @@
+{
+  "root": "fjj",
+  "root_arabic": "فجج",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 2,
+      "ADJ": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "faj~",
+      "lemma_arabic": "فَجّ",
+      "count": 3,
+      "pos_distribution": {
+        "N": 2,
+        "ADJ": 1
+      },
+      "first_occurrence": [
+        21,
+        31,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            21,
+            31,
+            10
+          ],
+          "form_arabic": "فِجَاجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            22,
+            27,
+            13
+          ],
+          "form_arabic": "فَجٍّ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            71,
+            20,
+            4
+          ],
+          "form_arabic": "فِجَاجًا",
+          "pos": "ADJ"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        21,
+        31
+      ]
+    },
+    {
+      "root": "myd",
+      "root_arabic": "ميد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        31
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        31
+      ]
+    },
+    {
+      "root": "rsw",
+      "root_arabic": "رسو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        31
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        31
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        31
+      ]
+    },
+    {
+      "root": "slk",
+      "root_arabic": "سلك",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        71,
+        20
+      ]
+    },
+    {
+      "root": "Emq",
+      "root_arabic": "عمق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        27
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        27
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        27
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        27
+      ]
+    },
+    {
+      "root": "Hjj",
+      "root_arabic": "حجج",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        27
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        27
+      ]
+    },
+    {
+      "root": "Dmr",
+      "root_arabic": "ضمر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        27
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        27
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 21,
+        "name_english": "Al-Anbiyaa",
+        "name_arabic": "سُورَةُ الأَنبِيَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 71,
+        "name_english": "Nooh",
+        "name_arabic": "سُورَةُ نُوحٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        21,
+        31,
+        10
+      ],
+      "form_arabic": "فِجَاجًا",
+      "lemma": "faj~",
+      "lemma_arabic": "فَجّ",
+      "pos": "N",
+      "ayah_id": "21:31",
+      "ayah_arabic": "وَجَعَلۡنَا فِي ٱلۡأَرۡضِ رَوَٰسِيَ أَن تَمِيدَ بِهِمۡ وَجَعَلۡنَا فِيهَا فِجَاجࣰ ا سُبُلࣰ ا لَّعَلَّهُمۡ يَهۡتَدُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Anbiyaa",
+      "literal_gloss": "broad passes",
+      "translations": {
+        "saheeh": "And We placed within the earth firmly set mountains, lest it should shift with them, and We made therein [mountain] passes [as] roads that they might be guided.",
+        "pickthall": "And We have placed in the earth firm hills lest it quake with them, and We have placed therein ravines as roads that haply they may find their way.",
+        "khattab": "And We have placed firm mountains upon the earth so it does not shake with them, and made in it broad pathways so they may find their way",
+        "arberry": "And We set in the earth firm mountains lest it should shake with them, and We set in it ravines to serve as ways, that haply so they may be guided;"
+      }
+    },
+    {
+      "location": [
+        22,
+        27,
+        13
+      ],
+      "form_arabic": "فَجٍّ",
+      "lemma": "faj~",
+      "lemma_arabic": "فَجّ",
+      "pos": "N",
+      "ayah_id": "22:27",
+      "ayah_arabic": "وَأَذِّن فِي ٱلنَّاسِ بِٱلۡحَجِّ يَأۡتُوكَ رِجَالࣰ ا وَعَلَىٰ كُلِّ ضَامِرࣲ يَأۡتِينَ مِن كُلِّ فَجٍّ عَمِيقࣲ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "mountain highway",
+      "translations": {
+        "saheeh": "And proclaim to the people the Hajj [pilgrimage]; they will come to you on foot and on every lean camel; they will come from every distant pass -",
+        "pickthall": "And proclaim unto mankind the pilgrimage. They will come unto thee on foot and on every lean camel; they will come from every deep ravine,",
+        "khattab": "Call ˹all˺ people to the pilgrimage. They will come to you on foot and on every lean camel from every distant path",
+        "arberry": "and proclaim among men the Pilgrimage, and they shall come unto thee on foot and upon every lean beast, they shall come from every deep ravine"
+      }
+    },
+    {
+      "location": [
+        71,
+        20,
+        4
+      ],
+      "form_arabic": "فِجَاجًا",
+      "lemma": "faj~",
+      "lemma_arabic": "فَجّ",
+      "pos": "ADJ",
+      "ayah_id": "71:20",
+      "ayah_arabic": "لِّتَسۡلُكُواْ مِنۡهَا سُبُلࣰ ا فِجَاجࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Nooh",
+      "literal_gloss": "wide",
+      "translations": {
+        "saheeh": "That you may follow therein roads of passage.' \"",
+        "pickthall": "That ye may thread the valley-ways thereof.",
+        "khattab": "to walk along its spacious pathways.’”",
+        "arberry": "that thereof you may thread ways, ravines.\""
+      }
+    }
+  ]
+}

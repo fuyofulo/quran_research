@@ -1,0 +1,380 @@
+{
+  "root": "rks",
+  "root_arabic": "ركس",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">arokasa",
+      "lemma_arabic": "أَرْكَسَ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        4,
+        88,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            88,
+            7
+          ],
+          "form_arabic": "أَرْكَسَهُم",
+          "pos": "V"
+        },
+        {
+          "location": [
+            4,
+            91,
+            13
+          ],
+          "form_arabic": "أُرْكِسُوا@",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "fAy",
+      "root_arabic": "فاي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "vqf",
+      "root_arabic": "ثقف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "kff",
+      "root_arabic": "كفف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "Ezl",
+      "root_arabic": "عزل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "Hyv",
+      "root_arabic": "حيث",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "ftn",
+      "root_arabic": "فتن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "slT",
+      "root_arabic": "سلط",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        91
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        88,
+        7
+      ],
+      "form_arabic": "أَرْكَسَهُم",
+      "lemma": ">arokasa",
+      "lemma_arabic": "أَرْكَسَ",
+      "pos": "V",
+      "ayah_id": "4:88",
+      "ayah_arabic": "۞فَمَا لَكُمۡ فِي ٱلۡمُنَٰفِقِينَ فِئَتَيۡنِ وَٱللَّهُ أَرۡكَسَهُم بِمَا كَسَبُوٓاْۚ أَتُرِيدُونَ أَن تَهۡدُواْ مَنۡ أَضَلَّ ٱللَّهُۖ وَمَن يُضۡلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "cast them back",
+      "translations": {
+        "saheeh": "What is [the matter] with you [that you are] two groups concerning the hypocrites, while Allah has made them fall back [into error and disbelief] for what they earned. Do you wish to guide those whom Allah has sent astray? And he whom Allah sends astray - never will you find for him a way [of guidance].",
+        "pickthall": "What aileth you that ye are become two parties regarding the hypocrites, when Allah cast them back (to disbelief) because of what they earned? Seek ye to guide him whom Allah hath sent astray? He whom Allah sendeth astray, for him thou (O MUhammad) canst not find a road.",
+        "khattab": "Why are you ˹believers˺ divided into two groups regarding the hypocrites while Allah allowed them to regress ˹to disbelief˺ because of their misdeeds? Do you wish to guide those left by Allah to stray? And whoever Allah leaves to stray, you will never find for them a way",
+        "arberry": "How is it with you, that you are two parties touching the hypocrites, and God has overthrown them for what they earned? What, do you desire to guide him whom God has led astray? Whom God leads astray, thou wilt not find for him a way."
+      }
+    },
+    {
+      "location": [
+        4,
+        91,
+        13
+      ],
+      "form_arabic": "أُرْكِسُوا@",
+      "lemma": ">arokasa",
+      "lemma_arabic": "أَرْكَسَ",
+      "pos": "V",
+      "ayah_id": "4:91",
+      "ayah_arabic": "سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأۡمَنُوكُمۡ وَيَأۡمَنُواْ قَوۡمَهُمۡ كُلَّ مَا رُدُّوٓاْ إِلَى ٱلۡفِتۡنَةِ أُرۡكِسُواْ فِيهَاۚ فَإِن لَّمۡ يَعۡتَزِلُوكُمۡ وَيُلۡقُوٓاْ إِلَيۡكُمُ ٱلسَّلَمَ وَيَكُفُّوٓاْ أَيۡدِيَهُمۡ فَخُذُوهُمۡ وَٱقۡتُلُوهُمۡ حَيۡثُ ثَقِفۡتُمُوهُمۡۚ وَأُوْلَٰٓئِكُمۡ جَعَلۡنَا لَكُمۡ عَلَيۡهِمۡ سُلۡطَٰنࣰ ا مُّبِينࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "they are plunged",
+      "translations": {
+        "saheeh": "You will find others who wish to obtain security from you and [to] obtain security from their people. Every time they are returned to [the influence of] disbelief, they fall back into it. So if they do not withdraw from you or offer you peace or restrain their hands, then seize them and kill them wherever you overtake them. And those - We have made for you against them a clear authorization.",
+        "pickthall": "Ye will find others who desire that they should have security from you, and security from their own folk. So often as they are returned to hostility they are plunged therein. If they keep not aloof from you nor offer you peace nor hold their hands, then take them and kill them wherever ye find them. Against such We have given you clear warrant.",
+        "khattab": "You will find others who wish to be safe from you and their own people. Yet they cannot resist the temptation ˹of disbelief or hostility˺. If they do not keep away, offer you peace, or refrain from attacking you, then seize them and kill them wherever you find them. We have given you full permission over such people",
+        "arberry": "You will find others desiring to be secure from you, and secure from their people, yet whenever they are returned to temptation, they are overthrown in it. If they withdraw not from you, and offer you peace, and restrain their hands, take them, and slay them wherever you come on them; against them We have given you a clear authority."
+      }
+    }
+  ]
+}

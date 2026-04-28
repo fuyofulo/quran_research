@@ -1,0 +1,423 @@
+{
+  "root": "zHzH",
+  "root_arabic": "زحزح",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 1,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "muzaHoziH",
+      "lemma_arabic": "مُزَحْزِح",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        2,
+        96,
+        17
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            96,
+            17
+          ],
+          "form_arabic": "بِمُزَحْزِحِهِ.",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "zuHoziHa",
+      "lemma_arabic": "زُحْزِحَ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        3,
+        185,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            185,
+            11
+          ],
+          "form_arabic": "زُحْزِحَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "HrS",
+      "root_arabic": "حرص",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "snw",
+      "root_arabic": "سنو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "Emr",
+      "root_arabic": "عمر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "Alf",
+      "root_arabic": "الف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "wdd",
+      "root_arabic": "ودد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        96
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "*wq",
+      "root_arabic": "ذوق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "fwz",
+      "root_arabic": "فوز",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "grr",
+      "root_arabic": "غرر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "Ajr",
+      "root_arabic": "اجر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        185
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        96,
+        17
+      ],
+      "form_arabic": "بِمُزَحْزِحِهِ.",
+      "lemma": "muzaHoziH",
+      "lemma_arabic": "مُزَحْزِح",
+      "pos": "N",
+      "ayah_id": "2:96",
+      "ayah_arabic": "وَلَتَجِدَنَّهُمۡ أَحۡرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةࣲ وَمِنَ ٱلَّذِينَ أَشۡرَكُواْۚ يَوَدُّ أَحَدُهُمۡ لَوۡ يُعَمَّرُ أَلۡفَ سَنَةࣲ وَمَا هُوَ بِمُزَحۡزِحِهِۦ مِنَ ٱلۡعَذَابِ أَن يُعَمَّرَۗ وَٱللَّهُ بَصِيرُۢ بِمَا يَعۡمَلُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(will) remove him",
+      "translations": {
+        "saheeh": "And you will surely find them the most greedy of people for life - [even] more than those who associate others with Allah. One of them wishes that he could be granted life a thousand years, but it would not remove him in the least from the [coming] punishment that he should be granted life. And Allah is Seeing of what they do.",
+        "pickthall": "And thou wilt find them greediest of mankind for life and (greedier) than the idolaters. (Each) one of them would like to be allowed to live a thousand years. And to live (a thousand years) would be no means remove him from the doom. Allah is Seer of what they do.",
+        "khattab": "You will surely find them clinging to life more eagerly than any other people, even more than polytheists. Each one of them wishes to live a thousand years. But even if they were to live that long, it would not save them from the punishment. And Allah is All-Seeing of what they do",
+        "arberry": "and thou shalt find them the eagerest of men for life. And of the idolaters; there is one of them wishes if he might be spared a thousand years, yet his being spared alive shall not remove him from the chastisement. God sees the things they do."
+      }
+    },
+    {
+      "location": [
+        3,
+        185,
+        11
+      ],
+      "form_arabic": "زُحْزِحَ",
+      "lemma": "zuHoziHa",
+      "lemma_arabic": "زُحْزِحَ",
+      "pos": "V",
+      "ayah_id": "3:185",
+      "ayah_arabic": "كُلُّ نَفۡسࣲ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَإِنَّمَا تُوَفَّوۡنَ أُجُورَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۖ فَمَن زُحۡزِحَ عَنِ ٱلنَّارِ وَأُدۡخِلَ ٱلۡجَنَّةَ فَقَدۡ فَازَۗ وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا مَتَٰعُ ٱلۡغُرُورِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "is drawn away",
+      "translations": {
+        "saheeh": "Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire]. And what is the life of this world except the enjoyment of delusion.",
+        "pickthall": "Every soul will taste of death. And ye will be paid on the Day of Resurrection only that which ye have fairly earned. Whoso is removed from the Fire and is made to enter paradise, he indeed is triumphant. The life of this world is but comfort of illusion.",
+        "khattab": "Every soul will taste death. And you will only receive your full reward on the Day of Judgment. Whoever is spared from the Fire and is admitted into Paradise will ˹indeed˺ triumph, whereas the life of this world is no more than the delusion of enjoyment",
+        "arberry": "Every soul shall taste of death; you she surely be paid in full your wages on the Day of Resurrection. Whosoever is removed from the Fire and admitted to Paradise, shall win the triumph. The present life is but the joy of delusion."
+      }
+    }
+  ]
+}

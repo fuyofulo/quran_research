@@ -1,0 +1,1200 @@
+{
+  "root": "fAy",
+  "root_arabic": "فاي",
+  "stats": {
+    "occurrences": 11,
+    "lemmas": 2,
+    "ayahs": 9,
+    "surahs": 6,
+    "pos_distribution": {
+      "N": 11
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "count": 10,
+      "pos_distribution": {
+        "N": 10
+      },
+      "first_occurrence": [
+        2,
+        249,
+        51
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            249,
+            51
+          ],
+          "form_arabic": "فِئَةٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            249,
+            54
+          ],
+          "form_arabic": "فِئَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            3,
+            13,
+            6
+          ],
+          "form_arabic": "فِئَتَيْنِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            3,
+            13,
+            8
+          ],
+          "form_arabic": "فِئَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            88,
+            5
+          ],
+          "form_arabic": "فِئَتَيْنِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            8,
+            16,
+            11
+          ],
+          "form_arabic": "فِئَةٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            8,
+            45,
+            6
+          ],
+          "form_arabic": "فِئَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            8,
+            48,
+            18
+          ],
+          "form_arabic": "ٱلْفِئَتَانِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            18,
+            43,
+            4
+          ],
+          "form_arabic": "فِئَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            28,
+            81,
+            9
+          ],
+          "form_arabic": "فِئَةٍ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "fi}at",
+      "lemma_arabic": "فِئَت",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        8,
+        19,
+        17
+      ],
+      "occurrences": [
+        {
+          "location": [
+            8,
+            19,
+            17
+          ],
+          "form_arabic": "فِئَتُكُمْ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 9,
+      "share": 1.0,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        18,
+        43
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "glb",
+      "root_arabic": "غلب",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        28,
+        81
+      ]
+    },
+    {
+      "root": "xsf",
+      "root_arabic": "خسف",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        28,
+        81
+      ]
+    },
+    {
+      "root": "dwr",
+      "root_arabic": "دور",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        28,
+        81
+      ]
+    },
+    {
+      "root": "dbr",
+      "root_arabic": "دبر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        16
+      ]
+    },
+    {
+      "root": "gDb",
+      "root_arabic": "غضب",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        16
+      ]
+    },
+    {
+      "root": "Awy",
+      "root_arabic": "اوي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        16
+      ]
+    },
+    {
+      "root": "bAs",
+      "root_arabic": "باس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        16
+      ]
+    },
+    {
+      "root": "Hrf",
+      "root_arabic": "حرف",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        16
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        16
+      ]
+    },
+    {
+      "root": "Hwz",
+      "root_arabic": "حوز",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        16
+      ]
+    },
+    {
+      "root": "Syr",
+      "root_arabic": "صير",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        16
+      ]
+    },
+    {
+      "root": "bwA",
+      "root_arabic": "بوا",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        16
+      ]
+    },
+    {
+      "root": "vbt",
+      "root_arabic": "ثبت",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        45
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        45
+      ]
+    },
+    {
+      "root": "flH",
+      "root_arabic": "فلح",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        45
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "Eyn",
+      "root_arabic": "عين",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "Ebr",
+      "root_arabic": "عبر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "Ayd",
+      "root_arabic": "ايد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        13
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        19
+      ]
+    },
+    {
+      "root": "gny",
+      "root_arabic": "غني",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        19
+      ]
+    },
+    {
+      "root": "ftH",
+      "root_arabic": "فتح",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        19
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        19
+      ]
+    },
+    {
+      "root": "nhy",
+      "root_arabic": "نهي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        19
+      ]
+    },
+    {
+      "root": "Ewd",
+      "root_arabic": "عود",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        19
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        48
+      ]
+    },
+    {
+      "root": "zyn",
+      "root_arabic": "زين",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        48
+      ]
+    },
+    {
+      "root": "Eqb",
+      "root_arabic": "عقب",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        48
+      ]
+    },
+    {
+      "root": "brA",
+      "root_arabic": "برا",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        48
+      ]
+    },
+    {
+      "root": "$Tn",
+      "root_arabic": "شطن",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        48
+      ]
+    },
+    {
+      "root": "jwr",
+      "root_arabic": "جور",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        48
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        48
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        48
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        48
+      ]
+    },
+    {
+      "root": "nkS",
+      "root_arabic": "نكص",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        48
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "rks",
+      "root_arabic": "ركس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        88
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "jwz",
+      "root_arabic": "جوز",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "jnd",
+      "root_arabic": "جند",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "grf",
+      "root_arabic": "غرف",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "blw",
+      "root_arabic": "بلو",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "fSl",
+      "root_arabic": "فصل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "TEm",
+      "root_arabic": "طعم",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "Znn",
+      "root_arabic": "ظنن",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "Twq",
+      "root_arabic": "طوق",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "lys",
+      "root_arabic": "ليس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        249
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 8,
+        "name_english": "Al-Anfaal",
+        "name_arabic": "سُورَةُ الأَنفَالِ",
+        "revelation": "Medinan",
+        "occurrences": 4
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 28,
+        "name_english": "Al-Qasas",
+        "name_arabic": "سُورَةُ القَصَصِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 9,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        249,
+        51
+      ],
+      "form_arabic": "فِئَةٍ",
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "pos": "N",
+      "ayah_id": "2:249",
+      "ayah_arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلۡجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبۡتَلِيكُم بِنَهَرࣲ فَمَن شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّي وَمَن لَّمۡ يَطۡعَمۡهُ فَإِنَّهُۥ مِنِّيٓ إِلَّا مَنِ ٱغۡتَرَفَ غُرۡفَةَۢ بِيَدِهِۦۚ فَشَرِبُواْ مِنۡهُ إِلَّا قَلِيلࣰ ا مِّنۡهُمۡۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ قَالُواْ لَا طَاقَةَ لَنَا ٱلۡيَوۡمَ بِجَالُوتَ وَجُنُودِهِۦۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ ٱللَّهِ كَم مِّن فِئَةࣲ قَلِيلَةٍ غَلَبَتۡ فِئَةࣰ كَثِيرَةَۢ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "a company",
+      "translations": {
+        "saheeh": "And when Saul went forth with the soldiers, he said, \"Indeed, Allah will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allah said, \"How many a small company has overcome a large company by permission of Allah. And Allah is with the patient.\"",
+        "pickthall": "And when Saul set out with the army, he said: Lo! Allah will try you by (the ordeal of) a river. Whosoever therefore drinketh thereof he is not of me, and whosoever tasteth it not he is of me, save him who taketh (thereof) in the hollow of his hand. But they drank thereof, all save a few of them. And after he had crossed (the river), he and those who believed with him, they said: We have no power this day against Goliath and his hosts. But those who knew that they would meet Allah exclaimed: How many a little company hath overcome a mighty host by Allah's leave! Allah is with the steadfast.",
+        "khattab": "When Saul marched forth with his army, he cautioned: “Allah will test you with a river. So whoever drinks ˹his fill˺ from it is not with me, and whoever does not taste it—except a sip from the hollow of his hands—is definitely with me.” They all drank ˹their fill˺ except for a few! When he and the ˹remaining˺ faithful with him crossed the river, they said, “Now we are no match for Goliath and his warriors.” But those ˹believers˺ who were certain they would meet Allah reasoned, “How many times has a small force vanquished a mighty army by the Will of Allah! And Allah is ˹always˺ with the steadfast.”",
+        "arberry": "And when Saul went forth with the hosts he said, 'God will try you with a river; whosoever drinks of it is not of me, and whoso tastes it flot, he is of me, saving him who scoops up with his hand.' But they drank of it, except a few of them; and when he crossed it, and those who believed with him, they said, 'We have no power today against Goliath and his hosts.' Said those who reckoned they should meet God, 'How often a little company has overcome a numerous company, by God's leave! And God is with the patient.'"
+      }
+    },
+    {
+      "location": [
+        2,
+        249,
+        54
+      ],
+      "form_arabic": "فِئَةً",
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "pos": "N",
+      "ayah_id": "2:249",
+      "ayah_arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلۡجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبۡتَلِيكُم بِنَهَرࣲ فَمَن شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّي وَمَن لَّمۡ يَطۡعَمۡهُ فَإِنَّهُۥ مِنِّيٓ إِلَّا مَنِ ٱغۡتَرَفَ غُرۡفَةَۢ بِيَدِهِۦۚ فَشَرِبُواْ مِنۡهُ إِلَّا قَلِيلࣰ ا مِّنۡهُمۡۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ قَالُواْ لَا طَاقَةَ لَنَا ٱلۡيَوۡمَ بِجَالُوتَ وَجُنُودِهِۦۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ ٱللَّهِ كَم مِّن فِئَةࣲ قَلِيلَةٍ غَلَبَتۡ فِئَةࣰ كَثِيرَةَۢ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "a company",
+      "translations": {
+        "saheeh": "And when Saul went forth with the soldiers, he said, \"Indeed, Allah will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allah said, \"How many a small company has overcome a large company by permission of Allah. And Allah is with the patient.\"",
+        "pickthall": "And when Saul set out with the army, he said: Lo! Allah will try you by (the ordeal of) a river. Whosoever therefore drinketh thereof he is not of me, and whosoever tasteth it not he is of me, save him who taketh (thereof) in the hollow of his hand. But they drank thereof, all save a few of them. And after he had crossed (the river), he and those who believed with him, they said: We have no power this day against Goliath and his hosts. But those who knew that they would meet Allah exclaimed: How many a little company hath overcome a mighty host by Allah's leave! Allah is with the steadfast.",
+        "khattab": "When Saul marched forth with his army, he cautioned: “Allah will test you with a river. So whoever drinks ˹his fill˺ from it is not with me, and whoever does not taste it—except a sip from the hollow of his hands—is definitely with me.” They all drank ˹their fill˺ except for a few! When he and the ˹remaining˺ faithful with him crossed the river, they said, “Now we are no match for Goliath and his warriors.” But those ˹believers˺ who were certain they would meet Allah reasoned, “How many times has a small force vanquished a mighty army by the Will of Allah! And Allah is ˹always˺ with the steadfast.”",
+        "arberry": "And when Saul went forth with the hosts he said, 'God will try you with a river; whosoever drinks of it is not of me, and whoso tastes it flot, he is of me, saving him who scoops up with his hand.' But they drank of it, except a few of them; and when he crossed it, and those who believed with him, they said, 'We have no power today against Goliath and his hosts.' Said those who reckoned they should meet God, 'How often a little company has overcome a numerous company, by God's leave! And God is with the patient.'"
+      }
+    },
+    {
+      "location": [
+        3,
+        13,
+        6
+      ],
+      "form_arabic": "فِئَتَيْنِ",
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "pos": "N",
+      "ayah_id": "3:13",
+      "ayah_arabic": "قَدۡ كَانَ لَكُمۡ ءَايَةࣱ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةࣱ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةࣱ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةࣰ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "(the) two hosts",
+      "translations": {
+        "saheeh": "Already there has been for you a sign in the two armies which met - one fighting in the cause of Allah and another of disbelievers. They saw them [to be] twice their [own] number by [their] eyesight. But Allah supports with His victory whom He wills. Indeed in that is a lesson for those of vision.",
+        "pickthall": "There was a token for you in two hosts which met: one army fighting in the way of Allah, and another disbelieving, whom they saw as twice their number, clearly, with their very eyes. Thus Allah strengtheneth with His succour whom He will. Lo! herein verily is a lesson for those who have eyes.",
+        "khattab": "Indeed, there was a sign for you in the two armies that met in battle—one fighting for the cause of Allah and the other in denial. The believers saw their enemy twice their number. But Allah supports with His victory whoever He wills. Surely in this is a lesson for people of insight",
+        "arberry": "There has already been a sign for you in the two companies that encountered, one company fighting in the way of God and another unbelieving; they saw them twice the like of them, as the eye sees, but God confirms with His help whom He will. Surely in that is a lesson for men possessed of eyes."
+      }
+    },
+    {
+      "location": [
+        3,
+        13,
+        8
+      ],
+      "form_arabic": "فِئَةٌ",
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "pos": "N",
+      "ayah_id": "3:13",
+      "ayah_arabic": "قَدۡ كَانَ لَكُمۡ ءَايَةࣱ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةࣱ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةࣱ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةࣰ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "one group",
+      "translations": {
+        "saheeh": "Already there has been for you a sign in the two armies which met - one fighting in the cause of Allah and another of disbelievers. They saw them [to be] twice their [own] number by [their] eyesight. But Allah supports with His victory whom He wills. Indeed in that is a lesson for those of vision.",
+        "pickthall": "There was a token for you in two hosts which met: one army fighting in the way of Allah, and another disbelieving, whom they saw as twice their number, clearly, with their very eyes. Thus Allah strengtheneth with His succour whom He will. Lo! herein verily is a lesson for those who have eyes.",
+        "khattab": "Indeed, there was a sign for you in the two armies that met in battle—one fighting for the cause of Allah and the other in denial. The believers saw their enemy twice their number. But Allah supports with His victory whoever He wills. Surely in this is a lesson for people of insight",
+        "arberry": "There has already been a sign for you in the two companies that encountered, one company fighting in the way of God and another unbelieving; they saw them twice the like of them, as the eye sees, but God confirms with His help whom He will. Surely in that is a lesson for men possessed of eyes."
+      }
+    },
+    {
+      "location": [
+        4,
+        88,
+        5
+      ],
+      "form_arabic": "فِئَتَيْنِ",
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "pos": "N",
+      "ayah_id": "4:88",
+      "ayah_arabic": "۞فَمَا لَكُمۡ فِي ٱلۡمُنَٰفِقِينَ فِئَتَيۡنِ وَٱللَّهُ أَرۡكَسَهُم بِمَا كَسَبُوٓاْۚ أَتُرِيدُونَ أَن تَهۡدُواْ مَنۡ أَضَلَّ ٱللَّهُۖ وَمَن يُضۡلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(you have become) two parties",
+      "translations": {
+        "saheeh": "What is [the matter] with you [that you are] two groups concerning the hypocrites, while Allah has made them fall back [into error and disbelief] for what they earned. Do you wish to guide those whom Allah has sent astray? And he whom Allah sends astray - never will you find for him a way [of guidance].",
+        "pickthall": "What aileth you that ye are become two parties regarding the hypocrites, when Allah cast them back (to disbelief) because of what they earned? Seek ye to guide him whom Allah hath sent astray? He whom Allah sendeth astray, for him thou (O MUhammad) canst not find a road.",
+        "khattab": "Why are you ˹believers˺ divided into two groups regarding the hypocrites while Allah allowed them to regress ˹to disbelief˺ because of their misdeeds? Do you wish to guide those left by Allah to stray? And whoever Allah leaves to stray, you will never find for them a way",
+        "arberry": "How is it with you, that you are two parties touching the hypocrites, and God has overthrown them for what they earned? What, do you desire to guide him whom God has led astray? Whom God leads astray, thou wilt not find for him a way."
+      }
+    },
+    {
+      "location": [
+        8,
+        16,
+        11
+      ],
+      "form_arabic": "فِئَةٍ",
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "pos": "N",
+      "ayah_id": "8:16",
+      "ayah_arabic": "وَمَن يُوَلِّهِمۡ يَوۡمَئِذࣲ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفࣰ ا لِّقِتَالٍ أَوۡ مُتَحَيِّزًا إِلَىٰ فِئَةࣲ فَقَدۡ بَآءَ بِغَضَبࣲ مِّنَ ٱللَّهِ وَمَأۡوَىٰهُ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "a group",
+      "translations": {
+        "saheeh": "And whoever turns his back to them on such a day, unless swerving [as a strategy] for war or joining [another] company, has certainly returned with anger [upon him] from Allah, and his refuge is Hell - and wretched is the destination.",
+        "pickthall": "Whoso on that day turneth his back to them, unless manoeuvring for battle or intent to join a company, he truly hath incurred wrath from Allah, and his habitation will be hell, a hapless journey's end.",
+        "khattab": "And whoever does so on such an occasion—unless it is a manoeuvre or to join their own troops—will earn the displeasure of Allah, and their home will be Hell. What an evil destination",
+        "arberry": "Whoso turns his back that day to them, unless withdrawing to fight again or removing to join another host, he is laden with the burden of God's anger, and his refuge is Gehenna -- an evil homecoming!"
+      }
+    },
+    {
+      "location": [
+        8,
+        19,
+        17
+      ],
+      "form_arabic": "فِئَتُكُمْ",
+      "lemma": "fi}at",
+      "lemma_arabic": "فِئَت",
+      "pos": "N",
+      "ayah_id": "8:19",
+      "ayah_arabic": "إِن تَسۡتَفۡتِحُواْ فَقَدۡ جَآءَكُمُ ٱلۡفَتۡحُۖ وَإِن تَنتَهُواْ فَهُوَ خَيۡرࣱ لَّكُمۡۖ وَإِن تَعُودُواْ نَعُدۡ وَلَن تُغۡنِيَ عَنكُمۡ فِئَتُكُمۡ شَيۡـࣰٔ ا وَلَوۡ كَثُرَتۡ وَأَنَّ ٱللَّهَ مَعَ ٱلۡمُؤۡمِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "your forces",
+      "translations": {
+        "saheeh": "If you [disbelievers] seek the victory - the defeat has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allah is with the believers.",
+        "pickthall": "(O Qureysh!) If ye sought a judgment, now hath the judgment come unto you. And if ye cease (from persecuting the believers) it will be better for you, but if ye return (to the attack) We also shall return. And your host will avail you naught, however numerous it be, and (know) that Allah is with the believers (in His Guidance).",
+        "khattab": "If you ˹Meccans˺ sought judgment, now it has come to you. And if you cease, it will be for your own good. But if you persist, We will persist. And your forces—no matter how numerous they might be—will not benefit you whatsoever. For Allah is certainly with the believers",
+        "arberry": "If victory you are seeking, victory has already come upon you; and if you give over, it is better for you. But if you return, We shall return, and your host will avail you nothing though it be numerous; and that God is with the believers."
+      }
+    },
+    {
+      "location": [
+        8,
+        45,
+        6
+      ],
+      "form_arabic": "فِئَةً",
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "pos": "N",
+      "ayah_id": "8:45",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمۡ فِئَةࣰ فَٱثۡبُتُواْ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرࣰ ا لَّعَلَّكُمۡ تُفۡلِحُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "a force",
+      "translations": {
+        "saheeh": "O you who have believed, when you encounter a company [from the enemy forces], stand firm and remember Allah much that you may be successful.",
+        "pickthall": "O ye who believe! When ye meet an army, hold firm and think of Allah much, that ye may be successful.",
+        "khattab": "O believers! When you face an enemy, stand firm and remember Allah often so you may triumph",
+        "arberry": "O believers, whensoever you encounter a host, then stand firm, and remember God frequently; haply so you will prosper."
+      }
+    },
+    {
+      "location": [
+        8,
+        48,
+        18
+      ],
+      "form_arabic": "ٱلْفِئَتَانِ",
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "pos": "N",
+      "ayah_id": "8:48",
+      "ayah_arabic": "وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارࣱ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءࣱ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "the two forces",
+      "translations": {
+        "saheeh": "And [remember] when Satan made their deeds pleasing to them and said, \"No one can overcome you today from among the people, and indeed, I am your protector.\" But when the two armies sighted each other, he turned on his heels and said, \"Indeed, I am disassociated from you. Indeed, I see what you do not see; indeed I fear Allah. And Allah is severe in penalty.\"",
+        "pickthall": "And when Satan made their deeds seem fair to them and said: No-one of mankind can conquer you this day, for I am your protector. But when the armies came in sight of one another, he took flight, saying: Lo! I am guiltless of you. Lo! I see that which ye see not. Lo! I fear Allah. And Allah is severe in punishment.",
+        "khattab": "And ˹remember˺ when Satan made their ˹evil˺ deeds appealing to them, and said, “No one can overcome you today. I am surely by your side.” But when the two forces faced off, he cowered and said, “I have absolutely nothing to do with you. I certainly see what you do not see. I truly fear Allah, for Allah is severe in punishment.”",
+        "arberry": "And when Satan decked out their deeds fair to them, and said, 'Today no man shall overcome you, for I shall be your neighbour.' But when the two hosts sighted each other, he withdrew upon his heels, saying, 'I am quit of you; for I see what you do not see. I fear God; and God is terrible in retribution.'"
+      }
+    },
+    {
+      "location": [
+        18,
+        43,
+        4
+      ],
+      "form_arabic": "فِئَةٌ",
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "pos": "N",
+      "ayah_id": "18:43",
+      "ayah_arabic": "وَلَمۡ تَكُن لَّهُۥ فِئَةࣱ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مُنتَصِرًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "a group",
+      "translations": {
+        "saheeh": "And there was for him no company to aid him other than Allah, nor could he defend himself.",
+        "pickthall": "And he had no troop of men to help him as against Allah, nor could he save himself.",
+        "khattab": "And he had no manpower to help him against Allah, nor could he ˹even˺ help himself",
+        "arberry": "But there was no host to help him, apart from God, and he was helpless."
+      }
+    },
+    {
+      "location": [
+        28,
+        81,
+        9
+      ],
+      "form_arabic": "فِئَةٍ",
+      "lemma": "fi}ap",
+      "lemma_arabic": "فِئَة",
+      "pos": "N",
+      "ayah_id": "28:81",
+      "ayah_arabic": "فَخَسَفۡنَا بِهِۦ وَبِدَارِهِ ٱلۡأَرۡضَ فَمَا كَانَ لَهُۥ مِن فِئَةࣲ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلۡمُنتَصِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qasas",
+      "literal_gloss": "group",
+      "translations": {
+        "saheeh": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allah, nor was he of those who [could] defend themselves.",
+        "pickthall": "So We caused the earth to swallow him and his dwelling-place. Then he had no host to help him against Allah, nor was he of those who can save themselves.",
+        "khattab": "Then We caused the earth to swallow him up, along with his home. There was no one to help him against Allah, nor could he even help himself",
+        "arberry": "So We made the earth to swallow him and his dwelling and there was no host to help him, apart from God, and he was helpless;"
+      }
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "root": "Elq",
+  "root_arabic": "علق",
+  "stats": {
+    "occurrences": 7,
+    "lemmas": 3,
+    "ayahs": 6,
+    "surahs": 6,
+    "pos_distribution": {
+      "N": 7
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "Ealaqap",
+      "lemma_arabic": "عَلَقَة",
+      "count": 5,
+      "pos_distribution": {
+        "N": 5
+      },
+      "first_occurrence": [
+        22,
+        5,
+        18
+      ],
+      "occurrences": [
+        {
+          "location": [
+            22,
+            5,
+            18
+          ],
+          "form_arabic": "عَلَقَةٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            23,
+            14,
+            4
+          ],
+          "form_arabic": "عَلَقَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            23,
+            14,
+            6
+          ],
+          "form_arabic": "ٱلْعَلَقَةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            40,
+            67,
+            11
+          ],
+          "form_arabic": "عَلَقَةٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            75,
+            38,
+            3
+          ],
+          "form_arabic": "عَلَقَةً",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "muEal~aqap",
+      "lemma_arabic": "مُعَلَّقَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        4,
+        129,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            129,
+            14
+          ],
+          "form_arabic": "كَٱلْمُعَلَّقَةِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "Ealaq",
+      "lemma_arabic": "عَلَق",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        96,
+        2,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            96,
+            2,
+            4
+          ],
+          "form_arabic": "عَلَقٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 5,
+      "share": 0.8333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 4,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "nTf",
+      "root_arabic": "نطف",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "Tfl",
+      "root_arabic": "طفل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "trb",
+      "root_arabic": "ترب",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "mDg",
+      "root_arabic": "مضغ",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "Ajl",
+      "root_arabic": "اجل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "Edl",
+      "root_arabic": "عدل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "myl",
+      "root_arabic": "ميل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "w*r",
+      "root_arabic": "وذر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "HrS",
+      "root_arabic": "حرص",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "nbt",
+      "root_arabic": "نبت",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "qrr",
+      "root_arabic": "قرر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "bhj",
+      "root_arabic": "بهج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "r*l",
+      "root_arabic": "رذل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "hmd",
+      "root_arabic": "همد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "ryb",
+      "root_arabic": "ريب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "hzz",
+      "root_arabic": "هزز",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "Emr",
+      "root_arabic": "عمر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "rbw",
+      "root_arabic": "ربو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        5
+      ]
+    },
+    {
+      "root": "swy",
+      "root_arabic": "سوي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        75,
+        38
+      ]
+    },
+    {
+      "root": "Eql",
+      "root_arabic": "عقل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        40,
+        67
+      ]
+    },
+    {
+      "root": "$yx",
+      "root_arabic": "شيخ",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        40,
+        67
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        40,
+        67
+      ]
+    },
+    {
+      "root": "Ans",
+      "root_arabic": "انس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        96,
+        2
+      ]
+    },
+    {
+      "root": "brk",
+      "root_arabic": "برك",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "n$A",
+      "root_arabic": "نشا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "lHm",
+      "root_arabic": "لحم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "ksw",
+      "root_arabic": "كسو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        23,
+        14
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 23,
+        "name_english": "Al-Muminoon",
+        "name_arabic": "سُورَةُ المُؤۡمِنُونَ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 40,
+        "name_english": "Ghafir",
+        "name_arabic": "سُورَةُ غَافِرٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 75,
+        "name_english": "Al-Qiyaama",
+        "name_arabic": "سُورَةُ القِيَامَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 96,
+        "name_english": "Al-Alaq",
+        "name_arabic": "سُورَةُ العَلَقِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 5
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        129,
+        14
+      ],
+      "form_arabic": "كَٱلْمُعَلَّقَةِ",
+      "lemma": "muEal~aqap",
+      "lemma_arabic": "مُعَلَّقَة",
+      "pos": "N",
+      "ayah_id": "4:129",
+      "ayah_arabic": "وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورࣰ ا رَّحِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "like the suspended one",
+      "translations": {
+        "saheeh": "And you will never be able to be equal [in feeling] between wives, even if you should strive [to do so]. So do not incline completely [toward one] and leave another hanging. And if you amend [your affairs] and fear Allah - then indeed, Allah is ever Forgiving and Merciful.",
+        "pickthall": "Ye will not be able to deal equally between (your) wives, however much ye wish (to do so). But turn not altogether away (from one), leaving her as in suspense. If ye do good and keep from evil, lo! Allah is ever Forgiving, Merciful.",
+        "khattab": "You will never be able to maintain ˹emotional˺ justice between your wives—no matter how keen you are. So do not totally incline towards one leaving the other in suspense. And if you do what is right and are mindful ˹of Allah˺, surely Allah is All-Forgiving, Most Merciful",
+        "arberry": "You will not be able to be equitable between your wives, be you ever so eager; yet do not be altogether partial so that you leave her as it were suspended. If you set things right, and are godfearing, God is All-forgiving, All-compassionate."
+      }
+    },
+    {
+      "location": [
+        22,
+        5,
+        18
+      ],
+      "form_arabic": "عَلَقَةٍ",
+      "lemma": "Ealaqap",
+      "lemma_arabic": "عَلَقَة",
+      "pos": "N",
+      "ayah_id": "22:5",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِي رَيۡبࣲ مِّنَ ٱلۡبَعۡثِ فَإِنَّا خَلَقۡنَٰكُم مِّن تُرَابࣲ ثُمَّ مِن نُّطۡفَةࣲ ثُمَّ مِنۡ عَلَقَةࣲ ثُمَّ مِن مُّضۡغَةࣲ مُّخَلَّقَةࣲ وَغَيۡرِ مُخَلَّقَةࣲ لِّنُبَيِّنَ لَكُمۡۚ وَنُقِرُّ فِي ٱلۡأَرۡحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلࣲ مُّسَمࣰّ ى ثُمَّ نُخۡرِجُكُمۡ طِفۡلࣰ ا ثُمَّ لِتَبۡلُغُوٓاْ أَشُدَّكُمۡۖ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرۡذَلِ ٱلۡعُمُرِ لِكَيۡلَا يَعۡلَمَ مِنۢ بَعۡدِ عِلۡمࣲ شَيۡـࣰٔ اۚ وَتَرَى ٱلۡأَرۡضَ هَامِدَةࣰ فَإِذَآ أَنزَلۡنَا عَلَيۡهَا ٱلۡمَآءَ ٱهۡتَزَّتۡ وَرَبَتۡ وَأَنۢبَتَتۡ مِن كُلِّ زَوۡجِۭ بَهِيجࣲ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "a clinging substance",
+      "translations": {
+        "saheeh": "O People, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.",
+        "pickthall": "O mankind! if ye are in doubt concerning the Resurrection, then lo! We have created you from dust, then from a drop of seed, then from a clot, then from a little lump of flesh shapely and shapeless, that We may make (it) clear for you. And We cause what We will to remain in the wombs for an appointed time, and afterward We bring you forth as infants, then (give you growth) that ye attain your full strength. And among you there is he who dieth (young), and among you there is he who is brought back to the most abject time of life, so that, after knowledge, he knoweth naught. And thou (Muhammad) seest the earth barren, but when We send down water thereon, it doth thrill and swell and put forth every lovely kind (of growth).",
+        "khattab": "O humanity! If you are in doubt about the Resurrection, then ˹know that˺ We did create you from dust, then from a sperm-drop, then ˹developed you into˺ a clinging clot ˹of blood˺, then a lump of flesh—fully formed or unformed—in order to demonstrate ˹Our power˺ to you. ˹Then˺ We settle whatever ˹embryo˺ We will in the womb for an appointed term, then bring you forth as infants, so that you may reach your prime. Some of you ˹may˺ die ˹young˺, while others are left to reach the most feeble stage of life so that they may know nothing after having known much. And you see the earth lifeless, but as soon as We send down rain upon it, it begins to stir ˹to life˺ and swell, producing every type of pleasant plant",
+        "arberry": "O men, if you are in doubt as to the Uprising, surely We created you of dust then of a sperm-drop, then of a blood clot, then of a lump of flesh, formed and unformed that We may make clear to you. And We establish in the wombs what We will, till a stated term, then We deliver you as infants, then that you may come of age; and some of you die, and some of you are kept back unto the vilest state of life, that after knowing somewhat, they may know nothing. And thou beholdest the earth blackened, then, when We send down water upon it, it quivers, and swells, and puts forth herbs of every joyous kind."
+      }
+    },
+    {
+      "location": [
+        23,
+        14,
+        4
+      ],
+      "form_arabic": "عَلَقَةً",
+      "lemma": "Ealaqap",
+      "lemma_arabic": "عَلَقَة",
+      "pos": "N",
+      "ayah_id": "23:14",
+      "ayah_arabic": "ثُمَّ خَلَقۡنَا ٱلنُّطۡفَةَ عَلَقَةࣰ فَخَلَقۡنَا ٱلۡعَلَقَةَ مُضۡغَةࣰ فَخَلَقۡنَا ٱلۡمُضۡغَةَ عِظَٰمࣰ ا فَكَسَوۡنَا ٱلۡعِظَٰمَ لَحۡمࣰ ا ثُمَّ أَنشَأۡنَٰهُ خَلۡقًا ءَاخَرَۚ فَتَبَارَكَ ٱللَّهُ أَحۡسَنُ ٱلۡخَٰلِقِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muminoon",
+      "literal_gloss": "(into) a clinging substance",
+      "translations": {
+        "saheeh": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.",
+        "pickthall": "Then fashioned We the drop a clot, then fashioned We the clot a little lump, then fashioned We the little lump bones, then clothed the bones with flesh, and then produced it as another creation. So blessed be Allah, the Best of creators!",
+        "khattab": "then We developed the drop into a clinging clot ˹of blood˺, then developed the clot into a lump ˹of flesh˺, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation. So Blessed is Allah, the Best of Creators",
+        "arberry": "then We created of the drop a clot then We created of the clot a tissue then We created of the tissue bones then We garmented the bones in flesh; thereafter We produced him as another creature. So blessed be God, the fairest of creators!"
+      }
+    },
+    {
+      "location": [
+        23,
+        14,
+        6
+      ],
+      "form_arabic": "ٱلْعَلَقَةَ",
+      "lemma": "Ealaqap",
+      "lemma_arabic": "عَلَقَة",
+      "pos": "N",
+      "ayah_id": "23:14",
+      "ayah_arabic": "ثُمَّ خَلَقۡنَا ٱلنُّطۡفَةَ عَلَقَةࣰ فَخَلَقۡنَا ٱلۡعَلَقَةَ مُضۡغَةࣰ فَخَلَقۡنَا ٱلۡمُضۡغَةَ عِظَٰمࣰ ا فَكَسَوۡنَا ٱلۡعِظَٰمَ لَحۡمࣰ ا ثُمَّ أَنشَأۡنَٰهُ خَلۡقًا ءَاخَرَۚ فَتَبَارَكَ ٱللَّهُ أَحۡسَنُ ٱلۡخَٰلِقِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muminoon",
+      "literal_gloss": "the clinging substance",
+      "translations": {
+        "saheeh": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.",
+        "pickthall": "Then fashioned We the drop a clot, then fashioned We the clot a little lump, then fashioned We the little lump bones, then clothed the bones with flesh, and then produced it as another creation. So blessed be Allah, the Best of creators!",
+        "khattab": "then We developed the drop into a clinging clot ˹of blood˺, then developed the clot into a lump ˹of flesh˺, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation. So Blessed is Allah, the Best of Creators",
+        "arberry": "then We created of the drop a clot then We created of the clot a tissue then We created of the tissue bones then We garmented the bones in flesh; thereafter We produced him as another creature. So blessed be God, the fairest of creators!"
+      }
+    },
+    {
+      "location": [
+        40,
+        67,
+        11
+      ],
+      "form_arabic": "عَلَقَةٍ",
+      "lemma": "Ealaqap",
+      "lemma_arabic": "عَلَقَة",
+      "pos": "N",
+      "ayah_id": "40:67",
+      "ayah_arabic": "هُوَ ٱلَّذِي خَلَقَكُم مِّن تُرَابࣲ ثُمَّ مِن نُّطۡفَةࣲ ثُمَّ مِنۡ عَلَقَةࣲ ثُمَّ يُخۡرِجُكُمۡ طِفۡلࣰ ا ثُمَّ لِتَبۡلُغُوٓاْ أَشُدَّكُمۡ ثُمَّ لِتَكُونُواْ شُيُوخࣰ اۚ وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبۡلُۖ وَلِتَبۡلُغُوٓاْ أَجَلࣰ ا مُّسَمࣰّ ى وَلَعَلَّكُمۡ تَعۡقِلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ghafir",
+      "literal_gloss": "a clinging substance",
+      "translations": {
+        "saheeh": "It is He who created you from dust, then from a sperm-drop, then from a clinging clot; then He brings you out as a child; then [He develops you] that you reach your [time of] maturity, then [further] that you become elders. And among you is he who is taken in death before [that], so that you reach a specified term; and perhaps you will use reason.",
+        "pickthall": "He it is Who created you from dust, then from a drop (of seed) then from a clot, then bringeth you forth as a child, then (ordaineth) that ye attain full strength and afterward that ye become old men - though some among you die before - and that ye reach an appointed term, that haply ye may understand.",
+        "khattab": "He is the One Who created you from dust, then from a sperm-drop, then ˹developed you into˺ a clinging clot ˹of blood˺, then He brings you forth as infants, so that you may reach your prime, and become old—though some of you ˹may˺ die sooner—reaching an appointed time, so perhaps you may understand ˹Allah’s power˺",
+        "arberry": "It is He who created you of dust then of a sperm-drop, then of a blood-clot, then He delivers you as infants, then that you may come of age, then that you may be old men -- though some of you there are who die before it -- and that you may reach a stated term; haply you will understand."
+      }
+    },
+    {
+      "location": [
+        75,
+        38,
+        3
+      ],
+      "form_arabic": "عَلَقَةً",
+      "lemma": "Ealaqap",
+      "lemma_arabic": "عَلَقَة",
+      "pos": "N",
+      "ayah_id": "75:38",
+      "ayah_arabic": "ثُمَّ كَانَ عَلَقَةࣰ فَخَلَقَ فَسَوَّىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qiyaama",
+      "literal_gloss": "a clinging substance",
+      "translations": {
+        "saheeh": "Then he was a clinging clot, and [Allah] created [his form] and proportioned [him]",
+        "pickthall": "Then he became a clot; then (Allah) shaped and fashioned",
+        "khattab": "Then they became a clinging clot ˹of blood˺, then He developed and perfected their form",
+        "arberry": "Then he was a blood-clot, and He created and formed,"
+      }
+    },
+    {
+      "location": [
+        96,
+        2,
+        4
+      ],
+      "form_arabic": "عَلَقٍ",
+      "lemma": "Ealaq",
+      "lemma_arabic": "عَلَق",
+      "pos": "N",
+      "ayah_id": "96:2",
+      "ayah_arabic": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Alaq",
+      "literal_gloss": "a clinging substance",
+      "translations": {
+        "saheeh": "Created man from a clinging substance.",
+        "pickthall": "Createth man from a clot.",
+        "khattab": "created humans from a clinging clot",
+        "arberry": "created Man of a blood-clot."
+      }
+    }
+  ]
+}

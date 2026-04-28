@@ -1,0 +1,253 @@
+{
+  "root": "kbb",
+  "root_arabic": "كبب",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "V": 1,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "kub~ato",
+      "lemma_arabic": "كُبَّتْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        27,
+        90,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            27,
+            90,
+            4
+          ],
+          "form_arabic": "فَكُبَّتْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "mukib~",
+      "lemma_arabic": "مُكِبّ",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        67,
+        22,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            67,
+            22,
+            3
+          ],
+          "form_arabic": "مُكِبًّا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        27,
+        90
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        67,
+        22
+      ]
+    },
+    {
+      "root": "m$y",
+      "root_arabic": "مشي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        67,
+        22
+      ]
+    },
+    {
+      "root": "SrT",
+      "root_arabic": "صرط",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        67,
+        22
+      ]
+    },
+    {
+      "root": "swy",
+      "root_arabic": "سوي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        67,
+        22
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        67,
+        22
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        27,
+        90
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        27,
+        90
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        27,
+        90
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        27,
+        90
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        27,
+        90
+      ]
+    },
+    {
+      "root": "jzy",
+      "root_arabic": "جزي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        27,
+        90
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 27,
+        "name_english": "An-Naml",
+        "name_arabic": "سُورَةُ النَّمۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 67,
+        "name_english": "Al-Mulk",
+        "name_arabic": "سُورَةُ المُلۡكِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        27,
+        90,
+        4
+      ],
+      "form_arabic": "فَكُبَّتْ",
+      "lemma": "kub~ato",
+      "lemma_arabic": "كُبَّتْ",
+      "pos": "V",
+      "ayah_id": "27:90",
+      "ayah_arabic": "وَمَن جَآءَ بِٱلسَّيِّئَةِ فَكُبَّتۡ وُجُوهُهُمۡ فِي ٱلنَّارِ هَلۡ تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naml",
+      "literal_gloss": "will be cast down",
+      "translations": {
+        "saheeh": "And whoever comes with an evil deed - their faces will be overturned into the Fire, [and it will be said], \"Are you recompensed except for what you used to do?\"",
+        "pickthall": "And whoso bringeth an ill-deed, such will be flung down on their faces in the Fire. Are ye rewarded aught save what ye did?",
+        "khattab": "And whoever comes with an evil deed will be hurled face-first into the Fire. Are you rewarded except for what you used to do",
+        "arberry": "And whosoever comes with an evil deed, their faces shall be thrust into the Fire: 'Are you recompensed but for what you did?'"
+      }
+    },
+    {
+      "location": [
+        67,
+        22,
+        3
+      ],
+      "form_arabic": "مُكِبًّا",
+      "lemma": "mukib~",
+      "lemma_arabic": "مُكِبّ",
+      "pos": "N",
+      "ayah_id": "67:22",
+      "ayah_arabic": "أَفَمَن يَمۡشِي مُكِبًّا عَلَىٰ وَجۡهِهِۦٓ أَهۡدَىٰٓ أَمَّن يَمۡشِي سَوِيًّا عَلَىٰ صِرَٰطࣲ مُّسۡتَقِيمࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mulk",
+      "literal_gloss": "fallen",
+      "translations": {
+        "saheeh": "Then is one who walks fallen on his face better guided or one who walks erect on a straight path?",
+        "pickthall": "Is he who goeth groping on his face more rightly guided, or he who walketh upright on a straight road?",
+        "khattab": "Who is ˹rightly˺ guided: the one who crawls facedown or the one who walks upright on the Straight Path",
+        "arberry": "What, is he who walks prone upon his face better guided than he who walks upright on a straight path?"
+      }
+    }
+  ]
+}

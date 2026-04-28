@@ -1,0 +1,190 @@
+{
+  "root": "Dgn",
+  "root_arabic": "ضغن",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 1,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">aDoga`n",
+      "lemma_arabic": "أَضْغَٰن",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        47,
+        29,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            47,
+            29,
+            11
+          ],
+          "form_arabic": "أَضْغَٰنَهُمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            47,
+            37,
+            6
+          ],
+          "form_arabic": "أَضْغَٰنَكُمْ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        47,
+        29
+      ]
+    },
+    {
+      "root": "Hsb",
+      "root_arabic": "حسب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        29
+      ]
+    },
+    {
+      "root": "mrD",
+      "root_arabic": "مرض",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        29
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        29
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        29
+      ]
+    },
+    {
+      "root": "bxl",
+      "root_arabic": "بخل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        37
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        37
+      ]
+    },
+    {
+      "root": "Hfw",
+      "root_arabic": "حفو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        37
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 47,
+        "name_english": "Muhammad",
+        "name_arabic": "سُورَةُ مُحَمَّدٍ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        47,
+        29,
+        11
+      ],
+      "form_arabic": "أَضْغَٰنَهُمْ",
+      "lemma": ">aDoga`n",
+      "lemma_arabic": "أَضْغَٰن",
+      "pos": "N",
+      "ayah_id": "47:29",
+      "ayah_arabic": "أَمۡ حَسِبَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ أَن لَّن يُخۡرِجَ ٱللَّهُ أَضۡغَٰنَهُمۡ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Muhammad",
+      "literal_gloss": "their hatred",
+      "translations": {
+        "saheeh": "Or do those in whose hearts is disease think that Allah would never expose their [feelings of] hatred?",
+        "pickthall": "Or do those in whose hearts is a disease deem that Allah will not bring to light their (secret) hates?",
+        "khattab": "Or do those with sickness in their hearts think that Allah will not ˹be able to˺ expose their malice",
+        "arberry": "Or did those in whose hearts is sickness think that God would not bring to light their rancour?"
+      }
+    },
+    {
+      "location": [
+        47,
+        37,
+        6
+      ],
+      "form_arabic": "أَضْغَٰنَكُمْ",
+      "lemma": ">aDoga`n",
+      "lemma_arabic": "أَضْغَٰن",
+      "pos": "N",
+      "ayah_id": "47:37",
+      "ayah_arabic": "إِن يَسۡـَٔلۡكُمُوهَا فَيُحۡفِكُمۡ تَبۡخَلُواْ وَيُخۡرِجۡ أَضۡغَٰنَكُمۡ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Muhammad",
+      "literal_gloss": "your hatred",
+      "translations": {
+        "saheeh": "If He should ask you for them and press you, you would withhold, and He would expose your unwillingness.",
+        "pickthall": "If He should ask it of you and importune you, ye would hoard it, and He would bring to light your (secret) hates.",
+        "khattab": "If He were to do so and pressure you, you would withhold and He would bring out your resentment",
+        "arberry": "If He asks you for them, and presses you, you are niggardly, and He brings to light your rancour."
+      }
+    }
+  ]
+}

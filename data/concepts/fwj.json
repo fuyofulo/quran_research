@@ -1,0 +1,492 @@
+{
+  "root": "fwj",
+  "root_arabic": "فوج",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 1,
+    "ayahs": 5,
+    "surahs": 5,
+    "pos_distribution": {
+      "N": 5
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "fawoj",
+      "lemma_arabic": "فَوْج",
+      "count": 5,
+      "pos_distribution": {
+        "N": 5
+      },
+      "first_occurrence": [
+        27,
+        83,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            27,
+            83,
+            6
+          ],
+          "form_arabic": "فَوْجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            38,
+            59,
+            2
+          ],
+          "form_arabic": "فَوْجٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            67,
+            8,
+            8
+          ],
+          "form_arabic": "فَوْجٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            78,
+            18,
+            6
+          ],
+          "form_arabic": "أَفْوَاجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            110,
+            2,
+            7
+          ],
+          "form_arabic": "أَفْوَاجًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        27,
+        83
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        67,
+        8
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        27,
+        83
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        110,
+        2
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        110,
+        2
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        110,
+        2
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        110,
+        2
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        110,
+        2
+      ]
+    },
+    {
+      "root": "Swr",
+      "root_arabic": "صور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        78,
+        18
+      ]
+    },
+    {
+      "root": "nfx",
+      "root_arabic": "نفخ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        78,
+        18
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        27,
+        83
+      ]
+    },
+    {
+      "root": "wzE",
+      "root_arabic": "وزع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        27,
+        83
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        27,
+        83
+      ]
+    },
+    {
+      "root": "H$r",
+      "root_arabic": "حشر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        27,
+        83
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        27,
+        83
+      ]
+    },
+    {
+      "root": "rHb",
+      "root_arabic": "رحب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        38,
+        59
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        38,
+        59
+      ]
+    },
+    {
+      "root": "Sly",
+      "root_arabic": "صلي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        38,
+        59
+      ]
+    },
+    {
+      "root": "qHm",
+      "root_arabic": "قحم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        38,
+        59
+      ]
+    },
+    {
+      "root": "myz",
+      "root_arabic": "ميز",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        8
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        8
+      ]
+    },
+    {
+      "root": "xzn",
+      "root_arabic": "خزن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        8
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        8
+      ]
+    },
+    {
+      "root": "gyZ",
+      "root_arabic": "غيظ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        8
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        8
+      ]
+    },
+    {
+      "root": "n*r",
+      "root_arabic": "نذر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        67,
+        8
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 27,
+        "name_english": "An-Naml",
+        "name_arabic": "سُورَةُ النَّمۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 38,
+        "name_english": "Saad",
+        "name_arabic": "سُورَةُ صٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 67,
+        "name_english": "Al-Mulk",
+        "name_arabic": "سُورَةُ المُلۡكِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 78,
+        "name_english": "An-Naba",
+        "name_arabic": "سُورَةُ النَّبَإِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 110,
+        "name_english": "An-Nasr",
+        "name_arabic": "سُورَةُ النَّصۡرِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        27,
+        83,
+        6
+      ],
+      "form_arabic": "فَوْجًا",
+      "lemma": "fawoj",
+      "lemma_arabic": "فَوْج",
+      "pos": "N",
+      "ayah_id": "27:83",
+      "ayah_arabic": "وَيَوۡمَ نَحۡشُرُ مِن كُلِّ أُمَّةࣲ فَوۡجࣰ ا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمۡ يُوزَعُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naml",
+      "literal_gloss": "a troop",
+      "translations": {
+        "saheeh": "And [warn of] the Day when We will gather from every nation a company of those who deny Our signs, and they will be [driven] in rows",
+        "pickthall": "And (remind them of) the Day when We shall gather out of every nation a host of those who denied Our revelations, and they will be set in array;",
+        "khattab": "˹Watch for˺ the Day We will gather from every faith-community a group of those who denied Our revelations, and they will be driven in ranks",
+        "arberry": "Upon the day when We shall muster out of every nation a troop of those that cried lies to Our signs, duly disposed,"
+      }
+    },
+    {
+      "location": [
+        38,
+        59,
+        2
+      ],
+      "form_arabic": "فَوْجٌ",
+      "lemma": "fawoj",
+      "lemma_arabic": "فَوْج",
+      "pos": "N",
+      "ayah_id": "38:59",
+      "ayah_arabic": "هَٰذَا فَوۡجࣱ مُّقۡتَحِمࣱ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ صَالُواْ ٱلنَّارِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "(is) a company",
+      "translations": {
+        "saheeh": "[Its inhabitants will say], \"This is a company bursting in with you. No welcome for them. Indeed, they will burn in the Fire.\"",
+        "pickthall": "Here is an army rushing blindly with you. (Those who are already in the Fire say): No word of welcome for them. Lo! they will roast at the Fire.",
+        "khattab": "˹The misleaders will say to one another,˺ “Here is a crowd ˹of followers˺ being thrown in with us. They are not welcome, ˹for˺ they ˹too˺ will burn in the Fire.”",
+        "arberry": "'This is a troop rushing in with you; there is no Welcome for them; they shall roast in the Fire.'"
+      }
+    },
+    {
+      "location": [
+        67,
+        8,
+        8
+      ],
+      "form_arabic": "فَوْجٌ",
+      "lemma": "fawoj",
+      "lemma_arabic": "فَوْج",
+      "pos": "N",
+      "ayah_id": "67:8",
+      "ayah_arabic": "تَكَادُ تَمَيَّزُ مِنَ ٱلۡغَيۡظِۖ كُلَّمَآ أُلۡقِيَ فِيهَا فَوۡجࣱ سَأَلَهُمۡ خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ نَذِيرࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mulk",
+      "literal_gloss": "a group",
+      "translations": {
+        "saheeh": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner?\"",
+        "pickthall": "As it would burst with rage. Whenever a (fresh) host is flung therein the wardens thereof ask them: Came there unto you no warner?",
+        "khattab": "almost bursting in fury. Every time a group is cast into it, its keepers will ask them, “Did a warner not come to you?”",
+        "arberry": "and wellnigh bursts asunder with rage. As often as a troop is cast into it, its keepers ask them, 'Came there no warner to you?';"
+      }
+    },
+    {
+      "location": [
+        78,
+        18,
+        6
+      ],
+      "form_arabic": "أَفْوَاجًا",
+      "lemma": "fawoj",
+      "lemma_arabic": "فَوْج",
+      "pos": "N",
+      "ayah_id": "78:18",
+      "ayah_arabic": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naba",
+      "literal_gloss": "(in) crowds",
+      "translations": {
+        "saheeh": "The Day the Horn is blown and you will come forth in multitudes",
+        "pickthall": "A day when the trumpet is blown and ye come in multitudes,",
+        "khattab": "˹it is˺ the Day the Trumpet will be blown, and you will ˹all˺ come forth in crowds",
+        "arberry": "the day the Trumpet is blown, and you shall come in troops,"
+      }
+    },
+    {
+      "location": [
+        110,
+        2,
+        7
+      ],
+      "form_arabic": "أَفْوَاجًا",
+      "lemma": "fawoj",
+      "lemma_arabic": "فَوْج",
+      "pos": "N",
+      "ayah_id": "110:2",
+      "ayah_arabic": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nasr",
+      "literal_gloss": "(in) multitudes",
+      "translations": {
+        "saheeh": "And you see the people entering into the religion of Allah in multitudes,",
+        "pickthall": "And thou seest mankind entering the religion of Allah in troops,",
+        "khattab": "and you ˹O Prophet˺ see the people embracing Allah’s Way in crowds",
+        "arberry": "and thou seest men entering God's religion in throngs,"
+      }
+    }
+  ]
+}

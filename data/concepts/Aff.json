@@ -1,0 +1,415 @@
+{
+  "root": "Aff",
+  "root_arabic": "افف",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">uf~",
+      "lemma_arabic": "أُفّ",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        17,
+        23,
+        19
+      ],
+      "occurrences": [
+        {
+          "location": [
+            17,
+            23,
+            19
+          ],
+          "form_arabic": "أُفٍّ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            21,
+            67,
+            1
+          ],
+          "form_arabic": "أُفٍّ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            46,
+            17,
+            4
+          ],
+          "form_arabic": "أُفٍّ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        21,
+        67
+      ]
+    },
+    {
+      "root": "krm",
+      "root_arabic": "كرم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "qDy",
+      "root_arabic": "قضي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "klw",
+      "root_arabic": "كلو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        67
+      ]
+    },
+    {
+      "root": "Eql",
+      "root_arabic": "عقل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        67
+      ]
+    },
+    {
+      "root": "gwv",
+      "root_arabic": "غوث",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        46,
+        17
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        46,
+        17
+      ]
+    },
+    {
+      "root": "xlw",
+      "root_arabic": "خلو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        46,
+        17
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        46,
+        17
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        46,
+        17
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        46,
+        17
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        46,
+        17
+      ]
+    },
+    {
+      "root": "sTr",
+      "root_arabic": "سطر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        46,
+        17
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        46,
+        17
+      ]
+    },
+    {
+      "root": "qrn",
+      "root_arabic": "قرن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        46,
+        17
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 21,
+        "name_english": "Al-Anbiyaa",
+        "name_arabic": "سُورَةُ الأَنبِيَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 46,
+        "name_english": "Al-Ahqaf",
+        "name_arabic": "سُورَةُ الأَحۡقَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        17,
+        23,
+        19
+      ],
+      "form_arabic": "أُفٍّ",
+      "lemma": ">uf~",
+      "lemma_arabic": "أُفّ",
+      "pos": "N",
+      "ayah_id": "17:23",
+      "ayah_arabic": "۞وَقَضَىٰ رَبُّكَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَٰنًاۚ إِمَّا يَبۡلُغَنَّ عِندَكَ ٱلۡكِبَرَ أَحَدُهُمَآ أَوۡ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفࣲّ وَلَا تَنۡهَرۡهُمَا وَقُل لَّهُمَا قَوۡلࣰ ا كَرِيمࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "a word of disrespect",
+      "translations": {
+        "saheeh": "And your Lord has decreed that you not worship except Him, and to parents, good treatment. Whether one or both of them reach old age [while] with you, say not to them [so much as], \"uff,\" and do not repel them but speak to them a noble word.",
+        "pickthall": "Thy Lord hath decreed, that ye worship none save Him, and (that ye show) kindness to parents. If one of them or both of them attain old age with thee, say not \"Fie\" unto them nor repulse them, but speak unto them a gracious word.",
+        "khattab": "For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ ‘ugh,’ nor yell at them. Rather, address them respectfully",
+        "arberry": "Thy Lord has decreed you shall not serve any but Him, and to be good to parents, whether one or both of them attains old age with thee; say not to them 'Fie' neither chide them, but speak unto them words respectful,"
+      }
+    },
+    {
+      "location": [
+        21,
+        67,
+        1
+      ],
+      "form_arabic": "أُفٍّ",
+      "lemma": ">uf~",
+      "lemma_arabic": "أُفّ",
+      "pos": "N",
+      "ayah_id": "21:67",
+      "ayah_arabic": "أُفࣲّ لَّكُمۡ وَلِمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِۚ أَفَلَا تَعۡقِلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Anbiyaa",
+      "literal_gloss": "Uff",
+      "translations": {
+        "saheeh": "Uff to you and to what you worship instead of Allah. Then will you not use reason?\"",
+        "pickthall": "Fie on you and all that ye worship instead of Allah! Have ye then no sense?",
+        "khattab": "Shame on you and whatever you worship instead of Allah! Do you not have any sense?”",
+        "arberry": "Fie upon you and that you serve apart from God! Do you not understand?'"
+      }
+    },
+    {
+      "location": [
+        46,
+        17,
+        4
+      ],
+      "form_arabic": "أُفٍّ",
+      "lemma": ">uf~",
+      "lemma_arabic": "أُفّ",
+      "pos": "N",
+      "ayah_id": "46:17",
+      "ayah_arabic": "وَٱلَّذِي قَالَ لِوَٰلِدَيۡهِ أُفࣲّ لَّكُمَآ أَتَعِدَانِنِيٓ أَنۡ أُخۡرَجَ وَقَدۡ خَلَتِ ٱلۡقُرُونُ مِن قَبۡلِي وَهُمَا يَسۡتَغِيثَانِ ٱللَّهَ وَيۡلَكَ ءَامِنۡ إِنَّ وَعۡدَ ٱللَّهِ حَقࣱّ فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ahqaf",
+      "literal_gloss": "Uff",
+      "translations": {
+        "saheeh": "But one who says to his parents, \"Uff to you; do you promise me that I will be brought forth [from the earth] when generations before me have already passed on [into oblivion]?\" while they call to Allah for help [and to their son], \"Woe to you! Believe! Indeed, the promise of Allah is truth.\" But he says, \"This is not but legends of the former people\" -",
+        "pickthall": "And whoso saith unto his parents: Fie upon you both! Do ye threaten me that I shall be brought forth (again) when generations before me have passed away? And they twain cry unto Allah for help (and say): Woe unto thee! Believe! Lo! the promise of Allah is true. But he saith: This is naught save fables of the men of old:",
+        "khattab": "But some scold their parents, “Enough with you! Are you warning me that I will be brought forth ˹from the grave˺, while many generations had already perished before me ˹for good˺?” The parents cry to Allah for help, ˹and warn their child,˺ “Pity you. Have faith! Surely Allah’s promise is true.” But the deniers insist, “This is nothing but ancient fables.”",
+        "arberry": "But he who says to his father and his mother, 'Fie upon you! Do you promise me that I shall be brought forth, when already generations have passed away before me?' while they call upon God for succour -- 'Woe upon thee! Believe; surely God's promise is true'; then he says, 'This is naught but the fairy-tales of the ancients' --"
+      }
+    }
+  ]
+}

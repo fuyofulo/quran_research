@@ -1,0 +1,907 @@
+{
+  "root": "Hnf",
+  "root_arabic": "حنف",
+  "stats": {
+    "occurrences": 12,
+    "lemmas": 1,
+    "ayahs": 12,
+    "surahs": 9,
+    "pos_distribution": {
+      "N": 12
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "count": 12,
+      "pos_distribution": {
+        "N": 12
+      },
+      "first_occurrence": [
+        2,
+        135,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            135,
+            11
+          ],
+          "form_arabic": "حَنِيفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            3,
+            67,
+            9
+          ],
+          "form_arabic": "حَنِيفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            3,
+            95,
+            7
+          ],
+          "form_arabic": "حَنِيفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            125,
+            13
+          ],
+          "form_arabic": "حَنِيفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            6,
+            79,
+            8
+          ],
+          "form_arabic": "حَنِيفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            6,
+            161,
+            12
+          ],
+          "form_arabic": "حَنِيفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            10,
+            105,
+            5
+          ],
+          "form_arabic": "حَنِيفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            16,
+            120,
+            7
+          ],
+          "form_arabic": "حَنِيفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            16,
+            123,
+            8
+          ],
+          "form_arabic": "حَنِيفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            22,
+            31,
+            1
+          ],
+          "form_arabic": "حُنَفَا^ءَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            30,
+            30,
+            4
+          ],
+          "form_arabic": "حَنِيفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            98,
+            5,
+            9
+          ],
+          "form_arabic": "حُنَفَا^ءَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 9,
+      "share": 0.75,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 8,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 6,
+      "share": 0.5,
+      "first_together": [
+        3,
+        95
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 5,
+      "share": 0.4167,
+      "first_together": [
+        4,
+        125
+      ]
+    },
+    {
+      "root": "mll",
+      "root_arabic": "ملل",
+      "ayahs_together": 5,
+      "share": 0.4167,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        161
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        125
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 3,
+      "share": 0.25,
+      "first_together": [
+        3,
+        95
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 3,
+      "share": 0.25,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "fTr",
+      "root_arabic": "فطر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        79
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        79
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        3,
+        67
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        30,
+        30
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        30,
+        30
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        30,
+        30
+      ]
+    },
+    {
+      "root": "bdl",
+      "root_arabic": "بدل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        30,
+        30
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        30,
+        30
+      ]
+    },
+    {
+      "root": "xTf",
+      "root_arabic": "خطف",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "Tyr",
+      "root_arabic": "طير",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "sHq",
+      "root_arabic": "سحق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "hwy",
+      "root_arabic": "هوي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "rwH",
+      "root_arabic": "روح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "xrr",
+      "root_arabic": "خرر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        4,
+        125
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        4,
+        125
+      ]
+    },
+    {
+      "root": "xll",
+      "root_arabic": "خلل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        4,
+        125
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        98,
+        5
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        98,
+        5
+      ]
+    },
+    {
+      "root": "xlS",
+      "root_arabic": "خلص",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        98,
+        5
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        98,
+        5
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        98,
+        5
+      ]
+    },
+    {
+      "root": "zkw",
+      "root_arabic": "زكو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        98,
+        5
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        6,
+        79
+      ]
+    },
+    {
+      "root": "hwd",
+      "root_arabic": "هود",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "SrT",
+      "root_arabic": "صرط",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        6,
+        161
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        6,
+        161
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        16,
+        120
+      ]
+    },
+    {
+      "root": "qnt",
+      "root_arabic": "قنت",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        16,
+        120
+      ]
+    },
+    {
+      "root": "wHy",
+      "root_arabic": "وحي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        16,
+        123
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        3,
+        95
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 16,
+        "name_english": "An-Nahl",
+        "name_arabic": "سُورَةُ النَّحۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 10,
+        "name_english": "Yunus",
+        "name_arabic": "سُورَةُ يُونُسَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 30,
+        "name_english": "Ar-Room",
+        "name_arabic": "سُورَةُ الرُّومِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 98,
+        "name_english": "Al-Bayyina",
+        "name_arabic": "سُورَةُ البَيِّنَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 6,
+      "Meccan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        135,
+        11
+      ],
+      "form_arabic": "حَنِيفًا",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "2:135",
+      "ayah_arabic": "وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُواْۗ قُلۡ بَلۡ مِلَّةَ إِبۡرَٰهِـۧمَ حَنِيفࣰ اۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(the) upright",
+      "translations": {
+        "saheeh": "They say, \"Be Jews or Christians [so] you will be guided.\" Say, \"Rather, [we follow] the religion of Abraham, inclining toward truth, and he was not of the polytheists.\"",
+        "pickthall": "And they say: Be Jews or Christians, then ye will be rightly guided. Say (unto them, O Muhammad): Nay, but (we follow) the religion of Abraham, the upright, and he was not of the idolaters.",
+        "khattab": "The Jews and Christians each say, “Follow our faith to be ˹rightly˺ guided.” Say, ˹O Prophet,˺ “No! We follow the faith of Abraham, the upright—who was not a polytheist.”",
+        "arberry": "And they say, 'Be Jews or Christians and you shall be guided.' Say thou: 'Nay, rather the creed of Abraham, a man of pure faith; he was no idolater.'"
+      }
+    },
+    {
+      "location": [
+        3,
+        67,
+        9
+      ],
+      "form_arabic": "حَنِيفًا",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "3:67",
+      "ayah_arabic": "مَا كَانَ إِبۡرَٰهِيمُ يَهُودِيࣰّ ا وَلَا نَصۡرَانِيࣰّ ا وَلَٰكِن كَانَ حَنِيفࣰ ا مُّسۡلِمࣰ ا وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "a true",
+      "translations": {
+        "saheeh": "Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]. And he was not of the polytheists.",
+        "pickthall": "Abraham was not a Jew, nor yet a Christian; but he was an upright man who had surrendered (to Allah), and he was not of the idolaters.",
+        "khattab": "Abraham was neither a Jew nor a Christian; he submitted in all uprightness and was not a polytheist",
+        "arberry": "No; Abraham in truth was not a Jew, neither a Christian; but he was a Muslim and one pure of faith; certainly he was never of the idolaters."
+      }
+    },
+    {
+      "location": [
+        3,
+        95,
+        7
+      ],
+      "form_arabic": "حَنِيفًا",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "3:95",
+      "ayah_arabic": "قُلۡ صَدَقَ ٱللَّهُۗ فَٱتَّبِعُواْ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفࣰ اۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "(the) upright",
+      "translations": {
+        "saheeh": "Say, \"Allah has told the truth. So follow the religion of Abraham, inclining toward truth; and he was not of the polytheists.\"",
+        "pickthall": "Say: Allah speaketh truth. So follow the religion of Abraham, the upright. He was not of the idolaters.",
+        "khattab": "Say, ˹O Prophet,˺ “Allah has declared the truth. So follow the Way of Abraham, the upright—who was not a polytheist.”",
+        "arberry": "Say: 'God has spoken the truth; therefore follow the creed of Abraham, a man of pure faith and no idolater.'"
+      }
+    },
+    {
+      "location": [
+        4,
+        125,
+        13
+      ],
+      "form_arabic": "حَنِيفًا",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "4:125",
+      "ayah_arabic": "وَمَنۡ أَحۡسَنُ دِينࣰ ا مِّمَّنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنࣱ وَٱتَّبَعَ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفࣰ اۗ وَٱتَّخَذَ ٱللَّهُ إِبۡرَٰهِيمَ خَلِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(the) upright",
+      "translations": {
+        "saheeh": "And who is better in religion than one who submits himself to Allah while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allah took Abraham as an intimate friend.",
+        "pickthall": "Who is better in religion than he who surrendereth his purpose to Allah while doing good (to men) and followeth the tradition of Abraham, the upright? Allah (Himself) chose Abraham for friend.",
+        "khattab": "And who is better in faith than those who ˹fully˺ submit themselves to Allah, do good, and follow the Way of Abraham, the upright? Allah chose Abraham as a close friend",
+        "arberry": "And who is there that has a fairer religion than he who submits his will to God being a good-doer, and who follows the creed of Abraham, a man of pure faith? And God took Abraham for a friend."
+      }
+    },
+    {
+      "location": [
+        6,
+        79,
+        8
+      ],
+      "form_arabic": "حَنِيفًا",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "6:79",
+      "ayah_arabic": "إِنِّي وَجَّهۡتُ وَجۡهِيَ لِلَّذِي فَطَرَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ حَنِيفࣰ اۖ وَمَآ أَنَا۠ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "(as) a true monotheist",
+      "translations": {
+        "saheeh": "Indeed, I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah.\"",
+        "pickthall": "Lo! I have turned my face toward Him Who created the heavens and the earth, as one by nature upright, and I am not of the idolaters.",
+        "khattab": "I have turned my face towards the One Who has originated the heavens and the earth—being upright—and I am not one of the polytheists.”",
+        "arberry": "I have turned my face to Him who originated the heavens and the earth, a man of pure faith; I am not of the idolaters.'"
+      }
+    },
+    {
+      "location": [
+        6,
+        161,
+        12
+      ],
+      "form_arabic": "حَنِيفًا",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "6:161",
+      "ayah_arabic": "قُلۡ إِنَّنِي هَدَىٰنِي رَبِّيٓ إِلَىٰ صِرَٰطࣲ مُّسۡتَقِيمࣲ دِينࣰ ا قِيَمࣰ ا مِّلَّةَ إِبۡرَٰهِيمَ حَنِيفࣰ اۚ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "a true monotheist",
+      "translations": {
+        "saheeh": "Say, \"Indeed, my Lord has guided me to a straight path - a correct religion - the way of Abraham, inclining toward truth. And he was not among those who associated others with Allah.\"",
+        "pickthall": "Say: Lo! As for me, my Lord hath guided me unto a straight path, a right religion, the community of Abraham, the upright, who was no idolater.",
+        "khattab": "Say, ˹O Prophet,˺ “Surely my Lord has guided me to the Straight Path, a perfect way, the faith of Abraham, the upright, who was not one of the polytheists.”",
+        "arberry": "Say: 'As for me, my Lord has guided me to a straight path, a right religion, the creed of Abraham, a man of pure faith; he was no idolater.'"
+      }
+    },
+    {
+      "location": [
+        10,
+        105,
+        5
+      ],
+      "form_arabic": "حَنِيفًا",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "10:105",
+      "ayah_arabic": "وَأَنۡ أَقِمۡ وَجۡهَكَ لِلدِّينِ حَنِيفࣰ ا وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yunus",
+      "literal_gloss": "upright",
+      "translations": {
+        "saheeh": "And [commanded], 'Direct your face toward the religion, inclining to truth, and never be of those who associate others with Allah;",
+        "pickthall": "And, (O Muhammad) set thy purpose resolutely for religion, as a man by nature upright, and be not of those who ascribe partners (to Allah).",
+        "khattab": "and, ‘Be steadfast in faith in all uprightness, and do not be one of the polytheists,’",
+        "arberry": "\"Set thy face to the religion, a man of pure faith, and be thou not of the idolaters;"
+      }
+    },
+    {
+      "location": [
+        16,
+        120,
+        7
+      ],
+      "form_arabic": "حَنِيفًا",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "16:120",
+      "ayah_arabic": "إِنَّ إِبۡرَٰهِيمَ كَانَ أُمَّةࣰ قَانِتࣰ ا لِّلَّهِ حَنِيفࣰ ا وَلَمۡ يَكُ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Nahl",
+      "literal_gloss": "upright",
+      "translations": {
+        "saheeh": "Indeed, Abraham was a [comprehensive] leader, devoutly obedient to Allah, inclining toward truth, and he was not of those who associate others with Allah.",
+        "pickthall": "Lo! Abraham was a nation obedient to Allah, by nature upright, and he was not of the idolaters;",
+        "khattab": "Indeed, Abraham was a model of excellence: devoted to Allah, ˹perfectly˺ upright—not a polytheist—",
+        "arberry": "Surely, Abraham was a nation obedient unto God, a man of pure faith and no idolater,"
+      }
+    },
+    {
+      "location": [
+        16,
+        123,
+        8
+      ],
+      "form_arabic": "حَنِيفًا",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "16:123",
+      "ayah_arabic": "ثُمَّ أَوۡحَيۡنَآ إِلَيۡكَ أَنِ ٱتَّبِعۡ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفࣰ اۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Nahl",
+      "literal_gloss": "upright",
+      "translations": {
+        "saheeh": "Then We revealed to you, [O Muhammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allah.",
+        "pickthall": "And afterward We inspired thee (Muhammad, saying): Follow the religion of Abraham, as one by nature upright. He was not of the idolaters.",
+        "khattab": "Then We revealed to you ˹O Prophet, saying˺: “Follow the faith of Abraham, the upright, who was not one of the polytheists.”",
+        "arberry": "Then We revealed to thee: 'Follow thou the creed of Abraham, a man of pure faith and no idolater.'"
+      }
+    },
+    {
+      "location": [
+        22,
+        31,
+        1
+      ],
+      "form_arabic": "حُنَفَا^ءَ",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "22:31",
+      "ayah_arabic": "حُنَفَآءَ لِلَّهِ غَيۡرَ مُشۡرِكِينَ بِهِۦۚ وَمَن يُشۡرِكۡ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخۡطَفُهُ ٱلطَّيۡرُ أَوۡ تَهۡوِي بِهِ ٱلرِّيحُ فِي مَكَانࣲ سَحِيقࣲ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "Being upright",
+      "translations": {
+        "saheeh": "Inclining [only] to Allah, not associating [anything] with Him. And he who associates with Allah - it is as though he had fallen from the sky and was snatched by the birds or the wind carried him down into a remote place.",
+        "pickthall": "Turning unto Allah (only), not ascribing partners unto Him; for whoso ascribeth partners unto Allah, it is as if he had fallen from the sky and the birds had snatched him or the wind had blown him to a far-off place.",
+        "khattab": "Be upright ˹in devotion˺ to Allah, associating none with Him ˹in worship˺. For whoever associates ˹others˺ with Allah is like someone who has fallen from the sky and is either snatched away by birds or swept by the wind to a remote place",
+        "arberry": "being men pure of faith unto God, not associating with Him anything; for whosoever associates with God anything, it is as though he has fallen from heaven and the birds snatch him away, or the wind sweeps him headlong into a place far away."
+      }
+    },
+    {
+      "location": [
+        30,
+        30,
+        4
+      ],
+      "form_arabic": "حَنِيفًا",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "30:30",
+      "ayah_arabic": "فَأَقِمۡ وَجۡهَكَ لِلدِّينِ حَنِيفࣰ اۚ فِطۡرَتَ ٱللَّهِ ٱلَّتِي فَطَرَ ٱلنَّاسَ عَلَيۡهَاۚ لَا تَبۡدِيلَ لِخَلۡقِ ٱللَّهِۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ar-Room",
+      "literal_gloss": "upright",
+      "translations": {
+        "saheeh": "So direct your face toward the religion, inclining to truth. [Adhere to] the fitrah of Allah upon which He has created [all] people. No change should there be in the creation of Allah. That is the correct religion, but most of the people do not know.",
+        "pickthall": "So set thy purpose (O Muhammad) for religion as a man by nature upright - the nature (framed) of Allah, in which He hath created man. There is no altering (the laws of) Allah's creation. That is the right religion, but most men know not -",
+        "khattab": "So be steadfast in faith in all uprightness ˹O Prophet˺—the natural Way of Allah which He has instilled in ˹all˺ people. Let there be no change in this creation of Allah. That is the Straight Way, but most people do not know",
+        "arberry": "So set thy face to the religion, a man of pure faith -- God's original upon which He originated mankind. There is no changing God's creation. That is the right religion; but most men know it not --"
+      }
+    },
+    {
+      "location": [
+        98,
+        5,
+        9
+      ],
+      "form_arabic": "حُنَفَا^ءَ",
+      "lemma": "Haniyf",
+      "lemma_arabic": "حَنِيف",
+      "pos": "N",
+      "ayah_id": "98:5",
+      "ayah_arabic": "وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُواْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤۡتُواْ ٱلزَّكَوٰةَۚ وَذَٰلِكَ دِينُ ٱلۡقَيِّمَةِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Bayyina",
+      "literal_gloss": "upright",
+      "translations": {
+        "saheeh": "And they were not commanded except to worship Allah, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakah. And that is the correct religion.",
+        "pickthall": "And they are ordered naught else than to serve Allah, keeping religion pure for Him, as men by nature upright, and to establish worship and to pay the poor-due. That is true religion.",
+        "khattab": "even though they were only commanded to worship Allah ˹alone˺ with sincere devotion to Him in all uprightness, establish prayer, and pay alms-tax. That is the upright Way",
+        "arberry": "They were commanded only to serve God, making the religion His sincerely, men of pure faith, and to perform the prayer, and pay the alms -- that is the religion of the True."
+      }
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "root": "zjr",
+  "root_arabic": "زجر",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 5,
+    "ayahs": 5,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 5,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "zajorap",
+      "lemma_arabic": "زَجْرَة",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        37,
+        19,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            37,
+            19,
+            3
+          ],
+          "form_arabic": "زَجْرَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            79,
+            13,
+            3
+          ],
+          "form_arabic": "زَجْرَةٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "z~a`jira`t",
+      "lemma_arabic": "زَّٰجِرَٰت",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        37,
+        2,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            37,
+            2,
+            1
+          ],
+          "form_arabic": "فَٱلزَّٰجِرَٰتِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "zajor",
+      "lemma_arabic": "زَجْر",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        37,
+        2,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            37,
+            2,
+            2
+          ],
+          "form_arabic": "زَجْرًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "muzodajar",
+      "lemma_arabic": "مُزْدَجَر",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        54,
+        4,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            54,
+            4,
+            7
+          ],
+          "form_arabic": "مُزْدَجَرٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "{zodujira",
+      "lemma_arabic": "ٱزْدُجِرَ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        54,
+        9,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            54,
+            9,
+            9
+          ],
+          "form_arabic": "وَٱزْدُجِرَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        37,
+        19
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        37,
+        19
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        54,
+        9
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        54,
+        9
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        54,
+        9
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        54,
+        9
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        54,
+        9
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        54,
+        9
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        54,
+        4
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        54,
+        4
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 3
+      },
+      {
+        "surah": 54,
+        "name_english": "Al-Qamar",
+        "name_arabic": "سُورَةُ القَمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 79,
+        "name_english": "An-Naazi'aat",
+        "name_arabic": "سُورَةُ النَّازِعَاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        37,
+        2,
+        1
+      ],
+      "form_arabic": "فَٱلزَّٰجِرَٰتِ",
+      "lemma": "z~a`jira`t",
+      "lemma_arabic": "زَّٰجِرَٰت",
+      "pos": "N",
+      "ayah_id": "37:2",
+      "ayah_arabic": "فَٱلزَّٰجِرَٰتِ زَجۡرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "And those who drive",
+      "translations": {
+        "saheeh": "And those who drive [the clouds]",
+        "pickthall": "And those who drive away (the wicked) with reproof",
+        "khattab": "and those who diligently drive ˹the clouds˺",
+        "arberry": "and the scarers scaring"
+      }
+    },
+    {
+      "location": [
+        37,
+        2,
+        2
+      ],
+      "form_arabic": "زَجْرًا",
+      "lemma": "zajor",
+      "lemma_arabic": "زَجْر",
+      "pos": "N",
+      "ayah_id": "37:2",
+      "ayah_arabic": "فَٱلزَّٰجِرَٰتِ زَجۡرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "strongly",
+      "translations": {
+        "saheeh": "And those who drive [the clouds]",
+        "pickthall": "And those who drive away (the wicked) with reproof",
+        "khattab": "and those who diligently drive ˹the clouds˺",
+        "arberry": "and the scarers scaring"
+      }
+    },
+    {
+      "location": [
+        37,
+        19,
+        3
+      ],
+      "form_arabic": "زَجْرَةٌ",
+      "lemma": "zajorap",
+      "lemma_arabic": "زَجْرَة",
+      "pos": "N",
+      "ayah_id": "37:19",
+      "ayah_arabic": "فَإِنَّمَا هِيَ زَجۡرَةࣱ وَٰحِدَةࣱ فَإِذَا هُمۡ يَنظُرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "(will be) a cry",
+      "translations": {
+        "saheeh": "It will be only one shout, and at once they will be observing.",
+        "pickthall": "There is but one Shout, and lo! they behold,",
+        "khattab": "It will only take one Blast, then at once they will see ˹it all˺",
+        "arberry": "For it is only a single scaring, then behold, they are watching"
+      }
+    },
+    {
+      "location": [
+        54,
+        4,
+        7
+      ],
+      "form_arabic": "مُزْدَجَرٌ",
+      "lemma": "muzodajar",
+      "lemma_arabic": "مُزْدَجَر",
+      "pos": "N",
+      "ayah_id": "54:4",
+      "ayah_arabic": "وَلَقَدۡ جَآءَهُم مِّنَ ٱلۡأَنۢبَآءِ مَا فِيهِ مُزۡدَجَرٌ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qamar",
+      "literal_gloss": "(is) deterrence",
+      "translations": {
+        "saheeh": "And there has already come to them of information that in which there is deterrence -",
+        "pickthall": "And surely there hath come unto them news whereof the purport should deter,",
+        "khattab": "even though the stories ˹of destroyed nations˺ that have already come to them are a sufficient deterrent",
+        "arberry": "And there have come to them such tidings as contain a deterrent --"
+      }
+    },
+    {
+      "location": [
+        54,
+        9,
+        9
+      ],
+      "form_arabic": "وَٱزْدُجِرَ",
+      "lemma": "{zodujira",
+      "lemma_arabic": "ٱزْدُجِرَ",
+      "pos": "V",
+      "ayah_id": "54:9",
+      "ayah_arabic": "۞كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحࣲ فَكَذَّبُواْ عَبۡدَنَا وَقَالُواْ مَجۡنُونࣱ وَٱزۡدُجِرَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qamar",
+      "literal_gloss": "and he was repelled",
+      "translations": {
+        "saheeh": "The people of Noah denied before them, and they denied Our servant and said, \"A madman,\" and he was repelled.",
+        "pickthall": "The folk of Noah denied before them, yea, they denied Our slave and said: A madman; and he was repulsed.",
+        "khattab": "Before them, the people of Noah denied ˹the truth˺ and rejected Our servant, calling ˹him˺ insane. And he was intimidated",
+        "arberry": "The people of Noah cried lies before them; they cried lies to Our servant, and said, 'A man possessed!' And he was rejected."
+      }
+    },
+    {
+      "location": [
+        79,
+        13,
+        3
+      ],
+      "form_arabic": "زَجْرَةٌ",
+      "lemma": "zajorap",
+      "lemma_arabic": "زَجْرَة",
+      "pos": "N",
+      "ayah_id": "79:13",
+      "ayah_arabic": "فَإِنَّمَا هِيَ زَجۡرَةࣱ وَٰحِدَةࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naazi'aat",
+      "literal_gloss": "(will be) a shout",
+      "translations": {
+        "saheeh": "Indeed, it will be but one shout,",
+        "pickthall": "Surely it will need but one shout,",
+        "khattab": "But indeed, it will take only one ˹mighty˺ Blast",
+        "arberry": "But it shall be only a single scare,"
+      }
+    }
+  ]
+}

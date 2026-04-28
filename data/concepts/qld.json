@@ -1,0 +1,602 @@
+{
+  "root": "qld",
+  "root_arabic": "قلد",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 4,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "qala`^}id",
+      "lemma_arabic": "قَلَٰ^ئِد",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        5,
+        2,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            2,
+            14
+          ],
+          "form_arabic": "ٱلْقَلَٰ^ئِدَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            5,
+            97,
+            11
+          ],
+          "form_arabic": "وَٱلْقَلَٰ^ئِدَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "maqaAliyd",
+      "lemma_arabic": "مَقَالِيد",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        39,
+        63,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            39,
+            63,
+            2
+          ],
+          "form_arabic": "مَقَالِيدُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            42,
+            12,
+            2
+          ],
+          "form_arabic": "مَقَالِيدُ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        5,
+        97
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        5,
+        97
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        5,
+        97
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        5,
+        97
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        5,
+        97
+      ]
+    },
+    {
+      "root": "byt",
+      "root_arabic": "بيت",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "$hr",
+      "root_arabic": "شهر",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "xsr",
+      "root_arabic": "خسر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        39,
+        63
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        39,
+        63
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        39,
+        63
+      ]
+    },
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        42,
+        12
+      ]
+    },
+    {
+      "root": "bsT",
+      "root_arabic": "بسط",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        42,
+        12
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        42,
+        12
+      ]
+    },
+    {
+      "root": "kEb",
+      "root_arabic": "كعب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        97
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        97
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        97
+      ]
+    },
+    {
+      "root": "Ewn",
+      "root_arabic": "عون",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "Syd",
+      "root_arabic": "صيد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "Eqb",
+      "root_arabic": "عقب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "$Er",
+      "root_arabic": "شعر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "Sdd",
+      "root_arabic": "صدد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "jrm",
+      "root_arabic": "جرم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "Avm",
+      "root_arabic": "اثم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "$nA",
+      "root_arabic": "شنا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "Edw",
+      "root_arabic": "عدو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "brr",
+      "root_arabic": "برر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        5,
+        2
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 42,
+        "name_english": "Ash-Shura",
+        "name_arabic": "سُورَةُ الشُّورَىٰ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        5,
+        2,
+        14
+      ],
+      "form_arabic": "ٱلْقَلَٰ^ئِدَ",
+      "lemma": "qala`^}id",
+      "lemma_arabic": "قَلَٰ^ئِد",
+      "pos": "N",
+      "ayah_id": "5:2",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُحِلُّواْ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهۡرَ ٱلۡحَرَامَ وَلَا ٱلۡهَدۡيَ وَلَا ٱلۡقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلۡبَيۡتَ ٱلۡحَرَامَ يَبۡتَغُونَ فَضۡلࣰ ا مِّن رَّبِّهِمۡ وَرِضۡوَٰنࣰ اۚ وَإِذَا حَلَلۡتُمۡ فَٱصۡطَادُواْۚ وَلَا يَجۡرِمَنَّكُمۡ شَنَـَٔانُ قَوۡمٍ أَن صَدُّوكُمۡ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ أَن تَعۡتَدُواْۘ وَتَعَاوَنُواْ عَلَى ٱلۡبِرِّ وَٱلتَّقۡوَىٰۖ وَلَا تَعَاوَنُواْ عَلَى ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِۚ وَٱتَّقُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "the garlanded",
+      "translations": {
+        "saheeh": "O you who have believed, do not violate the rites of Allah or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of ihram, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Haram lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allah; indeed, Allah is severe in penalty.",
+        "pickthall": "O ye who believe! Profane not Allah's monuments nor the Sacred Month nor the offerings nor the garlands, nor those repairing to the Sacred House, seeking the grace and pleasure of their Lord. But when ye have left the sacred territory, then go hunting (if ye will). And let not your hatred of a folk who (once) stopped your going to the inviolable place of worship seduce you to transgress; but help ye one another unto righteousness and pious duty. Help not one another unto sin and transgression, but keep your duty to Allah. Lo! Allah is severe in punishment.",
+        "khattab": "O believers! Do not violate Allah’s rituals ˹of pilgrimage˺, the sacred months, the sacrificial animals, the ˹offerings decorated with˺ garlands, nor those ˹pilgrims˺ on their way to the Sacred House seeking their Lord’s bounty and pleasure. When pilgrimage has ended, you are allowed to hunt. Do not let the hatred of a people who once barred you from the Sacred Mosque provoke you to transgress. Cooperate with one another in goodness and righteousness, and do not cooperate in sin and transgression. And be mindful of Allah. Surely Allah is severe in punishment",
+        "arberry": "O believers, profane not God's waymarks nor the holy month, neither the offering, nor the necklaces, nor those repairing to the Holy House seeking from their Lord bounty and good pleasure. But when you have quit your pilgrim sanctity, then hunt for game. Let not detestation for a people who barred you from the Holy Mosque move you to commit aggression. Help one another to piety and godfearing; do not help each other to sin and enmity. And fear God; surely God is terrible in retribution."
+      }
+    },
+    {
+      "location": [
+        5,
+        97,
+        11
+      ],
+      "form_arabic": "وَٱلْقَلَٰ^ئِدَ",
+      "lemma": "qala`^}id",
+      "lemma_arabic": "قَلَٰ^ئِد",
+      "pos": "N",
+      "ayah_id": "5:97",
+      "ayah_arabic": "۞جَعَلَ ٱللَّهُ ٱلۡكَعۡبَةَ ٱلۡبَيۡتَ ٱلۡحَرَامَ قِيَٰمࣰ ا لِّلنَّاسِ وَٱلشَّهۡرَ ٱلۡحَرَامَ وَٱلۡهَدۡيَ وَٱلۡقَلَٰٓئِدَۚ ذَٰلِكَ لِتَعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَأَنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "and the garlands",
+      "translations": {
+        "saheeh": "Allah has made the Ka'bah, the Sacred House, standing for the people and [has sanctified] the sacred months and the sacrificial animals and the garlands [by which they are identified]. That is so you may know that Allah knows what is in the heavens and what is in the earth and that Allah is Knowing of all things.",
+        "pickthall": "Allah hath appointed the Ka'bah, the Sacred House, a standard for mankind, and the Sacred Month and the offerings and the garlands. That is so that ye may know that Allah knoweth whatsoever is in the heavens and whatsoever is in the earth, and that Allah is Knower of all things.",
+        "khattab": "Allah has made the Ka’bah—the Sacred House—a sanctuary of well-being for all people, along with the sacred months, the sacrificial animals, and the ˹offerings decorated with˺ garlands. All this so you may know that Allah knows whatever is in the heavens and whatever is on the earth, and that He has ˹perfect˺ knowledge of everything",
+        "arberry": "God has appointed the Kaaba, the Holy House, as an establishment for men, and the holy month; the offering, and the necklaces -- that, that you may know that God knows all that is in the heavens and in the earth; and that God has knowledge of everything."
+      }
+    },
+    {
+      "location": [
+        39,
+        63,
+        2
+      ],
+      "form_arabic": "مَقَالِيدُ",
+      "lemma": "maqaAliyd",
+      "lemma_arabic": "مَقَالِيد",
+      "pos": "N",
+      "ayah_id": "39:63",
+      "ayah_arabic": "لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ أُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "(are the) keys",
+      "translations": {
+        "saheeh": "To Him belong the keys of the heavens and the earth. And they who disbelieve in the verses of Allah - it is those who are the losers.",
+        "pickthall": "His are the keys of the heavens and the earth, and they who disbelieve the revelations of Allah - such are they who are the losers.",
+        "khattab": "To Him belong the keys ˹of the treasuries˺ of the heavens and the earth. As for those who rejected the signs of Allah, it is they who will be the ˹true˺ losers",
+        "arberry": "unto Him belong the keys of the heavens and the earth. And those who disbelieve in the signs of God, those they are the losers."
+      }
+    },
+    {
+      "location": [
+        42,
+        12,
+        2
+      ],
+      "form_arabic": "مَقَالِيدُ",
+      "lemma": "maqaAliyd",
+      "lemma_arabic": "مَقَالِيد",
+      "pos": "N",
+      "ayah_id": "42:12",
+      "ayah_arabic": "لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ إِنَّهُۥ بِكُلِّ شَيۡءٍ عَلِيمࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shura",
+      "literal_gloss": "(the) keys",
+      "translations": {
+        "saheeh": "To Him belong the keys of the heavens and the earth. He extends provision for whom He wills and restricts [it]. Indeed He is, of all things, Knowing.",
+        "pickthall": "His are the keys of the heavens and the earth. He enlargeth providence for whom He will and straiteneth (it for whom He will). Lo! He is Knower of all things.",
+        "khattab": "To Him belong the keys ˹of the treasuries˺ of the heavens and the earth. He gives abundant or limited provisions to whoever He wills. Indeed, He has ˹perfect˺ knowledge of all things",
+        "arberry": "To Him belong the keys of the heavens and the earth. He outspreads and straitens His provision to whom He will; surely He has knowledge of everything."
+      }
+    }
+  ]
+}

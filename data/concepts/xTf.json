@@ -1,0 +1,872 @@
+{
+  "root": "xTf",
+  "root_arabic": "خطف",
+  "stats": {
+    "occurrences": 7,
+    "lemmas": 3,
+    "ayahs": 6,
+    "surahs": 6,
+    "pos_distribution": {
+      "V": 6,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "xaTifa",
+      "lemma_arabic": "خَطِفَ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        2,
+        20,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            20,
+            3
+          ],
+          "form_arabic": "يَخْطَفُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            22,
+            31,
+            13
+          ],
+          "form_arabic": "فَتَخْطَفُهُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            37,
+            10,
+            3
+          ],
+          "form_arabic": "خَطِفَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "yataxaT~afa",
+      "lemma_arabic": "يَتَخَطَّفَ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        8,
+        26,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            8,
+            26,
+            10
+          ],
+          "form_arabic": "يَتَخَطَّفَكُمُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            28,
+            57,
+            6
+          ],
+          "form_arabic": "نُتَخَطَّفْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            29,
+            67,
+            7
+          ],
+          "form_arabic": "وَيُتَخَطَّفُ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "xaTofap",
+      "lemma_arabic": "خَطْفَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        37,
+        10,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            37,
+            10,
+            4
+          ],
+          "form_arabic": "ٱلْخَطْفَةَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "sHq",
+      "root_arabic": "سحق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "xrr",
+      "root_arabic": "خرر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "Tyr",
+      "root_arabic": "طير",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "rwH",
+      "root_arabic": "روح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "hwy",
+      "root_arabic": "هوي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "Hnf",
+      "root_arabic": "حنف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        31
+      ]
+    },
+    {
+      "root": "vqb",
+      "root_arabic": "ثقب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        37,
+        10
+      ]
+    },
+    {
+      "root": "$hb",
+      "root_arabic": "شهب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        37,
+        10
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "m$y",
+      "root_arabic": "مشي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "DwA",
+      "root_arabic": "ضوا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "brq",
+      "root_arabic": "برق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        20
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "Awy",
+      "root_arabic": "اوي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "Ayd",
+      "root_arabic": "ايد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "Tyb",
+      "root_arabic": "طيب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "DEf",
+      "root_arabic": "ضعف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        8,
+        26
+      ]
+    },
+    {
+      "root": "ldn",
+      "root_arabic": "لدن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "jby",
+      "root_arabic": "جبي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "vmr",
+      "root_arabic": "ثمر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "mkn",
+      "root_arabic": "مكن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        57
+      ]
+    },
+    {
+      "root": "Hwl",
+      "root_arabic": "حول",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        29,
+        67
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        29,
+        67
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        29,
+        67
+      ]
+    },
+    {
+      "root": "bTl",
+      "root_arabic": "بطل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        29,
+        67
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        29,
+        67
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        29,
+        67
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 8,
+        "name_english": "Al-Anfaal",
+        "name_arabic": "سُورَةُ الأَنفَالِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 28,
+        "name_english": "Al-Qasas",
+        "name_arabic": "سُورَةُ القَصَصِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 29,
+        "name_english": "Al-Ankaboot",
+        "name_arabic": "سُورَةُ العَنكَبُوتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 3,
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        20,
+        3
+      ],
+      "form_arabic": "يَخْطَفُ",
+      "lemma": "xaTifa",
+      "lemma_arabic": "خَطِفَ",
+      "pos": "V",
+      "ayah_id": "2:20",
+      "ayah_arabic": "يَكَادُ ٱلۡبَرۡقُ يَخۡطَفُ أَبۡصَٰرَهُمۡۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوۡاْ فِيهِ وَإِذَآ أَظۡلَمَ عَلَيۡهِمۡ قَامُواْۚ وَلَوۡ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمۡعِهِمۡ وَأَبۡصَٰرِهِمۡۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "snatches away",
+      "translations": {
+        "saheeh": "The lightning almost snatches away their sight. Every time it lights [the way] for them, they walk therein; but when darkness comes over them, they stand [still]. And if Allah had willed, He could have taken away their hearing and their sight. Indeed, Allah is over all things competent.",
+        "pickthall": "The lightning almost snatcheth away their sight from them. As often as it flasheth forth for them they walk therein, and when it darkeneth against them they stand still. If Allah willed, He could destroy their hearing and their sight. Lo! Allah is able to do all things.",
+        "khattab": "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still. Had Allah willed, He could have taken away their hearing and sight. Surely Allah is Most Capable of everything",
+        "arberry": "the lightning wellnigh snatches away their sight; whensoever it gives them light, they walk in it, and when the darkness is over them, they halt; had God willed, He would have taken away their hearing and their sight. Truly, God is powerful over everything."
+      }
+    },
+    {
+      "location": [
+        8,
+        26,
+        10
+      ],
+      "form_arabic": "يَتَخَطَّفَكُمُ",
+      "lemma": "yataxaT~afa",
+      "lemma_arabic": "يَتَخَطَّفَ",
+      "pos": "V",
+      "ayah_id": "8:26",
+      "ayah_arabic": "وَٱذۡكُرُوٓاْ إِذۡ أَنتُمۡ قَلِيلࣱ مُّسۡتَضۡعَفُونَ فِي ٱلۡأَرۡضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمۡ وَأَيَّدَكُم بِنَصۡرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ لَعَلَّكُمۡ تَشۡكُرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "might do away with you",
+      "translations": {
+        "saheeh": "And remember when you were few and oppressed in the land, fearing that people might abduct you, but He sheltered you, supported you with His victory, and provided you with good things - that you might be grateful.",
+        "pickthall": "And remember, when ye were few and reckoned feeble in the land, and were in fear lest men should extirpate you, how He gave you refuge, and strengthened you with His help, and made provision of good things for you, that haply ye might be thankful.",
+        "khattab": "Remember when you had been vastly outnumbered and oppressed in the land, constantly in fear of attacks by your enemy, then He sheltered you, strengthened you with His help, and provided you with good things so perhaps you would be thankful",
+        "arberry": "And remember when you were few and abased in the land, and were fearful that the people would snatch you away; but He gave you refuge, and confirmed you with His help, and provided you with the good things, that haply you might be thankful."
+      }
+    },
+    {
+      "location": [
+        22,
+        31,
+        13
+      ],
+      "form_arabic": "فَتَخْطَفُهُ",
+      "lemma": "xaTifa",
+      "lemma_arabic": "خَطِفَ",
+      "pos": "V",
+      "ayah_id": "22:31",
+      "ayah_arabic": "حُنَفَآءَ لِلَّهِ غَيۡرَ مُشۡرِكِينَ بِهِۦۚ وَمَن يُشۡرِكۡ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخۡطَفُهُ ٱلطَّيۡرُ أَوۡ تَهۡوِي بِهِ ٱلرِّيحُ فِي مَكَانࣲ سَحِيقࣲ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "and (had) snatched him",
+      "translations": {
+        "saheeh": "Inclining [only] to Allah, not associating [anything] with Him. And he who associates with Allah - it is as though he had fallen from the sky and was snatched by the birds or the wind carried him down into a remote place.",
+        "pickthall": "Turning unto Allah (only), not ascribing partners unto Him; for whoso ascribeth partners unto Allah, it is as if he had fallen from the sky and the birds had snatched him or the wind had blown him to a far-off place.",
+        "khattab": "Be upright ˹in devotion˺ to Allah, associating none with Him ˹in worship˺. For whoever associates ˹others˺ with Allah is like someone who has fallen from the sky and is either snatched away by birds or swept by the wind to a remote place",
+        "arberry": "being men pure of faith unto God, not associating with Him anything; for whosoever associates with God anything, it is as though he has fallen from heaven and the birds snatch him away, or the wind sweeps him headlong into a place far away."
+      }
+    },
+    {
+      "location": [
+        28,
+        57,
+        6
+      ],
+      "form_arabic": "نُتَخَطَّفْ",
+      "lemma": "yataxaT~afa",
+      "lemma_arabic": "يَتَخَطَّفَ",
+      "pos": "V",
+      "ayah_id": "28:57",
+      "ayah_arabic": "وَقَالُوٓاْ إِن نَّتَّبِعِ ٱلۡهُدَىٰ مَعَكَ نُتَخَطَّفۡ مِنۡ أَرۡضِنَآۚ أَوَلَمۡ نُمَكِّن لَّهُمۡ حَرَمًا ءَامِنࣰ ا يُجۡبَىٰٓ إِلَيۡهِ ثَمَرَٰتُ كُلِّ شَيۡءࣲ رِّزۡقࣰ ا مِّن لَّدُنَّا وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qasas",
+      "literal_gloss": "we would be swept",
+      "translations": {
+        "saheeh": "And they say, \"If we were to follow the guidance with you, we would be swept from our land.\" Have we not established for them a safe sanctuary to which are brought the fruits of all things as provision from Us? But most of them do not know.",
+        "pickthall": "And they say: If we were to follow the Guidance with thee we should be torn out of our land. Have We not established for them a sure sanctuary, whereunto the produce of all things is brought (in trade), a provision from Our presence? But most of them know not.",
+        "khattab": "They say ˹to the Prophet˺, “If we were to follow ˹true˺ guidance with you, we would certainly be snatched away from our land.” Have We not established for them a safe haven ˹in Mecca˺ to which fruits of all kinds are brought as a provision from Us? But most of them do not know ˹this favour˺",
+        "arberry": "They say, 'Should we follow the guidance with thee, we shall be snatched from our land.' Have We not established for them a sanctuary secure, to which are collected the fruits of everything, as a provision from Us? But most of them know not."
+      }
+    },
+    {
+      "location": [
+        29,
+        67,
+        7
+      ],
+      "form_arabic": "وَيُتَخَطَّفُ",
+      "lemma": "yataxaT~afa",
+      "lemma_arabic": "يَتَخَطَّفَ",
+      "pos": "V",
+      "ayah_id": "29:67",
+      "ayah_arabic": "أَوَلَمۡ يَرَوۡاْ أَنَّا جَعَلۡنَا حَرَمًا ءَامِنࣰ ا وَيُتَخَطَّفُ ٱلنَّاسُ مِنۡ حَوۡلِهِمۡۚ أَفَبِٱلۡبَٰطِلِ يُؤۡمِنُونَ وَبِنِعۡمَةِ ٱللَّهِ يَكۡفُرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ankaboot",
+      "literal_gloss": "while are being taken away",
+      "translations": {
+        "saheeh": "Have they not seen that We made [Makkah] a safe sanctuary, while people are being taken away all around them? Then in falsehood do they believe, and in the favor of Allah they disbelieve?",
+        "pickthall": "Have they not seen that We have appointed a sanctuary immune (from violence), while mankind are ravaged all around them? Do they then believe in falsehood and disbelieve in the bounty of Allah?",
+        "khattab": "Have they not seen how We have made ˹Mecca˺ a safe haven, whereas people ˹all˺ around them are snatched away? How can they then believe in falsehood and deny Allah’s favours",
+        "arberry": "Have they not seen that We have appointed a sanctuary secure, while all about them the people are snatched away? What, do they believe in vanity, and do they disbelieve in God's blessing?"
+      }
+    },
+    {
+      "location": [
+        37,
+        10,
+        3
+      ],
+      "form_arabic": "خَطِفَ",
+      "lemma": "xaTifa",
+      "lemma_arabic": "خَطِفَ",
+      "pos": "V",
+      "ayah_id": "37:10",
+      "ayah_arabic": "إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابࣱ ثَاقِبࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "snatches",
+      "translations": {
+        "saheeh": "Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness].",
+        "pickthall": "Save him who snatcheth a fragment, and there pursueth him a piercing flame.",
+        "khattab": "But whoever manages to stealthily eavesdrop is ˹instantly˺ pursued by a piercing flare",
+        "arberry": "except such as snatches a fragment, and he is pursued by a piercing flame."
+      }
+    },
+    {
+      "location": [
+        37,
+        10,
+        4
+      ],
+      "form_arabic": "ٱلْخَطْفَةَ",
+      "lemma": "xaTofap",
+      "lemma_arabic": "خَطْفَة",
+      "pos": "N",
+      "ayah_id": "37:10",
+      "ayah_arabic": "إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابࣱ ثَاقِبࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "(by) theft",
+      "translations": {
+        "saheeh": "Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness].",
+        "pickthall": "Save him who snatcheth a fragment, and there pursueth him a piercing flame.",
+        "khattab": "But whoever manages to stealthily eavesdrop is ˹instantly˺ pursued by a piercing flare",
+        "arberry": "except such as snatches a fragment, and he is pursued by a piercing flame."
+      }
+    }
+  ]
+}

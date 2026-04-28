@@ -1,0 +1,1063 @@
+{
+  "metadata": {
+    "teleport_roots": [
+      "Awy",
+      "Erj",
+      "HDr",
+      "Hml",
+      "Trf",
+      "Zhr",
+      "bEv",
+      "gyb",
+      "lbv",
+      "lmH",
+      "n$r",
+      "nb*",
+      "rfE",
+      "sry",
+      "sxr",
+      "wfy"
+    ],
+    "teleport_roots_total": 16,
+    "narrative_passage_specs": [
+      "17:1",
+      "27:38-40",
+      "27:42",
+      "27:20-28",
+      "19:16-26",
+      "19:57",
+      "3:55",
+      "4:158",
+      "18:9-26",
+      "2:259",
+      "2:260",
+      "34:12-13",
+      "32:5",
+      "70:3-4",
+      "16:77",
+      "54:50",
+      "11:69-83",
+      "19:17",
+      "51:24-37",
+      "72:8-9",
+      "37:8-10",
+      "67:5",
+      "15:18",
+      "32:11",
+      "39:42",
+      "21:91",
+      "66:12",
+      "3:37"
+    ],
+    "ayahs_total": 548,
+    "root_bearing_total": 480,
+    "narrative_only_total": 68,
+    "divergence_metric": "combined (length_variance + jaccard + lexical_disagreement)"
+  },
+  "top_50_high_divergence": [
+    {
+      "citation": "77:3",
+      "roots": [
+        "n$r"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.8387,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "37:12",
+      "roots": [
+        "sxr"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.8223,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "56:3",
+      "roots": [
+        "rfE"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.8216,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "52:3",
+      "roots": [
+        "n$r"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.8132,
+      "outlier_translator": "khattab",
+      "regime": "high"
+    },
+    {
+      "citation": "94:4",
+      "roots": [
+        "rfE"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.8074,
+      "outlier_translator": "arberry",
+      "regime": "high"
+    },
+    {
+      "citation": "88:13",
+      "roots": [
+        "rfE"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.8041,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "3:76",
+      "roots": [
+        "wfy"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.8001,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "51:2",
+      "roots": [
+        "Hml"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7872,
+      "outlier_translator": "saheeh",
+      "regime": "high"
+    },
+    {
+      "citation": "37:9",
+      "roots": [],
+      "narrative_passage": "Jinn eavesdropping, stoned by stars",
+      "category": "miracle",
+      "divergence_score": 0.7863,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "11:75",
+      "roots": [],
+      "narrative_passage": "Angels visiting Lot",
+      "category": "miracle",
+      "divergence_score": 0.7862,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "14:43",
+      "roots": [
+        "Trf"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7828,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "36:75",
+      "roots": [
+        "HDr"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7778,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "70:13",
+      "roots": [
+        "Awy"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7734,
+      "outlier_translator": "khattab",
+      "regime": "high"
+    },
+    {
+      "citation": "20:103",
+      "roots": [
+        "lbv"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7701,
+      "outlier_translator": "arberry",
+      "regime": "high"
+    },
+    {
+      "citation": "18:97",
+      "roots": [
+        "Zhr"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7683,
+      "outlier_translator": "khattab",
+      "regime": "high"
+    },
+    {
+      "citation": "74:52",
+      "roots": [
+        "n$r"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7671,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "56:34",
+      "roots": [
+        "rfE"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7663,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "37:10",
+      "roots": [],
+      "narrative_passage": "Jinn eavesdropping, stoned by stars",
+      "category": "miracle",
+      "divergence_score": 0.7603,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "8:58",
+      "roots": [
+        "nb*"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.7581,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "3:162",
+      "roots": [
+        "Awy"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.7529,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "5:1",
+      "roots": [
+        "wfy"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.749,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "55:56",
+      "roots": [
+        "Trf"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7474,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "104:4",
+      "roots": [
+        "nb*"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7452,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "82:16",
+      "roots": [
+        "gyb"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7441,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "79:39",
+      "roots": [
+        "Awy"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7436,
+      "outlier_translator": "arberry",
+      "regime": "mid"
+    },
+    {
+      "citation": "38:63",
+      "roots": [
+        "sxr"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7417,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "15:18",
+      "roots": [],
+      "narrative_passage": "Eavesdropper followed by clear flame",
+      "category": "miracle",
+      "divergence_score": 0.7403,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "79:28",
+      "roots": [
+        "rfE"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7388,
+      "outlier_translator": "khattab",
+      "regime": "mid"
+    },
+    {
+      "citation": "3:197",
+      "roots": [
+        "Awy"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.7377,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "8:16",
+      "roots": [
+        "Awy"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.7354,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "79:41",
+      "roots": [
+        "Awy"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7338,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "11:76",
+      "roots": [],
+      "narrative_passage": "Angels visiting Lot",
+      "category": "miracle",
+      "divergence_score": 0.7294,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "3:127",
+      "roots": [
+        "Trf"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.7286,
+      "outlier_translator": "khattab",
+      "regime": "mid"
+    },
+    {
+      "citation": "17:34",
+      "roots": [
+        "wfy"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.727,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "44:23",
+      "roots": [
+        "sry"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7229,
+      "outlier_translator": "pickthall",
+      "regime": "mid"
+    },
+    {
+      "citation": "12:72",
+      "roots": [
+        "Hml"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7223,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "6:120",
+      "roots": [
+        "Zhr"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7211,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "35:10",
+      "roots": [
+        "rfE"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7207,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "37:48",
+      "roots": [
+        "Trf"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7207,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "51:31",
+      "roots": [],
+      "narrative_passage": "Angels visiting Abraham",
+      "category": "miracle",
+      "divergence_score": 0.7204,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "4:112",
+      "roots": [
+        "Hml"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.7145,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "50:33",
+      "roots": [
+        "gyb"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.714,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "9:79",
+      "roots": [
+        "sxr"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.7134,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "68:47",
+      "roots": [
+        "gyb"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7129,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "9:4",
+      "roots": [
+        "Zhr"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.7129,
+      "outlier_translator": "arberry",
+      "regime": "mid"
+    },
+    {
+      "citation": "24:36",
+      "roots": [
+        "rfE"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.7116,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "33:14",
+      "roots": [
+        "lbv"
+      ],
+      "narrative_passage": null,
+      "category": "legal",
+      "divergence_score": 0.7115,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "30:55",
+      "roots": [
+        "lbv"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7112,
+      "outlier_translator": "arberry",
+      "regime": "mid"
+    },
+    {
+      "citation": "37:57",
+      "roots": [
+        "HDr"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.711,
+      "outlier_translator": "arberry",
+      "regime": "mid"
+    },
+    {
+      "citation": "13:17",
+      "roots": [
+        "Hml"
+      ],
+      "narrative_passage": null,
+      "category": "other",
+      "divergence_score": 0.7096,
+      "outlier_translator": null,
+      "regime": "mid"
+    }
+  ],
+  "per_root_divergence_avg": {
+    "Trf": {
+      "avg_divergence": 0.6775,
+      "ayah_count": 11
+    },
+    "rfE": {
+      "avg_divergence": 0.6564,
+      "ayah_count": 29
+    },
+    "HDr": {
+      "avg_divergence": 0.6451,
+      "ayah_count": 25
+    },
+    "Awy": {
+      "avg_divergence": 0.6404,
+      "ayah_count": 36
+    },
+    "n$r": {
+      "avg_divergence": 0.6252,
+      "ayah_count": 20
+    },
+    "wfy": {
+      "avg_divergence": 0.6232,
+      "ayah_count": 64
+    },
+    "Zhr": {
+      "avg_divergence": 0.6188,
+      "ayah_count": 57
+    },
+    "Hml": {
+      "avg_divergence": 0.6174,
+      "ayah_count": 50
+    },
+    "nb*": {
+      "avg_divergence": 0.6152,
+      "ayah_count": 12
+    },
+    "sxr": {
+      "avg_divergence": 0.6121,
+      "ayah_count": 35
+    },
+    "gyb": {
+      "avg_divergence": 0.6095,
+      "ayah_count": 59
+    },
+    "lbv": {
+      "avg_divergence": 0.6087,
+      "ayah_count": 27
+    },
+    "sry": {
+      "avg_divergence": 0.6055,
+      "ayah_count": 8
+    },
+    "bEv": {
+      "avg_divergence": 0.5954,
+      "ayah_count": 64
+    },
+    "lmH": {
+      "avg_divergence": 0.5924,
+      "ayah_count": 2
+    },
+    "Erj": {
+      "avg_divergence": 0.576,
+      "ayah_count": 9
+    }
+  },
+  "per_translator_outlier_rate_on_teleportation": {
+    "khattab": 0.1022,
+    "arberry": 0.0985,
+    "pickthall": 0.0785,
+    "saheeh": 0.0109
+  },
+  "narrative_passage_divergence": [
+    {
+      "spec": "15:18",
+      "label": "Eavesdropper followed by clear flame",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.7403,
+      "max_divergence_citation": "15:18",
+      "max_divergence_score": 0.7403,
+      "max_outlier": null
+    },
+    {
+      "spec": "3:37",
+      "label": "Provisions appearing in Maryam's mihrab",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.7041,
+      "max_divergence_citation": "3:37",
+      "max_divergence_score": 0.7041,
+      "max_outlier": "arberry"
+    },
+    {
+      "spec": "72:8-9",
+      "label": "Jinn flight through the heavens",
+      "category": "miracle",
+      "ayah_count": 2,
+      "avg_divergence": 0.6711,
+      "max_divergence_citation": "72:8",
+      "max_divergence_score": 0.6816,
+      "max_outlier": "khattab"
+    },
+    {
+      "spec": "37:8-10",
+      "label": "Jinn eavesdropping, stoned by stars",
+      "category": "miracle",
+      "ayah_count": 3,
+      "avg_divergence": 0.6688,
+      "max_divergence_citation": "37:9",
+      "max_divergence_score": 0.7863,
+      "max_outlier": null
+    },
+    {
+      "spec": "19:17",
+      "label": "Angel coming to Maryam",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.6625,
+      "max_divergence_citation": "19:17",
+      "max_divergence_score": 0.6625,
+      "max_outlier": null
+    },
+    {
+      "spec": "4:158",
+      "label": "Jesus raised — bal rafa'ahu llahu",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.6582,
+      "max_divergence_citation": "4:158",
+      "max_divergence_score": 0.6582,
+      "max_outlier": "pickthall"
+    },
+    {
+      "spec": "3:55",
+      "label": "Jesus's tawaffa / raising",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.6483,
+      "max_divergence_citation": "3:55",
+      "max_divergence_score": 0.6483,
+      "max_outlier": "arberry"
+    },
+    {
+      "spec": "39:42",
+      "label": "God taking souls in death and sleep",
+      "category": "eschatological",
+      "ayah_count": 1,
+      "avg_divergence": 0.6411,
+      "max_divergence_citation": "39:42",
+      "max_divergence_score": 0.6411,
+      "max_outlier": null
+    },
+    {
+      "spec": "21:91",
+      "label": "Maryam — We breathed into her",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.6411,
+      "max_divergence_citation": "21:91",
+      "max_divergence_score": 0.6411,
+      "max_outlier": null
+    },
+    {
+      "spec": "34:12-13",
+      "label": "Solomon's wind (month-in-a-morning)",
+      "category": "miracle",
+      "ayah_count": 2,
+      "avg_divergence": 0.6237,
+      "max_divergence_citation": "34:13",
+      "max_divergence_score": 0.6816,
+      "max_outlier": "arberry"
+    },
+    {
+      "spec": "19:57",
+      "label": "Idris raised to a lofty place",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.6178,
+      "max_divergence_citation": "19:57",
+      "max_divergence_score": 0.6178,
+      "max_outlier": "khattab"
+    },
+    {
+      "spec": "66:12",
+      "label": "Maryam — guarded chastity",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.6174,
+      "max_divergence_citation": "66:12",
+      "max_divergence_score": 0.6174,
+      "max_outlier": null
+    },
+    {
+      "spec": "51:24-37",
+      "label": "Angels visiting Abraham",
+      "category": "miracle",
+      "ayah_count": 14,
+      "avg_divergence": 0.6112,
+      "max_divergence_citation": "51:31",
+      "max_divergence_score": 0.7204,
+      "max_outlier": null
+    },
+    {
+      "spec": "11:69-83",
+      "label": "Angels visiting Lot",
+      "category": "miracle",
+      "ayah_count": 15,
+      "avg_divergence": 0.6103,
+      "max_divergence_citation": "11:75",
+      "max_divergence_score": 0.7862,
+      "max_outlier": null
+    },
+    {
+      "spec": "16:77",
+      "label": "Hour as blink-of-eye",
+      "category": "eschatological",
+      "ayah_count": 1,
+      "avg_divergence": 0.6098,
+      "max_divergence_citation": "16:77",
+      "max_divergence_score": 0.6098,
+      "max_outlier": "khattab"
+    },
+    {
+      "spec": "67:5",
+      "label": "Lamps as missiles for devils",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.6092,
+      "max_divergence_citation": "67:5",
+      "max_divergence_score": 0.6092,
+      "max_outlier": null
+    },
+    {
+      "spec": "32:5",
+      "label": "Angels ascending — 1000-year day",
+      "category": "eschatological",
+      "ayah_count": 1,
+      "avg_divergence": 0.6021,
+      "max_divergence_citation": "32:5",
+      "max_divergence_score": 0.6021,
+      "max_outlier": null
+    },
+    {
+      "spec": "18:9-26",
+      "label": "Cave Sleepers (full passage)",
+      "category": "miracle",
+      "ayah_count": 18,
+      "avg_divergence": 0.6006,
+      "max_divergence_citation": "18:15",
+      "max_divergence_score": 0.6763,
+      "max_outlier": null
+    },
+    {
+      "spec": "17:1",
+      "label": "Night Journey (al-Isra')",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.5906,
+      "max_divergence_citation": "17:1",
+      "max_divergence_score": 0.5906,
+      "max_outlier": "pickthall"
+    },
+    {
+      "spec": "27:38-40",
+      "label": "Solomon's throne — before your gaze returns",
+      "category": "miracle",
+      "ayah_count": 3,
+      "avg_divergence": 0.5884,
+      "max_divergence_citation": "27:39",
+      "max_divergence_score": 0.657,
+      "max_outlier": null
+    },
+    {
+      "spec": "32:11",
+      "label": "Angel of death taking souls",
+      "category": "eschatological",
+      "ayah_count": 1,
+      "avg_divergence": 0.5802,
+      "max_divergence_citation": "32:11",
+      "max_divergence_score": 0.5802,
+      "max_outlier": null
+    },
+    {
+      "spec": "54:50",
+      "label": "Divine command as blink-of-eye",
+      "category": "eschatological",
+      "ayah_count": 1,
+      "avg_divergence": 0.575,
+      "max_divergence_citation": "54:50",
+      "max_divergence_score": 0.575,
+      "max_outlier": null
+    },
+    {
+      "spec": "2:259",
+      "label": "The man revived after 100 years",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.5721,
+      "max_divergence_citation": "2:259",
+      "max_divergence_score": 0.5721,
+      "max_outlier": null
+    },
+    {
+      "spec": "70:3-4",
+      "label": "Angels — 50000-year day",
+      "category": "eschatological",
+      "ayah_count": 2,
+      "avg_divergence": 0.5701,
+      "max_divergence_citation": "70:3",
+      "max_divergence_score": 0.6897,
+      "max_outlier": null
+    },
+    {
+      "spec": "27:20-28",
+      "label": "Hoopoe (hudhud) intelligence-mission",
+      "category": "miracle",
+      "ayah_count": 9,
+      "avg_divergence": 0.5658,
+      "max_divergence_citation": "27:21",
+      "max_divergence_score": 0.6638,
+      "max_outlier": null
+    },
+    {
+      "spec": "27:42",
+      "label": "Throne brought-present (muhdar)",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.5657,
+      "max_divergence_citation": "27:42",
+      "max_divergence_score": 0.5657,
+      "max_outlier": null
+    },
+    {
+      "spec": "19:16-26",
+      "label": "Maryam's withdrawal, palm tree, dates",
+      "category": "miracle",
+      "ayah_count": 10,
+      "avg_divergence": 0.5611,
+      "max_divergence_citation": "19:18",
+      "max_divergence_score": 0.7005,
+      "max_outlier": "arberry"
+    },
+    {
+      "spec": "2:260",
+      "label": "Abraham's four birds",
+      "category": "miracle",
+      "ayah_count": 1,
+      "avg_divergence": 0.5603,
+      "max_divergence_citation": "2:260",
+      "max_divergence_score": 0.5603,
+      "max_outlier": null
+    }
+  ],
+  "surah_concentration": {
+    "77": {
+      "count": 1,
+      "avg_divergence": 0.8387
+    },
+    "74": {
+      "count": 1,
+      "avg_divergence": 0.7671
+    },
+    "88": {
+      "count": 2,
+      "avg_divergence": 0.7492
+    },
+    "104": {
+      "count": 1,
+      "avg_divergence": 0.7452
+    },
+    "82": {
+      "count": 1,
+      "avg_divergence": 0.7441
+    },
+    "56": {
+      "count": 3,
+      "avg_divergence": 0.7291
+    },
+    "52": {
+      "count": 3,
+      "avg_divergence": 0.7233
+    },
+    "55": {
+      "count": 2,
+      "avg_divergence": 0.7189
+    },
+    "50": {
+      "count": 1,
+      "avg_divergence": 0.714
+    },
+    "79": {
+      "count": 4,
+      "avg_divergence": 0.7101
+    },
+    "68": {
+      "count": 2,
+      "avg_divergence": 0.6958
+    },
+    "91": {
+      "count": 1,
+      "avg_divergence": 0.6906
+    },
+    "60": {
+      "count": 1,
+      "avg_divergence": 0.689
+    },
+    "94": {
+      "count": 2,
+      "avg_divergence": 0.6868
+    },
+    "36": {
+      "count": 6,
+      "avg_divergence": 0.6766
+    },
+    "37": {
+      "count": 12,
+      "avg_divergence": 0.6705
+    },
+    "65": {
+      "count": 2,
+      "avg_divergence": 0.6633
+    },
+    "38": {
+      "count": 5,
+      "avg_divergence": 0.6625
+    },
+    "3": {
+      "count": 17,
+      "avg_divergence": 0.6592
+    },
+    "8": {
+      "count": 7,
+      "avg_divergence": 0.6588
+    },
+    "4": {
+      "count": 12,
+      "avg_divergence": 0.6577
+    },
+    "46": {
+      "count": 4,
+      "avg_divergence": 0.6549
+    },
+    "78": {
+      "count": 1,
+      "avg_divergence": 0.6547
+    },
+    "13": {
+      "count": 9,
+      "avg_divergence": 0.6528
+    },
+    "20": {
+      "count": 10,
+      "avg_divergence": 0.6467
+    }
+  },
+  "miracle_vs_ritual": {
+    "miracle_avg": 0.6042,
+    "miracle_count": 89,
+    "eschatological_avg": 0.5926,
+    "eschatological_count": 7,
+    "legal_avg": 0.6322,
+    "legal_count": 113,
+    "other_avg": 0.6196,
+    "other_count": 339
+  }
+}

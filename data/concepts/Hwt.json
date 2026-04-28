@@ -1,0 +1,564 @@
+{
+  "root": "Hwt",
+  "root_arabic": "حوت",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 1,
+    "ayahs": 5,
+    "surahs": 4,
+    "pos_distribution": {
+      "N": 5
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "Huwt",
+      "lemma_arabic": "حُوت",
+      "count": 5,
+      "pos_distribution": {
+        "N": 5
+      },
+      "first_occurrence": [
+        7,
+        163,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            7,
+            163,
+            14
+          ],
+          "form_arabic": "حِيتَانُهُمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            18,
+            61,
+            6
+          ],
+          "form_arabic": "حُوتَهُمَا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            18,
+            63,
+            9
+          ],
+          "form_arabic": "ٱلْحُوتَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            37,
+            142,
+            2
+          ],
+          "form_arabic": "ٱلْحُوتُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            68,
+            48,
+            7
+          ],
+          "form_arabic": "ٱلْحُوتِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "bHr",
+      "root_arabic": "بحر",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        18,
+        61
+      ]
+    },
+    {
+      "root": "nsy",
+      "root_arabic": "نسي",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        18,
+        61
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        18,
+        61
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        61
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        61
+      ]
+    },
+    {
+      "root": "srb",
+      "root_arabic": "سرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        61
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        61
+      ]
+    },
+    {
+      "root": "kZm",
+      "root_arabic": "كظم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        68,
+        48
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        68,
+        48
+      ]
+    },
+    {
+      "root": "SHb",
+      "root_arabic": "صحب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        68,
+        48
+      ]
+    },
+    {
+      "root": "ndw",
+      "root_arabic": "ندو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        68,
+        48
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        68,
+        48
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        68,
+        48
+      ]
+    },
+    {
+      "root": "HDr",
+      "root_arabic": "حضر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "qry",
+      "root_arabic": "قري",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "Edw",
+      "root_arabic": "عدو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "sbt",
+      "root_arabic": "سبت",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "$rE",
+      "root_arabic": "شرع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "blw",
+      "root_arabic": "بلو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "fsq",
+      "root_arabic": "فسق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        7,
+        163
+      ]
+    },
+    {
+      "root": "$Tn",
+      "root_arabic": "شطن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        63
+      ]
+    },
+    {
+      "root": "Awy",
+      "root_arabic": "اوي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        63
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        63
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        63
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        63
+      ]
+    },
+    {
+      "root": "Ejb",
+      "root_arabic": "عجب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        63
+      ]
+    },
+    {
+      "root": "Sxr",
+      "root_arabic": "صخر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        63
+      ]
+    },
+    {
+      "root": "lwm",
+      "root_arabic": "لوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        37,
+        142
+      ]
+    },
+    {
+      "root": "lqm",
+      "root_arabic": "لقم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        37,
+        142
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 68,
+        "name_english": "Al-Qalam",
+        "name_arabic": "سُورَةُ القَلَمِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 5
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        7,
+        163,
+        14
+      ],
+      "form_arabic": "حِيتَانُهُمْ",
+      "lemma": "Huwt",
+      "lemma_arabic": "حُوت",
+      "pos": "N",
+      "ayah_id": "7:163",
+      "ayah_arabic": "وَسۡـَٔلۡهُمۡ عَنِ ٱلۡقَرۡيَةِ ٱلَّتِي كَانَتۡ حَاضِرَةَ ٱلۡبَحۡرِ إِذۡ يَعۡدُونَ فِي ٱلسَّبۡتِ إِذۡ تَأۡتِيهِمۡ حِيتَانُهُمۡ يَوۡمَ سَبۡتِهِمۡ شُرَّعࣰ ا وَيَوۡمَ لَا يَسۡبِتُونَ لَا تَأۡتِيهِمۡۚ كَذَٰلِكَ نَبۡلُوهُم بِمَا كَانُواْ يَفۡسُقُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "their fish",
+      "translations": {
+        "saheeh": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient.",
+        "pickthall": "Ask them (O Muhammad) of the township that was by the sea, how they did break the Sabbath, how their big fish came unto them visibly upon their Sabbath day and on a day when they did not keep Sabbath came they not unto them. Thus did We try them for that they were evil-livers.",
+        "khattab": "Ask them ˹O Prophet˺ about ˹the people of˺ the town which was by the sea, who broke the Sabbath. During the Sabbath, ˹abundant˺ fish would come to them clearly visible, but on other days the fish were never seen. In this way We tested them for their rebelliousness",
+        "arberry": "And question them concerning the township which was bordering the sea, when they transgressed the Sabbath, when their fish came to them on the day of their Sabbath, swimming shorewards, but on the day they kept not Sabbath, they came not unto them. Even so We were trying them for their ungodliness."
+      }
+    },
+    {
+      "location": [
+        18,
+        61,
+        6
+      ],
+      "form_arabic": "حُوتَهُمَا",
+      "lemma": "Huwt",
+      "lemma_arabic": "حُوت",
+      "pos": "N",
+      "ayah_id": "18:61",
+      "ayah_arabic": "فَلَمَّا بَلَغَا مَجۡمَعَ بَيۡنِهِمَا نَسِيَا حُوتَهُمَا فَٱتَّخَذَ سَبِيلَهُۥ فِي ٱلۡبَحۡرِ سَرَبࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "their fish",
+      "translations": {
+        "saheeh": "But when they reached the junction between them, they forgot their fish, and it took its course into the sea, slipping away.",
+        "pickthall": "And when they reached the point where the two met, they forgot their fish, and it took its way into the waters, being free.",
+        "khattab": "But when they ˹finally˺ reached the point where the seas met, they forgot their ˹salted˺ fish, and it made its way into the sea, slipping away ˹wondrously˺",
+        "arberry": "Then, when they reached their meeting, they forgot their fish, and it took its way into the sea, burrowing."
+      }
+    },
+    {
+      "location": [
+        18,
+        63,
+        9
+      ],
+      "form_arabic": "ٱلْحُوتَ",
+      "lemma": "Huwt",
+      "lemma_arabic": "حُوت",
+      "pos": "N",
+      "ayah_id": "18:63",
+      "ayah_arabic": "قَالَ أَرَءَيۡتَ إِذۡ أَوَيۡنَآ إِلَى ٱلصَّخۡرَةِ فَإِنِّي نَسِيتُ ٱلۡحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيۡطَٰنُ أَنۡ أَذۡكُرَهُۥۚ وَٱتَّخَذَ سَبِيلَهُۥ فِي ٱلۡبَحۡرِ عَجَبࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "the fish",
+      "translations": {
+        "saheeh": "He said, \"Did you see when we retired to the rock? Indeed, I forgot [there] the fish. And none made me forget it except Satan - that I should mention it. And it took its course into the sea amazingly\".",
+        "pickthall": "He said: Didst thou see, when we took refuge on the rock, and I forgot the fish - and none but Satan caused me to forget to mention it - it took its way into the waters by a marvel.",
+        "khattab": "He replied, “Do you remember when we rested by the rock? ˹That is when˺ I forgot the fish. None made me forget to mention this except Satan. And the fish made its way into the sea miraculously.”",
+        "arberry": "He said, 'What thinkest thou? When we took refuge in the rock, then I forgot the fish-and it was Satan himself that made me forget it so that I should not remember it -- and so it took its way into the sea in a manner marvellous.'"
+      }
+    },
+    {
+      "location": [
+        37,
+        142,
+        2
+      ],
+      "form_arabic": "ٱلْحُوتُ",
+      "lemma": "Huwt",
+      "lemma_arabic": "حُوت",
+      "pos": "N",
+      "ayah_id": "37:142",
+      "ayah_arabic": "فَٱلۡتَقَمَهُ ٱلۡحُوتُ وَهُوَ مُلِيمࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "the fish",
+      "translations": {
+        "saheeh": "Then the fish swallowed him, while he was blameworthy.",
+        "pickthall": "And the fish swallowed him while he was blameworthy;",
+        "khattab": "Then the whale engulfed him while he was blameworthy",
+        "arberry": "then the whale swallowed him down, and he blameworthy."
+      }
+    },
+    {
+      "location": [
+        68,
+        48,
+        7
+      ],
+      "form_arabic": "ٱلْحُوتِ",
+      "lemma": "Huwt",
+      "lemma_arabic": "حُوت",
+      "pos": "N",
+      "ayah_id": "68:48",
+      "ayah_arabic": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qalam",
+      "literal_gloss": "(of) the fish",
+      "translations": {
+        "saheeh": "Then be patient for the decision of your Lord, [O Muhammad], and be not like the companion of the fish when he called out while he was distressed.",
+        "pickthall": "But wait thou for thy Lord's decree, and be not like him of the fish, who cried out in despair.",
+        "khattab": "So be patient with your Lord’s decree, and do not be like ˹Jonah,˺ the Man of the Whale, who cried out ˹to Allah˺, in total distress",
+        "arberry": "So be thou patient under the judgment of thy Lord, and be not as the Man of the Fish, when he called, choking inwardly."
+      }
+    }
+  ]
+}

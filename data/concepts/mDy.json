@@ -1,0 +1,578 @@
+{
+  "root": "mDy",
+  "root_arabic": "مضي",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 2,
+    "ayahs": 5,
+    "surahs": 5,
+    "pos_distribution": {
+      "V": 4,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "maDaY`",
+      "lemma_arabic": "مَضَىٰ",
+      "count": 4,
+      "pos_distribution": {
+        "V": 4
+      },
+      "first_occurrence": [
+        8,
+        38,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            8,
+            38,
+            14
+          ],
+          "form_arabic": "مَضَتْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            15,
+            65,
+            12
+          ],
+          "form_arabic": "وَٱمْضُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            18,
+            60,
+            12
+          ],
+          "form_arabic": "أَمْضِىَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            43,
+            8,
+            5
+          ],
+          "form_arabic": "وَمَضَىٰ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "muDiy~",
+      "lemma_arabic": "مُضِيّ",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        36,
+        67,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            36,
+            67,
+            8
+          ],
+          "form_arabic": "مُضِيًّا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        8,
+        38
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        8,
+        38
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        43,
+        8
+      ]
+    },
+    {
+      "root": "hlk",
+      "root_arabic": "هلك",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        43,
+        8
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        43,
+        8
+      ]
+    },
+    {
+      "root": "bT$",
+      "root_arabic": "بطش",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        43,
+        8
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "sry",
+      "root_arabic": "سري",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "Hyv",
+      "root_arabic": "حيث",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "qTE",
+      "root_arabic": "قطع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "lft",
+      "root_arabic": "لفت",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "dbr",
+      "root_arabic": "دبر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        8,
+        38
+      ]
+    },
+    {
+      "root": "nhy",
+      "root_arabic": "نهي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        8,
+        38
+      ]
+    },
+    {
+      "root": "snn",
+      "root_arabic": "سنن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        8,
+        38
+      ]
+    },
+    {
+      "root": "slf",
+      "root_arabic": "سلف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        8,
+        38
+      ]
+    },
+    {
+      "root": "Ewd",
+      "root_arabic": "عود",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        8,
+        38
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        8,
+        38
+      ]
+    },
+    {
+      "root": "msx",
+      "root_arabic": "مسخ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        67
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        67
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        67
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        67
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        67
+      ]
+    },
+    {
+      "root": "fty",
+      "root_arabic": "فتي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        60
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        60
+      ]
+    },
+    {
+      "root": "brH",
+      "root_arabic": "برح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        60
+      ]
+    },
+    {
+      "root": "Hqb",
+      "root_arabic": "حقب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        60
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        60
+      ]
+    },
+    {
+      "root": "bHr",
+      "root_arabic": "بحر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        60
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 8,
+        "name_english": "Al-Anfaal",
+        "name_arabic": "سُورَةُ الأَنفَالِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 15,
+        "name_english": "Al-Hijr",
+        "name_arabic": "سُورَةُ الحِجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 43,
+        "name_english": "Az-Zukhruf",
+        "name_arabic": "سُورَةُ الزُّخۡرُفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        8,
+        38,
+        14
+      ],
+      "form_arabic": "مَضَتْ",
+      "lemma": "maDaY`",
+      "lemma_arabic": "مَضَىٰ",
+      "pos": "V",
+      "ayah_id": "8:38",
+      "ayah_arabic": "قُل لِّلَّذِينَ كَفَرُوٓاْ إِن يَنتَهُواْ يُغۡفَرۡ لَهُم مَّا قَدۡ سَلَفَ وَإِن يَعُودُواْ فَقَدۡ مَضَتۡ سُنَّتُ ٱلۡأَوَّلِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "preceded",
+      "translations": {
+        "saheeh": "Say to those who have disbelieved [that] if they cease, what has previously occurred will be forgiven for them. But if they return [to hostility] - then the precedent of the former [rebellious] peoples has already taken place.",
+        "pickthall": "Tell those who disbelieve that if they cease (from persecution of believers) that which is past will be forgiven them; but if they return (thereto) then the example of the men of old hath already gone (before them, for a warning).",
+        "khattab": "Tell the disbelievers that if they desist, their past will be forgiven. But if they persist, then they have an example in those destroyed before them",
+        "arberry": "Say to the unbelievers, if they give over He will forgive them what is past; but if they return, the wont of the ancients is already gone!"
+      }
+    },
+    {
+      "location": [
+        15,
+        65,
+        12
+      ],
+      "form_arabic": "وَٱمْضُوا@",
+      "lemma": "maDaY`",
+      "lemma_arabic": "مَضَىٰ",
+      "pos": "V",
+      "ayah_id": "15:65",
+      "ayah_arabic": "فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعࣲ مِّنَ ٱلَّيۡلِ وَٱتَّبِعۡ أَدۡبَٰرَهُمۡ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدࣱ وَٱمۡضُواْ حَيۡثُ تُؤۡمَرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Hijr",
+      "literal_gloss": "and go on",
+      "translations": {
+        "saheeh": "So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded.\"",
+        "pickthall": "So travel with thy household in a portion of the night, and follow thou their backs. Let none of you turn round, but go whither ye are commanded.",
+        "khattab": "So travel with your family in the dark of night, and follow ˹closely˺ behind them. Do not let any of you look back, and go where you are commanded.”",
+        "arberry": "So set forth, thou with thy family, in a watch of the night, and follow after the backs of them, and let not any one of you turn round; and depart unto the place you are commanded.'"
+      }
+    },
+    {
+      "location": [
+        18,
+        60,
+        12
+      ],
+      "form_arabic": "أَمْضِىَ",
+      "lemma": "maDaY`",
+      "lemma_arabic": "مَضَىٰ",
+      "pos": "V",
+      "ayah_id": "18:60",
+      "ayah_arabic": "وَإِذۡ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبۡرَحُ حَتَّىٰٓ أَبۡلُغَ مَجۡمَعَ ٱلۡبَحۡرَيۡنِ أَوۡ أَمۡضِيَ حُقُبࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "I continue",
+      "translations": {
+        "saheeh": "And [mention] when Moses said to his servant, \"I will not cease [traveling] until I reach the junction of the two seas or continue for a long period.\"",
+        "pickthall": "And when Moses said unto his servant: I will not give up until I reach the point where the two rivers meet, though I march on for ages.",
+        "khattab": "And ˹remember˺ when Moses said to his young assistant, “I will never give up until I reach the junction of the two seas, even if I travel for ages.”",
+        "arberry": "And when Moses said to his page, 'I will not give up until I reach the meeting of the two seas, though I go on for many years."
+      }
+    },
+    {
+      "location": [
+        36,
+        67,
+        8
+      ],
+      "form_arabic": "مُضِيًّا",
+      "lemma": "muDiy~",
+      "lemma_arabic": "مُضِيّ",
+      "pos": "N",
+      "ayah_id": "36:67",
+      "ayah_arabic": "وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ مُضِيࣰّ ا وَلَا يَرۡجِعُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "to proceed",
+      "translations": {
+        "saheeh": "And if We willed, We could have deformed them, [paralyzing them] in their places so they would not be able to proceed, nor could they return.",
+        "pickthall": "And had We willed, We verily could have fixed them in their place, making them powerless to go forward or turn back.",
+        "khattab": "And had We willed, We could have transfigured them on the spot, so they could neither progress forward nor turn back",
+        "arberry": "Did We will, We would have changed them where they were, then they could not go on, nor could they return."
+      }
+    },
+    {
+      "location": [
+        43,
+        8,
+        5
+      ],
+      "form_arabic": "وَمَضَىٰ",
+      "lemma": "maDaY`",
+      "lemma_arabic": "مَضَىٰ",
+      "pos": "V",
+      "ayah_id": "43:8",
+      "ayah_arabic": "فَأَهۡلَكۡنَآ أَشَدَّ مِنۡهُم بَطۡشࣰ ا وَمَضَىٰ مَثَلُ ٱلۡأَوَّلِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zukhruf",
+      "literal_gloss": "and has passed",
+      "translations": {
+        "saheeh": "And We destroyed greater than them in [striking] power, and the example of the former peoples has preceded.",
+        "pickthall": "Then We destroyed men mightier than these in prowess; and the example of the men of old hath gone (before them).",
+        "khattab": "So We destroyed those who were far mightier than these ˹Meccans˺. The examples of ˹their˺ predecessors have ˹already˺ been related",
+        "arberry": "so We destroyed men stronger in valour than they, and the example of the ancients passed away."
+      }
+    }
+  ]
+}

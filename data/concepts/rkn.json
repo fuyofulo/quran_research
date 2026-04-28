@@ -1,0 +1,372 @@
+{
+  "root": "rkn",
+  "root_arabic": "ركن",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 4,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 2,
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "rukon",
+      "lemma_arabic": "رُكْن",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        11,
+        80,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            80,
+            10
+          ],
+          "form_arabic": "رُكْنٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            51,
+            39,
+            2
+          ],
+          "form_arabic": "بِرُكْنِهِ.",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "tarokanu",
+      "lemma_arabic": "تَرْكَنُ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        11,
+        113,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            113,
+            2
+          ],
+          "form_arabic": "تَرْكَنُو^ا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            17,
+            74,
+            6
+          ],
+          "form_arabic": "تَرْكَنُ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        113
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        80
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        113
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        113
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        113
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        113
+      ]
+    },
+    {
+      "root": "mss",
+      "root_arabic": "مسس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        113
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        113
+      ]
+    },
+    {
+      "root": "Awy",
+      "root_arabic": "اوي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        80
+      ]
+    },
+    {
+      "root": "qwy",
+      "root_arabic": "قوي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        80
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        80
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        74
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        74
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        74
+      ]
+    },
+    {
+      "root": "vbt",
+      "root_arabic": "ثبت",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        74
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        51,
+        39
+      ]
+    },
+    {
+      "root": "sHr",
+      "root_arabic": "سحر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        51,
+        39
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 51,
+        "name_english": "Adh-Dhaariyat",
+        "name_arabic": "سُورَةُ الذَّارِيَاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        11,
+        80,
+        10
+      ],
+      "form_arabic": "رُكْنٍ",
+      "lemma": "rukon",
+      "lemma_arabic": "رُكْن",
+      "pos": "N",
+      "ayah_id": "11:80",
+      "ayah_arabic": "قَالَ لَوۡ أَنَّ لِي بِكُمۡ قُوَّةً أَوۡ ءَاوِيٓ إِلَىٰ رُكۡنࣲ شَدِيدࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "a support",
+      "translations": {
+        "saheeh": "He said, \"If only I had against you some power or could take refuge in a strong support.\"",
+        "pickthall": "He said: Would that I had strength to resist you or had some strong support (among you)!",
+        "khattab": "He responded, “If only I had the strength ˹to resist you˺ or could rely on a strong supporter.”",
+        "arberry": "He said, 'O would that I had power against you, or might take refuge in a strong pillar!'"
+      }
+    },
+    {
+      "location": [
+        11,
+        113,
+        2
+      ],
+      "form_arabic": "تَرْكَنُو^ا@",
+      "lemma": "tarokanu",
+      "lemma_arabic": "تَرْكَنُ",
+      "pos": "V",
+      "ayah_id": "11:113",
+      "ayah_arabic": "وَلَا تَرۡكَنُوٓاْ إِلَى ٱلَّذِينَ ظَلَمُواْ فَتَمَسَّكُمُ ٱلنَّارُ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِنۡ أَوۡلِيَآءَ ثُمَّ لَا تُنصَرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "incline",
+      "translations": {
+        "saheeh": "And do not incline toward those who do wrong, lest you be touched by the Fire, and you would not have other than Allah any protectors; then you would not be helped.",
+        "pickthall": "And incline not toward those who do wrong lest the Fire touch you, and ye have no protecting friends against Allah, and afterward ye would not be helped.",
+        "khattab": "And do not be inclined to the wrongdoers or you will be touched by the Fire. For then you would have no protectors other than Allah, nor would you be helped",
+        "arberry": "And lean not on the evildoers, so that the Fire touches you -- you have no protectors apart from God -- and then you will not be helped."
+      }
+    },
+    {
+      "location": [
+        17,
+        74,
+        6
+      ],
+      "form_arabic": "تَرْكَنُ",
+      "lemma": "tarokanu",
+      "lemma_arabic": "تَرْكَنُ",
+      "pos": "V",
+      "ayah_id": "17:74",
+      "ayah_arabic": "وَلَوۡلَآ أَن ثَبَّتۡنَٰكَ لَقَدۡ كِدتَّ تَرۡكَنُ إِلَيۡهِمۡ شَيۡـࣰٔ ا قَلِيلًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "(would) have inclined",
+      "translations": {
+        "saheeh": "And if We had not strengthened you, you would have almost inclined to them a little.",
+        "pickthall": "And if We had not made thee wholly firm thou mightest almost have inclined unto them a little.",
+        "khattab": "Had We not made you steadfast, you probably would have inclined to them a little",
+        "arberry": "and had We not confirmed thee, surely thou wert near to inclining unto them a very little;"
+      }
+    },
+    {
+      "location": [
+        51,
+        39,
+        2
+      ],
+      "form_arabic": "بِرُكْنِهِ.",
+      "lemma": "rukon",
+      "lemma_arabic": "رُكْن",
+      "pos": "N",
+      "ayah_id": "51:39",
+      "ayah_arabic": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Adh-Dhaariyat",
+      "literal_gloss": "with his supporters",
+      "translations": {
+        "saheeh": "But he turned away with his supporters and said,\" A magician or a madman.\"",
+        "pickthall": "But he withdrew (confiding) in his might, and said: A wizard or a madman.",
+        "khattab": "but Pharaoh was carried away by his power, saying ˹of Moses˺, “A magician or a madman!”",
+        "arberry": "but he turned his back, with his court, saying, 'A sorcerer, or a man possessed!'"
+      }
+    }
+  ]
+}

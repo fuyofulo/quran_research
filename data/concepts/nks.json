@@ -1,0 +1,346 @@
+{
+  "root": "nks",
+  "root_arabic": "نكس",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 3,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "V": 2,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "nukisu",
+      "lemma_arabic": "نُكِسُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        21,
+        65,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            21,
+            65,
+            2
+          ],
+          "form_arabic": "نُكِسُوا@",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "naAkisuwA",
+      "lemma_arabic": "نَاكِسُوا",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        32,
+        12,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            32,
+            12,
+            5
+          ],
+          "form_arabic": "نَاكِسُوا@",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "nunak~iso",
+      "lemma_arabic": "نُنَكِّسْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        36,
+        68,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            36,
+            68,
+            3
+          ],
+          "form_arabic": "نُنَكِّسْهُ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "rAs",
+      "root_arabic": "راس",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        21,
+        65
+      ]
+    },
+    {
+      "root": "nTq",
+      "root_arabic": "نطق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        65
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        65
+      ]
+    },
+    {
+      "root": "Emr",
+      "root_arabic": "عمر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        36,
+        68
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        36,
+        68
+      ]
+    },
+    {
+      "root": "Eql",
+      "root_arabic": "عقل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        36,
+        68
+      ]
+    },
+    {
+      "root": "yqn",
+      "root_arabic": "يقن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        12
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        12
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        12
+      ]
+    },
+    {
+      "root": "jrm",
+      "root_arabic": "جرم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        12
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        12
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        12
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        12
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        12
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        12
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        32,
+        12
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 21,
+        "name_english": "Al-Anbiyaa",
+        "name_arabic": "سُورَةُ الأَنبِيَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 32,
+        "name_english": "As-Sajda",
+        "name_arabic": "سُورَةُ السَّجۡدَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        21,
+        65,
+        2
+      ],
+      "form_arabic": "نُكِسُوا@",
+      "lemma": "nukisu",
+      "lemma_arabic": "نُكِسُ",
+      "pos": "V",
+      "ayah_id": "21:65",
+      "ayah_arabic": "ثُمَّ نُكِسُواْ عَلَىٰ رُءُوسِهِمۡ لَقَدۡ عَلِمۡتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Anbiyaa",
+      "literal_gloss": "they were turned",
+      "translations": {
+        "saheeh": "Then they reversed themselves, [saying], \"You have already known that these do not speak!\"",
+        "pickthall": "And they were utterly confounded, and they said: Well thou knowest that these speak not.",
+        "khattab": "Then they ˹quickly˺ regressed to their ˹original˺ mind-set, ˹arguing,˺ “You already know that those ˹idols˺ cannot talk.”",
+        "arberry": "Then they were utterly put to confusion saying, 'Very well indeed thou knowest these do not speak.'"
+      }
+    },
+    {
+      "location": [
+        32,
+        12,
+        5
+      ],
+      "form_arabic": "نَاكِسُوا@",
+      "lemma": "naAkisuwA",
+      "lemma_arabic": "نَاكِسُوا",
+      "pos": "N",
+      "ayah_id": "32:12",
+      "ayah_arabic": "وَلَوۡ تَرَىٰٓ إِذِ ٱلۡمُجۡرِمُونَ نَاكِسُواْ رُءُوسِهِمۡ عِندَ رَبِّهِمۡ رَبَّنَآ أَبۡصَرۡنَا وَسَمِعۡنَا فَٱرۡجِعۡنَا نَعۡمَلۡ صَٰلِحًا إِنَّا مُوقِنُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Sajda",
+      "literal_gloss": "(will) hang",
+      "translations": {
+        "saheeh": "If you could but see when the criminals are hanging their heads before their Lord, [saying], \"Our Lord, we have seen and heard, so return us [to the world]; we will work righteousness. Indeed, we are [now] certain.\"",
+        "pickthall": "Couldst thou but see when the guilty hang their heads before their Lord, (and say): Our Lord! We have now seen and heard, so send us back; we will do right, now we are sure.",
+        "khattab": "If only you could see the wicked hanging their heads ˹in shame˺ before their Lord, ˹crying:˺ “Our Lord! We have now seen and heard, so send us back and we will do good. We truly have sure faith ˹now˺!”",
+        "arberry": "Ah, if thou couldst see the guilty hanging their heads before their Lord! 'Our Lord, we have seen and heard; now return us, that we may do righteousness, for we have sure faith.'"
+      }
+    },
+    {
+      "location": [
+        36,
+        68,
+        3
+      ],
+      "form_arabic": "نُنَكِّسْهُ",
+      "lemma": "nunak~iso",
+      "lemma_arabic": "نُنَكِّسْ",
+      "pos": "V",
+      "ayah_id": "36:68",
+      "ayah_arabic": "وَمَن نُّعَمِّرۡهُ نُنَكِّسۡهُ فِي ٱلۡخَلۡقِۚ أَفَلَا يَعۡقِلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "We reverse him",
+      "translations": {
+        "saheeh": "And he to whom We grant long life We reverse in creation; so will they not understand?",
+        "pickthall": "He whom we bring unto old age, We reverse him in creation (making him go back to weakness after strength). Have ye then no sense?",
+        "khattab": "And whoever We grant a long life, We reverse them in development. Will they not then understand",
+        "arberry": "And to whomsoever We give long life, We bend him over in His constitution; what, do they not understand?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1456 @@
+{
+  "root": "xSm",
+  "root_arabic": "خصم",
+  "stats": {
+    "occurrences": 18,
+    "lemmas": 5,
+    "ayahs": 17,
+    "surahs": 12,
+    "pos_distribution": {
+      "N": 9,
+      "V": 8,
+      "ADJ": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "{xotaSamu",
+      "lemma_arabic": "ٱخْتَصَمُ",
+      "count": 8,
+      "pos_distribution": {
+        "V": 8
+      },
+      "first_occurrence": [
+        3,
+        44,
+        20
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            44,
+            20
+          ],
+          "form_arabic": "يَخْتَصِمُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            22,
+            19,
+            3
+          ],
+          "form_arabic": "ٱخْتَصَمُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            26,
+            96,
+            4
+          ],
+          "form_arabic": "يَخْتَصِمُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            27,
+            45,
+            13
+          ],
+          "form_arabic": "يَخْتَصِمُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            36,
+            49,
+            8
+          ],
+          "form_arabic": "يَخِصِّمُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            38,
+            69,
+            9
+          ],
+          "form_arabic": "يَخْتَصِمُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            39,
+            31,
+            7
+          ],
+          "form_arabic": "تَخْتَصِمُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            50,
+            28,
+            3
+          ],
+          "form_arabic": "تَخْتَصِمُوا@",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "xaSiym",
+      "lemma_arabic": "خَصِيم",
+      "count": 5,
+      "pos_distribution": {
+        "N": 5
+      },
+      "first_occurrence": [
+        2,
+        204,
+        17
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            204,
+            17
+          ],
+          "form_arabic": "ٱلْخِصَامِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            105,
+            15
+          ],
+          "form_arabic": "خَصِيمًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            16,
+            4,
+            7
+          ],
+          "form_arabic": "خَصِيمٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            36,
+            77,
+            10
+          ],
+          "form_arabic": "خَصِيمٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            43,
+            18,
+            7
+          ],
+          "form_arabic": "ٱلْخِصَامِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "xaSom",
+      "lemma_arabic": "خَصْم",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        22,
+        19,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            22,
+            19,
+            2
+          ],
+          "form_arabic": "خَصْمَانِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            38,
+            21,
+            4
+          ],
+          "form_arabic": "ٱلْخَصْمِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            38,
+            22,
+            10
+          ],
+          "form_arabic": "خَصْمَانِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "taxaASum",
+      "lemma_arabic": "تَخَاصُم",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        38,
+        64,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            38,
+            64,
+            4
+          ],
+          "form_arabic": "تَخَاصُمُ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "xaSimuwn",
+      "lemma_arabic": "خَصِمُون",
+      "count": 1,
+      "pos_distribution": {
+        "ADJ": 1
+      },
+      "first_occurrence": [
+        43,
+        58,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            43,
+            58,
+            14
+          ],
+          "form_arabic": "خَصِمُونَ",
+          "pos": "ADJ"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 5,
+      "share": 0.2941,
+      "first_together": [
+        4,
+        105
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 5,
+      "share": 0.2941,
+      "first_together": [
+        2,
+        204
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 4,
+      "share": 0.2353,
+      "first_together": [
+        2,
+        204
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 3,
+      "share": 0.1765,
+      "first_together": [
+        4,
+        105
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.1765,
+      "first_together": [
+        3,
+        44
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.1176,
+      "first_together": [
+        22,
+        19
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.1176,
+      "first_together": [
+        39,
+        31
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 2,
+      "share": 0.1176,
+      "first_together": [
+        22,
+        19
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 2,
+      "share": 0.1176,
+      "first_together": [
+        16,
+        4
+      ]
+    },
+    {
+      "root": "nTf",
+      "root_arabic": "نطف",
+      "ayahs_together": 2,
+      "share": 0.1176,
+      "first_together": [
+        16,
+        4
+      ]
+    },
+    {
+      "root": "Ans",
+      "root_arabic": "انس",
+      "ayahs_together": 2,
+      "share": 0.1176,
+      "first_together": [
+        16,
+        4
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 2,
+      "share": 0.1176,
+      "first_together": [
+        4,
+        105
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 2,
+      "share": 0.1176,
+      "first_together": [
+        4,
+        105
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 2,
+      "share": 0.1176,
+      "first_together": [
+        2,
+        204
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 2,
+      "share": 0.1176,
+      "first_together": [
+        3,
+        44
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        39,
+        31
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        39,
+        31
+      ]
+    },
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        36,
+        49
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        36,
+        49
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        36,
+        49
+      ]
+    },
+    {
+      "root": "SyH",
+      "root_arabic": "صيح",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        36,
+        49
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        64
+      ]
+    },
+    {
+      "root": "n$A",
+      "root_arabic": "نشا",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        43,
+        18
+      ]
+    },
+    {
+      "root": "Hly",
+      "root_arabic": "حلي",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        43,
+        18
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        43,
+        18
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        69
+      ]
+    },
+    {
+      "root": "Elw",
+      "root_arabic": "علو",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        69
+      ]
+    },
+    {
+      "root": "mlA",
+      "root_arabic": "ملا",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        69
+      ]
+    },
+    {
+      "root": "fzE",
+      "root_arabic": "فزع",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        22
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        22
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        22
+      ]
+    },
+    {
+      "root": "swy",
+      "root_arabic": "سوي",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        22
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        22
+      ]
+    },
+    {
+      "root": "$TT",
+      "root_arabic": "شطط",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        22
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        22
+      ]
+    },
+    {
+      "root": "SrT",
+      "root_arabic": "صرط",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        22
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        22
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        4,
+        105
+      ]
+    },
+    {
+      "root": "xwn",
+      "root_arabic": "خون",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        4,
+        105
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        4,
+        105
+      ]
+    },
+    {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        43,
+        58
+      ]
+    },
+    {
+      "root": "jdl",
+      "root_arabic": "جدل",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        43,
+        58
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        43,
+        58
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        50,
+        28
+      ]
+    },
+    {
+      "root": "qdm",
+      "root_arabic": "قدم",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        50,
+        28
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        27,
+        45
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        27,
+        45
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        27,
+        45
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        27,
+        45
+      ]
+    },
+    {
+      "root": "frq",
+      "root_arabic": "فرق",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        27,
+        45
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        3,
+        44
+      ]
+    },
+    {
+      "root": "kfl",
+      "root_arabic": "كفل",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        3,
+        44
+      ]
+    },
+    {
+      "root": "gyb",
+      "root_arabic": "غيب",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        3,
+        44
+      ]
+    },
+    {
+      "root": "qlm",
+      "root_arabic": "قلم",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        3,
+        44
+      ]
+    },
+    {
+      "root": "wHy",
+      "root_arabic": "وحي",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        3,
+        44
+      ]
+    },
+    {
+      "root": "swr",
+      "root_arabic": "سور",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        21
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        21
+      ]
+    },
+    {
+      "root": "Hrb",
+      "root_arabic": "حرب",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        38,
+        21
+      ]
+    },
+    {
+      "root": "qTE",
+      "root_arabic": "قطع",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        22,
+        19
+      ]
+    },
+    {
+      "root": "Sbb",
+      "root_arabic": "صبب",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        22,
+        19
+      ]
+    },
+    {
+      "root": "rAs",
+      "root_arabic": "راس",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        22,
+        19
+      ]
+    },
+    {
+      "root": "vwb",
+      "root_arabic": "ثوب",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        22,
+        19
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        22,
+        19
+      ]
+    },
+    {
+      "root": "fwq",
+      "root_arabic": "فوق",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        22,
+        19
+      ]
+    },
+    {
+      "root": "Hmm",
+      "root_arabic": "حمم",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        22,
+        19
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        2,
+        204
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        2,
+        204
+      ]
+    },
+    {
+      "root": "ldd",
+      "root_arabic": "لدد",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        2,
+        204
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        2,
+        204
+      ]
+    },
+    {
+      "root": "Ejb",
+      "root_arabic": "عجب",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        2,
+        204
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.0588,
+      "first_together": [
+        2,
+        204
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 38,
+        "name_english": "Saad",
+        "name_arabic": "سُورَةُ صٓ",
+        "revelation": "Meccan",
+        "occurrences": 4
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 43,
+        "name_english": "Az-Zukhruf",
+        "name_arabic": "سُورَةُ الزُّخۡرُفِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 16,
+        "name_english": "An-Nahl",
+        "name_arabic": "سُورَةُ النَّحۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 26,
+        "name_english": "Ash-Shu'araa",
+        "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 27,
+        "name_english": "An-Naml",
+        "name_arabic": "سُورَةُ النَّمۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 50,
+        "name_english": "Qaaf",
+        "name_arabic": "سُورَةُ قٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 5,
+      "Meccan": 13
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        204,
+        17
+      ],
+      "form_arabic": "ٱلْخِصَامِ",
+      "lemma": "xaSiym",
+      "lemma_arabic": "خَصِيم",
+      "pos": "N",
+      "ayah_id": "2:204",
+      "ayah_arabic": "وَمِنَ ٱلنَّاسِ مَن يُعۡجِبُكَ قَوۡلُهُۥ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَيُشۡهِدُ ٱللَّهَ عَلَىٰ مَا فِي قَلۡبِهِۦ وَهُوَ أَلَدُّ ٱلۡخِصَامِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(of) opponents",
+      "translations": {
+        "saheeh": "And of the people is he whose speech pleases you in worldly life, and he calls Allah to witness as to what is in his heart, yet he is the fiercest of opponents.",
+        "pickthall": "And of mankind there is he whoso conversation on the life of this world pleaseth thee (Muhammad), and he calleth Allah to witness as to that which is in his heart; yet he is the most rigid of opponents.",
+        "khattab": "There are some ˹hypocrites˺ who impress you with their views regarding worldly affairs and openly call upon Allah to witness what is in their hearts, yet they are your worst adversaries",
+        "arberry": "And some men there are whose saying upon the present world pleases thee, and such a one calls on God to witness what is in his heart, yet he is most stubborn in altercation,"
+      }
+    },
+    {
+      "location": [
+        3,
+        44,
+        20
+      ],
+      "form_arabic": "يَخْتَصِمُونَ",
+      "lemma": "{xotaSamu",
+      "lemma_arabic": "ٱخْتَصَمُ",
+      "pos": "V",
+      "ayah_id": "3:44",
+      "ayah_arabic": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهِ إِلَيۡكَۚ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ يُلۡقُونَ أَقۡلَٰمَهُمۡ أَيُّهُمۡ يَكۡفُلُ مَرۡيَمَ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ يَخۡتَصِمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "they (were) disputing",
+      "translations": {
+        "saheeh": "That is from the news of the unseen which We reveal to you, [O Muhammad]. And you were not with them when they cast their pens as to which of them should be responsible for Mary. Nor were you with them when they disputed.",
+        "pickthall": "This is of the tidings of things hidden. We reveal it unto thee (Muhammad). Thou wast not present with them when they threw their pens (to know) which of them should be the guardian of Mary, nor wast thou present with them when they quarrelled (thereupon).",
+        "khattab": "This is news of the unseen that We reveal to you ˹O Prophet˺. You were not with them when they cast lots to decide who would be Mary’s guardian, nor were you there when they argued ˹about it˺",
+        "arberry": "(That is of the tidings of the Unseen, that We reveal to thee; for thou wast not with them, when they were casting quills which of them should have charge of Mary; thou wast not with them, when they were disputing.)"
+      }
+    },
+    {
+      "location": [
+        4,
+        105,
+        15
+      ],
+      "form_arabic": "خَصِيمًا",
+      "lemma": "xaSiym",
+      "lemma_arabic": "خَصِيم",
+      "pos": "N",
+      "ayah_id": "4:105",
+      "ayah_arabic": "إِنَّآ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ لِتَحۡكُمَ بَيۡنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُۚ وَلَا تَكُن لِّلۡخَآئِنِينَ خَصِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "a pleader",
+      "translations": {
+        "saheeh": "Indeed, We have revealed to you, [O Muhammad], the Book in truth so you may judge between the people by that which Allah has shown you. And do not be for the deceitful an advocate.",
+        "pickthall": "Lo! We reveal unto thee the Scripture with the truth, that thou mayst judge between mankind by that which Allah showeth thee. And be not thou a pleader for the treacherous;",
+        "khattab": "Indeed, We have sent down the Book to you ˹O Prophet˺ in truth to judge between people by means of what Allah has shown you. So do not be an advocate for the deceitful",
+        "arberry": "Surely We have sent down to thee the Book with the truth, so that thou mayest judge between the people by that God has shown thee. So be not an advocate for the traitors;"
+      }
+    },
+    {
+      "location": [
+        16,
+        4,
+        7
+      ],
+      "form_arabic": "خَصِيمٌ",
+      "lemma": "xaSiym",
+      "lemma_arabic": "خَصِيم",
+      "pos": "N",
+      "ayah_id": "16:4",
+      "ayah_arabic": "خَلَقَ ٱلۡإِنسَٰنَ مِن نُّطۡفَةࣲ فَإِذَا هُوَ خَصِيمࣱ مُّبِينࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Nahl",
+      "literal_gloss": "(is) an opponent",
+      "translations": {
+        "saheeh": "He created man from a sperm-drop; then at once, he is a clear adversary.",
+        "pickthall": "He hath created man from a drop of fluid, yet behold! he is an open opponent.",
+        "khattab": "He created humans from a sperm-drop, then—behold!—they openly challenge ˹Him˺",
+        "arberry": "He created man of a sperm-drop; and, behold, he is a manifest adversary."
+      }
+    },
+    {
+      "location": [
+        22,
+        19,
+        2
+      ],
+      "form_arabic": "خَصْمَانِ",
+      "lemma": "xaSom",
+      "lemma_arabic": "خَصْم",
+      "pos": "N",
+      "ayah_id": "22:19",
+      "ayah_arabic": "۞هَٰذَانِ خَصۡمَانِ ٱخۡتَصَمُواْ فِي رَبِّهِمۡۖ فَٱلَّذِينَ كَفَرُواْ قُطِّعَتۡ لَهُمۡ ثِيَابࣱ مِّن نَّارࣲ يُصَبُّ مِن فَوۡقِ رُءُوسِهِمُ ٱلۡحَمِيمُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "opponents",
+      "translations": {
+        "saheeh": "These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water",
+        "pickthall": "These twain (the believers and the disbelievers) are two opponents who contend concerning their Lord. But as for those who disbelieve, garments of fire will be cut out for them; boiling fluid will be poured down on their heads,",
+        "khattab": "These are two opposing groups that disagree about their Lord: as for the disbelievers, garments of Fire will be cut out for them and boiling water will be poured over their heads",
+        "arberry": "These are two disputants who have disputed concerning their Lord. As for the unbelievers, for them garments of fire shall, be cut, and there shall be poured over their heads boiling water"
+      }
+    },
+    {
+      "location": [
+        22,
+        19,
+        3
+      ],
+      "form_arabic": "ٱخْتَصَمُوا@",
+      "lemma": "{xotaSamu",
+      "lemma_arabic": "ٱخْتَصَمُ",
+      "pos": "V",
+      "ayah_id": "22:19",
+      "ayah_arabic": "۞هَٰذَانِ خَصۡمَانِ ٱخۡتَصَمُواْ فِي رَبِّهِمۡۖ فَٱلَّذِينَ كَفَرُواْ قُطِّعَتۡ لَهُمۡ ثِيَابࣱ مِّن نَّارࣲ يُصَبُّ مِن فَوۡقِ رُءُوسِهِمُ ٱلۡحَمِيمُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "dispute",
+      "translations": {
+        "saheeh": "These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water",
+        "pickthall": "These twain (the believers and the disbelievers) are two opponents who contend concerning their Lord. But as for those who disbelieve, garments of fire will be cut out for them; boiling fluid will be poured down on their heads,",
+        "khattab": "These are two opposing groups that disagree about their Lord: as for the disbelievers, garments of Fire will be cut out for them and boiling water will be poured over their heads",
+        "arberry": "These are two disputants who have disputed concerning their Lord. As for the unbelievers, for them garments of fire shall, be cut, and there shall be poured over their heads boiling water"
+      }
+    },
+    {
+      "location": [
+        26,
+        96,
+        4
+      ],
+      "form_arabic": "يَخْتَصِمُونَ",
+      "lemma": "{xotaSamu",
+      "lemma_arabic": "ٱخْتَصَمُ",
+      "pos": "V",
+      "ayah_id": "26:96",
+      "ayah_arabic": "قَالُواْ وَهُمۡ فِيهَا يَخۡتَصِمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "(are) disputing",
+      "translations": {
+        "saheeh": "They will say while they dispute therein,",
+        "pickthall": "And they will say, when they are quarrelling therein:",
+        "khattab": "There the deviant will cry while disputing with their idols",
+        "arberry": "They shall say, as they dispute there one with another,"
+      }
+    },
+    {
+      "location": [
+        27,
+        45,
+        13
+      ],
+      "form_arabic": "يَخْتَصِمُونَ",
+      "lemma": "{xotaSamu",
+      "lemma_arabic": "ٱخْتَصَمُ",
+      "pos": "V",
+      "ayah_id": "27:45",
+      "ayah_arabic": "وَلَقَدۡ أَرۡسَلۡنَآ إِلَىٰ ثَمُودَ أَخَاهُمۡ صَٰلِحًا أَنِ ٱعۡبُدُواْ ٱللَّهَ فَإِذَا هُمۡ فَرِيقَانِ يَخۡتَصِمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naml",
+      "literal_gloss": "quarreling",
+      "translations": {
+        "saheeh": "And We had certainly sent to Thamud their brother Salih, [saying], \"Worship Allah,\" and at once they were two parties conflicting.",
+        "pickthall": "And We verily sent unto Thamud their brother Salih, saying: Worship Allah. And lo! they (then became two parties quarrelling.",
+        "khattab": "And We certainly sent to the people of Thamûd their brother Ṣâliḥ, proclaiming, “Worship Allah,” but they suddenly split into two opposing groups",
+        "arberry": "And We sent to Thamood their brother Salih: 'Serve you God!' And behold, they were two parties, that were disputing one with another."
+      }
+    },
+    {
+      "location": [
+        36,
+        49,
+        8
+      ],
+      "form_arabic": "يَخِصِّمُونَ",
+      "lemma": "{xotaSamu",
+      "lemma_arabic": "ٱخْتَصَمُ",
+      "pos": "V",
+      "ayah_id": "36:49",
+      "ayah_arabic": "مَا يَنظُرُونَ إِلَّا صَيۡحَةࣰ وَٰحِدَةࣰ تَأۡخُذُهُمۡ وَهُمۡ يَخِصِّمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "are disputing",
+      "translations": {
+        "saheeh": "They do not await except one blast which will seize them while they are disputing.",
+        "pickthall": "They await but one Shout, which will surprise them while they are disputing.",
+        "khattab": "They must be awaiting a single Blast, which will seize them while they are ˹entrenched˺ in ˹worldly˺ disputes",
+        "arberry": "They are awaiting only for one Cry to seize them while they are yet disputing,"
+      }
+    },
+    {
+      "location": [
+        36,
+        77,
+        10
+      ],
+      "form_arabic": "خَصِيمٌ",
+      "lemma": "xaSiym",
+      "lemma_arabic": "خَصِيم",
+      "pos": "N",
+      "ayah_id": "36:77",
+      "ayah_arabic": "أَوَلَمۡ يَرَ ٱلۡإِنسَٰنُ أَنَّا خَلَقۡنَٰهُ مِن نُّطۡفَةࣲ فَإِذَا هُوَ خَصِيمࣱ مُّبِينࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "(is) an opponent",
+      "translations": {
+        "saheeh": "Does man not consider that We created him from a [mere] sperm-drop - then at once he is a clear adversary?",
+        "pickthall": "Hath not man seen that We have created him from a drop of seed? Yet lo! he is an open opponent.",
+        "khattab": "Do people not see that We have created them from a sperm-drop, then—behold!—they openly challenge ˹Us˺",
+        "arberry": "Has not man regarded how that We created him of a sperm-drop? Then lo, he is a manifest adversary."
+      }
+    },
+    {
+      "location": [
+        38,
+        21,
+        4
+      ],
+      "form_arabic": "ٱلْخَصْمِ",
+      "lemma": "xaSom",
+      "lemma_arabic": "خَصْم",
+      "pos": "N",
+      "ayah_id": "38:21",
+      "ayah_arabic": "۞وَهَلۡ أَتَىٰكَ نَبَؤُاْ ٱلۡخَصۡمِ إِذۡ تَسَوَّرُواْ ٱلۡمِحۡرَابَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "(of) the litigants",
+      "translations": {
+        "saheeh": "And has there come to you the news of the adversaries, when they climbed over the wall of [his] prayer chamber -",
+        "pickthall": "And hath the story of the litigants come unto thee? How they climbed the wall into the royal chamber;",
+        "khattab": "Has the story of the two plaintiffs, who scaled the ˹wall of David’s˺ sanctuary, reached you ˹O Prophet˺",
+        "arberry": "Has the tiding of the dispute come to thee? When they scaled the Sanctuary,"
+      }
+    },
+    {
+      "location": [
+        38,
+        22,
+        10
+      ],
+      "form_arabic": "خَصْمَانِ",
+      "lemma": "xaSom",
+      "lemma_arabic": "خَصْم",
+      "pos": "N",
+      "ayah_id": "38:22",
+      "ayah_arabic": "إِذۡ دَخَلُواْ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنۡهُمۡۖ قَالُواْ لَا تَخَفۡۖ خَصۡمَانِ بَغَىٰ بَعۡضُنَا عَلَىٰ بَعۡضࣲ فَٱحۡكُم بَيۡنَنَا بِٱلۡحَقِّ وَلَا تُشۡطِطۡ وَٱهۡدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "(We are) two litigants",
+      "translations": {
+        "saheeh": "When they entered upon David and he was alarmed by them? They said, \"Fear not. [We are] two adversaries, one of whom has wronged the other, so judge between us with truth and do not exceed [it] and guide us to the sound path.",
+        "pickthall": "How they burst in upon David, and he was afraid of them. They said: Be not afraid! (We are) two litigants, one of whom hath wronged the other, therefor judge aright between us; be not unjust; and show us the fair way.",
+        "khattab": "When they came into David’s presence, he was startled by them. They said, “Have no fear. ˹We are merely˺ two in a dispute: one of us has wronged the other. So judge between us with truth—do not go beyond ˹it˺—and guide us to the right way",
+        "arberry": "when they entered upon David, and he took fright at them; and they said, 'Fear not; two disputants we are -- one of us has injured the other; so judge between us justly, and transgress not, and guide us to the right path.'"
+      }
+    },
+    {
+      "location": [
+        38,
+        64,
+        4
+      ],
+      "form_arabic": "تَخَاصُمُ",
+      "lemma": "taxaASum",
+      "lemma_arabic": "تَخَاصُم",
+      "pos": "N",
+      "ayah_id": "38:64",
+      "ayah_arabic": "إِنَّ ذَٰلِكَ لَحَقࣱّ تَخَاصُمُ أَهۡلِ ٱلنَّارِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "(the) quarreling",
+      "translations": {
+        "saheeh": "Indeed, that is truth - the quarreling of the people of the Fire.",
+        "pickthall": "Lo! that is very truth: the wrangling of the dwellers in the Fire.",
+        "khattab": "This dispute between the residents of the Fire will certainly come to pass",
+        "arberry": "Surely that is true -- the disputing of the inhabitants of the Fire."
+      }
+    },
+    {
+      "location": [
+        38,
+        69,
+        9
+      ],
+      "form_arabic": "يَخْتَصِمُونَ",
+      "lemma": "{xotaSamu",
+      "lemma_arabic": "ٱخْتَصَمُ",
+      "pos": "V",
+      "ayah_id": "38:69",
+      "ayah_arabic": "مَا كَانَ لِيَ مِنۡ عِلۡمِۭ بِٱلۡمَلَإِ ٱلۡأَعۡلَىٰٓ إِذۡ يَخۡتَصِمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "they were disputing",
+      "translations": {
+        "saheeh": "I had no knowledge of the exalted assembly [of angels] when they were disputing [the creation of Adam].",
+        "pickthall": "I had no knowledge of the Highest Chiefs when they disputed;",
+        "khattab": "˹And say,˺ “I had no knowledge of the highest assembly ˹in heaven˺ when they differed ˹concerning Adam˺",
+        "arberry": "I had no knowledge of the High Council when they disputed."
+      }
+    },
+    {
+      "location": [
+        39,
+        31,
+        7
+      ],
+      "form_arabic": "تَخْتَصِمُونَ",
+      "lemma": "{xotaSamu",
+      "lemma_arabic": "ٱخْتَصَمُ",
+      "pos": "V",
+      "ayah_id": "39:31",
+      "ayah_arabic": "ثُمَّ إِنَّكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ عِندَ رَبِّكُمۡ تَخۡتَصِمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "will dispute",
+      "translations": {
+        "saheeh": "Then indeed you, on the Day of Resurrection, before your Lord, will dispute.",
+        "pickthall": "Then lo! on the Day of Resurrection, before your Lord ye will dispute.",
+        "khattab": "Then on the Day of Judgment you will ˹all settle your˺ dispute before your Lord",
+        "arberry": "then on the Day of Resurrection before your Lord you shall dispute."
+      }
+    },
+    {
+      "location": [
+        43,
+        18,
+        7
+      ],
+      "form_arabic": "ٱلْخِصَامِ",
+      "lemma": "xaSiym",
+      "lemma_arabic": "خَصِيم",
+      "pos": "N",
+      "ayah_id": "43:18",
+      "ayah_arabic": "أَوَمَن يُنَشَّؤُاْ فِي ٱلۡحِلۡيَةِ وَهُوَ فِي ٱلۡخِصَامِ غَيۡرُ مُبِينࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zukhruf",
+      "literal_gloss": "the dispute",
+      "translations": {
+        "saheeh": "So is one brought up in ornaments while being during conflict unevident [attributed to Allah]?",
+        "pickthall": "(Liken they then to Allah) that which is bred up in outward show, and in dispute cannot make itself plain?",
+        "khattab": "˹Do they attribute to Him˺ those who are brought up in fineries and are not commanding in disputes",
+        "arberry": "What, one who is reared amid ornaments and, when the time of altercation comes, is not to be seen?"
+      }
+    },
+    {
+      "location": [
+        43,
+        58,
+        14
+      ],
+      "form_arabic": "خَصِمُونَ",
+      "lemma": "xaSimuwn",
+      "lemma_arabic": "خَصِمُون",
+      "pos": "ADJ",
+      "ayah_id": "43:58",
+      "ayah_arabic": "وَقَالُوٓاْ ءَأَٰلِهَتُنَا خَيۡرٌ أَمۡ هُوَۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلَۢاۚ بَلۡ هُمۡ قَوۡمٌ خَصِمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zukhruf",
+      "literal_gloss": "argumentative",
+      "translations": {
+        "saheeh": "And they said, \"Are your gods better, or is he?\" They did not present the comparison except for [mere] argument. But, [in fact], they are a people prone to dispute.",
+        "pickthall": "And say: Are our gods better, or is he? They raise not the objection save for argument. Nay! but they are a contentious folk.",
+        "khattab": "They exclaimed, “Which is better: our gods or Jesus?” They cite him only to argue. In fact, they are a people prone to dispute",
+        "arberry": "and say, 'What, are our gods better, or he?' They cite not him to thee, save to dispute;. nay, but they are a people contentious."
+      }
+    },
+    {
+      "location": [
+        50,
+        28,
+        3
+      ],
+      "form_arabic": "تَخْتَصِمُوا@",
+      "lemma": "{xotaSamu",
+      "lemma_arabic": "ٱخْتَصَمُ",
+      "pos": "V",
+      "ayah_id": "50:28",
+      "ayah_arabic": "قَالَ لَا تَخۡتَصِمُواْ لَدَيَّ وَقَدۡ قَدَّمۡتُ إِلَيۡكُم بِٱلۡوَعِيدِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Qaaf",
+      "literal_gloss": "dispute",
+      "translations": {
+        "saheeh": "[Allah] will say, \"Do not dispute before Me, while I had already presented to you the warning.",
+        "pickthall": "He saith: Contend not in My presence, when I had already proffered unto you the warning.",
+        "khattab": "Allah will respond, “Do not dispute in My presence, since I had already given you a warning",
+        "arberry": "He shall say, 'Dispute not before Me! For I sent you beforehand -- the threat."
+      }
+    }
+  ]
+}

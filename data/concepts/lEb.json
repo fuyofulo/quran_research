@@ -1,0 +1,1734 @@
+{
+  "root": "lEb",
+  "root_arabic": "لعب",
+  "stats": {
+    "occurrences": 20,
+    "lemmas": 3,
+    "ayahs": 20,
+    "surahs": 13,
+    "pos_distribution": {
+      "N": 11,
+      "V": 9
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yaloEabo",
+      "lemma_arabic": "يَلْعَبْ",
+      "count": 9,
+      "pos_distribution": {
+        "V": 9
+      },
+      "first_occurrence": [
+        6,
+        91,
+        44
+      ],
+      "occurrences": [
+        {
+          "location": [
+            6,
+            91,
+            44
+          ],
+          "form_arabic": "يَلْعَبُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            7,
+            98,
+            9
+          ],
+          "form_arabic": "يَلْعَبُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            65,
+            7
+          ],
+          "form_arabic": "وَنَلْعَبُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            12,
+            12,
+            5
+          ],
+          "form_arabic": "وَيَلْعَبْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            21,
+            2,
+            11
+          ],
+          "form_arabic": "يَلْعَبُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            43,
+            83,
+            3
+          ],
+          "form_arabic": "وَيَلْعَبُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            44,
+            9,
+            5
+          ],
+          "form_arabic": "يَلْعَبُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            52,
+            12,
+            5
+          ],
+          "form_arabic": "يَلْعَبُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            70,
+            42,
+            3
+          ],
+          "form_arabic": "وَيَلْعَبُوا@",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "laEib",
+      "lemma_arabic": "لَعِب",
+      "count": 8,
+      "pos_distribution": {
+        "N": 8
+      },
+      "first_occurrence": [
+        5,
+        57,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            57,
+            10
+          ],
+          "form_arabic": "وَلَعِبًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            5,
+            58,
+            7
+          ],
+          "form_arabic": "وَلَعِبًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            6,
+            32,
+            5
+          ],
+          "form_arabic": "لَعِبٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            6,
+            70,
+            5
+          ],
+          "form_arabic": "لَعِبًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            51,
+            5
+          ],
+          "form_arabic": "وَلَعِبًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            29,
+            64,
+            7
+          ],
+          "form_arabic": "وَلَعِبٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            47,
+            36,
+            4
+          ],
+          "form_arabic": "لَعِبٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            57,
+            20,
+            5
+          ],
+          "form_arabic": "لَعِبٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "la`Eibiyn",
+      "lemma_arabic": "لَٰعِبِين",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        21,
+        16,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            21,
+            16,
+            7
+          ],
+          "form_arabic": "لَٰعِبِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            21,
+            55,
+            7
+          ],
+          "form_arabic": "ٱللَّٰعِبِينَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            44,
+            38,
+            7
+          ],
+          "form_arabic": "لَٰعِبِينَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "lhw",
+      "root_arabic": "لهو",
+      "ayahs_together": 6,
+      "share": 0.3,
+      "first_together": [
+        6,
+        32
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 6,
+      "share": 0.3,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 6,
+      "share": 0.3,
+      "first_together": [
+        6,
+        32
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 6,
+      "share": 0.3,
+      "first_together": [
+        6,
+        32
+      ]
+    },
+    {
+      "root": "xwD",
+      "root_arabic": "خوض",
+      "ayahs_together": 5,
+      "share": 0.25,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 5,
+      "share": 0.25,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "w*r",
+      "root_arabic": "وذر",
+      "ayahs_together": 4,
+      "share": 0.2,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 4,
+      "share": 0.2,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 4,
+      "share": 0.2,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        21,
+        16
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        7,
+        51
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        7,
+        51
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        6,
+        32
+      ]
+    },
+    {
+      "root": "grr",
+      "root_arabic": "غرر",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "hzA",
+      "root_arabic": "هزا",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        21,
+        16
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        21,
+        16
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        21,
+        16
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        43,
+        83
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        47,
+        36
+      ]
+    },
+    {
+      "root": "Eql",
+      "root_arabic": "عقل",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        5,
+        58
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        9,
+        65
+      ]
+    },
+    {
+      "root": "dwr",
+      "root_arabic": "دور",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        32
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        9,
+        65
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        7,
+        51
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "xfy",
+      "root_arabic": "خفي",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "b$r",
+      "root_arabic": "بشر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "qrTs",
+      "root_arabic": "قرطس",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "bdw",
+      "root_arabic": "بدو",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "hyj",
+      "root_arabic": "هيج",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "Ejb",
+      "root_arabic": "عجب",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "nbt",
+      "root_arabic": "نبت",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "zyn",
+      "root_arabic": "زين",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "HTm",
+      "root_arabic": "حطم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "fxr",
+      "root_arabic": "فخر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "gyv",
+      "root_arabic": "غيث",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "Sfr",
+      "root_arabic": "صفر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        57,
+        20
+      ]
+    },
+    {
+      "root": "ndw",
+      "root_arabic": "ندو",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        5,
+        58
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        5,
+        58
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        5,
+        58
+      ]
+    },
+    {
+      "root": "gdw",
+      "root_arabic": "غدو",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        12,
+        12
+      ]
+    },
+    {
+      "root": "HfZ",
+      "root_arabic": "حفظ",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        12,
+        12
+      ]
+    },
+    {
+      "root": "rtE",
+      "root_arabic": "رتع",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        12,
+        12
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        32
+      ]
+    },
+    {
+      "root": "DHw",
+      "root_arabic": "ضحو",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        98
+      ]
+    },
+    {
+      "root": "bAs",
+      "root_arabic": "باس",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        98
+      ]
+    },
+    {
+      "root": "qry",
+      "root_arabic": "قري",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        98
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        98
+      ]
+    },
+    {
+      "root": "Ajr",
+      "root_arabic": "اجر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        47,
+        36
+      ]
+    },
+    {
+      "root": "Hdv",
+      "root_arabic": "حدث",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        21,
+        2
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        21,
+        2
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        21,
+        2
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        5,
+        57
+      ]
+    },
+    {
+      "root": "$kk",
+      "root_arabic": "شكك",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        44,
+        9
+      ]
+    },
+    {
+      "root": "nsy",
+      "root_arabic": "نسي",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        51
+      ]
+    },
+    {
+      "root": "jHd",
+      "root_arabic": "جحد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        51
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "Alm",
+      "root_arabic": "الم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "lys",
+      "root_arabic": "ليس",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "$fE",
+      "root_arabic": "شفع",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "Hmm",
+      "root_arabic": "حمم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "bsl",
+      "root_arabic": "بسل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    },
+    {
+      "root": "Edl",
+      "root_arabic": "عدل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        70
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 3
+      },
+      {
+        "surah": 21,
+        "name_english": "Al-Anbiyaa",
+        "name_arabic": "سُورَةُ الأَنبِيَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 3
+      },
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 44,
+        "name_english": "Ad-Dukhaan",
+        "name_arabic": "سُورَةُ الدُّخَانِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 29,
+        "name_english": "Al-Ankaboot",
+        "name_arabic": "سُورَةُ العَنكَبُوتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 43,
+        "name_english": "Az-Zukhruf",
+        "name_arabic": "سُورَةُ الزُّخۡرُفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 47,
+        "name_english": "Muhammad",
+        "name_arabic": "سُورَةُ مُحَمَّدٍ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 52,
+        "name_english": "At-Tur",
+        "name_arabic": "سُورَةُ الطُّورِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 57,
+        "name_english": "Al-Hadid",
+        "name_arabic": "سُورَةُ الحَدِيدِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 70,
+        "name_english": "Al-Ma'aarij",
+        "name_arabic": "سُورَةُ المَعَارِجِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 5,
+      "Meccan": 15
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        5,
+        57,
+        10
+      ],
+      "form_arabic": "وَلَعِبًا",
+      "lemma": "laEib",
+      "lemma_arabic": "لَعِب",
+      "pos": "N",
+      "ayah_id": "5:57",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ ٱلَّذِينَ ٱتَّخَذُواْ دِينَكُمۡ هُزُوࣰ ا وَلَعِبࣰ ا مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ وَٱلۡكُفَّارَ أَوۡلِيَآءَۚ وَٱتَّقُواْ ٱللَّهَ إِن كُنتُم مُّؤۡمِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "and fun",
+      "translations": {
+        "saheeh": "O you who have believed, take not those who have taken your religion in ridicule and amusement among the ones who were given the Scripture before you nor the disbelievers as allies. And fear Allah, if you should [truly] be believers.",
+        "pickthall": "O Ye who believe! Choose not for guardians such of those who received the Scripture before you, and of the disbelievers, as make a jest and sport of your religion. But keep your duty to Allah if ye are true believers.",
+        "khattab": "O believers! Do not seek the guardianship of those given the Scripture before you and the disbelievers who have made your faith a mockery and amusement. And be mindful of Allah if you are ˹truly˺ believers",
+        "arberry": "O believers, take not as your friends those of them, who were given the Book before you, and the unbelievers, who take your religion in mockery and as a sport -- and fear God, if you are believers --"
+      }
+    },
+    {
+      "location": [
+        5,
+        58,
+        7
+      ],
+      "form_arabic": "وَلَعِبًا",
+      "lemma": "laEib",
+      "lemma_arabic": "لَعِب",
+      "pos": "N",
+      "ayah_id": "5:58",
+      "ayah_arabic": "وَإِذَا نَادَيۡتُمۡ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوࣰ ا وَلَعِبࣰ اۚ ذَٰلِكَ بِأَنَّهُمۡ قَوۡمࣱ لَّا يَعۡقِلُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "and fun",
+      "translations": {
+        "saheeh": "And when you call to prayer, they take it in ridicule and amusement. That is because they are a people who do not use reason.",
+        "pickthall": "And when ye call to prayer they take it for a jest and sport. That is because they are a folk who understand not.",
+        "khattab": "When you call to prayer, they mock it in amusement. This is because they are a people without understanding",
+        "arberry": "and when you call to prayer, take it in mockery and as a sport; that is because they are a people who have no understanding."
+      }
+    },
+    {
+      "location": [
+        6,
+        32,
+        5
+      ],
+      "form_arabic": "لَعِبٌ",
+      "lemma": "laEib",
+      "lemma_arabic": "لَعِب",
+      "pos": "N",
+      "ayah_id": "6:32",
+      "ayah_arabic": "وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا لَعِبࣱ وَلَهۡوࣱۖ وَلَلدَّارُ ٱلۡأٓخِرَةُ خَيۡرࣱ لِّلَّذِينَ يَتَّقُونَۚ أَفَلَا تَعۡقِلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "a play",
+      "translations": {
+        "saheeh": "And the worldly life is not but amusement and diversion; but the home of the Hereafter is best for those who fear Allah, so will you not reason?",
+        "pickthall": "Naught is the life of the world save a pastime and a sport. Better far is the abode of the Hereafter for those who keep their duty (to Allah). Have ye then no sense?",
+        "khattab": "This worldly life is no more than play and amusement, but far better is the ˹eternal˺ Home of the Hereafter for those mindful ˹of Allah˺. Will you not then understand",
+        "arberry": "The present life is naught but a sport and a diversion; surely the Last Abode is better for those that are godfearing. What, do you not understand?"
+      }
+    },
+    {
+      "location": [
+        6,
+        70,
+        5
+      ],
+      "form_arabic": "لَعِبًا",
+      "lemma": "laEib",
+      "lemma_arabic": "لَعِب",
+      "pos": "N",
+      "ayah_id": "6:70",
+      "ayah_arabic": "وَذَرِ ٱلَّذِينَ ٱتَّخَذُواْ دِينَهُمۡ لَعِبࣰ ا وَلَهۡوࣰ ا وَغَرَّتۡهُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَاۚ وَذَكِّرۡ بِهِۦٓ أَن تُبۡسَلَ نَفۡسُۢ بِمَا كَسَبَتۡ لَيۡسَ لَهَا مِن دُونِ ٱللَّهِ وَلِيࣱّ وَلَا شَفِيعࣱ وَإِن تَعۡدِلۡ كُلَّ عَدۡلࣲ لَّا يُؤۡخَذۡ مِنۡهَآۗ أُوْلَٰٓئِكَ ٱلَّذِينَ أُبۡسِلُواْ بِمَا كَسَبُواْۖ لَهُمۡ شَرَابࣱ مِّنۡ حَمِيمࣲ وَعَذَابٌ أَلِيمُۢ بِمَا كَانُواْ يَكۡفُرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "(as) a play",
+      "translations": {
+        "saheeh": "And leave those who take their religion as amusement and diversion and whom the worldly life has deluded. But remind with the Qur'an, lest a soul be given up to destruction for what it earned; it will have other than Allah no protector and no intercessor. And if it should offer every compensation, it would not be taken from it. Those are the ones who are given to destruction for what they have earned. For them will be a drink of scalding water and a painful punishment because they used to disbelieve.",
+        "pickthall": "And forsake those who take their religion for a pastime and a jest, and whom the life of the world beguileth. Remind (mankind) hereby lest a soul be destroyed by what it earneth. It hath beside Allah no protecting ally nor intercessor, and though it offer every compensation it will not be accepted from it. Those are they who perish by their own deserts. For them is drink of boiling water and a painful doom, because they disbelieved.",
+        "khattab": "And leave those who take this faith ˹of Islam˺ as mere play and amusement and are deluded by ˹their˺ worldly life. Yet remind them by this ˹Quran˺, so no one should be ruined for their misdeeds. They will have no protector or intercessor other than Allah. Even if they were to offer every ˹possible˺ ransom, none will be accepted from them. Those are the ones who will be ruined for their misdeeds. They will have a boiling drink and painful punishment for their disbelief",
+        "arberry": "Leave alone those who take their religion for a sport and a diversion, and whom the present life has deluded. Remind hereby, lest a soul should be given up to destruction for what it has earned; apart from God, it has no protector and no intercessor; though it offer any equivalent, it shall not be taken from it. Those are they who are given up to destruction for what they have earned; for them awaits a draught of boiling water and a painful chastisement, for that they were unbelievers."
+      }
+    },
+    {
+      "location": [
+        6,
+        91,
+        44
+      ],
+      "form_arabic": "يَلْعَبُونَ",
+      "lemma": "yaloEabo",
+      "lemma_arabic": "يَلْعَبْ",
+      "pos": "V",
+      "ayah_id": "6:91",
+      "ayah_arabic": "وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدۡرِهِۦٓ إِذۡ قَالُواْ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرࣲ مِّن شَيۡءࣲۗ قُلۡ مَنۡ أَنزَلَ ٱلۡكِتَٰبَ ٱلَّذِي جَآءَ بِهِۦ مُوسَىٰ نُورࣰ ا وَهُدࣰ ى لِّلنَّاسِۖ تَجۡعَلُونَهُۥ قَرَاطِيسَ تُبۡدُونَهَا وَتُخۡفُونَ كَثِيرࣰ اۖ وَعُلِّمۡتُم مَّا لَمۡ تَعۡلَمُوٓاْ أَنتُمۡ وَلَآ ءَابَآؤُكُمۡۖ قُلِ ٱللَّهُۖ ثُمَّ ذَرۡهُمۡ فِي خَوۡضِهِمۡ يَلۡعَبُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "playing",
+      "translations": {
+        "saheeh": "And they did not appraise Allah with true appraisal when they said, \"Allah did not reveal to a human being anything.\" Say, \"Who revealed the Scripture that Moses brought as light and guidance to the people? You [Jews] make it into pages, disclosing [some of] it and concealing much. And you were taught that which you knew not - neither you nor your fathers.\" Say, \"Allah [revealed it].\" Then leave them in their [empty] discourse, amusing themselves.",
+        "pickthall": "And they measure not the power of Allah its true measure when they say: Allah hath naught revealed unto a human being. Say (unto the Jews who speak thus): Who revealed the Book which Moses brought, a light and guidance for mankind, which ye have put on parchments which ye show, but ye hide much (thereof), and (by which) ye were taught that which ye knew not yourselves nor (did) your fathers (know it)? Say: Allah. Then leave them to their play of cavilling.",
+        "khattab": "And they have not shown Allah His proper reverence when they said, “Allah has revealed nothing to any human being.” Say, ˹O Prophet,˺ “Who then revealed the Book brought forth by Moses as a light and guidance for people, which you split into separate sheets—revealing some and hiding much? You have been taught ˹through this Quran˺ what neither you nor your forefathers knew.” Say, ˹O Prophet,˺ “Allah ˹revealed it˺!” Then leave them to amuse themselves with falsehood",
+        "arberry": "They measured not God with His true measure when they said, 'God has not sent down aught on any mortal.' Say: 'Who sent down the Book that Moses brought as a light and a guidance to men? You put it into parchments, revealing them, and hiding much; and you were taught that you knew not, you and your fathers.' Say: 'God.' Then leave them alone, playing their game of plunging."
+      }
+    },
+    {
+      "location": [
+        7,
+        51,
+        5
+      ],
+      "form_arabic": "وَلَعِبًا",
+      "lemma": "laEib",
+      "lemma_arabic": "لَعِب",
+      "pos": "N",
+      "ayah_id": "7:51",
+      "ayah_arabic": "ٱلَّذِينَ ٱتَّخَذُواْ دِينَهُمۡ لَهۡوࣰ ا وَلَعِبࣰ ا وَغَرَّتۡهُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَاۚ فَٱلۡيَوۡمَ نَنسَىٰهُمۡ كَمَا نَسُواْ لِقَآءَ يَوۡمِهِمۡ هَٰذَا وَمَا كَانُواْ بِـَٔايَٰتِنَا يَجۡحَدُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "and play",
+      "translations": {
+        "saheeh": "Who took their religion as distraction and amusement and whom the worldly life deluded.\" So today We will forget them just as they forgot the meeting of this Day of theirs and for having rejected Our verses.",
+        "pickthall": "Who took their religion for a sport and pastime, and whom the life of the world beguiled. So this day We have forgotten them even as they forgot the meeting of this their Day and as they used to deny Our tokens.",
+        "khattab": "those who took this faith ˹of Islam˺ as mere amusement and play and were deluded by ˹their˺ worldly life.” ˹Allah will say,˺ “Today We will ignore them just as they ignored the coming of this Day of theirs and for rejecting Our revelations.”",
+        "arberry": "who have taken their religion as a diversion and a sport, and whom the present life has deluded.' -- Therefore today We forget them as they forgot the encounter of this their day, and that they denied Our signs."
+      }
+    },
+    {
+      "location": [
+        7,
+        98,
+        9
+      ],
+      "form_arabic": "يَلْعَبُونَ",
+      "lemma": "yaloEabo",
+      "lemma_arabic": "يَلْعَبْ",
+      "pos": "V",
+      "ayah_id": "7:98",
+      "ayah_arabic": "أَوَأَمِنَ أَهۡلُ ٱلۡقُرَىٰٓ أَن يَأۡتِيَهُم بَأۡسُنَا ضُحࣰ ى وَهُمۡ يَلۡعَبُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "(were) playing",
+      "translations": {
+        "saheeh": "Or did the people of the cities feel secure from Our punishment coming to them in the morning while they were at play?",
+        "pickthall": "Or are the people of the townships then secure from the coming of Our wrath upon them in the daytime while they play?",
+        "khattab": "Or did they feel secure that Our punishment would not come upon them by day while they were at play",
+        "arberry": "Do the people of the cities feel secure Our might shall not come upon them in daylight while they are playing?"
+      }
+    },
+    {
+      "location": [
+        9,
+        65,
+        7
+      ],
+      "form_arabic": "وَنَلْعَبُ",
+      "lemma": "yaloEabo",
+      "lemma_arabic": "يَلْعَبْ",
+      "pos": "V",
+      "ayah_id": "9:65",
+      "ayah_arabic": "وَلَئِن سَأَلۡتَهُمۡ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلۡعَبُۚ قُلۡ أَبِٱللَّهِ وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمۡ تَسۡتَهۡزِءُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "and playing",
+      "translations": {
+        "saheeh": "And if you ask them, they will surely say, \"We were only conversing and playing.\" Say, \"Is it Allah and His verses and His Messenger that you were mocking?\"",
+        "pickthall": "And if thou ask them (O Muhammad) they will say: We did but talk and jest. Say: Was it at Allah and His revelations and His messenger that ye did scoff?",
+        "khattab": "If you question them, they will certainly say, “We were only talking idly and joking around.” Say, “Was it Allah, His revelations, and His Messenger that you ridiculed?”",
+        "arberry": "And if thou questionest them, then assuredly they will say, 'We were only plunging and playing.' Say: 'What, then were you mocking God, and His signs, and His Messenger?"
+      }
+    },
+    {
+      "location": [
+        12,
+        12,
+        5
+      ],
+      "form_arabic": "وَيَلْعَبْ",
+      "lemma": "yaloEabo",
+      "lemma_arabic": "يَلْعَبْ",
+      "pos": "V",
+      "ayah_id": "12:12",
+      "ayah_arabic": "أَرۡسِلۡهُ مَعَنَا غَدࣰ ا يَرۡتَعۡ وَيَلۡعَبۡ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "and play",
+      "translations": {
+        "saheeh": "Send him with us tomorrow that he may eat well and play. And indeed, we will be his guardians.",
+        "pickthall": "Send him with us to-morrow that he may enjoy himself and play. And lo! we shall take good care of him.",
+        "khattab": "Send him out with us tomorrow so that he may enjoy himself and play. And we will really watch over him.”",
+        "arberry": "Send him forth with us tomorrow, to frolic and play; surely we shall be watching over him.'"
+      }
+    },
+    {
+      "location": [
+        21,
+        2,
+        11
+      ],
+      "form_arabic": "يَلْعَبُونَ",
+      "lemma": "yaloEabo",
+      "lemma_arabic": "يَلْعَبْ",
+      "pos": "V",
+      "ayah_id": "21:2",
+      "ayah_arabic": "مَا يَأۡتِيهِم مِّن ذِكۡرࣲ مِّن رَّبِّهِم مُّحۡدَثٍ إِلَّا ٱسۡتَمَعُوهُ وَهُمۡ يَلۡعَبُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Anbiyaa",
+      "literal_gloss": "(are at) play",
+      "translations": {
+        "saheeh": "No mention comes to them anew from their Lord except that they listen to it while they are at play",
+        "pickthall": "Never cometh there unto them a new reminder from their Lord but they listen to it while they play,",
+        "khattab": "Whatever new reminder comes to them from their Lord, they only listen to it jokingly",
+        "arberry": "no Remembrance from their Lord comes to them lately renewed, but they listen to it yet playing,"
+      }
+    },
+    {
+      "location": [
+        21,
+        16,
+        7
+      ],
+      "form_arabic": "لَٰعِبِينَ",
+      "lemma": "la`Eibiyn",
+      "lemma_arabic": "لَٰعِبِين",
+      "pos": "N",
+      "ayah_id": "21:16",
+      "ayah_arabic": "وَمَا خَلَقۡنَا ٱلسَّمَآءَ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Anbiyaa",
+      "literal_gloss": "(for) playing",
+      "translations": {
+        "saheeh": "And We did not create the heaven and earth and that between them in play.",
+        "pickthall": "We created not the heaven and the earth and all that is between them in play.",
+        "khattab": "We did not create the heavens and the earth and everything in between for sport",
+        "arberry": "We created not the heaven and the earth, and whatsoever between them is, as playing;"
+      }
+    },
+    {
+      "location": [
+        21,
+        55,
+        7
+      ],
+      "form_arabic": "ٱللَّٰعِبِينَ",
+      "lemma": "la`Eibiyn",
+      "lemma_arabic": "لَٰعِبِين",
+      "pos": "N",
+      "ayah_id": "21:55",
+      "ayah_arabic": "قَالُوٓاْ أَجِئۡتَنَا بِٱلۡحَقِّ أَمۡ أَنتَ مِنَ ٱللَّٰعِبِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Anbiyaa",
+      "literal_gloss": "those who play",
+      "translations": {
+        "saheeh": "They said, \"Have you come to us with truth, or are you of those who jest?\"",
+        "pickthall": "They said: Bringest thou unto us the truth, or art thou some jester?",
+        "khattab": "They asked, “Have you come to us with the truth, or is this a joke?”",
+        "arberry": "They said, 'What, hast thou come to us with the truth, or art thou one of those that play?'"
+      }
+    },
+    {
+      "location": [
+        29,
+        64,
+        7
+      ],
+      "form_arabic": "وَلَعِبٌ",
+      "lemma": "laEib",
+      "lemma_arabic": "لَعِب",
+      "pos": "N",
+      "ayah_id": "29:64",
+      "ayah_arabic": "وَمَا هَٰذِهِ ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا لَهۡوࣱ وَلَعِبࣱۚ وَإِنَّ ٱلدَّارَ ٱلۡأٓخِرَةَ لَهِيَ ٱلۡحَيَوَانُۚ لَوۡ كَانُواْ يَعۡلَمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ankaboot",
+      "literal_gloss": "and play",
+      "translations": {
+        "saheeh": "And this worldly life is not but diversion and amusement. And indeed, the home of the Hereafter - that is the [eternal] life, if only they knew.",
+        "pickthall": "This life of the world is but a pastime and a game. Lo! the home of the Hereafter - that is Life, if they but knew.",
+        "khattab": "This worldly life is no more than play and amusement. But the Hereafter is indeed the real life, if only they knew",
+        "arberry": "This present life is naught but a diversion and a sport; surely the Last Abode is Life, did they but know."
+      }
+    },
+    {
+      "location": [
+        43,
+        83,
+        3
+      ],
+      "form_arabic": "وَيَلْعَبُوا@",
+      "lemma": "yaloEabo",
+      "lemma_arabic": "يَلْعَبْ",
+      "pos": "V",
+      "ayah_id": "43:83",
+      "ayah_arabic": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zukhruf",
+      "literal_gloss": "and play",
+      "translations": {
+        "saheeh": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised.",
+        "pickthall": "So let them flounder (in their talk) and play until they meet the Day which they are promised.",
+        "khattab": "So let them indulge ˹in falsehood˺ and amuse ˹themselves˺ until they face their Day, which they have been warned of",
+        "arberry": "Then leave them alone to plunge and play, until they encounter that day of theirs which they are promised."
+      }
+    },
+    {
+      "location": [
+        44,
+        9,
+        5
+      ],
+      "form_arabic": "يَلْعَبُونَ",
+      "lemma": "yaloEabo",
+      "lemma_arabic": "يَلْعَبْ",
+      "pos": "V",
+      "ayah_id": "44:9",
+      "ayah_arabic": "بَلۡ هُمۡ فِي شَكࣲّ يَلۡعَبُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ad-Dukhaan",
+      "literal_gloss": "playing",
+      "translations": {
+        "saheeh": "But they are in doubt, amusing themselves.",
+        "pickthall": "Nay, but they play in doubt.",
+        "khattab": "In fact, they are in doubt, amusing themselves",
+        "arberry": "Nay, but they are in doubt, playing."
+      }
+    },
+    {
+      "location": [
+        44,
+        38,
+        7
+      ],
+      "form_arabic": "لَٰعِبِينَ",
+      "lemma": "la`Eibiyn",
+      "lemma_arabic": "لَٰعِبِين",
+      "pos": "N",
+      "ayah_id": "44:38",
+      "ayah_arabic": "وَمَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ad-Dukhaan",
+      "literal_gloss": "(in) play",
+      "translations": {
+        "saheeh": "And We did not create the heavens and earth and that between them in play.",
+        "pickthall": "And We created not the heavens and the earth, and all that is between them, in play.",
+        "khattab": "We did not create the heavens and the earth and everything in between for sport",
+        "arberry": "We created not the heavens and earth, and all that between them is, in play;"
+      }
+    },
+    {
+      "location": [
+        47,
+        36,
+        4
+      ],
+      "form_arabic": "لَعِبٌ",
+      "lemma": "laEib",
+      "lemma_arabic": "لَعِب",
+      "pos": "N",
+      "ayah_id": "47:36",
+      "ayah_arabic": "إِنَّمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا لَعِبࣱ وَلَهۡوࣱۚ وَإِن تُؤۡمِنُواْ وَتَتَّقُواْ يُؤۡتِكُمۡ أُجُورَكُمۡ وَلَا يَسۡـَٔلۡكُمۡ أَمۡوَٰلَكُمۡ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Muhammad",
+      "literal_gloss": "(is) play",
+      "translations": {
+        "saheeh": "[This] worldly life is only amusement and diversion. And if you believe and fear Allah, He will give you your rewards and not ask you for your properties.",
+        "pickthall": "The life of the world is but a sport and a pastime. And if ye believe and ward off (evil). He will give you your wages, and will not ask of you your wordly wealth.",
+        "khattab": "This worldly life is no more than play and amusement. But if you are faithful and mindful ˹of Allah˺, He will grant you your ˹full˺ reward, and will not ask you ˹to donate all˺ your wealth",
+        "arberry": "The present life is naught but a sport and a diversion; and if you believe and are godfearing, He will give you your wages, and will not ask of you your goods."
+      }
+    },
+    {
+      "location": [
+        52,
+        12,
+        5
+      ],
+      "form_arabic": "يَلْعَبُونَ",
+      "lemma": "yaloEabo",
+      "lemma_arabic": "يَلْعَبْ",
+      "pos": "V",
+      "ayah_id": "52:12",
+      "ayah_arabic": "ٱلَّذِينَ هُمۡ فِي خَوۡضࣲ يَلۡعَبُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "are playing",
+      "translations": {
+        "saheeh": "Who are in [empty] discourse amusing themselves.",
+        "pickthall": "Who play in talk of grave matters;",
+        "khattab": "those who amuse themselves with falsehood",
+        "arberry": "such as play at plunging,"
+      }
+    },
+    {
+      "location": [
+        57,
+        20,
+        5
+      ],
+      "form_arabic": "لَعِبٌ",
+      "lemma": "laEib",
+      "lemma_arabic": "لَعِب",
+      "pos": "N",
+      "ayah_id": "57:20",
+      "ayah_arabic": "ٱعۡلَمُوٓاْ أَنَّمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا لَعِبࣱ وَلَهۡوࣱ وَزِينَةࣱ وَتَفَاخُرُۢ بَيۡنَكُمۡ وَتَكَاثُرࣱ فِي ٱلۡأَمۡوَٰلِ وَٱلۡأَوۡلَٰدِۖ كَمَثَلِ غَيۡثٍ أَعۡجَبَ ٱلۡكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصۡفَرࣰّ ا ثُمَّ يَكُونُ حُطَٰمࣰ اۖ وَفِي ٱلۡأٓخِرَةِ عَذَابࣱ شَدِيدࣱ وَمَغۡفِرَةࣱ مِّنَ ٱللَّهِ وَرِضۡوَٰنࣱۚ وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا مَتَٰعُ ٱلۡغُرُورِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hadid",
+      "literal_gloss": "(is) play",
+      "translations": {
+        "saheeh": "Know that the life of this world is but amusement and diversion and adornment and boasting to one another and competition in increase of wealth and children - like the example of a rain whose [resulting] plant growth pleases the tillers; then it dries and you see it turned yellow; then it becomes [scattered] debris. And in the Hereafter is severe punishment and forgiveness from Allah and approval. And what is the worldly life except the enjoyment of delusion.",
+        "pickthall": "Know that the life of the world is only play, and idle talk, and pageantry, and boasting among you, and rivalry in respect of wealth and children; as the likeness of vegetation after rain, whereof the growth is pleasing to the husbandman, but afterward it drieth up and thou seest it turning yellow, then it becometh straw. And in the Hereafter there is grievous punishment, and (also) forgiveness from Allah and His good pleasure, whereas the life of the world is but matter of illusion.",
+        "khattab": "Know that this worldly life is no more than play, amusement, luxury, mutual boasting, and competition in wealth and children. This is like rain that causes plants to grow, to the delight of the planters. But later the plants dry up and you see them wither, then they are reduced to chaff. And in the Hereafter there will be either severe punishment or forgiveness and pleasure of Allah, whereas the life of this world is no more than the delusion of enjoyment",
+        "arberry": "Know that the present life is but a sport and a diversion, an adornment and a cause for boasting among you, and a rivalry in wealth and children. It is as a rain whose vegetation pleases the unbelievers; then it withers, and thou seest it turning yellow, then it becomes broken orts. And in the world to come there is a terrible chastisement, and forgiveness from God and good pleasure; and the present life is but the joy of delusion."
+      }
+    },
+    {
+      "location": [
+        70,
+        42,
+        3
+      ],
+      "form_arabic": "وَيَلْعَبُوا@",
+      "lemma": "yaloEabo",
+      "lemma_arabic": "يَلْعَبْ",
+      "pos": "V",
+      "ayah_id": "70:42",
+      "ayah_arabic": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ma'aarij",
+      "literal_gloss": "and amuse themselves",
+      "translations": {
+        "saheeh": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised -",
+        "pickthall": "So let them chat and play until they meet their Day which they are promised,",
+        "khattab": "So let them indulge ˹in falsehood˺ and amuse ˹themselves˺ until they face their Day, which they have been threatened with—",
+        "arberry": "Then leave them alone to plunge and play until they encounter that day of theirs which they are promised,"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1064 @@
+{
+  "root": "xwD",
+  "root_arabic": "خوض",
+  "stats": {
+    "occurrences": 12,
+    "lemmas": 3,
+    "ayahs": 9,
+    "surahs": 7,
+    "pos_distribution": {
+      "V": 9,
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "xaADu",
+      "lemma_arabic": "خَاضُ",
+      "count": 9,
+      "pos_distribution": {
+        "V": 9
+      },
+      "first_occurrence": [
+        4,
+        140,
+        19
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            140,
+            19
+          ],
+          "form_arabic": "يَخُوضُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            6,
+            68,
+            4
+          ],
+          "form_arabic": "يَخُوضُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            6,
+            68,
+            10
+          ],
+          "form_arabic": "يَخُوضُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            65,
+            6
+          ],
+          "form_arabic": "نَخُوضُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            69,
+            21
+          ],
+          "form_arabic": "وَخُضْتُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            69,
+            23
+          ],
+          "form_arabic": "خَاضُو^ا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            43,
+            83,
+            2
+          ],
+          "form_arabic": "يَخُوضُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            70,
+            42,
+            2
+          ],
+          "form_arabic": "يَخُوضُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            74,
+            45,
+            2
+          ],
+          "form_arabic": "نَخُوضُ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "xawoD",
+      "lemma_arabic": "خَوْض",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        6,
+        91,
+        43
+      ],
+      "occurrences": [
+        {
+          "location": [
+            6,
+            91,
+            43
+          ],
+          "form_arabic": "خَوْضِهِمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            52,
+            12,
+            4
+          ],
+          "form_arabic": "خَوْضٍ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "xaA^}iDiyn",
+      "lemma_arabic": "خَا^ئِضِين",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        74,
+        45,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            74,
+            45,
+            4
+          ],
+          "form_arabic": "ٱلْخَا^ئِضِينَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "lEb",
+      "root_arabic": "لعب",
+      "ayahs_together": 5,
+      "share": 0.5556,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "w*r",
+      "root_arabic": "وذر",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        65
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        43,
+        83
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        43,
+        83
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        43,
+        83
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "Hdv",
+      "root_arabic": "حدث",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "qEd",
+      "root_arabic": "قعد",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "hzA",
+      "root_arabic": "هزا",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "bdw",
+      "root_arabic": "بدو",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "b$r",
+      "root_arabic": "بشر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "qrTs",
+      "root_arabic": "قرطس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "xfy",
+      "root_arabic": "خفي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        91
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        68
+      ]
+    },
+    {
+      "root": "nsy",
+      "root_arabic": "نسي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        68
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        68
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        68
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        68
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        68
+      ]
+    },
+    {
+      "root": "$Tn",
+      "root_arabic": "شطن",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        68
+      ]
+    },
+    {
+      "root": "ErD",
+      "root_arabic": "عرض",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        6,
+        68
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        4,
+        140
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "xsr",
+      "root_arabic": "خسر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "qwy",
+      "root_arabic": "قوي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "HbT",
+      "root_arabic": "حبط",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        69
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        65
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        9,
+        65
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 3
+      },
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 3
+      },
+      {
+        "surah": 74,
+        "name_english": "Al-Muddaththir",
+        "name_arabic": "سُورَةُ المُدَّثِّرِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 43,
+        "name_english": "Az-Zukhruf",
+        "name_arabic": "سُورَةُ الزُّخۡرُفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 52,
+        "name_english": "At-Tur",
+        "name_arabic": "سُورَةُ الطُّورِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 70,
+        "name_english": "Al-Ma'aarij",
+        "name_arabic": "سُورَةُ المَعَارِجِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 4,
+      "Meccan": 8
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        140,
+        19
+      ],
+      "form_arabic": "يَخُوضُوا@",
+      "lemma": "xaADu",
+      "lemma_arabic": "خَاضُ",
+      "pos": "V",
+      "ayah_id": "4:140",
+      "ayah_arabic": "وَقَدۡ نَزَّلَ عَلَيۡكُمۡ فِي ٱلۡكِتَٰبِ أَنۡ إِذَا سَمِعۡتُمۡ ءَايَٰتِ ٱللَّهِ يُكۡفَرُ بِهَا وَيُسۡتَهۡزَأُ بِهَا فَلَا تَقۡعُدُواْ مَعَهُمۡ حَتَّىٰ يَخُوضُواْ فِي حَدِيثٍ غَيۡرِهِۦٓ إِنَّكُمۡ إِذࣰ ا مِّثۡلُهُمۡۗ إِنَّ ٱللَّهَ جَامِعُ ٱلۡمُنَٰفِقِينَ وَٱلۡكَٰفِرِينَ فِي جَهَنَّمَ جَمِيعًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "they engage",
+      "translations": {
+        "saheeh": "And it has already come down to you in the Book that when you hear the verses of Allah [recited], they are denied [by them] and ridiculed; so do not sit with them until they enter into another conversation. Indeed, you would then be like them. Indeed Allah will gather the hypocrites and disbelievers in Hell all together -",
+        "pickthall": "He hath already revealed unto you in the Scripture that, when ye hear the revelations of Allah rejected and derided, (ye) sit not with them (who disbelieve and mock) until they engage in some other conversation. Lo! in that case (if ye stayed) ye would be like unto them. Lo! Allah will gather hypocrites and disbelievers, all together, into hell;",
+        "khattab": "He has already revealed to you in the Book that when you hear Allah’s revelations being denied or ridiculed, then do not sit in that company unless they engage in a different topic, or else you will be like them. Surely Allah will gather the hypocrites and disbelievers all together in Hell",
+        "arberry": "He has sent down upon you in the Book: 'When you hear God's signs being disbelieved and made mock of, do not sit with them until they plunge into some other talk, or else you will surely be like to them.' God will gather the hypocrites and the unbelievers all in Gehenna."
+      }
+    },
+    {
+      "location": [
+        6,
+        68,
+        4
+      ],
+      "form_arabic": "يَخُوضُونَ",
+      "lemma": "xaADu",
+      "lemma_arabic": "خَاضُ",
+      "pos": "V",
+      "ayah_id": "6:68",
+      "ayah_arabic": "وَإِذَا رَأَيۡتَ ٱلَّذِينَ يَخُوضُونَ فِيٓ ءَايَٰتِنَا فَأَعۡرِضۡ عَنۡهُمۡ حَتَّىٰ يَخُوضُواْ فِي حَدِيثٍ غَيۡرِهِۦۚ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيۡطَٰنُ فَلَا تَقۡعُدۡ بَعۡدَ ٱلذِّكۡرَىٰ مَعَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "engage (in vain talks)",
+      "translations": {
+        "saheeh": "And when you see those who engage in [offensive] discourse concerning Our verses, then turn away from them until they enter into another conversation. And if Satan should cause you to forget, then do not remain after the reminder with the wrongdoing people.",
+        "pickthall": "And when thou seest those who meddle with Our revelations, withdraw from them until they meddle with another topic. And if the devil cause thee to forget, sit not, after the remembrance, with the congregation of wrong-doers.",
+        "khattab": "And when you come across those who ridicule Our revelations, do not sit with them unless they engage in a different topic. Should Satan make you forget, then once you remember, do not ˹continue to˺ sit with the wrongdoing people",
+        "arberry": "When thou seest those who plunge into Our signs, turn away from them until they plunge into some other talk; or if Satan should make thee forget, do not sit, after the reminding, with the people of the evildoers."
+      }
+    },
+    {
+      "location": [
+        6,
+        68,
+        10
+      ],
+      "form_arabic": "يَخُوضُوا@",
+      "lemma": "xaADu",
+      "lemma_arabic": "خَاضُ",
+      "pos": "V",
+      "ayah_id": "6:68",
+      "ayah_arabic": "وَإِذَا رَأَيۡتَ ٱلَّذِينَ يَخُوضُونَ فِيٓ ءَايَٰتِنَا فَأَعۡرِضۡ عَنۡهُمۡ حَتَّىٰ يَخُوضُواْ فِي حَدِيثٍ غَيۡرِهِۦۚ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيۡطَٰنُ فَلَا تَقۡعُدۡ بَعۡدَ ٱلذِّكۡرَىٰ مَعَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "they engage",
+      "translations": {
+        "saheeh": "And when you see those who engage in [offensive] discourse concerning Our verses, then turn away from them until they enter into another conversation. And if Satan should cause you to forget, then do not remain after the reminder with the wrongdoing people.",
+        "pickthall": "And when thou seest those who meddle with Our revelations, withdraw from them until they meddle with another topic. And if the devil cause thee to forget, sit not, after the remembrance, with the congregation of wrong-doers.",
+        "khattab": "And when you come across those who ridicule Our revelations, do not sit with them unless they engage in a different topic. Should Satan make you forget, then once you remember, do not ˹continue to˺ sit with the wrongdoing people",
+        "arberry": "When thou seest those who plunge into Our signs, turn away from them until they plunge into some other talk; or if Satan should make thee forget, do not sit, after the reminding, with the people of the evildoers."
+      }
+    },
+    {
+      "location": [
+        6,
+        91,
+        43
+      ],
+      "form_arabic": "خَوْضِهِمْ",
+      "lemma": "xawoD",
+      "lemma_arabic": "خَوْض",
+      "pos": "N",
+      "ayah_id": "6:91",
+      "ayah_arabic": "وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدۡرِهِۦٓ إِذۡ قَالُواْ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرࣲ مِّن شَيۡءࣲۗ قُلۡ مَنۡ أَنزَلَ ٱلۡكِتَٰبَ ٱلَّذِي جَآءَ بِهِۦ مُوسَىٰ نُورࣰ ا وَهُدࣰ ى لِّلنَّاسِۖ تَجۡعَلُونَهُۥ قَرَاطِيسَ تُبۡدُونَهَا وَتُخۡفُونَ كَثِيرࣰ اۖ وَعُلِّمۡتُم مَّا لَمۡ تَعۡلَمُوٓاْ أَنتُمۡ وَلَآ ءَابَآؤُكُمۡۖ قُلِ ٱللَّهُۖ ثُمَّ ذَرۡهُمۡ فِي خَوۡضِهِمۡ يَلۡعَبُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "their discourse ",
+      "translations": {
+        "saheeh": "And they did not appraise Allah with true appraisal when they said, \"Allah did not reveal to a human being anything.\" Say, \"Who revealed the Scripture that Moses brought as light and guidance to the people? You [Jews] make it into pages, disclosing [some of] it and concealing much. And you were taught that which you knew not - neither you nor your fathers.\" Say, \"Allah [revealed it].\" Then leave them in their [empty] discourse, amusing themselves.",
+        "pickthall": "And they measure not the power of Allah its true measure when they say: Allah hath naught revealed unto a human being. Say (unto the Jews who speak thus): Who revealed the Book which Moses brought, a light and guidance for mankind, which ye have put on parchments which ye show, but ye hide much (thereof), and (by which) ye were taught that which ye knew not yourselves nor (did) your fathers (know it)? Say: Allah. Then leave them to their play of cavilling.",
+        "khattab": "And they have not shown Allah His proper reverence when they said, “Allah has revealed nothing to any human being.” Say, ˹O Prophet,˺ “Who then revealed the Book brought forth by Moses as a light and guidance for people, which you split into separate sheets—revealing some and hiding much? You have been taught ˹through this Quran˺ what neither you nor your forefathers knew.” Say, ˹O Prophet,˺ “Allah ˹revealed it˺!” Then leave them to amuse themselves with falsehood",
+        "arberry": "They measured not God with His true measure when they said, 'God has not sent down aught on any mortal.' Say: 'Who sent down the Book that Moses brought as a light and a guidance to men? You put it into parchments, revealing them, and hiding much; and you were taught that you knew not, you and your fathers.' Say: 'God.' Then leave them alone, playing their game of plunging."
+      }
+    },
+    {
+      "location": [
+        9,
+        65,
+        6
+      ],
+      "form_arabic": "نَخُوضُ",
+      "lemma": "xaADu",
+      "lemma_arabic": "خَاضُ",
+      "pos": "V",
+      "ayah_id": "9:65",
+      "ayah_arabic": "وَلَئِن سَأَلۡتَهُمۡ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلۡعَبُۚ قُلۡ أَبِٱللَّهِ وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمۡ تَسۡتَهۡزِءُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "conversing",
+      "translations": {
+        "saheeh": "And if you ask them, they will surely say, \"We were only conversing and playing.\" Say, \"Is it Allah and His verses and His Messenger that you were mocking?\"",
+        "pickthall": "And if thou ask them (O Muhammad) they will say: We did but talk and jest. Say: Was it at Allah and His revelations and His messenger that ye did scoff?",
+        "khattab": "If you question them, they will certainly say, “We were only talking idly and joking around.” Say, “Was it Allah, His revelations, and His Messenger that you ridiculed?”",
+        "arberry": "And if thou questionest them, then assuredly they will say, 'We were only plunging and playing.' Say: 'What, then were you mocking God, and His signs, and His Messenger?"
+      }
+    },
+    {
+      "location": [
+        9,
+        69,
+        21
+      ],
+      "form_arabic": "وَخُضْتُمْ",
+      "lemma": "xaADu",
+      "lemma_arabic": "خَاضُ",
+      "pos": "V",
+      "ayah_id": "9:69",
+      "ayah_arabic": "كَٱلَّذِينَ مِن قَبۡلِكُمۡ كَانُوٓاْ أَشَدَّ مِنكُمۡ قُوَّةࣰ وَأَكۡثَرَ أَمۡوَٰلࣰ ا وَأَوۡلَٰدࣰ ا فَٱسۡتَمۡتَعُواْ بِخَلَٰقِهِمۡ فَٱسۡتَمۡتَعۡتُم بِخَلَٰقِكُمۡ كَمَا ٱسۡتَمۡتَعَ ٱلَّذِينَ مِن قَبۡلِكُم بِخَلَٰقِهِمۡ وَخُضۡتُمۡ كَٱلَّذِي خَاضُوٓاْۚ أُوْلَٰٓئِكَ حَبِطَتۡ أَعۡمَٰلُهُمۡ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "and you indulge",
+      "translations": {
+        "saheeh": "[You disbelievers are] like those before you; they were stronger than you in power and more abundant in wealth and children. They enjoyed their portion [of worldly enjoyment], and you have enjoyed your portion as those before you enjoyed their portion, and you have engaged [in vanities] like that in which they engaged. [It is] those whose deeds have become worthless in this world and in the Hereafter, and it is they who are the losers.",
+        "pickthall": "Even as those before you who were mightier than you in strength, and more affluent than you in wealth and children. They enjoyed their lot awhile, so ye enjoy your lot awhile even as those before you did enjoy their lot awhile. And ye prate even as they prated. Such are they whose works have perished in the world and the Hereafter. Such are they who are the losers.",
+        "khattab": "˹You hypocrites are˺ like those ˹disbelievers˺ before you. They were far superior to you in might and more abundant in wealth and children. They enjoyed their share in this life. You have enjoyed your share, just as they did. And you have engaged in idle talk, just as they did. Their deeds have become void in this world and the Hereafter. And it is they who are the ˹true˺ losers",
+        "arberry": "those before you, who were stronger than you in might, and more abundant in wealth and children; they took enjoyment in their share; so do you take enjoyment in your share, as those before you took enjoyment in their share. You have plunged as they plunged. Those -- their works have failed in this world and in the world to come; those -- they are the losers."
+      }
+    },
+    {
+      "location": [
+        9,
+        69,
+        23
+      ],
+      "form_arabic": "خَاضُو^ا@",
+      "lemma": "xaADu",
+      "lemma_arabic": "خَاضُ",
+      "pos": "V",
+      "ayah_id": "9:69",
+      "ayah_arabic": "كَٱلَّذِينَ مِن قَبۡلِكُمۡ كَانُوٓاْ أَشَدَّ مِنكُمۡ قُوَّةࣰ وَأَكۡثَرَ أَمۡوَٰلࣰ ا وَأَوۡلَٰدࣰ ا فَٱسۡتَمۡتَعُواْ بِخَلَٰقِهِمۡ فَٱسۡتَمۡتَعۡتُم بِخَلَٰقِكُمۡ كَمَا ٱسۡتَمۡتَعَ ٱلَّذِينَ مِن قَبۡلِكُم بِخَلَٰقِهِمۡ وَخُضۡتُمۡ كَٱلَّذِي خَاضُوٓاْۚ أُوْلَٰٓئِكَ حَبِطَتۡ أَعۡمَٰلُهُمۡ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "indulges (in idle talk)",
+      "translations": {
+        "saheeh": "[You disbelievers are] like those before you; they were stronger than you in power and more abundant in wealth and children. They enjoyed their portion [of worldly enjoyment], and you have enjoyed your portion as those before you enjoyed their portion, and you have engaged [in vanities] like that in which they engaged. [It is] those whose deeds have become worthless in this world and in the Hereafter, and it is they who are the losers.",
+        "pickthall": "Even as those before you who were mightier than you in strength, and more affluent than you in wealth and children. They enjoyed their lot awhile, so ye enjoy your lot awhile even as those before you did enjoy their lot awhile. And ye prate even as they prated. Such are they whose works have perished in the world and the Hereafter. Such are they who are the losers.",
+        "khattab": "˹You hypocrites are˺ like those ˹disbelievers˺ before you. They were far superior to you in might and more abundant in wealth and children. They enjoyed their share in this life. You have enjoyed your share, just as they did. And you have engaged in idle talk, just as they did. Their deeds have become void in this world and the Hereafter. And it is they who are the ˹true˺ losers",
+        "arberry": "those before you, who were stronger than you in might, and more abundant in wealth and children; they took enjoyment in their share; so do you take enjoyment in your share, as those before you took enjoyment in their share. You have plunged as they plunged. Those -- their works have failed in this world and in the world to come; those -- they are the losers."
+      }
+    },
+    {
+      "location": [
+        43,
+        83,
+        2
+      ],
+      "form_arabic": "يَخُوضُوا@",
+      "lemma": "xaADu",
+      "lemma_arabic": "خَاضُ",
+      "pos": "V",
+      "ayah_id": "43:83",
+      "ayah_arabic": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zukhruf",
+      "literal_gloss": "(to) converse vainly",
+      "translations": {
+        "saheeh": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised.",
+        "pickthall": "So let them flounder (in their talk) and play until they meet the Day which they are promised.",
+        "khattab": "So let them indulge ˹in falsehood˺ and amuse ˹themselves˺ until they face their Day, which they have been warned of",
+        "arberry": "Then leave them alone to plunge and play, until they encounter that day of theirs which they are promised."
+      }
+    },
+    {
+      "location": [
+        52,
+        12,
+        4
+      ],
+      "form_arabic": "خَوْضٍ",
+      "lemma": "xawoD",
+      "lemma_arabic": "خَوْض",
+      "pos": "N",
+      "ayah_id": "52:12",
+      "ayah_arabic": "ٱلَّذِينَ هُمۡ فِي خَوۡضࣲ يَلۡعَبُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "(vain) discourse",
+      "translations": {
+        "saheeh": "Who are in [empty] discourse amusing themselves.",
+        "pickthall": "Who play in talk of grave matters;",
+        "khattab": "those who amuse themselves with falsehood",
+        "arberry": "such as play at plunging,"
+      }
+    },
+    {
+      "location": [
+        70,
+        42,
+        2
+      ],
+      "form_arabic": "يَخُوضُوا@",
+      "lemma": "xaADu",
+      "lemma_arabic": "خَاضُ",
+      "pos": "V",
+      "ayah_id": "70:42",
+      "ayah_arabic": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ma'aarij",
+      "literal_gloss": "(to) converse vainly",
+      "translations": {
+        "saheeh": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised -",
+        "pickthall": "So let them chat and play until they meet their Day which they are promised,",
+        "khattab": "So let them indulge ˹in falsehood˺ and amuse ˹themselves˺ until they face their Day, which they have been threatened with—",
+        "arberry": "Then leave them alone to plunge and play until they encounter that day of theirs which they are promised,"
+      }
+    },
+    {
+      "location": [
+        74,
+        45,
+        2
+      ],
+      "form_arabic": "نَخُوضُ",
+      "lemma": "xaADu",
+      "lemma_arabic": "خَاضُ",
+      "pos": "V",
+      "ayah_id": "74:45",
+      "ayah_arabic": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muddaththir",
+      "literal_gloss": "indulge in vain talk",
+      "translations": {
+        "saheeh": "And we used to enter into vain discourse with those who engaged [in it],",
+        "pickthall": "We used to wade (in vain dispute) with (all) waders,",
+        "khattab": "We used to indulge ˹in falsehood˺ along with others",
+        "arberry": "and we plunged along with the plungers,"
+      }
+    },
+    {
+      "location": [
+        74,
+        45,
+        4
+      ],
+      "form_arabic": "ٱلْخَا^ئِضِينَ",
+      "lemma": "xaA^}iDiyn",
+      "lemma_arabic": "خَا^ئِضِين",
+      "pos": "N",
+      "ayah_id": "74:45",
+      "ayah_arabic": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muddaththir",
+      "literal_gloss": "the vain talkers",
+      "translations": {
+        "saheeh": "And we used to enter into vain discourse with those who engaged [in it],",
+        "pickthall": "We used to wade (in vain dispute) with (all) waders,",
+        "khattab": "We used to indulge ˹in falsehood˺ along with others",
+        "arberry": "and we plunged along with the plungers,"
+      }
+    }
+  ]
+}

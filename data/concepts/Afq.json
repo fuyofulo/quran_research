@@ -1,0 +1,265 @@
+{
+  "root": "Afq",
+  "root_arabic": "افق",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">ufuq",
+      "lemma_arabic": "أُفُق",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        41,
+        53,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            41,
+            53,
+            4
+          ],
+          "form_arabic": "ٱلْءَافَاقِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            53,
+            7,
+            2
+          ],
+          "form_arabic": "بِٱلْأُفُقِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            81,
+            23,
+            3
+          ],
+          "form_arabic": "بِٱلْأُفُقِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        41,
+        53
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        41,
+        53
+      ]
+    },
+    {
+      "root": "kfy",
+      "root_arabic": "كفي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        41,
+        53
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        41,
+        53
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        41,
+        53
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        41,
+        53
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        41,
+        53
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        41,
+        53
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        41,
+        53
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        41,
+        53
+      ]
+    },
+    {
+      "root": "Elw",
+      "root_arabic": "علو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        53,
+        7
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 41,
+        "name_english": "Fussilat",
+        "name_arabic": "سُورَةُ فُصِّلَتۡ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 53,
+        "name_english": "An-Najm",
+        "name_arabic": "سُورَةُ النَّجۡمِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 81,
+        "name_english": "At-Takwir",
+        "name_arabic": "سُورَةُ التَّكۡوِيرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        41,
+        53,
+        4
+      ],
+      "form_arabic": "ٱلْءَافَاقِ",
+      "lemma": ">ufuq",
+      "lemma_arabic": "أُفُق",
+      "pos": "N",
+      "ayah_id": "41:53",
+      "ayah_arabic": "سَنُرِيهِمۡ ءَايَٰتِنَا فِي ٱلۡأٓفَاقِ وَفِيٓ أَنفُسِهِمۡ حَتَّىٰ يَتَبَيَّنَ لَهُمۡ أَنَّهُ ٱلۡحَقُّۗ أَوَلَمۡ يَكۡفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ كُلِّ شَيۡءࣲ شَهِيدٌ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Fussilat",
+      "literal_gloss": "the horizons",
+      "translations": {
+        "saheeh": "We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth. But is it not sufficient concerning your Lord that He is, over all things, a Witness?",
+        "pickthall": "We shall show them Our portents on the horizons and within themselves until it will be manifest unto them that it is the Truth. Doth not thy Lord suffice, since He is Witness over all things?",
+        "khattab": "We will show them Our signs in the universe and within themselves until it becomes clear to them that this ˹Quran˺ is the truth. Is it not enough that your Lord is a Witness over all things",
+        "arberry": "We shall show them Our signs in the horizons and in themselves, till it is clear to them that it is the truth. Suffices it not as to thy Lord, that He is witness over everything?"
+      }
+    },
+    {
+      "location": [
+        53,
+        7,
+        2
+      ],
+      "form_arabic": "بِٱلْأُفُقِ",
+      "lemma": ">ufuq",
+      "lemma_arabic": "أُفُق",
+      "pos": "N",
+      "ayah_id": "53:7",
+      "ayah_arabic": "وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Najm",
+      "literal_gloss": "(was) in the horizon ",
+      "translations": {
+        "saheeh": "While he was in the higher [part of the] horizon.",
+        "pickthall": "When he was on the uppermost horizon.",
+        "khattab": "while on the highest point above the horizon",
+        "arberry": "being on the higher horizon,"
+      }
+    },
+    {
+      "location": [
+        81,
+        23,
+        3
+      ],
+      "form_arabic": "بِٱلْأُفُقِ",
+      "lemma": ">ufuq",
+      "lemma_arabic": "أُفُق",
+      "pos": "N",
+      "ayah_id": "81:23",
+      "ayah_arabic": "وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِينِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Takwir",
+      "literal_gloss": "in the horizon",
+      "translations": {
+        "saheeh": "And he has already seen Gabriel in the clear horizon.",
+        "pickthall": "Surely he beheld Him on the clear horizon.",
+        "khattab": "And he did see that ˹angel˺ on the clear horizon",
+        "arberry": "he truly saw him on the clear horizon;"
+      }
+    }
+  ]
+}

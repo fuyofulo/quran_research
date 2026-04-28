@@ -1,0 +1,397 @@
+{
+  "root": "$fw",
+  "root_arabic": "شفو",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "$afaA",
+      "lemma_arabic": "شَفَا",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        3,
+        103,
+        22
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            103,
+            22
+          ],
+          "form_arabic": "شَفَا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            9,
+            109,
+            15
+          ],
+          "form_arabic": "شَفَا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Hfr",
+      "root_arabic": "حفر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "SbH",
+      "root_arabic": "صبح",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "nq*",
+      "root_arabic": "نقذ",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Hbl",
+      "root_arabic": "حبل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Edw",
+      "root_arabic": "عدو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "frq",
+      "root_arabic": "فرق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Alf",
+      "root_arabic": "الف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "ESm",
+      "root_arabic": "عصم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "hwr",
+      "root_arabic": "هور",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "jrf",
+      "root_arabic": "جرف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "Ass",
+      "root_arabic": "اسس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        103,
+        22
+      ],
+      "form_arabic": "شَفَا",
+      "lemma": "$afaA",
+      "lemma_arabic": "شَفَا",
+      "pos": "N",
+      "ayah_id": "3:103",
+      "ayah_arabic": "وَٱعۡتَصِمُواْ بِحَبۡلِ ٱللَّهِ جَمِيعࣰ ا وَلَا تَفَرَّقُواْۚ وَٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ كُنتُمۡ أَعۡدَآءࣰ فَأَلَّفَ بَيۡنَ قُلُوبِكُمۡ فَأَصۡبَحۡتُم بِنِعۡمَتِهِۦٓ إِخۡوَٰنࣰ ا وَكُنتُمۡ عَلَىٰ شَفَا حُفۡرَةࣲ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنۡهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَهۡتَدُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "(the) brink",
+      "translations": {
+        "saheeh": "And hold firmly to the rope of Allah all together and do not become divided. And remember the favor of Allah upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allah make clear to you His verses that you may be guided.",
+        "pickthall": "And hold fast, all of you together, to the cable of Allah, and do not separate. And remember Allah's favour unto you: How ye were enemies and He made friendship between your hearts so that ye became as brothers by His grace; and (how) ye were upon the brink of an abyss of fire, and He did save you from it. Thus Allah maketh clear His revelations unto you, that haply ye may be guided,",
+        "khattab": "And hold firmly to the rope of Allah and do not be divided. Remember Allah’s favour upon you when you were enemies, then He united your hearts, so you—by His grace—became brothers. And you were at the brink of a fiery pit and He saved you from it. This is how Allah makes His revelations clear to you, so that you may be ˹rightly˺ guided",
+        "arberry": "And hold you fast to God's bond, together, and do not scatter; remember God's blessing upon you when you were enemies, and He brought your hearts together, so that by His blessing you became brothers. You were upon the brink of a pit of Fire, and He delivered you from it; even so God makes clear to you His signs; so haply you will be guided."
+      }
+    },
+    {
+      "location": [
+        9,
+        109,
+        15
+      ],
+      "form_arabic": "شَفَا",
+      "lemma": "$afaA",
+      "lemma_arabic": "شَفَا",
+      "pos": "N",
+      "ayah_id": "9:109",
+      "ayah_arabic": "أَفَمَنۡ أَسَّسَ بُنۡيَٰنَهُۥ عَلَىٰ تَقۡوَىٰ مِنَ ٱللَّهِ وَرِضۡوَٰنٍ خَيۡرٌ أَم مَّنۡ أَسَّسَ بُنۡيَٰنَهُۥ عَلَىٰ شَفَا جُرُفٍ هَارࣲ فَٱنۡهَارَ بِهِۦ فِي نَارِ جَهَنَّمَۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "edge",
+      "translations": {
+        "saheeh": "Then is one who laid the foundation of his building on righteousness [with fear] from Allah and [seeking] His approval better or one who laid the foundation of his building on the edge of a bank about to collapse, so it collapsed with him into the fire of Hell? And Allah does not guide the wrongdoing people.",
+        "pickthall": "Is he who founded his building upon duty to Allah and His good pleasure better; or he who founded his building on the brink of a crumbling, overhanging precipice so that it toppled with him into the fire of hell? Allah guideth not wrongdoing folk.",
+        "khattab": "Which is better: those who laid the foundation of their building on the fear and pleasure of Allah, or those who did so on the edge of a crumbling cliff that tumbled down with them into the Fire of Hell? And Allah does not guide the wrongdoing people",
+        "arberry": "Why, is he better who founded his building upon the fear of God and His good pleasure, or he who founded his building upon the brink of a crumbling bank that has tumbled with him into the fire of Gehenna? And God guides not the people of the evildoers."
+      }
+    }
+  ]
+}

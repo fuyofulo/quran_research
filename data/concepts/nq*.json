@@ -1,0 +1,660 @@
+{
+  "root": "nq*",
+  "root_arabic": "نقذ",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 2,
+    "ayahs": 5,
+    "surahs": 4,
+    "pos_distribution": {
+      "V": 5
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">anqa*a",
+      "lemma_arabic": "أَنقَذَ",
+      "count": 4,
+      "pos_distribution": {
+        "V": 4
+      },
+      "first_occurrence": [
+        3,
+        103,
+        26
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            103,
+            26
+          ],
+          "form_arabic": "فَأَنقَذَكُم",
+          "pos": "V"
+        },
+        {
+          "location": [
+            36,
+            23,
+            15
+          ],
+          "form_arabic": "يُنقِذُونِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            36,
+            43,
+            9
+          ],
+          "form_arabic": "يُنقَذُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            39,
+            19,
+            7
+          ],
+          "form_arabic": "تُنقِذُ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "yasotanqi*u",
+      "lemma_arabic": "يَسْتَنقِذُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        22,
+        73,
+        24
+      ],
+      "occurrences": [
+        {
+          "location": [
+            22,
+            73,
+            24
+          ],
+          "form_arabic": "يَسْتَنقِذُوهُ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "grq",
+      "root_arabic": "غرق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        43
+      ]
+    },
+    {
+      "root": "Srx",
+      "root_arabic": "صرخ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        43
+      ]
+    },
+    {
+      "root": "gny",
+      "root_arabic": "غني",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        23
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        23
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        23
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        23
+      ]
+    },
+    {
+      "root": "$fE",
+      "root_arabic": "شفع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        23
+      ]
+    },
+    {
+      "root": "Drr",
+      "root_arabic": "ضرر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        23
+      ]
+    },
+    {
+      "root": "ESm",
+      "root_arabic": "عصم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Alf",
+      "root_arabic": "الف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Hbl",
+      "root_arabic": "حبل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Edw",
+      "root_arabic": "عدو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "frq",
+      "root_arabic": "فرق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "SbH",
+      "root_arabic": "صبح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "$fw",
+      "root_arabic": "شفو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Hfr",
+      "root_arabic": "حفر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        103
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        39,
+        19
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        39,
+        19
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        39,
+        19
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "Tlb",
+      "root_arabic": "طلب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "DEf",
+      "root_arabic": "ضعف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "*bb",
+      "root_arabic": "ذبب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        22,
+        73
+      ]
+    },
+    {
+      "root": "slb",
+      "root_arabic": "سلب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        22,
+        73
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        103,
+        26
+      ],
+      "form_arabic": "فَأَنقَذَكُم",
+      "lemma": ">anqa*a",
+      "lemma_arabic": "أَنقَذَ",
+      "pos": "V",
+      "ayah_id": "3:103",
+      "ayah_arabic": "وَٱعۡتَصِمُواْ بِحَبۡلِ ٱللَّهِ جَمِيعࣰ ا وَلَا تَفَرَّقُواْۚ وَٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ كُنتُمۡ أَعۡدَآءࣰ فَأَلَّفَ بَيۡنَ قُلُوبِكُمۡ فَأَصۡبَحۡتُم بِنِعۡمَتِهِۦٓ إِخۡوَٰنࣰ ا وَكُنتُمۡ عَلَىٰ شَفَا حُفۡرَةࣲ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنۡهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَهۡتَدُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "then He saved you",
+      "translations": {
+        "saheeh": "And hold firmly to the rope of Allah all together and do not become divided. And remember the favor of Allah upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allah make clear to you His verses that you may be guided.",
+        "pickthall": "And hold fast, all of you together, to the cable of Allah, and do not separate. And remember Allah's favour unto you: How ye were enemies and He made friendship between your hearts so that ye became as brothers by His grace; and (how) ye were upon the brink of an abyss of fire, and He did save you from it. Thus Allah maketh clear His revelations unto you, that haply ye may be guided,",
+        "khattab": "And hold firmly to the rope of Allah and do not be divided. Remember Allah’s favour upon you when you were enemies, then He united your hearts, so you—by His grace—became brothers. And you were at the brink of a fiery pit and He saved you from it. This is how Allah makes His revelations clear to you, so that you may be ˹rightly˺ guided",
+        "arberry": "And hold you fast to God's bond, together, and do not scatter; remember God's blessing upon you when you were enemies, and He brought your hearts together, so that by His blessing you became brothers. You were upon the brink of a pit of Fire, and He delivered you from it; even so God makes clear to you His signs; so haply you will be guided."
+      }
+    },
+    {
+      "location": [
+        22,
+        73,
+        24
+      ],
+      "form_arabic": "يَسْتَنقِذُوهُ",
+      "lemma": "yasotanqi*u",
+      "lemma_arabic": "يَسْتَنقِذُ",
+      "pos": "V",
+      "ayah_id": "22:73",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلࣱ فَٱسۡتَمِعُواْ لَهُۥٓۚ إِنَّ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ لَن يَخۡلُقُواْ ذُبَابࣰ ا وَلَوِ ٱجۡتَمَعُواْ لَهُۥۖ وَإِن يَسۡلُبۡهُمُ ٱلذُّبَابُ شَيۡـࣰٔ ا لَّا يَسۡتَنقِذُوهُ مِنۡهُۚ ضَعُفَ ٱلطَّالِبُ وَٱلۡمَطۡلُوبُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "they (could) take it back",
+      "translations": {
+        "saheeh": "O people, an example is presented, so listen to it. Indeed, those you invoke besides Allah will never create [as much as] a fly, even if they gathered together for that purpose. And if the fly should steal away from them a [tiny] thing, they could not recover it from him. Weak are the pursuer and pursued.",
+        "pickthall": "O mankind! A similitude is coined, so pay ye heed to it: Lo! those on whom ye call beside Allah will never create a fly though they combine together for the purpose. And if the fly took something from them, they could not rescue it from it. So weak are (both) the seeker and the sought!",
+        "khattab": "O humanity! A lesson is set forth, so listen to it ˹carefully˺: those ˹idols˺ you invoke besides Allah can never create ˹so much as˺ a fly, even if they ˹all˺ were to come together for that. And if a fly were to snatch anything away from them, they cannot ˹even˺ retrieve it from the fly. How powerless are those who invoke and those invoked",
+        "arberry": "O men, a similitude is struck; so give you ear to it. Surely those upon whom you call, apart from God, shall never create a fly, though they banded together to do it; and if a fly should rob them of aught, they would never rescue it from him. Feeble indeed alike are the seeker and the sought!"
+      }
+    },
+    {
+      "location": [
+        36,
+        23,
+        15
+      ],
+      "form_arabic": "يُنقِذُونِ",
+      "lemma": ">anqa*a",
+      "lemma_arabic": "أَنقَذَ",
+      "pos": "V",
+      "ayah_id": "36:23",
+      "ayah_arabic": "ءَأَتَّخِذُ مِن دُونِهِۦٓ ءَالِهَةً إِن يُرِدۡنِ ٱلرَّحۡمَٰنُ بِضُرࣲّ لَّا تُغۡنِ عَنِّي شَفَٰعَتُهُمۡ شَيۡـࣰٔ ا وَلَا يُنقِذُونِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "they (can) save me",
+      "translations": {
+        "saheeh": "Should I take other than Him [false] deities [while], if the Most Merciful intends for me some adversity, their intercession will not avail me at all, nor can they save me?",
+        "pickthall": "Shall I take (other) gods in place of Him when, if the Beneficent should wish me any harm, their intercession will avail me naught, nor can they save?",
+        "khattab": "How could I take besides Him other gods whose intercession would not be of any benefit to me, nor could they save me if the Most Compassionate intended to harm me",
+        "arberry": "What, shall I take, apart from Him, gods whose intercession, if the All-merciful desires affliction for me, shall not avail me anything, and who will never deliver me?"
+      }
+    },
+    {
+      "location": [
+        36,
+        43,
+        9
+      ],
+      "form_arabic": "يُنقَذُونَ",
+      "lemma": ">anqa*a",
+      "lemma_arabic": "أَنقَذَ",
+      "pos": "V",
+      "ayah_id": "36:43",
+      "ayah_arabic": "وَإِن نَّشَأۡ نُغۡرِقۡهُمۡ فَلَا صَرِيخَ لَهُمۡ وَلَا هُمۡ يُنقَذُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "would be saved",
+      "translations": {
+        "saheeh": "And if We should will, We could drown them; then no one responding to a cry would there be for them, nor would they be saved",
+        "pickthall": "And if We will, We drown them, and there is no help for them, neither can they be saved;",
+        "khattab": "If We willed, We could drown them: then no one would respond to their cries, nor would they be rescued—",
+        "arberry": "and if We will, We drown them, then none have they to cry to, neither are they delivered,"
+      }
+    },
+    {
+      "location": [
+        39,
+        19,
+        7
+      ],
+      "form_arabic": "تُنقِذُ",
+      "lemma": ">anqa*a",
+      "lemma_arabic": "أَنقَذَ",
+      "pos": "V",
+      "ayah_id": "39:19",
+      "ayah_arabic": "أَفَمَنۡ حَقَّ عَلَيۡهِ كَلِمَةُ ٱلۡعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِي ٱلنَّارِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "save",
+      "translations": {
+        "saheeh": "Then, is one who has deserved the decree of punishment [to be guided]? Then, can you save one who is in the Fire?",
+        "pickthall": "Is he on whom the word of doom is fulfilled (to be helped), and canst thou (O Muhammad) rescue him who is in the Fire?",
+        "khattab": "What about those against whom the decree of torment has been justified? Is it you ˹O Prophet˺ who will then save those bound for the Fire",
+        "arberry": "He against whom the word of chastisement is realized -- shalt thou deliver him out of the Fire?"
+      }
+    }
+  ]
+}

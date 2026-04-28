@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "time_roots_total": 22,
+    "time_bearing_ayahs_total": 1485,
+    "divergence_metric": "combined (length_variance + jaccard + lexical_disagreement)"
+  },
+  "top_50_high_divergence": [
+    {
+      "citation": "68:13",
+      "time_roots": [
+        "bEd"
+      ],
+      "divergence_score": 0.9215,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "36:59",
+      "time_roots": [
+        "ywm"
+      ],
+      "divergence_score": 0.8453,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "25:76",
+      "time_roots": [
+        "xld"
+      ],
+      "divergence_score": 0.8085,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "56:17",
+      "time_roots": [
+        "xld"
+      ],
+      "divergence_score": 0.8031,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "70:36",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.8027,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "18:108",
+      "time_roots": [
+        "xld"
+      ],
+      "divergence_score": 0.7995,
+      "outlier_translator": "arberry",
+      "regime": "high"
+    },
+    {
+      "citation": "75:5",
+      "time_roots": [
+        "fjr"
+      ],
+      "divergence_score": 0.7903,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "36:64",
+      "time_roots": [
+        "ywm"
+      ],
+      "divergence_score": 0.7886,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "52:25",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7871,
+      "outlier_translator": "pickthall",
+      "regime": "high"
+    },
+    {
+      "citation": "56:13",
+      "time_roots": [
+        "Awl"
+      ],
+      "divergence_score": 0.7865,
+      "outlier_translator": "khattab",
+      "regime": "high"
+    },
+    {
+      "citation": "95:7",
+      "time_roots": [
+        "bEd"
+      ],
+      "divergence_score": 0.7862,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "37:27",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7855,
+      "outlier_translator": "pickthall",
+      "regime": "high"
+    },
+    {
+      "citation": "37:50",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7848,
+      "outlier_translator": "pickthall",
+      "regime": "high"
+    },
+    {
+      "citation": "56:39",
+      "time_roots": [
+        "Awl"
+      ],
+      "divergence_score": 0.7811,
+      "outlier_translator": "khattab",
+      "regime": "high"
+    },
+    {
+      "citation": "26:129",
+      "time_roots": [
+        "xld"
+      ],
+      "divergence_score": 0.7803,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "10:91",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7796,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "3:94",
+      "time_roots": [
+        "bEd"
+      ],
+      "divergence_score": 0.7789,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "69:35",
+      "time_roots": [
+        "ywm"
+      ],
+      "divergence_score": 0.7784,
+      "outlier_translator": "arberry",
+      "regime": "high"
+    },
+    {
+      "citation": "68:20",
+      "time_roots": [
+        "SbH"
+      ],
+      "divergence_score": 0.7777,
+      "outlier_translator": "khattab",
+      "regime": "high"
+    },
+    {
+      "citation": "52:26",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7747,
+      "outlier_translator": "pickthall",
+      "regime": "high"
+    },
+    {
+      "citation": "81:18",
+      "time_roots": [
+        "SbH"
+      ],
+      "divergence_score": 0.7741,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "93:10",
+      "time_roots": [
+        "nhr"
+      ],
+      "divergence_score": 0.7738,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "56:45",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7717,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "73:7",
+      "time_roots": [
+        "nhr"
+      ],
+      "divergence_score": 0.7696,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "37:26",
+      "time_roots": [
+        "ywm"
+      ],
+      "divergence_score": 0.769,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "92:10",
+      "time_roots": [
+        "Esr"
+      ],
+      "divergence_score": 0.7679,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "68:30",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7655,
+      "outlier_translator": "pickthall",
+      "regime": "high"
+    },
+    {
+      "citation": "48:21",
+      "time_roots": [
+        "Axr"
+      ],
+      "divergence_score": 0.7611,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "75:13",
+      "time_roots": [
+        "Axr"
+      ],
+      "divergence_score": 0.7603,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "43:74",
+      "time_roots": [
+        "xld"
+      ],
+      "divergence_score": 0.7588,
+      "outlier_translator": null,
+      "regime": "high"
+    },
+    {
+      "citation": "83:34",
+      "time_roots": [
+        "ywm"
+      ],
+      "divergence_score": 0.756,
+      "outlier_translator": "pickthall",
+      "regime": "mid"
+    },
+    {
+      "citation": "86:17",
+      "time_roots": [
+        "mhl"
+      ],
+      "divergence_score": 0.7537,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "36:55",
+      "time_roots": [
+        "ywm"
+      ],
+      "divergence_score": 0.7535,
+      "outlier_translator": "pickthall",
+      "regime": "mid"
+    },
+    {
+      "citation": "83:13",
+      "time_roots": [
+        "Awl"
+      ],
+      "divergence_score": 0.7534,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "11:67",
+      "time_roots": [
+        "SbH"
+      ],
+      "divergence_score": 0.7529,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "18:73",
+      "time_roots": [
+        "Esr"
+      ],
+      "divergence_score": 0.751,
+      "outlier_translator": "arberry",
+      "regime": "mid"
+    },
+    {
+      "citation": "49:6",
+      "time_roots": [
+        "SbH"
+      ],
+      "divergence_score": 0.7476,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "55:56",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7474,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "29:5",
+      "time_roots": [
+        "Ajl"
+      ],
+      "divergence_score": 0.7472,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "25:68",
+      "time_roots": [
+        "Axr"
+      ],
+      "divergence_score": 0.7462,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "37:178",
+      "time_roots": [
+        "Hyn"
+      ],
+      "divergence_score": 0.7455,
+      "outlier_translator": "pickthall",
+      "regime": "mid"
+    },
+    {
+      "citation": "68:25",
+      "time_roots": [
+        "gdw"
+      ],
+      "divergence_score": 0.7448,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "26:84",
+      "time_roots": [
+        "Axr"
+      ],
+      "divergence_score": 0.7446,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "21:51",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7443,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "12:71",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7442,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "37:44",
+      "time_roots": [
+        "qbl"
+      ],
+      "divergence_score": 0.7429,
+      "outlier_translator": "arberry",
+      "regime": "mid"
+    },
+    {
+      "citation": "23:11",
+      "time_roots": [
+        "xld"
+      ],
+      "divergence_score": 0.7428,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "43:36",
+      "time_roots": [
+        "qrn"
+      ],
+      "divergence_score": 0.7424,
+      "outlier_translator": "khattab",
+      "regime": "mid"
+    },
+    {
+      "citation": "42:41",
+      "time_roots": [
+        "bEd"
+      ],
+      "divergence_score": 0.7411,
+      "outlier_translator": null,
+      "regime": "mid"
+    },
+    {
+      "citation": "74:37",
+      "time_roots": [
+        "Axr"
+      ],
+      "divergence_score": 0.741,
+      "outlier_translator": "pickthall",
+      "regime": "mid"
+    }
+  ],
+  "per_root_divergence_avg": {
+    "mhl": 0.6689,
+    "SbH": 0.6561,
+    "xld": 0.6493,
+    "Hyn": 0.645,
+    "Ajl": 0.6315,
+    "Esr": 0.6283,
+    "gdw": 0.6252,
+    "qrn": 0.6249,
+    "Awl": 0.6234,
+    "bEd": 0.6221,
+    "qbl": 0.6212,
+    "Amd": 0.6206,
+    "Axr": 0.6179,
+    "Abd": 0.6161,
+    "dhr": 0.6156,
+    "swE": 0.6094,
+    "$hr": 0.6067,
+    "ywm": 0.6023,
+    "fjr": 0.5995,
+    "wqt": 0.5891,
+    "nhr": 0.5844,
+    "lyl": 0.5696
+  },
+  "per_translator_outlier_rate_on_time": {
+    "khattab": 0.1313,
+    "arberry": 0.1104,
+    "pickthall": 0.0747,
+    "saheeh": 0.0094
+  },
+  "surah_concentration": {
+    "95": {
+      "count": 1,
+      "avg_divergence": 0.7862
+    },
+    "90": {
+      "count": 1,
+      "avg_divergence": 0.7233
+    },
+    "68": {
+      "count": 12,
+      "avg_divergence": 0.7195
+    },
+    "81": {
+      "count": 2,
+      "avg_divergence": 0.7118
+    },
+    "86": {
+      "count": 2,
+      "avg_divergence": 0.7114
+    },
+    "100": {
+      "count": 1,
+      "avg_divergence": 0.7042
+    },
+    "55": {
+      "count": 3,
+      "avg_divergence": 0.7011
+    },
+    "93": {
+      "count": 3,
+      "avg_divergence": 0.6863
+    },
+    "56": {
+      "count": 13,
+      "avg_divergence": 0.6851
+    },
+    "52": {
+      "count": 9,
+      "avg_divergence": 0.6774
+    },
+    "69": {
+      "count": 4,
+      "avg_divergence": 0.6716
+    },
+    "104": {
+      "count": 1,
+      "avg_divergence": 0.6638
+    },
+    "60": {
+      "count": 4,
+      "avg_divergence": 0.6609
+    },
+    "73": {
+      "count": 7,
+      "avg_divergence": 0.6609
+    },
+    "64": {
+      "count": 3,
+      "avg_divergence": 0.66
+    },
+    "82": {
+      "count": 7,
+      "avg_divergence": 0.6493
+    },
+    "29": {
+      "count": 15,
+      "avg_divergence": 0.6461
+    },
+    "53": {
+      "count": 10,
+      "avg_divergence": 0.6448
+    },
+    "79": {
+      "count": 7,
+      "avg_divergence": 0.6446
+    },
+    "43": {
+      "count": 22,
+      "avg_divergence": 0.6445
+    }
+  },
+  "legal_vs_eschatological_divergence": {
+    "legal_avg": 0.6211,
+    "legal_count": 375,
+    "eschatological_avg": 0.6005,
+    "eschatological_count": 50
+  }
+}

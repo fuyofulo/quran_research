@@ -1,0 +1,1021 @@
+{
+  "root": "E*r",
+  "root_arabic": "عذر",
+  "stats": {
+    "occurrences": 12,
+    "lemmas": 5,
+    "ayahs": 11,
+    "surahs": 8,
+    "pos_distribution": {
+      "N": 7,
+      "V": 5
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yaEota*iru",
+      "lemma_arabic": "يَعْتَذِرُ",
+      "count": 5,
+      "pos_distribution": {
+        "V": 5
+      },
+      "first_occurrence": [
+        9,
+        66,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            9,
+            66,
+            2
+          ],
+          "form_arabic": "تَعْتَذِرُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            94,
+            1
+          ],
+          "form_arabic": "يَعْتَذِرُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            94,
+            8
+          ],
+          "form_arabic": "تَعْتَذِرُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            66,
+            7,
+            5
+          ],
+          "form_arabic": "تَعْتَذِرُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            77,
+            36,
+            4
+          ],
+          "form_arabic": "فَيَعْتَذِرُونَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "maEo*irap",
+      "lemma_arabic": "مَعْذِرَة",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        7,
+        164,
+        15
+      ],
+      "occurrences": [
+        {
+          "location": [
+            7,
+            164,
+            15
+          ],
+          "form_arabic": "مَعْذِرَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            30,
+            57,
+            6
+          ],
+          "form_arabic": "مَعْذِرَتُهُمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            40,
+            52,
+            5
+          ],
+          "form_arabic": "مَعْذِرَتُهُمْ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "Eu*or",
+      "lemma_arabic": "عُذْر",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        18,
+        76,
+        13
+      ],
+      "occurrences": [
+        {
+          "location": [
+            18,
+            76,
+            13
+          ],
+          "form_arabic": "عُذْرًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            77,
+            6,
+            1
+          ],
+          "form_arabic": "عُذْرًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "muEa*~iruwn",
+      "lemma_arabic": "مُعَذِّرُون",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        9,
+        90,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            9,
+            90,
+            2
+          ],
+          "form_arabic": "ٱلْمُعَذِّرُونَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "maEaA*iyr",
+      "lemma_arabic": "مَعَاذِير",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        75,
+        15,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            75,
+            15,
+            3
+          ],
+          "form_arabic": "مَعَاذِيرَهُ,",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        7,
+        164
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        9,
+        66
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        7,
+        164
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        9,
+        66
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        7,
+        164
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        9,
+        90
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        9,
+        90
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        40,
+        52
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        9,
+        94
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        30,
+        57
+      ]
+    },
+    {
+      "root": "nfE",
+      "root_arabic": "نفع",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        30,
+        57
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        9,
+        66
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        9,
+        66
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        90
+      ]
+    },
+    {
+      "root": "qEd",
+      "root_arabic": "قعد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        90
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        90
+      ]
+    },
+    {
+      "root": "Erb",
+      "root_arabic": "عرب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        90
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        90
+      ]
+    },
+    {
+      "root": "Alm",
+      "root_arabic": "الم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        90
+      ]
+    },
+    {
+      "root": "jzy",
+      "root_arabic": "جزي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        66,
+        7
+      ]
+    },
+    {
+      "root": "Etb",
+      "root_arabic": "عتب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        30,
+        57
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        40,
+        52
+      ]
+    },
+    {
+      "root": "dwr",
+      "root_arabic": "دور",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        40,
+        52
+      ]
+    },
+    {
+      "root": "lEn",
+      "root_arabic": "لعن",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        40,
+        52
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        7,
+        164
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        7,
+        164
+      ]
+    },
+    {
+      "root": "hlk",
+      "root_arabic": "هلك",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        7,
+        164
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        7,
+        164
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        7,
+        164
+      ]
+    },
+    {
+      "root": "wEZ",
+      "root_arabic": "وعظ",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        7,
+        164
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        7,
+        164
+      ]
+    },
+    {
+      "root": "jrm",
+      "root_arabic": "جرم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        66
+      ]
+    },
+    {
+      "root": "Twf",
+      "root_arabic": "طوف",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        66
+      ]
+    },
+    {
+      "root": "Efw",
+      "root_arabic": "عفو",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        66
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        75,
+        15
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        18,
+        76
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        18,
+        76
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        18,
+        76
+      ]
+    },
+    {
+      "root": "ldn",
+      "root_arabic": "لدن",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        18,
+        76
+      ]
+    },
+    {
+      "root": "SHb",
+      "root_arabic": "صحب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        18,
+        76
+      ]
+    },
+    {
+      "root": "n*r",
+      "root_arabic": "نذر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        77,
+        6
+      ]
+    },
+    {
+      "root": "gyb",
+      "root_arabic": "غيب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        94
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        94
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        94
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        94
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        94
+      ]
+    },
+    {
+      "root": "xbr",
+      "root_arabic": "خبر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        94
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        94
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        9,
+        94
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 4
+      },
+      {
+        "surah": 77,
+        "name_english": "Al-Mursalaat",
+        "name_arabic": "سُورَةُ المُرۡسَلَاتِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 30,
+        "name_english": "Ar-Room",
+        "name_arabic": "سُورَةُ الرُّومِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 40,
+        "name_english": "Ghafir",
+        "name_arabic": "سُورَةُ غَافِرٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 66,
+        "name_english": "At-Tahrim",
+        "name_arabic": "سُورَةُ التَّحۡرِيمِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 75,
+        "name_english": "Al-Qiyaama",
+        "name_arabic": "سُورَةُ القِيَامَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 7,
+      "Medinan": 5
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        7,
+        164,
+        15
+      ],
+      "form_arabic": "مَعْذِرَةً",
+      "lemma": "maEo*irap",
+      "lemma_arabic": "مَعْذِرَة",
+      "pos": "N",
+      "ayah_id": "7:164",
+      "ayah_arabic": "وَإِذۡ قَالَتۡ أُمَّةࣱ مِّنۡهُمۡ لِمَ تَعِظُونَ قَوۡمًا ٱللَّهُ مُهۡلِكُهُمۡ أَوۡ مُعَذِّبُهُمۡ عَذَابࣰ ا شَدِيدࣰ اۖ قَالُواْ مَعۡذِرَةً إِلَىٰ رَبِّكُمۡ وَلَعَلَّهُمۡ يَتَّقُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "To be absolved",
+      "translations": {
+        "saheeh": "And when a community among them said, \"Why do you advise [or warn] a people whom Allah is [about] to destroy or to punish with a severe punishment?\" they [the advisors] said, \"To be absolved before your Lord and perhaps they may fear Him.\"",
+        "pickthall": "And when a community among them said: Why preach ye to a folk whom Allah is about to destroy or punish with an awful doom, they said: In order to be free from guilt before your Lord, and that haply they may ward off (evil).",
+        "khattab": "When some of ˹the righteous among˺ them questioned ˹their fellow Sabbath-keepers˺, “Why do you ˹bother to˺ warn those ˹Sabbath-breakers˺ who will either be destroyed or severely punished by Allah?” They replied, “Just to be free from your Lord’s blame, and so perhaps they may abstain.”",
+        "arberry": "And when a certain nation of them said, 'Why do you admonish a people God is about to destroy or to chastise with a terrible chastisement?' They said, 'As an excuse to your Lord; and haply they will be godfearing.'"
+      }
+    },
+    {
+      "location": [
+        9,
+        66,
+        2
+      ],
+      "form_arabic": "تَعْتَذِرُوا@",
+      "lemma": "yaEota*iru",
+      "lemma_arabic": "يَعْتَذِرُ",
+      "pos": "V",
+      "ayah_id": "9:66",
+      "ayah_arabic": "لَا تَعۡتَذِرُواْ قَدۡ كَفَرۡتُم بَعۡدَ إِيمَٰنِكُمۡۚ إِن نَّعۡفُ عَن طَآئِفَةࣲ مِّنكُمۡ نُعَذِّبۡ طَآئِفَةَۢ بِأَنَّهُمۡ كَانُواْ مُجۡرِمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "make excuse",
+      "translations": {
+        "saheeh": "Make no excuse; you have disbelieved after your belief. If We pardon one faction of you - We will punish another faction because they were criminals.",
+        "pickthall": "Make no excuse. Ye have disbelieved after your (confession of) belief. If We forgive a party of you, a party of you We shall punish because they have been guilty.",
+        "khattab": "Make no excuses! You have lost faith after your belief. If We pardon a group of you, We will punish others for their wickedness",
+        "arberry": "Make no excuses. You have disbelieved after your believing. If We forgive one party of you, We will chastise another party for that they were sinners.'"
+      }
+    },
+    {
+      "location": [
+        9,
+        90,
+        2
+      ],
+      "form_arabic": "ٱلْمُعَذِّرُونَ",
+      "lemma": "muEa*~iruwn",
+      "lemma_arabic": "مُعَذِّرُون",
+      "pos": "N",
+      "ayah_id": "9:90",
+      "ayah_arabic": "وَجَآءَ ٱلۡمُعَذِّرُونَ مِنَ ٱلۡأَعۡرَابِ لِيُؤۡذَنَ لَهُمۡ وَقَعَدَ ٱلَّذِينَ كَذَبُواْ ٱللَّهَ وَرَسُولَهُۥۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابٌ أَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "the ones who make excuses",
+      "translations": {
+        "saheeh": "And those with excuses among the bedouins came to be permitted [to remain], and they who had lied to Allah and His Messenger sat [at home]. There will strike those who disbelieved among them a painful punishment.",
+        "pickthall": "And those among the wandering Arabs who had an excuse came in order that permission might be granted them. And those who lied to Allah and His messenger sat at home. A painful doom will fall on those of them who disbelieve.",
+        "khattab": "Some nomadic Arabs ˹also˺ came with excuses, seeking exemption. And those who were untrue to Allah and His Messenger remained behind ˹with no excuse˺. The unfaithful among them will be afflicted with a painful punishment",
+        "arberry": "And the Bedouins came with their excuses, asking for leave; those who lied to God and His Messenger tarried; there shall befall the unbelievers of them a painful chastisement."
+      }
+    },
+    {
+      "location": [
+        9,
+        94,
+        1
+      ],
+      "form_arabic": "يَعْتَذِرُونَ",
+      "lemma": "yaEota*iru",
+      "lemma_arabic": "يَعْتَذِرُ",
+      "pos": "V",
+      "ayah_id": "9:94",
+      "ayah_arabic": "يَعۡتَذِرُونَ إِلَيۡكُمۡ إِذَا رَجَعۡتُمۡ إِلَيۡهِمۡۚ قُل لَّا تَعۡتَذِرُواْ لَن نُّؤۡمِنَ لَكُمۡ قَدۡ نَبَّأَنَا ٱللَّهُ مِنۡ أَخۡبَارِكُمۡۚ وَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "They will make excuses",
+      "translations": {
+        "saheeh": "They will make excuses to you when you have returned to them. Say, \"Make no excuse - never will we believe you. Allah has already informed us of your news. And Allah will observe your deeds, and [so will] His Messenger; then you will be taken back to the Knower of the unseen and the witnessed, and He will inform you of what you used to do.\"",
+        "pickthall": "They will make excuse to you (Muslims) when ye return unto them. Say: Make no excuse, for we shall not believe you. Allah hath told us tidings of you. Allah and His messenger will see your conduct, and then ye will be brought back unto Him Who knoweth the Invisible as well as the Visible, and He will tell you what ye used to do.",
+        "khattab": "They will make excuses to you ˹believers˺ when you return to them. Say, “Make no excuses, ˹for˺ we will not believe you. Allah has already informed us about your ˹true˺ state ˹of faith˺. Your ˹future˺ deeds will be observed by Allah and His Messenger as well. And you will be returned to the Knower of the seen and unseen, then He will inform you of what you used to do.”",
+        "arberry": "They will excuse themselves to you, when you return to them. Say: 'Do not excuse yourselves; we will not believe you. God has already told us tidings of you. God will surely see your work, and His Messenger, then you will be returned to Him who knows the unseen and the visible, and He will tell you what you were doing.'"
+      }
+    },
+    {
+      "location": [
+        9,
+        94,
+        8
+      ],
+      "form_arabic": "تَعْتَذِرُوا@",
+      "lemma": "yaEota*iru",
+      "lemma_arabic": "يَعْتَذِرُ",
+      "pos": "V",
+      "ayah_id": "9:94",
+      "ayah_arabic": "يَعۡتَذِرُونَ إِلَيۡكُمۡ إِذَا رَجَعۡتُمۡ إِلَيۡهِمۡۚ قُل لَّا تَعۡتَذِرُواْ لَن نُّؤۡمِنَ لَكُمۡ قَدۡ نَبَّأَنَا ٱللَّهُ مِنۡ أَخۡبَارِكُمۡۚ وَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "make excuse",
+      "translations": {
+        "saheeh": "They will make excuses to you when you have returned to them. Say, \"Make no excuse - never will we believe you. Allah has already informed us of your news. And Allah will observe your deeds, and [so will] His Messenger; then you will be taken back to the Knower of the unseen and the witnessed, and He will inform you of what you used to do.\"",
+        "pickthall": "They will make excuse to you (Muslims) when ye return unto them. Say: Make no excuse, for we shall not believe you. Allah hath told us tidings of you. Allah and His messenger will see your conduct, and then ye will be brought back unto Him Who knoweth the Invisible as well as the Visible, and He will tell you what ye used to do.",
+        "khattab": "They will make excuses to you ˹believers˺ when you return to them. Say, “Make no excuses, ˹for˺ we will not believe you. Allah has already informed us about your ˹true˺ state ˹of faith˺. Your ˹future˺ deeds will be observed by Allah and His Messenger as well. And you will be returned to the Knower of the seen and unseen, then He will inform you of what you used to do.”",
+        "arberry": "They will excuse themselves to you, when you return to them. Say: 'Do not excuse yourselves; we will not believe you. God has already told us tidings of you. God will surely see your work, and His Messenger, then you will be returned to Him who knows the unseen and the visible, and He will tell you what you were doing.'"
+      }
+    },
+    {
+      "location": [
+        18,
+        76,
+        13
+      ],
+      "form_arabic": "عُذْرًا",
+      "lemma": "Eu*or",
+      "lemma_arabic": "عُذْر",
+      "pos": "N",
+      "ayah_id": "18:76",
+      "ayah_arabic": "قَالَ إِن سَأَلۡتُكَ عَن شَيۡءِۭ بَعۡدَهَا فَلَا تُصَٰحِبۡنِيۖ قَدۡ بَلَغۡتَ مِن لَّدُنِّي عُذۡرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "an excuse",
+      "translations": {
+        "saheeh": "[Moses] said, \"If I should ask you about anything after this, then do not keep me as a companion. You have obtained from me an excuse.\"",
+        "pickthall": "(Moses) said: If I ask thee after this concerning aught, keep not company with me. Thou hast received an excuse from me.",
+        "khattab": "Moses replied, “If I ever question you about anything after this, then do not keep me in your company, for by then I would have given you enough of an excuse.”",
+        "arberry": "He said, 'If I question thee on anything after this, then keep me company no more; thou hast already experienced excuse sufficient on my part.'"
+      }
+    },
+    {
+      "location": [
+        30,
+        57,
+        6
+      ],
+      "form_arabic": "مَعْذِرَتُهُمْ",
+      "lemma": "maEo*irap",
+      "lemma_arabic": "مَعْذِرَة",
+      "pos": "N",
+      "ayah_id": "30:57",
+      "ayah_arabic": "فَيَوۡمَئِذࣲ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُواْ مَعۡذِرَتُهُمۡ وَلَا هُمۡ يُسۡتَعۡتَبُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ar-Room",
+      "literal_gloss": "their excuses",
+      "translations": {
+        "saheeh": "So that Day, their excuse will not benefit those who wronged, nor will they be asked to appease [Allah].",
+        "pickthall": "In that day their excuses will not profit those who did injustice, nor will they be allowed to make amends.",
+        "khattab": "So on that Day the wrongdoers’ excuses will not benefit them, nor will they be allowed to appease ˹their Lord˺",
+        "arberry": "So that day their excuses will not profit the evildoers, nor will they be suffered to make amends."
+      }
+    },
+    {
+      "location": [
+        40,
+        52,
+        5
+      ],
+      "form_arabic": "مَعْذِرَتُهُمْ",
+      "lemma": "maEo*irap",
+      "lemma_arabic": "مَعْذِرَة",
+      "pos": "N",
+      "ayah_id": "40:52",
+      "ayah_arabic": "يَوۡمَ لَا يَنفَعُ ٱلظَّٰلِمِينَ مَعۡذِرَتُهُمۡۖ وَلَهُمُ ٱللَّعۡنَةُ وَلَهُمۡ سُوٓءُ ٱلدَّارِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ghafir",
+      "literal_gloss": "their excuse",
+      "translations": {
+        "saheeh": "The Day their excuse will not benefit the wrongdoers, and they will have the curse, and they will have the worst home.",
+        "pickthall": "The day when their excuse availeth not the evil-doers, and theirs is the curse, and theirs the ill abode.",
+        "khattab": "the Day the wrongdoers’ excuses will be of no benefit to them. They will be condemned, and will have the worst outcome",
+        "arberry": "upon the day when their excuses shall not profit the evildoers, and theirs shall be the curse, and theirs the evil abode."
+      }
+    },
+    {
+      "location": [
+        66,
+        7,
+        5
+      ],
+      "form_arabic": "تَعْتَذِرُوا@",
+      "lemma": "yaEota*iru",
+      "lemma_arabic": "يَعْتَذِرُ",
+      "pos": "V",
+      "ayah_id": "66:7",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ كَفَرُواْ لَا تَعۡتَذِرُواْ ٱلۡيَوۡمَۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tahrim",
+      "literal_gloss": "make excuses",
+      "translations": {
+        "saheeh": "O you who have disbelieved, make no excuses that Day. You will only be recompensed for what you used to do.",
+        "pickthall": "(Then it will be said): O ye who disbelieve! Make no excuses for yourselves this day. Ye are only being paid for what ye used to do.",
+        "khattab": "˹The deniers will then be told,˺ “O disbelievers! Make no excuses this Day! You are only rewarded for what you used to do.”",
+        "arberry": "'O you unbelievers, do not excuse yourselves today; you are only being recompensed for what you were doing.'"
+      }
+    },
+    {
+      "location": [
+        75,
+        15,
+        3
+      ],
+      "form_arabic": "مَعَاذِيرَهُ,",
+      "lemma": "maEaA*iyr",
+      "lemma_arabic": "مَعَاذِير",
+      "pos": "N",
+      "ayah_id": "75:15",
+      "ayah_arabic": "وَلَوۡ أَلۡقَىٰ مَعَاذِيرَهُۥ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qiyaama",
+      "literal_gloss": "his excuses",
+      "translations": {
+        "saheeh": "Even if he presents his excuses.",
+        "pickthall": "Although he tender his excuses.",
+        "khattab": "despite the excuses they come up with",
+        "arberry": "even though he offer his excuses."
+      }
+    },
+    {
+      "location": [
+        77,
+        6,
+        1
+      ],
+      "form_arabic": "عُذْرًا",
+      "lemma": "Eu*or",
+      "lemma_arabic": "عُذْر",
+      "pos": "N",
+      "ayah_id": "77:6",
+      "ayah_arabic": "عُذۡرًا أَوۡ نُذۡرًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mursalaat",
+      "literal_gloss": "(As) justification",
+      "translations": {
+        "saheeh": "As justification or warning,",
+        "pickthall": "To excuse or to warn,",
+        "khattab": "ending excuses and giving warnings",
+        "arberry": "excusing or warning,"
+      }
+    },
+    {
+      "location": [
+        77,
+        36,
+        4
+      ],
+      "form_arabic": "فَيَعْتَذِرُونَ",
+      "lemma": "yaEota*iru",
+      "lemma_arabic": "يَعْتَذِرُ",
+      "pos": "V",
+      "ayah_id": "77:36",
+      "ayah_arabic": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mursalaat",
+      "literal_gloss": "to make excuses",
+      "translations": {
+        "saheeh": "Nor will it be permitted for them to make an excuse.",
+        "pickthall": "Nor are they suffered to put forth excuses.",
+        "khattab": "nor will they be permitted to offer excuses",
+        "arberry": "neither be given leave, and excuse themselves."
+      }
+    }
+  ]
+}

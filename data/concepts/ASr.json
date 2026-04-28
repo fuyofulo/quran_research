@@ -1,0 +1,656 @@
+{
+  "root": "ASr",
+  "root_arabic": "اصر",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "<iSor",
+      "lemma_arabic": "إِصْر",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        2,
+        286,
+        24
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            286,
+            24
+          ],
+          "form_arabic": "إِصْرًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            3,
+            81,
+            25
+          ],
+          "form_arabic": "إِصْرِى",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            157,
+            26
+          ],
+          "form_arabic": "إِصْرَهُمْ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "wvq",
+      "root_arabic": "وثق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "qrr",
+      "root_arabic": "قرر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        81
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "Efw",
+      "root_arabic": "عفو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "Twq",
+      "root_arabic": "طوق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "wsE",
+      "root_arabic": "وسع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "klf",
+      "root_arabic": "كلف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "Hml",
+      "root_arabic": "حمل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "xTA",
+      "root_arabic": "خطا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "nsy",
+      "root_arabic": "نسي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        286
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "Ezr",
+      "root_arabic": "عزر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "Tyb",
+      "root_arabic": "طيب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "nhy",
+      "root_arabic": "نهي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "xbv",
+      "root_arabic": "خبث",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "nkr",
+      "root_arabic": "نكر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "wDE",
+      "root_arabic": "وضع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "gll",
+      "root_arabic": "غلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "flH",
+      "root_arabic": "فلح",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        157
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        286,
+        24
+      ],
+      "form_arabic": "إِصْرًا",
+      "lemma": "<iSor",
+      "lemma_arabic": "إِصْر",
+      "pos": "N",
+      "ayah_id": "2:286",
+      "ayah_arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا وُسۡعَهَاۚ لَهَا مَا كَسَبَتۡ وَعَلَيۡهَا مَا ٱكۡتَسَبَتۡۗ رَبَّنَا لَا تُؤَاخِذۡنَآ إِن نَّسِينَآ أَوۡ أَخۡطَأۡنَاۚ رَبَّنَا وَلَا تَحۡمِلۡ عَلَيۡنَآ إِصۡرࣰ ا كَمَا حَمَلۡتَهُۥ عَلَى ٱلَّذِينَ مِن قَبۡلِنَاۚ رَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَةَ لَنَا بِهِۦۖ وَٱعۡفُ عَنَّا وَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَآۚ أَنتَ مَوۡلَىٰنَا فَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "a burden",
+      "translations": {
+        "saheeh": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
+        "pickthall": "Allah tasketh not a soul beyond its scope. For it (is only) that which it hath earned, and against it (only) that which it hath deserved. Our Lord! Condemn us not if we forget, or miss the mark! Our Lord! Lay not on us such a burden as thou didst lay on those before us! Our Lord! Impose not on us that which we have not the strength to bear! Pardon us, absolve us and have mercy on us, Thou, our Protector, and give us victory over the disbelieving folk.",
+        "khattab": "Allah does not require of any soul more than what it can afford. All good will be for its own benefit, and all evil will be to its own loss. ˹The believers pray,˺ “Our Lord! Do not punish us if we forget or make a mistake. Our Lord! Do not place a burden on us like the one you placed on those before us. Our Lord! Do not burden us with what we cannot bear. Pardon us, forgive us, and have mercy on us. You are our ˹only˺ Guardian. So grant us victory over the disbelieving people.”",
+        "arberry": "God charges no soul save to its capacity; standing to its account is what it has earned, and against its account what it has merited. Our Lord, take us not to task if we forget, or make mistake. Our Lord; charge us not with a load such as Thou didst lay upon those before us. Our Lord, do Thou not burden us beyond what we have the strength to bear. And pardon us, and forgive us, and have mercy on us; Thou art our Protector. And help us against the people of the unbelievers."
+      }
+    },
+    {
+      "location": [
+        3,
+        81,
+        25
+      ],
+      "form_arabic": "إِصْرِى",
+      "lemma": "<iSor",
+      "lemma_arabic": "إِصْر",
+      "pos": "N",
+      "ayah_id": "3:81",
+      "ayah_arabic": "وَإِذۡ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّـۧنَ لَمَآ ءَاتَيۡتُكُم مِّن كِتَٰبࣲ وَحِكۡمَةࣲ ثُمَّ جَآءَكُمۡ رَسُولࣱ مُّصَدِّقࣱ لِّمَا مَعَكُمۡ لَتُؤۡمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥۚ قَالَ ءَأَقۡرَرۡتُمۡ وَأَخَذۡتُمۡ عَلَىٰ ذَٰلِكُمۡ إِصۡرِيۖ قَالُوٓاْ أَقۡرَرۡنَاۚ قَالَ فَٱشۡهَدُواْ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّٰهِدِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "My Covenant",
+      "translations": {
+        "saheeh": "And [recall, O People of the Scripture], when Allah took the covenant of the prophets, [saying], \"Whatever I give you of the Scripture and wisdom and then there comes to you a messenger confirming what is with you, you [must] believe in him and support him.\" [Allah] said, \"Have you acknowledged and taken upon that My commitment?\" They said, \"We have acknowledged it.\" He said, \"Then bear witness, and I am with you among the witnesses.\"",
+        "pickthall": "When Allah made (His) covenant with the prophets, (He said): Behold that which I have given you of the Scripture and knowledge. And afterward there will come unto you a messenger, confirming that which ye possess. Ye shall believe in him and ye shall help him. He said: Do ye agree, and will ye take up My burden (which I lay upon you) in this (matter)? They answered: We agree. He said: Then bear ye witness. I will be a witness with you.",
+        "khattab": "˹Remember˺ when Allah made a covenant with the prophets, ˹saying,˺ “Now that I have given you the Book and wisdom, if there comes to you a messenger confirming what you have, you must believe in him and support him.” He added, “Do you affirm this covenant and accept this commitment?” They said, “Yes, we do.” Allah said, “Then bear witness, and I too am a Witness.”",
+        "arberry": "And when God took compact with the Prophets: 'That I have given you of Book and Wisdom; then there shall come to you a Messenger confirming what is with you -- you shall believe in him and you shall help him; do you agree?' He said. 'And do you take My load on you on that condition?' They said, 'We do agree.' God said, 'Bear witness so, and I shall be with you among the witnesses.'"
+      }
+    },
+    {
+      "location": [
+        7,
+        157,
+        26
+      ],
+      "form_arabic": "إِصْرَهُمْ",
+      "lemma": "<iSor",
+      "lemma_arabic": "إِصْر",
+      "pos": "N",
+      "ayah_id": "7:157",
+      "ayah_arabic": "ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِيَّ ٱلۡأُمِّيَّ ٱلَّذِي يَجِدُونَهُۥ مَكۡتُوبًا عِندَهُمۡ فِي ٱلتَّوۡرَىٰةِ وَٱلۡإِنجِيلِ يَأۡمُرُهُم بِٱلۡمَعۡرُوفِ وَيَنۡهَىٰهُمۡ عَنِ ٱلۡمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيۡهِمُ ٱلۡخَبَٰٓئِثَ وَيَضَعُ عَنۡهُمۡ إِصۡرَهُمۡ وَٱلۡأَغۡلَٰلَ ٱلَّتِي كَانَتۡ عَلَيۡهِمۡۚ فَٱلَّذِينَ ءَامَنُواْ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُواْ ٱلنُّورَ ٱلَّذِيٓ أُنزِلَ مَعَهُۥٓ أُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "their burden",
+      "translations": {
+        "saheeh": "Those who follow the Messenger, the unlettered prophet, whom they find written in what they have of the Torah and the Gospel, who enjoins upon them what is right and forbids them what is wrong and makes lawful for them the good things and prohibits for them the evil and relieves them of their burden and the shackles which were upon them. So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.",
+        "pickthall": "Those who follow the messenger, the Prophet who can neither read nor write, whom they will find described in the Torah and the Gospel (which are) with them. He will enjoin on them that which is right and forbid them that which is wrong. He will make lawful for them all good things and prohibit for them only the foul; and he will relieve them of their burden and the fetters that they used to wear. Then those who believe in him, and honour him, and help him, and follow the light which is sent down with him: they are the successful.",
+        "khattab": "“˹They are˺ the ones who follow the Messenger, the unlettered Prophet, whose description they find in their Torah and the Gospel. He commands them to do good and forbids them from evil, permits for them what is lawful and forbids to them what is impure, and relieves them from their burdens and the shackles that bound them. ˹Only˺ those who believe in him, honour and support him, and follow the light sent down to him will be successful.”",
+        "arberry": "those who follow the Messenger, 'the Prophet of the common folk, whom they find written down with them in the Torah and the Gospel, bidding them to honour, and forbidding them dishonour, making lawful for them the good things and making unlawful for them the corrupt things, and relieving them of their loads, and the fetters that were upon them. Those who believe in him and succour him and help him, and follow the light that has been sent down with him -- they are the prosperers.'"
+      }
+    }
+  ]
+}

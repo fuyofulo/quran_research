@@ -1,0 +1,621 @@
+{
+  "root": "ESb",
+  "root_arabic": "عصب",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 2,
+    "ayahs": 5,
+    "surahs": 4,
+    "pos_distribution": {
+      "N": 4,
+      "ADJ": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "EuSobap",
+      "lemma_arabic": "عُصْبَة",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        12,
+        8,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            8,
+            10
+          ],
+          "form_arabic": "عُصْبَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            14,
+            6
+          ],
+          "form_arabic": "عُصْبَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            24,
+            11,
+            5
+          ],
+          "form_arabic": "عُصْبَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            28,
+            76,
+            16
+          ],
+          "form_arabic": "بِٱلْعُصْبَةِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "EaSiyb",
+      "lemma_arabic": "عَصِيب",
+      "count": 1,
+      "pos_distribution": {
+        "ADJ": 1
+      },
+      "first_occurrence": [
+        11,
+        77,
+        13
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            77,
+            13
+          ],
+          "form_arabic": "عَصِيبٌ",
+          "pos": "ADJ"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 4,
+      "share": 0.8,
+      "first_together": [
+        11,
+        77
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        12,
+        8
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        11,
+        77
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        8
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        8
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        8
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        8
+      ]
+    },
+    {
+      "root": "*rE",
+      "root_arabic": "ذرع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        11,
+        77
+      ]
+    },
+    {
+      "root": "Dyq",
+      "root_arabic": "ضيق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        11,
+        77
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        11,
+        77
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        11,
+        77
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        11,
+        77
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "knz",
+      "root_arabic": "كنز",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "nwA",
+      "root_arabic": "نوا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "frH",
+      "root_arabic": "فرح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "qwy",
+      "root_arabic": "قوي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "ftH",
+      "root_arabic": "فتح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        28,
+        76
+      ]
+    },
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "mrA",
+      "root_arabic": "مرا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "Avm",
+      "root_arabic": "اثم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "Afk",
+      "root_arabic": "افك",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "Hsb",
+      "root_arabic": "حسب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "$rr",
+      "root_arabic": "شرر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        11
+      ]
+    },
+    {
+      "root": "xsr",
+      "root_arabic": "خسر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        14
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        14
+      ]
+    },
+    {
+      "root": "*Ab",
+      "root_arabic": "ذاب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        14
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 28,
+        "name_english": "Al-Qasas",
+        "name_arabic": "سُورَةُ القَصَصِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        11,
+        77,
+        13
+      ],
+      "form_arabic": "عَصِيبٌ",
+      "lemma": "EaSiyb",
+      "lemma_arabic": "عَصِيب",
+      "pos": "ADJ",
+      "ayah_id": "11:77",
+      "ayah_arabic": "وَلَمَّا جَآءَتۡ رُسُلُنَا لُوطࣰ ا سِيٓءَ بِهِمۡ وَضَاقَ بِهِمۡ ذَرۡعࣰ ا وَقَالَ هَٰذَا يَوۡمٌ عَصِيبࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "distressful",
+      "translations": {
+        "saheeh": "And when Our messengers, [the angels], came to Lot, he was anguished for them and felt for them great discomfort and said, \"This is a trying day.\"",
+        "pickthall": "And when Our messengers came unto Lot, he was distressed and knew not how to protect them. He said: This is a distressful day.",
+        "khattab": "When Our messenger-angels came to Lot, he was distressed and worried by their arrival. He said, “This is a terrible day.”",
+        "arberry": "And when Our messengers came to Lot, he was troubled on their account and distressed for them, and he said, 'This is a fierce day.'"
+      }
+    },
+    {
+      "location": [
+        12,
+        8,
+        10
+      ],
+      "form_arabic": "عُصْبَةٌ",
+      "lemma": "EuSobap",
+      "lemma_arabic": "عُصْبَة",
+      "pos": "N",
+      "ayah_id": "12:8",
+      "ayah_arabic": "إِذۡ قَالُواْ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحۡنُ عُصۡبَةٌ إِنَّ أَبَانَا لَفِي ضَلَٰلࣲ مُّبِينٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "(are) a group",
+      "translations": {
+        "saheeh": "When they said, \"Joseph and his brother are more beloved to our father than we, while we are a clan. Indeed, our father is in clear error.",
+        "pickthall": "When they said: Verily Joseph and his brother are dearer to our father than we are, many though we be. Lo! our father is in plain aberration.",
+        "khattab": "˹Remember˺ when they said ˹to one another˺, “Surely Joseph and his brother ˹Benjamin˺ are more beloved to our father than we, even though we are a group of so many. Indeed, our father is clearly mistaken",
+        "arberry": "When they said, 'Surely Joseph and his brother are dearer to our father than we, though we are a band. Surely our father is in manifest error."
+      }
+    },
+    {
+      "location": [
+        12,
+        14,
+        6
+      ],
+      "form_arabic": "عُصْبَةٌ",
+      "lemma": "EuSobap",
+      "lemma_arabic": "عُصْبَة",
+      "pos": "N",
+      "ayah_id": "12:14",
+      "ayah_arabic": "قَالُواْ لَئِنۡ أَكَلَهُ ٱلذِّئۡبُ وَنَحۡنُ عُصۡبَةٌ إِنَّآ إِذࣰ ا لَّخَٰسِرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "(are) a group",
+      "translations": {
+        "saheeh": "They said, \"If a wolf should eat him while we are a [strong] clan, indeed, we would then be losers.\"",
+        "pickthall": "They said: If the wolf should devour him when we are (so strong) a band, then surely we should have already perished.",
+        "khattab": "They said, “If a wolf were to devour him, despite our strong group, then we would certainly be losers!”",
+        "arberry": "They said, 'If the wolf eats him, and we a band, then are we losers!'"
+      }
+    },
+    {
+      "location": [
+        24,
+        11,
+        5
+      ],
+      "form_arabic": "عُصْبَةٌ",
+      "lemma": "EuSobap",
+      "lemma_arabic": "عُصْبَة",
+      "pos": "N",
+      "ayah_id": "24:11",
+      "ayah_arabic": "إِنَّ ٱلَّذِينَ جَآءُو بِٱلۡإِفۡكِ عُصۡبَةࣱ مِّنكُمۡۚ لَا تَحۡسَبُوهُ شَرࣰّ ا لَّكُمۖ بَلۡ هُوَ خَيۡرࣱ لَّكُمۡۚ لِكُلِّ ٱمۡرِيࣲٕ مِّنۡهُم مَّا ٱكۡتَسَبَ مِنَ ٱلۡإِثۡمِۚ وَٱلَّذِي تَوَلَّىٰ كِبۡرَهُۥ مِنۡهُمۡ لَهُۥ عَذَابٌ عَظِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "(are) a group",
+      "translations": {
+        "saheeh": "Indeed, those who came with falsehood are a group among you. Do not think it bad for you; rather it is good for you. For every person among them is what [punishment] he has earned from the sin, and he who took upon himself the greater portion thereof - for him is a great punishment.",
+        "pickthall": "Lo! they who spread the slander are a gang among you. Deem it not a bad thing for you; nay, it is good for you. Unto every man of them (will be paid) that which he hath earned of the sin; and as for him among them who had the greater share therein, his will be an awful doom.",
+        "khattab": "Indeed, those who came up with that ˹outrageous˺ slander are a group of you. Do not think this is bad for you. Rather, it is good for you. They will be punished, each according to their share of the sin. As for their mastermind, he will suffer a tremendous punishment",
+        "arberry": "Those who came with the slander are a band of you; do not reckon it evil for you; rather it is good for you. Every man of them shall have the sin that he has earned charged to him; and whosoever of them took upon himself the greater part of it, him there awaits a mighty chastisement."
+      }
+    },
+    {
+      "location": [
+        28,
+        76,
+        16
+      ],
+      "form_arabic": "بِٱلْعُصْبَةِ",
+      "lemma": "EuSobap",
+      "lemma_arabic": "عُصْبَة",
+      "pos": "N",
+      "ayah_id": "28:76",
+      "ayah_arabic": "۞إِنَّ قَٰرُونَ كَانَ مِن قَوۡمِ مُوسَىٰ فَبَغَىٰ عَلَيۡهِمۡۖ وَءَاتَيۡنَٰهُ مِنَ ٱلۡكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلۡعُصۡبَةِ أُوْلِي ٱلۡقُوَّةِ إِذۡ قَالَ لَهُۥ قَوۡمُهُۥ لَا تَفۡرَحۡۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡفَرِحِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qasas",
+      "literal_gloss": "a company (of men)",
+      "translations": {
+        "saheeh": "Indeed, Qarun was from the people of Moses, but he tyrannized them. And We gave him of treasures whose keys would burden a band of strong men; thereupon his people said to him, \"Do not exult. Indeed, Allah does not like the exultant.",
+        "pickthall": "Now Korah was of Moses' folk, but he oppressed them; and We gave him so much treasure that the stores thereof would verily have been a burden for a troop of mighty men. When his own folk said unto him: Exult not; lo! Allah loveth not the exultant;",
+        "khattab": "Indeed, Korah was from the people of Moses, but he behaved arrogantly towards them. We had granted him such treasures that even their keys would burden a group of strong men. ˹Some of˺ his people advised him, “Do not be prideful! Surely Allah does not like the prideful",
+        "arberry": "Now Korah was of the people of Moses; he became insolent to them, for We had given him treasures such that the very keys of them were too heavy a burden for a company of men endowed with strength. When his people said to him, 'Do not exult; God loves not those that exult;"
+      }
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "nodes": [
+    {
+      "id": "*kr",
+      "arabic": "ذكر",
+      "english": "remember",
+      "count": 292,
+      "cluster": 0
+    },
+    {
+      "id": "Elm",
+      "arabic": "علم",
+      "english": "knowledge",
+      "count": 854,
+      "cluster": 1
+    },
+    {
+      "id": "Eql",
+      "arabic": "عقل",
+      "english": "reason",
+      "count": 49,
+      "cluster": 0
+    },
+    {
+      "id": "Hkm",
+      "arabic": "حكم",
+      "english": "wisdom/judge",
+      "count": 210,
+      "cluster": 1
+    },
+    {
+      "id": "bSr",
+      "arabic": "بصر",
+      "english": "sight/insight",
+      "count": 148,
+      "cluster": 0
+    },
+    {
+      "id": "bgy",
+      "arabic": "بغي",
+      "english": "seek/transgress",
+      "count": 96,
+      "cluster": 1
+    },
+    {
+      "id": "dbr",
+      "arabic": "دبر",
+      "english": "ponder",
+      "count": 44,
+      "cluster": 0
+    },
+    {
+      "id": "fkr",
+      "arabic": "فكر",
+      "english": "reflect",
+      "count": 18,
+      "cluster": 0
+    },
+    {
+      "id": "fqh",
+      "arabic": "فقه",
+      "english": "comprehend",
+      "count": 20,
+      "cluster": 0
+    },
+    {
+      "id": "lbb",
+      "arabic": "لبب",
+      "english": "kernel-of-heart",
+      "count": 16,
+      "cluster": 0
+    },
+    {
+      "id": "nZr",
+      "arabic": "نظر",
+      "english": "observe",
+      "count": 129,
+      "cluster": 0
+    },
+    {
+      "id": "qrA",
+      "arabic": "قرا",
+      "english": "read/recite",
+      "count": 88,
+      "cluster": 0
+    },
+    {
+      "id": "sAl",
+      "arabic": "سال",
+      "english": "ask",
+      "count": 129,
+      "cluster": 0
+    },
+    {
+      "id": "wjd",
+      "arabic": "وجد",
+      "english": "find/encounter",
+      "count": 107,
+      "cluster": 0
+    }
+  ],
+  "edges": [
+    {
+      "source": "Elm",
+      "target": "Hkm",
+      "weight": 71
+    },
+    {
+      "source": "*kr",
+      "target": "Elm",
+      "weight": 44
+    },
+    {
+      "source": "Elm",
+      "target": "sAl",
+      "weight": 27
+    },
+    {
+      "source": "Elm",
+      "target": "bgy",
+      "weight": 17
+    },
+    {
+      "source": "Elm",
+      "target": "bSr",
+      "weight": 13
+    },
+    {
+      "source": "Elm",
+      "target": "wjd",
+      "weight": 11
+    },
+    {
+      "source": "*kr",
+      "target": "bSr",
+      "weight": 11
+    },
+    {
+      "source": "*kr",
+      "target": "qrA",
+      "weight": 11
+    },
+    {
+      "source": "*kr",
+      "target": "lbb",
+      "weight": 10
+    },
+    {
+      "source": "*kr",
+      "target": "Hkm",
+      "weight": 9
+    },
+    {
+      "source": "Elm",
+      "target": "qrA",
+      "weight": 9
+    },
+    {
+      "source": "*kr",
+      "target": "sAl",
+      "weight": 8
+    },
+    {
+      "source": "*kr",
+      "target": "bgy",
+      "weight": 7
+    },
+    {
+      "source": "Hkm",
+      "target": "bgy",
+      "weight": 7
+    },
+    {
+      "source": "Elm",
+      "target": "lbb",
+      "weight": 5
+    },
+    {
+      "source": "Elm",
+      "target": "nZr",
+      "weight": 5
+    },
+    {
+      "source": "bSr",
+      "target": "nZr",
+      "weight": 4
+    },
+    {
+      "source": "bgy",
+      "target": "wjd",
+      "weight": 4
+    },
+    {
+      "source": "*kr",
+      "target": "nZr",
+      "weight": 4
+    },
+    {
+      "source": "Elm",
+      "target": "Eql",
+      "weight": 3
+    },
+    {
+      "source": "Hkm",
+      "target": "qrA",
+      "weight": 3
+    },
+    {
+      "source": "bSr",
+      "target": "bgy",
+      "weight": 3
+    },
+    {
+      "source": "dbr",
+      "target": "qrA",
+      "weight": 3
+    },
+    {
+      "source": "*kr",
+      "target": "dbr",
+      "weight": 3
+    },
+    {
+      "source": "bSr",
+      "target": "wjd",
+      "weight": 2
+    },
+    {
+      "source": "Hkm",
+      "target": "sAl",
+      "weight": 2
+    },
+    {
+      "source": "Hkm",
+      "target": "lbb",
+      "weight": 2
+    },
+    {
+      "source": "*kr",
+      "target": "fkr",
+      "weight": 2
+    },
+    {
+      "source": "Hkm",
+      "target": "bSr",
+      "weight": 2
+    },
+    {
+      "source": "Hkm",
+      "target": "wjd",
+      "weight": 2
+    },
+    {
+      "source": "dbr",
+      "target": "wjd",
+      "weight": 2
+    },
+    {
+      "source": "qrA",
+      "target": "wjd",
+      "weight": 2
+    },
+    {
+      "source": "qrA",
+      "target": "sAl",
+      "weight": 2
+    },
+    {
+      "source": "fqh",
+      "target": "nZr",
+      "weight": 2
+    },
+    {
+      "source": "Eql",
+      "target": "sAl",
+      "weight": 2
+    },
+    {
+      "source": "Eql",
+      "target": "qrA",
+      "weight": 2
+    },
+    {
+      "source": "*kr",
+      "target": "fqh",
+      "weight": 2
+    },
+    {
+      "source": "nZr",
+      "target": "sAl",
+      "weight": 2
+    },
+    {
+      "source": "nZr",
+      "target": "wjd",
+      "weight": 2
+    },
+    {
+      "source": "bgy",
+      "target": "qrA",
+      "weight": 2
+    },
+    {
+      "source": "fkr",
+      "target": "sAl",
+      "weight": 1
+    },
+    {
+      "source": "bgy",
+      "target": "lbb",
+      "weight": 1
+    },
+    {
+      "source": "Elm",
+      "target": "dbr",
+      "weight": 1
+    },
+    {
+      "source": "Elm",
+      "target": "fkr",
+      "weight": 1
+    },
+    {
+      "source": "bSr",
+      "target": "fkr",
+      "weight": 1
+    },
+    {
+      "source": "bgy",
+      "target": "nZr",
+      "weight": 1
+    },
+    {
+      "source": "bSr",
+      "target": "fqh",
+      "weight": 1
+    },
+    {
+      "source": "bSr",
+      "target": "dbr",
+      "weight": 1
+    },
+    {
+      "source": "Eql",
+      "target": "nZr",
+      "weight": 1
+    },
+    {
+      "source": "bSr",
+      "target": "sAl",
+      "weight": 1
+    },
+    {
+      "source": "dbr",
+      "target": "fqh",
+      "weight": 1
+    },
+    {
+      "source": "fqh",
+      "target": "qrA",
+      "weight": 1
+    },
+    {
+      "source": "fqh",
+      "target": "wjd",
+      "weight": 1
+    },
+    {
+      "source": "*kr",
+      "target": "Eql",
+      "weight": 1
+    },
+    {
+      "source": "Eql",
+      "target": "bSr",
+      "weight": 1
+    },
+    {
+      "source": "dbr",
+      "target": "sAl",
+      "weight": 1
+    },
+    {
+      "source": "bgy",
+      "target": "sAl",
+      "weight": 1
+    },
+    {
+      "source": "dbr",
+      "target": "lbb",
+      "weight": 1
+    },
+    {
+      "source": "Hkm",
+      "target": "nZr",
+      "weight": 1
+    },
+    {
+      "source": "fkr",
+      "target": "qrA",
+      "weight": 1
+    }
+  ],
+  "n_clusters": 2
+}

@@ -1,0 +1,870 @@
+{
+  "root": "HSd",
+  "root_arabic": "حصد",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 3,
+    "ayahs": 6,
+    "surahs": 6,
+    "pos_distribution": {
+      "N": 5,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "HaSiyd",
+      "lemma_arabic": "حَصِيد",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        10,
+        24,
+        34
+      ],
+      "occurrences": [
+        {
+          "location": [
+            10,
+            24,
+            34
+          ],
+          "form_arabic": "حَصِيدًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            11,
+            100,
+            9
+          ],
+          "form_arabic": "وَحَصِيدٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            21,
+            15,
+            7
+          ],
+          "form_arabic": "حَصِيدًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            50,
+            9,
+            10
+          ],
+          "form_arabic": "ٱلْحَصِيدِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "HaSaAd",
+      "lemma_arabic": "حَصَاد",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        6,
+        141,
+        25
+      ],
+      "occurrences": [
+        {
+          "location": [
+            6,
+            141,
+            25
+          ],
+          "form_arabic": "حَصَادِهِ.",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "HaSad",
+      "lemma_arabic": "حَصَد",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        12,
+        47,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            47,
+            7
+          ],
+          "form_arabic": "حَصَدتُّمْ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "nbt",
+      "root_arabic": "نبت",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "zrE",
+      "root_arabic": "زرع",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "qSS",
+      "root_arabic": "قصص",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        100
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        100
+      ]
+    },
+    {
+      "root": "qry",
+      "root_arabic": "قري",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        100
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "fSl",
+      "root_arabic": "فصل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "zyn",
+      "root_arabic": "زين",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "xlT",
+      "root_arabic": "خلط",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "fkr",
+      "root_arabic": "فكر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "zxrf",
+      "root_arabic": "زخرف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "Znn",
+      "root_arabic": "ظنن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "gny",
+      "root_arabic": "غني",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        24
+      ]
+    },
+    {
+      "root": "brk",
+      "root_arabic": "برك",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        50,
+        9
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        21,
+        15
+      ]
+    },
+    {
+      "root": "xmd",
+      "root_arabic": "خمد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        21,
+        15
+      ]
+    },
+    {
+      "root": "zyl",
+      "root_arabic": "زيل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        21,
+        15
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        12,
+        47
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        12,
+        47
+      ]
+    },
+    {
+      "root": "w*r",
+      "root_arabic": "وذر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        12,
+        47
+      ]
+    },
+    {
+      "root": "snbl",
+      "root_arabic": "سنبل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        12,
+        47
+      ]
+    },
+    {
+      "root": "dAb",
+      "root_arabic": "داب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        12,
+        47
+      ]
+    },
+    {
+      "root": "sbE",
+      "root_arabic": "سبع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        12,
+        47
+      ]
+    },
+    {
+      "root": "snw",
+      "root_arabic": "سنو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        12,
+        47
+      ]
+    },
+    {
+      "root": "$bh",
+      "root_arabic": "شبه",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "zyt",
+      "root_arabic": "زيت",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "Er$",
+      "root_arabic": "عرش",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "srf",
+      "root_arabic": "سرف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "vmr",
+      "root_arabic": "ثمر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "nxl",
+      "root_arabic": "نخل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "rmn",
+      "root_arabic": "رمن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "n$A",
+      "root_arabic": "نشا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        141
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 10,
+        "name_english": "Yunus",
+        "name_arabic": "سُورَةُ يُونُسَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 21,
+        "name_english": "Al-Anbiyaa",
+        "name_arabic": "سُورَةُ الأَنبِيَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 50,
+        "name_english": "Qaaf",
+        "name_arabic": "سُورَةُ قٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        6,
+        141,
+        25
+      ],
+      "form_arabic": "حَصَادِهِ.",
+      "lemma": "HaSaAd",
+      "lemma_arabic": "حَصَاد",
+      "pos": "N",
+      "ayah_id": "6:141",
+      "ayah_arabic": "۞وَهُوَ ٱلَّذِيٓ أَنشَأَ جَنَّٰتࣲ مَّعۡرُوشَٰتࣲ وَغَيۡرَ مَعۡرُوشَٰتࣲ وَٱلنَّخۡلَ وَٱلزَّرۡعَ مُخۡتَلِفًا أُكُلُهُۥ وَٱلزَّيۡتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهࣰ ا وَغَيۡرَ مُتَشَٰبِهࣲۚ كُلُواْ مِن ثَمَرِهِۦٓ إِذَآ أَثۡمَرَ وَءَاتُواْ حَقَّهُۥ يَوۡمَ حَصَادِهِۦۖ وَلَا تُسۡرِفُوٓاْۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُسۡرِفِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "(of) its harvest",
+      "translations": {
+        "saheeh": "And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakah] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess.",
+        "pickthall": "He it is Who produceth gardens trellised and untrellised, and the date-palm, and crops of divers flavour, and the olive and the pomegranate, like and unlike. Eat ye of the fruit thereof when it fruiteth, and pay the due thereof upon the harvest day, and be not prodigal. Lo! Allah loveth not the prodigals.",
+        "khattab": "He is the One Who produces gardens—both cultivated and wild—and palm trees, crops of different flavours, olives, and pomegranates—similar ˹in shape˺, but dissimilar ˹in taste˺. Eat of the fruit they bear and pay the dues at harvest, but do not waste. Surely He does not like the wasteful",
+        "arberry": "It is He who produces gardens trellised, and untrellised, palm-trees, and crops diverse in produce, olives, pomegranates, like each to each, and each unlike to each. Eat of their fruits when they fructify, and pay the due thereof on the day of its harvest; and be not prodigal; God loves not the prodigal."
+      }
+    },
+    {
+      "location": [
+        10,
+        24,
+        34
+      ],
+      "form_arabic": "حَصِيدًا",
+      "lemma": "HaSiyd",
+      "lemma_arabic": "حَصِيد",
+      "pos": "N",
+      "ayah_id": "10:24",
+      "ayah_arabic": "إِنَّمَا مَثَلُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا كَمَآءٍ أَنزَلۡنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخۡتَلَطَ بِهِۦ نَبَاتُ ٱلۡأَرۡضِ مِمَّا يَأۡكُلُ ٱلنَّاسُ وَٱلۡأَنۡعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلۡأَرۡضُ زُخۡرُفَهَا وَٱزَّيَّنَتۡ وَظَنَّ أَهۡلُهَآ أَنَّهُمۡ قَٰدِرُونَ عَلَيۡهَآ أَتَىٰهَآ أَمۡرُنَا لَيۡلًا أَوۡ نَهَارࣰ ا فَجَعَلۡنَٰهَا حَصِيدࣰ ا كَأَن لَّمۡ تَغۡنَ بِٱلۡأَمۡسِۚ كَذَٰلِكَ نُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمࣲ يَتَفَكَّرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yunus",
+      "literal_gloss": "a harvest clean-mown",
+      "translations": {
+        "saheeh": "The example of [this] worldly life is but like rain which We have sent down from the sky that the plants of the earth absorb - [those] from which men and livestock eat - until, when the earth has taken on its adornment and is beautified and its people suppose that they have capability over it, there comes to it Our command by night or by day, and We make it as a harvest, as if it had not flourished yesterday. Thus do We explain in detail the signs for a people who give thought.",
+        "pickthall": "The similitude of the life of the world is only as water which We send down from the sky, then the earth's growth of that which men and cattle eat mingleth with it till, when the earth hath taken on her ornaments and is embellished, and her people deem that they are masters of her, Our commandment cometh by night or by day and We make it as reaped corn as if it had not flourished yesterday. Thus do we expound the revelations for people who reflect.",
+        "khattab": "The life of this world is just like rain We send down from the sky, producing a mixture of plants which humans and animals consume. Then just as the earth looks its best, perfectly beautified, and its people think they have full control over it, there comes to it Our command by night or by day, so We mow it down as if it never flourished yesterday! This is how We make the signs clear for people who reflect",
+        "arberry": "The likeness of this present life is as water that We send down out of heaven, and the plants of the earth mingle with it whereof men and cattle eat, till, when the earth has taken on its glitter and has decked itself fair, and its inhabitants think they have power over it, Our command comes upon it by night or day, and We make it stubble, as though yesterday it flourished not. Even so We distinguish the signs for a people who reflect."
+      }
+    },
+    {
+      "location": [
+        11,
+        100,
+        9
+      ],
+      "form_arabic": "وَحَصِيدٌ",
+      "lemma": "HaSiyd",
+      "lemma_arabic": "حَصِيد",
+      "pos": "N",
+      "ayah_id": "11:100",
+      "ayah_arabic": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡقُرَىٰ نَقُصُّهُۥ عَلَيۡكَۖ مِنۡهَا قَآئِمࣱ وَحَصِيدࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "and (some) mown",
+      "translations": {
+        "saheeh": "That is from the news of the cities, which We relate to you; of them, some are [still] standing and some are [as] a harvest [mowed down].",
+        "pickthall": "That is (something) of the tidings of the townships (which were destroyed of old). We relate it unto thee (Muhammad). Some of them are standing and some (already) reaped.",
+        "khattab": "These are accounts, We relate to you ˹O Prophet˺, of the ˹destroyed˺ cities. Some are still standing ˹barren˺, while others have been mowed down",
+        "arberry": "That is of the tidings of the cities We relate to thee; some of them are standing and some stubble."
+      }
+    },
+    {
+      "location": [
+        12,
+        47,
+        7
+      ],
+      "form_arabic": "حَصَدتُّمْ",
+      "lemma": "HaSad",
+      "lemma_arabic": "حَصَد",
+      "pos": "V",
+      "ayah_id": "12:47",
+      "ayah_arabic": "قَالَ تَزۡرَعُونَ سَبۡعَ سِنِينَ دَأَبࣰ ا فَمَا حَصَدتُّمۡ فَذَرُوهُ فِي سُنۢبُلِهِۦٓ إِلَّا قَلِيلࣰ ا مِّمَّا تَأۡكُلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "you reap",
+      "translations": {
+        "saheeh": "[Joseph] said, \"You will plant for seven years consecutively; and what you harvest leave in its spikes, except a little from which you will eat.",
+        "pickthall": "He said: Ye shall sow seven years as usual, but that which ye reap, leave it in the ear, all save a little which ye eat.",
+        "khattab": "Joseph replied, “You will plant ˹grain˺ for seven consecutive years, leaving in the ear whatever you will harvest, except for the little you will eat",
+        "arberry": "He said, 'You shall sow seven years after your wont; what you have harvested leave in the ear, excepting a little whereof you eat."
+      }
+    },
+    {
+      "location": [
+        21,
+        15,
+        7
+      ],
+      "form_arabic": "حَصِيدًا",
+      "lemma": "HaSiyd",
+      "lemma_arabic": "حَصِيد",
+      "pos": "N",
+      "ayah_id": "21:15",
+      "ayah_arabic": "فَمَا زَالَت تِّلۡكَ دَعۡوَىٰهُمۡ حَتَّىٰ جَعَلۡنَٰهُمۡ حَصِيدًا خَٰمِدِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Anbiyaa",
+      "literal_gloss": "reaped",
+      "translations": {
+        "saheeh": "And that declaration of theirs did not cease until We made them [as] a harvest [mowed down], extinguished [like a fire].",
+        "pickthall": "And this their crying ceased not till We made them as reaped corn, extinct.",
+        "khattab": "They kept repeating their cry until We mowed them down, ˹leaving them˺ lifeless",
+        "arberry": "So they ceased not to cry, until We made them stubble, silent and still."
+      }
+    },
+    {
+      "location": [
+        50,
+        9,
+        10
+      ],
+      "form_arabic": "ٱلْحَصِيدِ",
+      "lemma": "HaSiyd",
+      "lemma_arabic": "حَصِيد",
+      "pos": "N",
+      "ayah_id": "50:9",
+      "ayah_arabic": "وَنَزَّلۡنَا مِنَ ٱلسَّمَآءِ مَآءࣰ مُّبَٰرَكࣰ ا فَأَنۢبَتۡنَا بِهِۦ جَنَّٰتࣲ وَحَبَّ ٱلۡحَصِيدِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Qaaf",
+      "literal_gloss": "(for) the harvest",
+      "translations": {
+        "saheeh": "And We have sent down blessed rain from the sky and made grow thereby gardens and grain from the harvest",
+        "pickthall": "And We send down from the sky blessed water whereby We give growth unto gardens and the grain of crops,",
+        "khattab": "And We send down blessed rain from the sky, bringing forth gardens and grains for harvest",
+        "arberry": "And We sent down out of heaven water blessed, and caused to grow thereby gardens and grain of harvest"
+      }
+    }
+  ]
+}

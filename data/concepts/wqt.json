@@ -1,0 +1,1392 @@
+{
+  "root": "wqt",
+  "root_arabic": "وقت",
+  "stats": {
+    "occurrences": 13,
+    "lemmas": 4,
+    "ayahs": 13,
+    "surahs": 10,
+    "pos_distribution": {
+      "N": 11,
+      "ADJ": 1,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "miyqa`t",
+      "lemma_arabic": "مِيقَٰت",
+      "count": 8,
+      "pos_distribution": {
+        "N": 8
+      },
+      "first_occurrence": [
+        2,
+        189,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            189,
+            6
+          ],
+          "form_arabic": "مَوَٰقِيتُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            142,
+            8
+          ],
+          "form_arabic": "مِيقَٰتُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            143,
+            4
+          ],
+          "form_arabic": "لِمِيقَٰتِنَا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            155,
+            6
+          ],
+          "form_arabic": "لِّمِيقَٰتِنَا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            26,
+            38,
+            3
+          ],
+          "form_arabic": "لِمِيقَٰتِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            44,
+            40,
+            4
+          ],
+          "form_arabic": "مِيقَٰتُهُمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            56,
+            50,
+            3
+          ],
+          "form_arabic": "مِيقَٰتِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            78,
+            17,
+            5
+          ],
+          "form_arabic": "مِيقَٰتًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "waqot",
+      "lemma_arabic": "وَقْت",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        7,
+        187,
+        13
+      ],
+      "occurrences": [
+        {
+          "location": [
+            7,
+            187,
+            13
+          ],
+          "form_arabic": "لِوَقْتِهَا^",
+          "pos": "N"
+        },
+        {
+          "location": [
+            15,
+            38,
+            3
+          ],
+          "form_arabic": "ٱلْوَقْتِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            38,
+            81,
+            3
+          ],
+          "form_arabic": "ٱلْوَقْتِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "m~awoquwt",
+      "lemma_arabic": "مَّوْقُوت",
+      "count": 1,
+      "pos_distribution": {
+        "ADJ": 1
+      },
+      "first_occurrence": [
+        4,
+        103,
+        20
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            103,
+            20
+          ],
+          "form_arabic": "مَّوْقُوتًا",
+          "pos": "ADJ"
+        }
+      ]
+    },
+    {
+      "lemma": ">uq~itato",
+      "lemma_arabic": "أُقِّتَتْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        77,
+        11,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            77,
+            11,
+            3
+          ],
+          "form_arabic": "أُقِّتَتْ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 6,
+      "share": 0.4615,
+      "first_together": [
+        15,
+        38
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 5,
+      "share": 0.3846,
+      "first_together": [
+        7,
+        187
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 5,
+      "share": 0.3846,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 4,
+      "share": 0.3077,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        4,
+        103
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        4,
+        103
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        26,
+        38
+      ]
+    },
+    {
+      "root": "fSl",
+      "root_arabic": "فصل",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        44,
+        40
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        4,
+        103
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "jlw",
+      "root_arabic": "جلو",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "qDy",
+      "root_arabic": "قضي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        4,
+        103
+      ]
+    },
+    {
+      "root": "jnb",
+      "root_arabic": "جنب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        4,
+        103
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        4,
+        103
+      ]
+    },
+    {
+      "root": "Tmn",
+      "root_arabic": "طمن",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        4,
+        103
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        4,
+        103
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        4,
+        103
+      ]
+    },
+    {
+      "root": "qEd",
+      "root_arabic": "قعد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        4,
+        103
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "E$r",
+      "root_arabic": "عشر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "fsd",
+      "root_arabic": "فسد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "tmm",
+      "root_arabic": "تمم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "rbE",
+      "root_arabic": "ربع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        142
+      ]
+    },
+    {
+      "root": "fEl",
+      "root_arabic": "فعل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "rjf",
+      "root_arabic": "رجف",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "ftn",
+      "root_arabic": "فتن",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "hlk",
+      "root_arabic": "هلك",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "sbE",
+      "root_arabic": "سبع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "sfh",
+      "root_arabic": "سفه",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        155
+      ]
+    },
+    {
+      "root": "rsw",
+      "root_arabic": "رسو",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        187
+      ]
+    },
+    {
+      "root": "vql",
+      "root_arabic": "ثقل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        187
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        187
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        187
+      ]
+    },
+    {
+      "root": "bgt",
+      "root_arabic": "بغت",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        187
+      ]
+    },
+    {
+      "root": "Hfw",
+      "root_arabic": "حفو",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        187
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        187
+      ]
+    },
+    {
+      "root": "swE",
+      "root_arabic": "سوع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        187
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        187
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        77,
+        11
+      ]
+    },
+    {
+      "root": "Hjj",
+      "root_arabic": "حجج",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "bwb",
+      "root_arabic": "بوب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "lys",
+      "root_arabic": "ليس",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "flH",
+      "root_arabic": "فلح",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "byt",
+      "root_arabic": "بيت",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "hll",
+      "root_arabic": "هلل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "Zhr",
+      "root_arabic": "ظهر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "brr",
+      "root_arabic": "برر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        189
+      ]
+    },
+    {
+      "root": "sHr",
+      "root_arabic": "سحر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        26,
+        38
+      ]
+    },
+    {
+      "root": "xrr",
+      "root_arabic": "خرر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "sbH",
+      "root_arabic": "سبح",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "jbl",
+      "root_arabic": "جبل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "dkk",
+      "root_arabic": "دكك",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "SEq",
+      "root_arabic": "صعق",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "fwq",
+      "root_arabic": "فوق",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    },
+    {
+      "root": "qrr",
+      "root_arabic": "قرر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        143
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 4
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 15,
+        "name_english": "Al-Hijr",
+        "name_arabic": "سُورَةُ الحِجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 26,
+        "name_english": "Ash-Shu'araa",
+        "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 38,
+        "name_english": "Saad",
+        "name_arabic": "سُورَةُ صٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 44,
+        "name_english": "Ad-Dukhaan",
+        "name_arabic": "سُورَةُ الدُّخَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 77,
+        "name_english": "Al-Mursalaat",
+        "name_arabic": "سُورَةُ المُرۡسَلَاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 78,
+        "name_english": "An-Naba",
+        "name_arabic": "سُورَةُ النَّبَإِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 11
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        189,
+        6
+      ],
+      "form_arabic": "مَوَٰقِيتُ",
+      "lemma": "miyqa`t",
+      "lemma_arabic": "مِيقَٰت",
+      "pos": "N",
+      "ayah_id": "2:189",
+      "ayah_arabic": "۞يَسۡـَٔلُونَكَ عَنِ ٱلۡأَهِلَّةِۖ قُلۡ هِيَ مَوَٰقِيتُ لِلنَّاسِ وَٱلۡحَجِّۗ وَلَيۡسَ ٱلۡبِرُّ بِأَن تَأۡتُواْ ٱلۡبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلۡبِرَّ مَنِ ٱتَّقَىٰۗ وَأۡتُواْ ٱلۡبُيُوتَ مِنۡ أَبۡوَٰبِهَاۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(are) indicators of periods",
+      "translations": {
+        "saheeh": "They ask you, [O Muhammad], about the new moons. Say, \"They are measurements of time for the people and for Hajj.\" And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allah. And enter houses from their doors. And fear Allah that you may succeed.",
+        "pickthall": "They ask thee, (O Muhammad), of new moons, say: They are fixed seasons for mankind and for the pilgrimage. It is not righteousness that ye go to houses by the backs thereof (as do the idolaters at certain seasons), but the righteous man is he who wardeth off (evil). So go to houses by the gates thereof, and observe your duty to Allah, that ye may be successful.",
+        "khattab": "They ask you ˹O Prophet˺ about the phases of the moon. Say, “They are a means for people to determine time and pilgrimage.” Righteousness is not in entering your houses from the back doors. Rather, righteousness is to be mindful ˹of Allah˺. So enter your homes through their ˹proper˺ doors, and be mindful of Allah so you may be successful",
+        "arberry": "They will question thee concerning the new moons. Say: 'They are appointed times for the people, and the Pilgrimage.' It is not piety to come to the houses from the backs of them; but piety is to be godfearing; so come to the houses by their doors, and fear God; haply so you will prosper."
+      }
+    },
+    {
+      "location": [
+        4,
+        103,
+        20
+      ],
+      "form_arabic": "مَّوْقُوتًا",
+      "lemma": "m~awoquwt",
+      "lemma_arabic": "مَّوْقُوت",
+      "pos": "ADJ",
+      "ayah_id": "4:103",
+      "ayah_arabic": "فَإِذَا قَضَيۡتُمُ ٱلصَّلَوٰةَ فَٱذۡكُرُواْ ٱللَّهَ قِيَٰمࣰ ا وَقُعُودࣰ ا وَعَلَىٰ جُنُوبِكُمۡۚ فَإِذَا ٱطۡمَأۡنَنتُمۡ فَأَقِيمُواْ ٱلصَّلَوٰةَۚ إِنَّ ٱلصَّلَوٰةَ كَانَتۡ عَلَى ٱلۡمُؤۡمِنِينَ كِتَٰبࣰ ا مَّوۡقُوتࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(at) fixed times",
+      "translations": {
+        "saheeh": "And when you have completed the prayer, remember Allah standing, sitting, or [lying] on your sides. But when you become secure, re-establish [regular] prayer. Indeed, prayer has been decreed upon the believers a decree of specified times.",
+        "pickthall": "When ye have performed the act of worship, remember Allah, standing, sitting and reclining. And when ye are in safety, observe proper worship. Worship at fixed times hath been enjoined on the believers.",
+        "khattab": "When the prayers are over, remember Allah—whether you are standing, sitting, or lying down. But when you are secure, establish regular prayers. Indeed, performing prayers is a duty on the believers at the appointed times",
+        "arberry": "When you have performed the prayer, remember God, standing and sitting and on your sides. Then, when you are secure, perform the prayer; surely the prayer is a timed prescription for the believers."
+      }
+    },
+    {
+      "location": [
+        7,
+        142,
+        8
+      ],
+      "form_arabic": "مِيقَٰتُ",
+      "lemma": "miyqa`t",
+      "lemma_arabic": "مِيقَٰت",
+      "pos": "N",
+      "ayah_id": "7:142",
+      "ayah_arabic": "۞وَوَٰعَدۡنَا مُوسَىٰ ثَلَٰثِينَ لَيۡلَةࣰ وَأَتۡمَمۡنَٰهَا بِعَشۡرࣲ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرۡبَعِينَ لَيۡلَةࣰۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخۡلُفۡنِي فِي قَوۡمِي وَأَصۡلِحۡ وَلَا تَتَّبِعۡ سَبِيلَ ٱلۡمُفۡسِدِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "(the) set term",
+      "translations": {
+        "saheeh": "And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, \"Take my place among my people, do right [by them], and do not follow the way of the corrupters.\"",
+        "pickthall": "And when We did appoint for Moses thirty nights (of solitude), and added to them ten, and he completed the whole time appointed by his Lord of forty nights; and Moses said unto his brother, Aaron: Take my place among the people. Do right, and follow not the way of mischief-makers.",
+        "khattab": "We appointed for Moses thirty nights then added another ten—completing his Lord’s term of forty nights. Moses commanded his brother Aaron, “Take my place among my people, do what is right, and do not follow the way of the corruptors.”",
+        "arberry": "And We appointed with Moses thirty nights and We completed them with ten, so the appointed time of his Lord was forty nights; and Moses said to his brother Aaron, 'Be my successor among my people, and put things right, and do not follow the way of the workers of corruption.'"
+      }
+    },
+    {
+      "location": [
+        7,
+        143,
+        4
+      ],
+      "form_arabic": "لِمِيقَٰتِنَا",
+      "lemma": "miyqa`t",
+      "lemma_arabic": "مِيقَٰت",
+      "pos": "N",
+      "ayah_id": "7:143",
+      "ayah_arabic": "وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِيٓ أَنظُرۡ إِلَيۡكَۚ قَالَ لَن تَرَىٰنِي وَلَٰكِنِ ٱنظُرۡ إِلَى ٱلۡجَبَلِ فَإِنِ ٱسۡتَقَرَّ مَكَانَهُۥ فَسَوۡفَ تَرَىٰنِيۚ فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلۡجَبَلِ جَعَلَهُۥ دَكࣰّ ا وَخَرَّ مُوسَىٰ صَعِقࣰ اۚ فَلَمَّآ أَفَاقَ قَالَ سُبۡحَٰنَكَ تُبۡتُ إِلَيۡكَ وَأَنَا۠ أَوَّلُ ٱلۡمُؤۡمِنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "to Our appointed place",
+      "translations": {
+        "saheeh": "And when Moses arrived at Our appointed time and his Lord spoke to him, he said, \"My Lord, show me [Yourself] that I may look at You.\" [Allah] said, \"You will not see Me, but look at the mountain; if it should remain in place, then you will see Me.\" But when his Lord appeared to the mountain, He rendered it level, and Moses fell unconscious. And when he awoke, he said, \"Exalted are You! I have repented to You, and I am the first of the believers.\"",
+        "pickthall": "And when Moses came to Our appointed tryst and his Lord had spoken unto him, he said: My Lord! Show me (Thy Self), that I may gaze upon Thee. He said: Thou wilt not see Me, but gaze upon the mountain! If it stand still in its place, then thou wilt see Me. And when his Lord revealed (His) glory to the mountain He sent it crashing down. And Moses fell down senseless. And when he woke he said: Glory unto Thee! I turn unto Thee repentant, and I am the first of (true) believers.",
+        "khattab": "When Moses came at the appointed time and his Lord spoke to him, he asked, “My Lord! Reveal Yourself to me so I may see You.” Allah answered, “You cannot see Me! But look at the mountain. If it remains firm in its place, only then will you see Me.” When his Lord appeared to the mountain, He levelled it to dust and Moses collapsed unconscious. When he recovered, he cried, “Glory be to You! I turn to You in repentance and I am the first of the believers.”",
+        "arberry": "And when Moses came to Our appointed time and his Lord spoke with him, he said, 'Oh my Lord, show me, that I may behold Thee!' Said He, 'Thou shalt not see Me; but behold the mountain -- if it stays fast in its place, then thou shalt see Me.' And when his Lord revealed Him to the mountain He made it crumble to dust; and Moses fell down swooning. So when he awoke, he said, 'Glory be to Thee! I repent to Thee; I am the first of the believers.'"
+      }
+    },
+    {
+      "location": [
+        7,
+        155,
+        6
+      ],
+      "form_arabic": "لِّمِيقَٰتِنَا",
+      "lemma": "miyqa`t",
+      "lemma_arabic": "مِيقَٰت",
+      "pos": "N",
+      "ayah_id": "7:155",
+      "ayah_arabic": "وَٱخۡتَارَ مُوسَىٰ قَوۡمَهُۥ سَبۡعِينَ رَجُلࣰ ا لِّمِيقَٰتِنَاۖ فَلَمَّآ أَخَذَتۡهُمُ ٱلرَّجۡفَةُ قَالَ رَبِّ لَوۡ شِئۡتَ أَهۡلَكۡتَهُم مِّن قَبۡلُ وَإِيَّٰيَۖ أَتُهۡلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ مِنَّآۖ إِنۡ هِيَ إِلَّا فِتۡنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهۡدِي مَن تَشَآءُۖ أَنتَ وَلِيُّنَا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَاۖ وَأَنتَ خَيۡرُ ٱلۡغَٰفِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "for Our appointment",
+      "translations": {
+        "saheeh": "And Moses chose from his people seventy men for Our appointment. And when the earthquake seized them, he said, \"My Lord, if You had willed, You could have destroyed them before and me [as well]. Would You destroy us for what the foolish among us have done? This is not but Your trial by which You send astray whom You will and guide whom You will. You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers.",
+        "pickthall": "And Moses chose of his people seventy men for Our appointed tryst and, when the trembling came on them, he said: My Lord! If Thou hadst willed Thou hadst destroyed them long before, and me with them. Wilt thou destroy us for that which the ignorant among us did? It is but Thy trial (of us). Thou sendest whom Thou wilt astray and guidest whom Thou wilt: Thou art our Protecting Friend, therefore forgive us and have mercy on us, Thou, the Best of all who show forgiveness.",
+        "khattab": "Moses chose seventy men from among his people for Our appointment and, when they were seized by an earthquake, he cried, “My Lord! Had You willed, You could have destroyed them long ago, and me as well. Will You destroy us for what the foolish among us have done? This is only a test from You—by which You allow whoever you will to stray and guide whoever You will. You are our Guardian. So forgive us and have mercy on us. You are the best forgiver",
+        "arberry": "And Moses chose of his people seventy men for Our appointed time; and when the earthquake seized them, he said, 'My Lord, hadst Thou willed Thou wouldst have destroyed them before, and me. Wilt Thou destroy us for what the foolish ones of us have done? It is only Thy trial, whereby Thou leadest astray whom Thou wilt, and guidest whom Thou wilt. Thou art our Protector; so forgive us, and have mercy on us, for Thou art the best of forgivers."
+      }
+    },
+    {
+      "location": [
+        7,
+        187,
+        13
+      ],
+      "form_arabic": "لِوَقْتِهَا^",
+      "lemma": "waqot",
+      "lemma_arabic": "وَقْت",
+      "pos": "N",
+      "ayah_id": "7:187",
+      "ayah_arabic": "يَسۡـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرۡسَىٰهَاۖ قُلۡ إِنَّمَا عِلۡمُهَا عِندَ رَبِّيۖ لَا يُجَلِّيهَا لِوَقۡتِهَآ إِلَّا هُوَۚ ثَقُلَتۡ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ لَا تَأۡتِيكُمۡ إِلَّا بَغۡتَةࣰۗ يَسۡـَٔلُونَكَ كَأَنَّكَ حَفِيٌّ عَنۡهَاۖ قُلۡ إِنَّمَا عِلۡمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "its time",
+      "translations": {
+        "saheeh": "They ask you, [O Muhammad], about the Hour: when is its arrival? Say, \"Its knowledge is only with my Lord. None will reveal its time except Him. It lays heavily upon the heavens and the earth. It will not come upon you except unexpectedly.\" They ask you as if you are familiar with it. Say, \"Its knowledge is only with Allah, but most of the people do not know.\"",
+        "pickthall": "They ask thee of the (destined) Hour, when will it come to port. Say: Knowledge thereof is with my Lord only. He alone will manifest it at its proper time. It is heavy in the heavens and the earth. It cometh not to you save unawares. They question thee as if thou couldst be well informed thereof. Say: Knowledge thereof is with Allah only, but most of mankind know not.",
+        "khattab": "They ask you ˹O Prophet˺ regarding the Hour, “When will it be?” Say, “That knowledge is only with my Lord. He alone will reveal it when the time comes. It is too tremendous for the heavens and the earth and will only take you by surprise.” They ask you as if you had full knowledge of it. Say, “That knowledge is only with Allah, but most people do not know.”",
+        "arberry": "They will question thee concerning the Hour, when it shall berth. Say: 'The knowledge of it is only with my Lord; none shall reveal it at its proper time, but He. Heavy is it in the heavens and the earth; it will not come on you but suddenly!' They will question thee, as though thou art well-informed of it. Say: 'The knowledge of it is only with God, but most men know not.'"
+      }
+    },
+    {
+      "location": [
+        15,
+        38,
+        3
+      ],
+      "form_arabic": "ٱلْوَقْتِ",
+      "lemma": "waqot",
+      "lemma_arabic": "وَقْت",
+      "pos": "N",
+      "ayah_id": "15:38",
+      "ayah_arabic": "إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Hijr",
+      "literal_gloss": "(of) the time",
+      "translations": {
+        "saheeh": "Until the Day of the time well-known.\"",
+        "pickthall": "Till the Day of appointed time.",
+        "khattab": "until the appointed Day.”",
+        "arberry": "unto the day of a known time.'"
+      }
+    },
+    {
+      "location": [
+        26,
+        38,
+        3
+      ],
+      "form_arabic": "لِمِيقَٰتِ",
+      "lemma": "miyqa`t",
+      "lemma_arabic": "مِيقَٰت",
+      "pos": "N",
+      "ayah_id": "26:38",
+      "ayah_arabic": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَٰتِ يَوۡمࣲ مَّعۡلُومࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "for (the) appointment",
+      "translations": {
+        "saheeh": "So the magicians were assembled for the appointment of a well-known day.",
+        "pickthall": "So the wizards were gathered together at a set time on a day appointed.",
+        "khattab": "So the magicians were assembled at the set time on the appointed day",
+        "arberry": "So the sorcerers were assembled for the appointed time of a fixed day."
+      }
+    },
+    {
+      "location": [
+        38,
+        81,
+        3
+      ],
+      "form_arabic": "ٱلْوَقْتِ",
+      "lemma": "waqot",
+      "lemma_arabic": "وَقْت",
+      "pos": "N",
+      "ayah_id": "38:81",
+      "ayah_arabic": "إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "(of) the time",
+      "translations": {
+        "saheeh": "Until the Day of the time well-known.\"",
+        "pickthall": "Until the day of the time appointed.",
+        "khattab": "until the appointed Day.”",
+        "arberry": "until the day of the known time.'"
+      }
+    },
+    {
+      "location": [
+        44,
+        40,
+        4
+      ],
+      "form_arabic": "مِيقَٰتُهُمْ",
+      "lemma": "miyqa`t",
+      "lemma_arabic": "مِيقَٰت",
+      "pos": "N",
+      "ayah_id": "44:40",
+      "ayah_arabic": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ad-Dukhaan",
+      "literal_gloss": "(is) an appointed term for them",
+      "translations": {
+        "saheeh": "Indeed, the Day of Judgement is the appointed time for them all -",
+        "pickthall": "Assuredly the Day of Decision is the term for all of them,",
+        "khattab": "Surely the Day of ˹Final˺ Decision is the time appointed for all—",
+        "arberry": "Surely the Day of Decision shall be their appointed time, all together,"
+      }
+    },
+    {
+      "location": [
+        56,
+        50,
+        3
+      ],
+      "form_arabic": "مِيقَٰتِ",
+      "lemma": "miyqa`t",
+      "lemma_arabic": "مِيقَٰت",
+      "pos": "N",
+      "ayah_id": "56:50",
+      "ayah_arabic": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمࣲ مَّعۡلُومࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "(the) appointment",
+      "translations": {
+        "saheeh": "Are to be gathered together for the appointment of a known Day.\"",
+        "pickthall": "Will all be brought together to the tryst of an appointed day.",
+        "khattab": "will surely be gathered ˹together˺ for the appointed Day",
+        "arberry": "shall be gathered to the appointed time of a known day."
+      }
+    },
+    {
+      "location": [
+        77,
+        11,
+        3
+      ],
+      "form_arabic": "أُقِّتَتْ",
+      "lemma": ">uq~itato",
+      "lemma_arabic": "أُقِّتَتْ",
+      "pos": "V",
+      "ayah_id": "77:11",
+      "ayah_arabic": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mursalaat",
+      "literal_gloss": "are gathered to their appointed time",
+      "translations": {
+        "saheeh": "And when the messengers' time has come...",
+        "pickthall": "And when the messengers are brought unto their time appointed -",
+        "khattab": "and the messengers’ time ˹to testify˺ comes up—",
+        "arberry": "and when the Messengers' time is set,"
+      }
+    },
+    {
+      "location": [
+        78,
+        17,
+        5
+      ],
+      "form_arabic": "مِيقَٰتًا",
+      "lemma": "miyqa`t",
+      "lemma_arabic": "مِيقَٰت",
+      "pos": "N",
+      "ayah_id": "78:17",
+      "ayah_arabic": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naba",
+      "literal_gloss": "an appointed time",
+      "translations": {
+        "saheeh": "Indeed, the Day of Judgement is an appointed time -",
+        "pickthall": "Lo! the Day of Decision is a fixed time,",
+        "khattab": "Indeed, the Day of ˹Final˺ Decision is an appointed time—",
+        "arberry": "Surely the Day of Decision is an appointed time,"
+      }
+    }
+  ]
+}

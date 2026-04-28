@@ -1,0 +1,3376 @@
+{
+  "meta": {
+    "n_roots": 16,
+    "total_ayahs": 6236,
+    "roots": [
+      "Awy",
+      "Erj",
+      "HDr",
+      "Hml",
+      "Trf",
+      "Zhr",
+      "bEv",
+      "gyb",
+      "lbv",
+      "lmH",
+      "n$r",
+      "nb*",
+      "rfE",
+      "sry",
+      "sxr",
+      "wfy"
+    ],
+    "root_glosses": {
+      "Awy": {
+        "arabic": "اوي",
+        "gloss": "take refuge / shelter"
+      },
+      "Erj": {
+        "arabic": "عرج",
+        "gloss": "ascend / mi'rāj"
+      },
+      "HDr": {
+        "arabic": "حضر",
+        "gloss": "be present / brought"
+      },
+      "Hml": {
+        "arabic": "حمل",
+        "gloss": "carry / bear"
+      },
+      "Trf": {
+        "arabic": "طرف",
+        "gloss": "gaze / blink"
+      },
+      "Zhr": {
+        "arabic": "ظهر",
+        "gloss": "appear / manifest"
+      },
+      "bEv": {
+        "arabic": "بعث",
+        "gloss": "raise up / send"
+      },
+      "gyb": {
+        "arabic": "غيب",
+        "gloss": "hidden / unseen"
+      },
+      "lbv": {
+        "arabic": "لبث",
+        "gloss": "tarry / linger"
+      },
+      "lmH": {
+        "arabic": "لمح",
+        "gloss": "blink / glance"
+      },
+      "n$r": {
+        "arabic": "نشر",
+        "gloss": "spread / resurrect"
+      },
+      "nb*": {
+        "arabic": "نبذ",
+        "gloss": "withdraw / cast aside"
+      },
+      "rfE": {
+        "arabic": "رفع",
+        "gloss": "raise / lift up"
+      },
+      "sry": {
+        "arabic": "سري",
+        "gloss": "isrāʾ / night-journey"
+      },
+      "sxr": {
+        "arabic": "سخر",
+        "gloss": "subdue / make subservient"
+      },
+      "wfy": {
+        "arabic": "وفي",
+        "gloss": "take soul / fulfill"
+      }
+    },
+    "groups": {
+      "core_teleportation": [
+        "sry",
+        "rfE",
+        "Erj",
+        "Trf",
+        "lmH"
+      ],
+      "situational_mobility": [
+        "nb*",
+        "Awy",
+        "HDr",
+        "Hml"
+      ],
+      "hidden_appear": [
+        "gyb",
+        "Zhr"
+      ],
+      "time_displacement": [
+        "lbv",
+        "bEv",
+        "n$r",
+        "wfy"
+      ],
+      "subjugation": [
+        "sxr"
+      ]
+    }
+  },
+  "matrix": {
+    "Awy": {
+      "Awy": 36,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 0,
+      "Trf": 0,
+      "Zhr": 0,
+      "bEv": 0,
+      "gyb": 0,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 1,
+      "nb*": 0,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 1
+    },
+    "Erj": {
+      "Awy": 0,
+      "Erj": 9,
+      "HDr": 0,
+      "Hml": 0,
+      "Trf": 0,
+      "Zhr": 1,
+      "bEv": 0,
+      "gyb": 0,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 0
+    },
+    "HDr": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 25,
+      "Hml": 0,
+      "Trf": 0,
+      "Zhr": 0,
+      "bEv": 0,
+      "gyb": 0,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 0
+    },
+    "Hml": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 50,
+      "Trf": 0,
+      "Zhr": 2,
+      "bEv": 0,
+      "gyb": 1,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 1,
+      "rfE": 1,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 0
+    },
+    "Trf": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 0,
+      "Trf": 11,
+      "Zhr": 0,
+      "bEv": 0,
+      "gyb": 0,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 0
+    },
+    "Zhr": {
+      "Awy": 0,
+      "Erj": 1,
+      "HDr": 0,
+      "Hml": 2,
+      "Trf": 0,
+      "Zhr": 57,
+      "bEv": 0,
+      "gyb": 2,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 2,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 2,
+      "wfy": 0
+    },
+    "bEv": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 0,
+      "Trf": 0,
+      "Zhr": 0,
+      "bEv": 64,
+      "gyb": 1,
+      "lbv": 5,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 2
+    },
+    "gyb": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 1,
+      "Trf": 0,
+      "Zhr": 2,
+      "bEv": 1,
+      "gyb": 59,
+      "lbv": 2,
+      "lmH": 1,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 0
+    },
+    "lbv": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 0,
+      "Trf": 0,
+      "Zhr": 0,
+      "bEv": 5,
+      "gyb": 2,
+      "lbv": 27,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 0
+    },
+    "lmH": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 0,
+      "Trf": 0,
+      "Zhr": 0,
+      "bEv": 0,
+      "gyb": 1,
+      "lbv": 0,
+      "lmH": 2,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 0
+    },
+    "n$r": {
+      "Awy": 1,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 0,
+      "Trf": 0,
+      "Zhr": 0,
+      "bEv": 0,
+      "gyb": 0,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 20,
+      "nb*": 0,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 0
+    },
+    "nb*": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 1,
+      "Trf": 0,
+      "Zhr": 2,
+      "bEv": 0,
+      "gyb": 0,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 12,
+      "rfE": 0,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 0
+    },
+    "rfE": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 1,
+      "Trf": 0,
+      "Zhr": 0,
+      "bEv": 0,
+      "gyb": 0,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 29,
+      "sry": 0,
+      "sxr": 2,
+      "wfy": 1
+    },
+    "sry": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 0,
+      "Trf": 0,
+      "Zhr": 0,
+      "bEv": 0,
+      "gyb": 0,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 0,
+      "sry": 8,
+      "sxr": 0,
+      "wfy": 0
+    },
+    "sxr": {
+      "Awy": 0,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 0,
+      "Trf": 0,
+      "Zhr": 2,
+      "bEv": 0,
+      "gyb": 0,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 2,
+      "sry": 0,
+      "sxr": 35,
+      "wfy": 0
+    },
+    "wfy": {
+      "Awy": 1,
+      "Erj": 0,
+      "HDr": 0,
+      "Hml": 0,
+      "Trf": 0,
+      "Zhr": 0,
+      "bEv": 2,
+      "gyb": 0,
+      "lbv": 0,
+      "lmH": 0,
+      "n$r": 0,
+      "nb*": 0,
+      "rfE": 1,
+      "sry": 0,
+      "sxr": 0,
+      "wfy": 64
+    }
+  },
+  "matrix_labels": [
+    "Awy",
+    "Erj",
+    "HDr",
+    "Hml",
+    "Trf",
+    "Zhr",
+    "bEv",
+    "gyb",
+    "lbv",
+    "lmH",
+    "n$r",
+    "nb*",
+    "rfE",
+    "sry",
+    "sxr",
+    "wfy"
+  ],
+  "lift": {
+    "Awy": {
+      "Awy": 1.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 8.66111111111111,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 2.7065972222222223
+    },
+    "Erj": {
+      "Awy": 0.0,
+      "Erj": 1.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 12.155945419103313,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "HDr": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 1.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "Hml": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 1.0,
+      "Trf": 0.0,
+      "Zhr": 4.3761403508771926,
+      "bEv": 0.0,
+      "gyb": 2.1138983050847457,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 10.39333333333333,
+      "rfE": 4.300689655172413,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "Trf": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 1.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "Zhr": {
+      "Awy": 0.0,
+      "Erj": 12.155945419103313,
+      "HDr": 0.0,
+      "Hml": 4.3761403508771926,
+      "Trf": 0.0,
+      "Zhr": 1.0,
+      "bEv": 0.0,
+      "gyb": 3.708593517692536,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 18.23391812865497,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 6.251629072681704,
+      "wfy": 0.0
+    },
+    "bEv": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 1.0,
+      "gyb": 1.6514830508474576,
+      "lbv": 18.043981481481485,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 3.0449218750000004
+    },
+    "gyb": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 2.1138983050847457,
+      "Trf": 0.0,
+      "Zhr": 3.708593517692536,
+      "bEv": 1.6514830508474576,
+      "gyb": 1.0,
+      "lbv": 7.829252981795355,
+      "lmH": 52.847457627118644,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "lbv": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 18.043981481481485,
+      "gyb": 7.829252981795355,
+      "lbv": 1.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "lmH": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 52.847457627118644,
+      "lbv": 0.0,
+      "lmH": 1.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "n$r": {
+      "Awy": 8.66111111111111,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 1.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "nb*": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 10.39333333333333,
+      "Trf": 0.0,
+      "Zhr": 18.23391812865497,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 1.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "rfE": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 4.300689655172413,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 1.0,
+      "sry": 0.0,
+      "sxr": 12.287684729064042,
+      "wfy": 3.359913793103449
+    },
+    "sry": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 1.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "sxr": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 6.251629072681704,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 12.287684729064042,
+      "sry": 0.0,
+      "sxr": 1.0,
+      "wfy": 0.0
+    },
+    "wfy": {
+      "Awy": 2.7065972222222223,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 3.0449218750000004,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 3.359913793103449,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 1.0
+    }
+  },
+  "jaccard": {
+    "Awy": {
+      "Awy": 1.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.01818181818181818,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.010101010101010102
+    },
+    "Erj": {
+      "Awy": 0.0,
+      "Erj": 1.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.015384615384615385,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "HDr": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 1.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "Hml": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 1.0,
+      "Trf": 0.0,
+      "Zhr": 0.01904761904761905,
+      "bEv": 0.0,
+      "gyb": 0.009259259259259259,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.01639344262295082,
+      "rfE": 0.01282051282051282,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "Trf": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 1.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "Zhr": {
+      "Awy": 0.0,
+      "Erj": 0.015384615384615385,
+      "HDr": 0.0,
+      "Hml": 0.01904761904761905,
+      "Trf": 0.0,
+      "Zhr": 1.0,
+      "bEv": 0.0,
+      "gyb": 0.017543859649122806,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.029850746268656716,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.022222222222222223,
+      "wfy": 0.0
+    },
+    "bEv": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 1.0,
+      "gyb": 0.00819672131147541,
+      "lbv": 0.05813953488372093,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.015873015873015872
+    },
+    "gyb": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.009259259259259259,
+      "Trf": 0.0,
+      "Zhr": 0.017543859649122806,
+      "bEv": 0.00819672131147541,
+      "gyb": 1.0,
+      "lbv": 0.023809523809523808,
+      "lmH": 0.016666666666666666,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "lbv": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.05813953488372093,
+      "gyb": 0.023809523809523808,
+      "lbv": 1.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "lmH": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.016666666666666666,
+      "lbv": 0.0,
+      "lmH": 1.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "n$r": {
+      "Awy": 0.01818181818181818,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 1.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "nb*": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.01639344262295082,
+      "Trf": 0.0,
+      "Zhr": 0.029850746268656716,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 1.0,
+      "rfE": 0.0,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "rfE": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.01282051282051282,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 1.0,
+      "sry": 0.0,
+      "sxr": 0.03225806451612903,
+      "wfy": 0.010869565217391304
+    },
+    "sry": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.0,
+      "sry": 1.0,
+      "sxr": 0.0,
+      "wfy": 0.0
+    },
+    "sxr": {
+      "Awy": 0.0,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.022222222222222223,
+      "bEv": 0.0,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.03225806451612903,
+      "sry": 0.0,
+      "sxr": 1.0,
+      "wfy": 0.0
+    },
+    "wfy": {
+      "Awy": 0.010101010101010102,
+      "Erj": 0.0,
+      "HDr": 0.0,
+      "Hml": 0.0,
+      "Trf": 0.0,
+      "Zhr": 0.0,
+      "bEv": 0.015873015873015872,
+      "gyb": 0.0,
+      "lbv": 0.0,
+      "lmH": 0.0,
+      "n$r": 0.0,
+      "nb*": 0.0,
+      "rfE": 0.010869565217391304,
+      "sry": 0.0,
+      "sxr": 0.0,
+      "wfy": 1.0
+    }
+  },
+  "top_pairs": [
+    {
+      "root_i": "bEv",
+      "root_j": "lbv",
+      "root_i_arabic": "بعث",
+      "root_j_arabic": "لبث",
+      "count": 5,
+      "lift": 18.043981481481485
+    },
+    {
+      "root_i": "Zhr",
+      "root_j": "nb*",
+      "root_i_arabic": "ظهر",
+      "root_j_arabic": "نبذ",
+      "count": 2,
+      "lift": 18.23391812865497
+    },
+    {
+      "root_i": "rfE",
+      "root_j": "sxr",
+      "root_i_arabic": "رفع",
+      "root_j_arabic": "سخر",
+      "count": 2,
+      "lift": 12.287684729064042
+    },
+    {
+      "root_i": "gyb",
+      "root_j": "lbv",
+      "root_i_arabic": "غيب",
+      "root_j_arabic": "لبث",
+      "count": 2,
+      "lift": 7.829252981795355
+    },
+    {
+      "root_i": "Zhr",
+      "root_j": "sxr",
+      "root_i_arabic": "ظهر",
+      "root_j_arabic": "سخر",
+      "count": 2,
+      "lift": 6.251629072681704
+    },
+    {
+      "root_i": "Hml",
+      "root_j": "Zhr",
+      "root_i_arabic": "حمل",
+      "root_j_arabic": "ظهر",
+      "count": 2,
+      "lift": 4.3761403508771926
+    },
+    {
+      "root_i": "Zhr",
+      "root_j": "gyb",
+      "root_i_arabic": "ظهر",
+      "root_j_arabic": "غيب",
+      "count": 2,
+      "lift": 3.708593517692536
+    },
+    {
+      "root_i": "bEv",
+      "root_j": "wfy",
+      "root_i_arabic": "بعث",
+      "root_j_arabic": "وفي",
+      "count": 2,
+      "lift": 3.0449218750000004
+    },
+    {
+      "root_i": "gyb",
+      "root_j": "lmH",
+      "root_i_arabic": "غيب",
+      "root_j_arabic": "لمح",
+      "count": 1,
+      "lift": 52.847457627118644
+    },
+    {
+      "root_i": "Erj",
+      "root_j": "Zhr",
+      "root_i_arabic": "عرج",
+      "root_j_arabic": "ظهر",
+      "count": 1,
+      "lift": 12.155945419103313
+    },
+    {
+      "root_i": "Hml",
+      "root_j": "nb*",
+      "root_i_arabic": "حمل",
+      "root_j_arabic": "نبذ",
+      "count": 1,
+      "lift": 10.39333333333333
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "n$r",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "نشر",
+      "count": 1,
+      "lift": 8.66111111111111
+    },
+    {
+      "root_i": "Hml",
+      "root_j": "rfE",
+      "root_i_arabic": "حمل",
+      "root_j_arabic": "رفع",
+      "count": 1,
+      "lift": 4.300689655172413
+    },
+    {
+      "root_i": "rfE",
+      "root_j": "wfy",
+      "root_i_arabic": "رفع",
+      "root_j_arabic": "وفي",
+      "count": 1,
+      "lift": 3.359913793103449
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "wfy",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "وفي",
+      "count": 1,
+      "lift": 2.7065972222222223
+    },
+    {
+      "root_i": "Hml",
+      "root_j": "gyb",
+      "root_i_arabic": "حمل",
+      "root_j_arabic": "غيب",
+      "count": 1,
+      "lift": 2.1138983050847457
+    },
+    {
+      "root_i": "bEv",
+      "root_j": "gyb",
+      "root_i_arabic": "بعث",
+      "root_j_arabic": "غيب",
+      "count": 1,
+      "lift": 1.6514830508474576
+    }
+  ],
+  "weak_pairs": [
+    {
+      "root_i": "Awy",
+      "root_j": "Erj",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "عرج"
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "HDr",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "حضر"
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "Hml",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "حمل"
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "Trf",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "طرف"
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "Zhr",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "ظهر"
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "bEv",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "بعث"
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "gyb",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "غيب"
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "lbv",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "لبث"
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "lmH",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "لمح"
+    },
+    {
+      "root_i": "Awy",
+      "root_j": "nb*",
+      "root_i_arabic": "اوي",
+      "root_j_arabic": "نبذ"
+    }
+  ],
+  "per_root_neighbors": {
+    "Awy": [
+      {
+        "neighbor": "n$r",
+        "neighbor_arabic": "نشر",
+        "count": 1
+      },
+      {
+        "neighbor": "wfy",
+        "neighbor_arabic": "وفي",
+        "count": 1
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      },
+      {
+        "neighbor": "HDr",
+        "neighbor_arabic": "حضر",
+        "count": 0
+      },
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 0
+      }
+    ],
+    "Erj": [
+      {
+        "neighbor": "Zhr",
+        "neighbor_arabic": "ظهر",
+        "count": 1
+      },
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      },
+      {
+        "neighbor": "HDr",
+        "neighbor_arabic": "حضر",
+        "count": 0
+      },
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 0
+      },
+      {
+        "neighbor": "Trf",
+        "neighbor_arabic": "طرف",
+        "count": 0
+      }
+    ],
+    "HDr": [
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      },
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 0
+      },
+      {
+        "neighbor": "Trf",
+        "neighbor_arabic": "طرف",
+        "count": 0
+      },
+      {
+        "neighbor": "Zhr",
+        "neighbor_arabic": "ظهر",
+        "count": 0
+      }
+    ],
+    "Hml": [
+      {
+        "neighbor": "Zhr",
+        "neighbor_arabic": "ظهر",
+        "count": 2
+      },
+      {
+        "neighbor": "gyb",
+        "neighbor_arabic": "غيب",
+        "count": 1
+      },
+      {
+        "neighbor": "nb*",
+        "neighbor_arabic": "نبذ",
+        "count": 1
+      },
+      {
+        "neighbor": "rfE",
+        "neighbor_arabic": "رفع",
+        "count": 1
+      },
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      }
+    ],
+    "Trf": [
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      },
+      {
+        "neighbor": "HDr",
+        "neighbor_arabic": "حضر",
+        "count": 0
+      },
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 0
+      },
+      {
+        "neighbor": "Zhr",
+        "neighbor_arabic": "ظهر",
+        "count": 0
+      }
+    ],
+    "Zhr": [
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 2
+      },
+      {
+        "neighbor": "gyb",
+        "neighbor_arabic": "غيب",
+        "count": 2
+      },
+      {
+        "neighbor": "nb*",
+        "neighbor_arabic": "نبذ",
+        "count": 2
+      },
+      {
+        "neighbor": "sxr",
+        "neighbor_arabic": "سخر",
+        "count": 2
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 1
+      }
+    ],
+    "bEv": [
+      {
+        "neighbor": "lbv",
+        "neighbor_arabic": "لبث",
+        "count": 5
+      },
+      {
+        "neighbor": "wfy",
+        "neighbor_arabic": "وفي",
+        "count": 2
+      },
+      {
+        "neighbor": "gyb",
+        "neighbor_arabic": "غيب",
+        "count": 1
+      },
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      }
+    ],
+    "gyb": [
+      {
+        "neighbor": "Zhr",
+        "neighbor_arabic": "ظهر",
+        "count": 2
+      },
+      {
+        "neighbor": "lbv",
+        "neighbor_arabic": "لبث",
+        "count": 2
+      },
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 1
+      },
+      {
+        "neighbor": "bEv",
+        "neighbor_arabic": "بعث",
+        "count": 1
+      },
+      {
+        "neighbor": "lmH",
+        "neighbor_arabic": "لمح",
+        "count": 1
+      }
+    ],
+    "lbv": [
+      {
+        "neighbor": "bEv",
+        "neighbor_arabic": "بعث",
+        "count": 5
+      },
+      {
+        "neighbor": "gyb",
+        "neighbor_arabic": "غيب",
+        "count": 2
+      },
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      },
+      {
+        "neighbor": "HDr",
+        "neighbor_arabic": "حضر",
+        "count": 0
+      }
+    ],
+    "lmH": [
+      {
+        "neighbor": "gyb",
+        "neighbor_arabic": "غيب",
+        "count": 1
+      },
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      },
+      {
+        "neighbor": "HDr",
+        "neighbor_arabic": "حضر",
+        "count": 0
+      },
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 0
+      }
+    ],
+    "n$r": [
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 1
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      },
+      {
+        "neighbor": "HDr",
+        "neighbor_arabic": "حضر",
+        "count": 0
+      },
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 0
+      },
+      {
+        "neighbor": "Trf",
+        "neighbor_arabic": "طرف",
+        "count": 0
+      }
+    ],
+    "nb*": [
+      {
+        "neighbor": "Zhr",
+        "neighbor_arabic": "ظهر",
+        "count": 2
+      },
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 1
+      },
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      },
+      {
+        "neighbor": "HDr",
+        "neighbor_arabic": "حضر",
+        "count": 0
+      }
+    ],
+    "rfE": [
+      {
+        "neighbor": "sxr",
+        "neighbor_arabic": "سخر",
+        "count": 2
+      },
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 1
+      },
+      {
+        "neighbor": "wfy",
+        "neighbor_arabic": "وفي",
+        "count": 1
+      },
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      }
+    ],
+    "sry": [
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      },
+      {
+        "neighbor": "HDr",
+        "neighbor_arabic": "حضر",
+        "count": 0
+      },
+      {
+        "neighbor": "Hml",
+        "neighbor_arabic": "حمل",
+        "count": 0
+      },
+      {
+        "neighbor": "Trf",
+        "neighbor_arabic": "طرف",
+        "count": 0
+      }
+    ],
+    "sxr": [
+      {
+        "neighbor": "Zhr",
+        "neighbor_arabic": "ظهر",
+        "count": 2
+      },
+      {
+        "neighbor": "rfE",
+        "neighbor_arabic": "رفع",
+        "count": 2
+      },
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 0
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      },
+      {
+        "neighbor": "HDr",
+        "neighbor_arabic": "حضر",
+        "count": 0
+      }
+    ],
+    "wfy": [
+      {
+        "neighbor": "bEv",
+        "neighbor_arabic": "بعث",
+        "count": 2
+      },
+      {
+        "neighbor": "Awy",
+        "neighbor_arabic": "اوي",
+        "count": 1
+      },
+      {
+        "neighbor": "rfE",
+        "neighbor_arabic": "رفع",
+        "count": 1
+      },
+      {
+        "neighbor": "Erj",
+        "neighbor_arabic": "عرج",
+        "count": 0
+      },
+      {
+        "neighbor": "HDr",
+        "neighbor_arabic": "حضر",
+        "count": 0
+      }
+    ]
+  },
+  "cluster_assignments": {
+    "per_root": {
+      "sry": {
+        "cluster_id": 422,
+        "cluster_name": null,
+        "cluster_label": "Cluster 422 (unnamed)",
+        "arabic": "سري",
+        "gloss": "isrāʾ / night-journey"
+      },
+      "rfE": {
+        "cluster_id": 236,
+        "cluster_name": null,
+        "cluster_label": "Cluster 236 (unnamed)",
+        "arabic": "رفع",
+        "gloss": "raise / lift up"
+      },
+      "Erj": {
+        "cluster_id": 78,
+        "cluster_name": null,
+        "cluster_label": "Cluster 78 (unnamed)",
+        "arabic": "عرج",
+        "gloss": "ascend / mi'rāj"
+      },
+      "Trf": {
+        "cluster_id": 234,
+        "cluster_name": null,
+        "cluster_label": "Cluster 234 (unnamed)",
+        "arabic": "طرف",
+        "gloss": "gaze / blink"
+      },
+      "lmH": {
+        "cluster_id": 191,
+        "cluster_name": null,
+        "cluster_label": "Cluster 191 (unnamed)",
+        "arabic": "لمح",
+        "gloss": "blink / glance"
+      },
+      "nb*": {
+        "cluster_id": 142,
+        "cluster_name": null,
+        "cluster_label": "Cluster 142 (unnamed)",
+        "arabic": "نبذ",
+        "gloss": "withdraw / cast aside"
+      },
+      "Awy": {
+        "cluster_id": 94,
+        "cluster_name": null,
+        "cluster_label": "Cluster 94 (unnamed)",
+        "arabic": "اوي",
+        "gloss": "take refuge / shelter"
+      },
+      "HDr": {
+        "cluster_id": 19,
+        "cluster_name": "Household Law & Lineage",
+        "cluster_label": "Household Law & Lineage",
+        "arabic": "حضر",
+        "gloss": "be present / brought"
+      },
+      "Hml": {
+        "cluster_id": 156,
+        "cluster_name": null,
+        "cluster_label": "Cluster 156 (unnamed)",
+        "arabic": "حمل",
+        "gloss": "carry / bear"
+      },
+      "gyb": {
+        "cluster_id": 4,
+        "cluster_name": "Revelation, Speech & Disbelief",
+        "cluster_label": "Revelation, Speech & Disbelief",
+        "arabic": "غيب",
+        "gloss": "hidden / unseen"
+      },
+      "Zhr": {
+        "cluster_id": 8,
+        "cluster_name": "Allegiance & the Object of Worship",
+        "cluster_label": "Allegiance & the Object of Worship",
+        "arabic": "ظهر",
+        "gloss": "appear / manifest"
+      },
+      "lbv": {
+        "cluster_id": 78,
+        "cluster_name": null,
+        "cluster_label": "Cluster 78 (unnamed)",
+        "arabic": "لبث",
+        "gloss": "tarry / linger"
+      },
+      "bEv": {
+        "cluster_id": 4,
+        "cluster_name": "Revelation, Speech & Disbelief",
+        "cluster_label": "Revelation, Speech & Disbelief",
+        "arabic": "بعث",
+        "gloss": "raise up / send"
+      },
+      "n$r": {
+        "cluster_id": 205,
+        "cluster_name": null,
+        "cluster_label": "Cluster 205 (unnamed)",
+        "arabic": "نشر",
+        "gloss": "spread / resurrect"
+      },
+      "wfy": {
+        "cluster_id": 77,
+        "cluster_name": "Creation & the Appointed Term",
+        "cluster_label": "Creation & the Appointed Term",
+        "arabic": "وفي",
+        "gloss": "take soul / fulfill"
+      },
+      "sxr": {
+        "cluster_id": 24,
+        "cluster_name": null,
+        "cluster_label": "Cluster 24 (unnamed)",
+        "arabic": "سخر",
+        "gloss": "subdue / make subservient"
+      }
+    },
+    "by_cluster": {
+      "422": [
+        {
+          "root": "sry",
+          "arabic": "سري",
+          "cluster_name": null
+        }
+      ],
+      "236": [
+        {
+          "root": "rfE",
+          "arabic": "رفع",
+          "cluster_name": null
+        }
+      ],
+      "78": [
+        {
+          "root": "Erj",
+          "arabic": "عرج",
+          "cluster_name": null
+        },
+        {
+          "root": "lbv",
+          "arabic": "لبث",
+          "cluster_name": null
+        }
+      ],
+      "234": [
+        {
+          "root": "Trf",
+          "arabic": "طرف",
+          "cluster_name": null
+        }
+      ],
+      "191": [
+        {
+          "root": "lmH",
+          "arabic": "لمح",
+          "cluster_name": null
+        }
+      ],
+      "142": [
+        {
+          "root": "nb*",
+          "arabic": "نبذ",
+          "cluster_name": null
+        }
+      ],
+      "94": [
+        {
+          "root": "Awy",
+          "arabic": "اوي",
+          "cluster_name": null
+        }
+      ],
+      "19": [
+        {
+          "root": "HDr",
+          "arabic": "حضر",
+          "cluster_name": "Household Law & Lineage"
+        }
+      ],
+      "156": [
+        {
+          "root": "Hml",
+          "arabic": "حمل",
+          "cluster_name": null
+        }
+      ],
+      "4": [
+        {
+          "root": "gyb",
+          "arabic": "غيب",
+          "cluster_name": "Revelation, Speech & Disbelief"
+        },
+        {
+          "root": "bEv",
+          "arabic": "بعث",
+          "cluster_name": "Revelation, Speech & Disbelief"
+        }
+      ],
+      "8": [
+        {
+          "root": "Zhr",
+          "arabic": "ظهر",
+          "cluster_name": "Allegiance & the Object of Worship"
+        }
+      ],
+      "205": [
+        {
+          "root": "n$r",
+          "arabic": "نشر",
+          "cluster_name": null
+        }
+      ],
+      "77": [
+        {
+          "root": "wfy",
+          "arabic": "وفي",
+          "cluster_name": "Creation & the Appointed Term"
+        }
+      ],
+      "24": [
+        {
+          "root": "sxr",
+          "arabic": "سخر",
+          "cluster_name": null
+        }
+      ]
+    },
+    "n_distinct_clusters": 14
+  },
+  "surah_teleportation_density": {
+    "top_15": [
+      {
+        "surah": 94,
+        "teleport_root_count": 2,
+        "total_root_count": 16,
+        "density": 0.125
+      },
+      {
+        "surah": 111,
+        "teleport_root_count": 1,
+        "total_root_count": 16,
+        "density": 0.0625
+      },
+      {
+        "surah": 104,
+        "teleport_root_count": 1,
+        "total_root_count": 21,
+        "density": 0.047619047619047616
+      },
+      {
+        "surah": 81,
+        "teleport_root_count": 3,
+        "total_root_count": 65,
+        "density": 0.046153846153846156
+      },
+      {
+        "surah": 62,
+        "teleport_root_count": 4,
+        "total_root_count": 104,
+        "density": 0.038461538461538464
+      },
+      {
+        "surah": 93,
+        "teleport_root_count": 1,
+        "total_root_count": 28,
+        "density": 0.03571428571428571
+      },
+      {
+        "surah": 88,
+        "teleport_root_count": 2,
+        "total_root_count": 58,
+        "density": 0.034482758620689655
+      },
+      {
+        "surah": 79,
+        "teleport_root_count": 4,
+        "total_root_count": 118,
+        "density": 0.03389830508474576
+      },
+      {
+        "surah": 91,
+        "teleport_root_count": 1,
+        "total_root_count": 38,
+        "density": 0.02631578947368421
+      },
+      {
+        "surah": 69,
+        "teleport_root_count": 4,
+        "total_root_count": 157,
+        "density": 0.025477707006369428
+      },
+      {
+        "surah": 80,
+        "teleport_root_count": 2,
+        "total_root_count": 85,
+        "density": 0.023529411764705882
+      },
+      {
+        "surah": 32,
+        "teleport_root_count": 5,
+        "total_root_count": 227,
+        "density": 0.022026431718061675
+      },
+      {
+        "surah": 70,
+        "teleport_root_count": 3,
+        "total_root_count": 139,
+        "density": 0.02158273381294964
+      },
+      {
+        "surah": 49,
+        "teleport_root_count": 4,
+        "total_root_count": 192,
+        "density": 0.020833333333333332
+      },
+      {
+        "surah": 53,
+        "teleport_root_count": 4,
+        "total_root_count": 195,
+        "density": 0.020512820512820513
+      }
+    ],
+    "bottom_5": [
+      {
+        "surah": 114,
+        "teleport_root_count": 0,
+        "total_root_count": 16,
+        "density": 0.0
+      },
+      {
+        "surah": 113,
+        "teleport_root_count": 0,
+        "total_root_count": 14,
+        "density": 0.0
+      },
+      {
+        "surah": 112,
+        "teleport_root_count": 0,
+        "total_root_count": 9,
+        "density": 0.0
+      },
+      {
+        "surah": 110,
+        "teleport_root_count": 0,
+        "total_root_count": 16,
+        "density": 0.0
+      },
+      {
+        "surah": 109,
+        "teleport_root_count": 0,
+        "total_root_count": 7,
+        "density": 0.0
+      }
+    ],
+    "all": [
+      {
+        "surah": 1,
+        "teleport_root_count": 0,
+        "total_root_count": 21,
+        "density": 0.0
+      },
+      {
+        "surah": 2,
+        "teleport_root_count": 32,
+        "total_root_count": 3218,
+        "density": 0.009944064636420136
+      },
+      {
+        "surah": 3,
+        "teleport_root_count": 18,
+        "total_root_count": 1962,
+        "density": 0.009174311926605505
+      },
+      {
+        "surah": 4,
+        "teleport_root_count": 13,
+        "total_root_count": 1995,
+        "density": 0.006516290726817042
+      },
+      {
+        "surah": 5,
+        "teleport_root_count": 9,
+        "total_root_count": 1499,
+        "density": 0.00600400266844563
+      },
+      {
+        "surah": 6,
+        "teleport_root_count": 22,
+        "total_root_count": 1704,
+        "density": 0.012910798122065728
+      },
+      {
+        "surah": 7,
+        "teleport_root_count": 15,
+        "total_root_count": 1922,
+        "density": 0.007804370447450572
+      },
+      {
+        "surah": 8,
+        "teleport_root_count": 7,
+        "total_root_count": 678,
+        "density": 0.01032448377581121
+      },
+      {
+        "surah": 9,
+        "teleport_root_count": 14,
+        "total_root_count": 1420,
+        "density": 0.009859154929577466
+      },
+      {
+        "surah": 10,
+        "teleport_root_count": 8,
+        "total_root_count": 1008,
+        "density": 0.007936507936507936
+      },
+      {
+        "surah": 11,
+        "teleport_root_count": 16,
+        "total_root_count": 1051,
+        "density": 0.015223596574690771
+      },
+      {
+        "surah": 12,
+        "teleport_root_count": 15,
+        "total_root_count": 1017,
+        "density": 0.014749262536873156
+      },
+      {
+        "surah": 13,
+        "teleport_root_count": 10,
+        "total_root_count": 502,
+        "density": 0.0199203187250996
+      },
+      {
+        "surah": 14,
+        "teleport_root_count": 3,
+        "total_root_count": 516,
+        "density": 0.005813953488372093
+      },
+      {
+        "surah": 15,
+        "teleport_root_count": 3,
+        "total_root_count": 402,
+        "density": 0.007462686567164179
+      },
+      {
+        "surah": 16,
+        "teleport_root_count": 17,
+        "total_root_count": 1065,
+        "density": 0.01596244131455399
+      },
+      {
+        "surah": 17,
+        "teleport_root_count": 16,
+        "total_root_count": 931,
+        "density": 0.017185821697099892
+      },
+      {
+        "surah": 18,
+        "teleport_root_count": 16,
+        "total_root_count": 967,
+        "density": 0.016546018614270942
+      },
+      {
+        "surah": 19,
+        "teleport_root_count": 12,
+        "total_root_count": 611,
+        "density": 0.019639934533551555
+      },
+      {
+        "surah": 20,
+        "teleport_root_count": 10,
+        "total_root_count": 781,
+        "density": 0.012804097311139564
+      },
+      {
+        "surah": 21,
+        "teleport_root_count": 6,
+        "total_root_count": 682,
+        "density": 0.008797653958944282
+      },
+      {
+        "surah": 22,
+        "teleport_root_count": 8,
+        "total_root_count": 740,
+        "density": 0.010810810810810811
+      },
+      {
+        "surah": 23,
+        "teleport_root_count": 12,
+        "total_root_count": 590,
+        "density": 0.020338983050847456
+      },
+      {
+        "surah": 24,
+        "teleport_root_count": 8,
+        "total_root_count": 702,
+        "density": 0.011396011396011397
+      },
+      {
+        "surah": 25,
+        "teleport_root_count": 6,
+        "total_root_count": 564,
+        "density": 0.010638297872340425
+      },
+      {
+        "surah": 26,
+        "teleport_root_count": 5,
+        "total_root_count": 796,
+        "density": 0.00628140703517588
+      },
+      {
+        "surah": 27,
+        "teleport_root_count": 5,
+        "total_root_count": 680,
+        "density": 0.007352941176470588
+      },
+      {
+        "surah": 28,
+        "teleport_root_count": 6,
+        "total_root_count": 802,
+        "density": 0.007481296758104738
+      },
+      {
+        "surah": 29,
+        "teleport_root_count": 6,
+        "total_root_count": 560,
+        "density": 0.010714285714285714
+      },
+      {
+        "surah": 30,
+        "teleport_root_count": 8,
+        "total_root_count": 468,
+        "density": 0.017094017094017096
+      },
+      {
+        "surah": 31,
+        "teleport_root_count": 5,
+        "total_root_count": 308,
+        "density": 0.016233766233766232
+      },
+      {
+        "surah": 32,
+        "teleport_root_count": 5,
+        "total_root_count": 227,
+        "density": 0.022026431718061675
+      },
+      {
+        "surah": 33,
+        "teleport_root_count": 7,
+        "total_root_count": 726,
+        "density": 0.009641873278236915
+      },
+      {
+        "surah": 34,
+        "teleport_root_count": 9,
+        "total_root_count": 496,
+        "density": 0.018145161290322582
+      },
+      {
+        "surah": 35,
+        "teleport_root_count": 9,
+        "total_root_count": 442,
+        "density": 0.020361990950226245
+      },
+      {
+        "surah": 36,
+        "teleport_root_count": 6,
+        "total_root_count": 424,
+        "density": 0.014150943396226415
+      },
+      {
+        "surah": 37,
+        "teleport_root_count": 10,
+        "total_root_count": 513,
+        "density": 0.01949317738791423
+      },
+      {
+        "surah": 38,
+        "teleport_root_count": 5,
+        "total_root_count": 449,
+        "density": 0.011135857461024499
+      },
+      {
+        "surah": 39,
+        "teleport_root_count": 6,
+        "total_root_count": 694,
+        "density": 0.008645533141210375
+      },
+      {
+        "surah": 40,
+        "teleport_root_count": 8,
+        "total_root_count": 713,
+        "density": 0.011220196353436185
+      },
+      {
+        "surah": 41,
+        "teleport_root_count": 1,
+        "total_root_count": 459,
+        "density": 0.002178649237472767
+      },
+      {
+        "surah": 42,
+        "teleport_root_count": 3,
+        "total_root_count": 470,
+        "density": 0.006382978723404255
+      },
+      {
+        "surah": 43,
+        "teleport_root_count": 7,
+        "total_root_count": 486,
+        "density": 0.01440329218106996
+      },
+      {
+        "surah": 44,
+        "teleport_root_count": 2,
+        "total_root_count": 214,
+        "density": 0.009345794392523364
+      },
+      {
+        "surah": 45,
+        "teleport_root_count": 3,
+        "total_root_count": 294,
+        "density": 0.01020408163265306
+      },
+      {
+        "surah": 46,
+        "teleport_root_count": 4,
+        "total_root_count": 365,
+        "density": 0.010958904109589041
+      },
+      {
+        "surah": 47,
+        "teleport_root_count": 1,
+        "total_root_count": 316,
+        "density": 0.0031645569620253164
+      },
+      {
+        "surah": 48,
+        "teleport_root_count": 3,
+        "total_root_count": 343,
+        "density": 0.008746355685131196
+      },
+      {
+        "surah": 49,
+        "teleport_root_count": 4,
+        "total_root_count": 192,
+        "density": 0.020833333333333332
+      },
+      {
+        "surah": 50,
+        "teleport_root_count": 1,
+        "total_root_count": 237,
+        "density": 0.004219409282700422
+      },
+      {
+        "surah": 51,
+        "teleport_root_count": 2,
+        "total_root_count": 218,
+        "density": 0.009174311926605505
+      },
+      {
+        "surah": 52,
+        "teleport_root_count": 3,
+        "total_root_count": 185,
+        "density": 0.016216216216216217
+      },
+      {
+        "surah": 53,
+        "teleport_root_count": 4,
+        "total_root_count": 195,
+        "density": 0.020512820512820513
+      },
+      {
+        "surah": 54,
+        "teleport_root_count": 4,
+        "total_root_count": 243,
+        "density": 0.01646090534979424
+      },
+      {
+        "surah": 55,
+        "teleport_root_count": 2,
+        "total_root_count": 250,
+        "density": 0.008
+      },
+      {
+        "surah": 56,
+        "teleport_root_count": 3,
+        "total_root_count": 234,
+        "density": 0.01282051282051282
+      },
+      {
+        "surah": 57,
+        "teleport_root_count": 5,
+        "total_root_count": 338,
+        "density": 0.014792899408284023
+      },
+      {
+        "surah": 58,
+        "teleport_root_count": 5,
+        "total_root_count": 251,
+        "density": 0.0199203187250996
+      },
+      {
+        "surah": 59,
+        "teleport_root_count": 1,
+        "total_root_count": 244,
+        "density": 0.004098360655737705
+      },
+      {
+        "surah": 60,
+        "teleport_root_count": 1,
+        "total_root_count": 175,
+        "density": 0.005714285714285714
+      },
+      {
+        "surah": 61,
+        "teleport_root_count": 2,
+        "total_root_count": 117,
+        "density": 0.017094017094017096
+      },
+      {
+        "surah": 62,
+        "teleport_root_count": 4,
+        "total_root_count": 104,
+        "density": 0.038461538461538464
+      },
+      {
+        "surah": 63,
+        "teleport_root_count": 0,
+        "total_root_count": 104,
+        "density": 0.0
+      },
+      {
+        "surah": 64,
+        "teleport_root_count": 2,
+        "total_root_count": 148,
+        "density": 0.013513513513513514
+      },
+      {
+        "surah": 65,
+        "teleport_root_count": 2,
+        "total_root_count": 162,
+        "density": 0.012345679012345678
+      },
+      {
+        "surah": 66,
+        "teleport_root_count": 3,
+        "total_root_count": 149,
+        "density": 0.020134228187919462
+      },
+      {
+        "surah": 67,
+        "teleport_root_count": 2,
+        "total_root_count": 200,
+        "density": 0.01
+      },
+      {
+        "surah": 68,
+        "teleport_root_count": 2,
+        "total_root_count": 181,
+        "density": 0.011049723756906077
+      },
+      {
+        "surah": 69,
+        "teleport_root_count": 4,
+        "total_root_count": 157,
+        "density": 0.025477707006369428
+      },
+      {
+        "surah": 70,
+        "teleport_root_count": 3,
+        "total_root_count": 139,
+        "density": 0.02158273381294964
+      },
+      {
+        "surah": 71,
+        "teleport_root_count": 0,
+        "total_root_count": 138,
+        "density": 0.0
+      },
+      {
+        "surah": 72,
+        "teleport_root_count": 3,
+        "total_root_count": 164,
+        "density": 0.018292682926829267
+      },
+      {
+        "surah": 73,
+        "teleport_root_count": 0,
+        "total_root_count": 116,
+        "density": 0.0
+      },
+      {
+        "surah": 74,
+        "teleport_root_count": 1,
+        "total_root_count": 149,
+        "density": 0.006711409395973154
+      },
+      {
+        "surah": 75,
+        "teleport_root_count": 0,
+        "total_root_count": 101,
+        "density": 0.0
+      },
+      {
+        "surah": 76,
+        "teleport_root_count": 1,
+        "total_root_count": 164,
+        "density": 0.006097560975609756
+      },
+      {
+        "surah": 77,
+        "teleport_root_count": 1,
+        "total_root_count": 109,
+        "density": 0.009174311926605505
+      },
+      {
+        "surah": 78,
+        "teleport_root_count": 1,
+        "total_root_count": 130,
+        "density": 0.007692307692307693
+      },
+      {
+        "surah": 79,
+        "teleport_root_count": 4,
+        "total_root_count": 118,
+        "density": 0.03389830508474576
+      },
+      {
+        "surah": 80,
+        "teleport_root_count": 2,
+        "total_root_count": 85,
+        "density": 0.023529411764705882
+      },
+      {
+        "surah": 81,
+        "teleport_root_count": 3,
+        "total_root_count": 65,
+        "density": 0.046153846153846156
+      },
+      {
+        "surah": 82,
+        "teleport_root_count": 1,
+        "total_root_count": 49,
+        "density": 0.02040816326530612
+      },
+      {
+        "surah": 83,
+        "teleport_root_count": 2,
+        "total_root_count": 99,
+        "density": 0.020202020202020204
+      },
+      {
+        "surah": 84,
+        "teleport_root_count": 1,
+        "total_root_count": 65,
+        "density": 0.015384615384615385
+      },
+      {
+        "surah": 85,
+        "teleport_root_count": 0,
+        "total_root_count": 63,
+        "density": 0.0
+      },
+      {
+        "surah": 86,
+        "teleport_root_count": 0,
+        "total_root_count": 38,
+        "density": 0.0
+      },
+      {
+        "surah": 87,
+        "teleport_root_count": 0,
+        "total_root_count": 47,
+        "density": 0.0
+      },
+      {
+        "surah": 88,
+        "teleport_root_count": 2,
+        "total_root_count": 58,
+        "density": 0.034482758620689655
+      },
+      {
+        "surah": 89,
+        "teleport_root_count": 1,
+        "total_root_count": 81,
+        "density": 0.012345679012345678
+      },
+      {
+        "surah": 90,
+        "teleport_root_count": 0,
+        "total_root_count": 50,
+        "density": 0.0
+      },
+      {
+        "surah": 91,
+        "teleport_root_count": 1,
+        "total_root_count": 38,
+        "density": 0.02631578947368421
+      },
+      {
+        "surah": 92,
+        "teleport_root_count": 0,
+        "total_root_count": 47,
+        "density": 0.0
+      },
+      {
+        "surah": 93,
+        "teleport_root_count": 1,
+        "total_root_count": 28,
+        "density": 0.03571428571428571
+      },
+      {
+        "surah": 94,
+        "teleport_root_count": 2,
+        "total_root_count": 16,
+        "density": 0.125
+      },
+      {
+        "surah": 95,
+        "teleport_root_count": 0,
+        "total_root_count": 23,
+        "density": 0.0
+      },
+      {
+        "surah": 96,
+        "teleport_root_count": 0,
+        "total_root_count": 48,
+        "density": 0.0
+      },
+      {
+        "surah": 97,
+        "teleport_root_count": 0,
+        "total_root_count": 21,
+        "density": 0.0
+      },
+      {
+        "surah": 98,
+        "teleport_root_count": 0,
+        "total_root_count": 56,
+        "density": 0.0
+      },
+      {
+        "surah": 99,
+        "teleport_root_count": 0,
+        "total_root_count": 26,
+        "density": 0.0
+      },
+      {
+        "surah": 100,
+        "teleport_root_count": 0,
+        "total_root_count": 24,
+        "density": 0.0
+      },
+      {
+        "surah": 101,
+        "teleport_root_count": 0,
+        "total_root_count": 24,
+        "density": 0.0
+      },
+      {
+        "surah": 102,
+        "teleport_root_count": 0,
+        "total_root_count": 15,
+        "density": 0.0
+      },
+      {
+        "surah": 103,
+        "teleport_root_count": 0,
+        "total_root_count": 9,
+        "density": 0.0
+      },
+      {
+        "surah": 104,
+        "teleport_root_count": 1,
+        "total_root_count": 21,
+        "density": 0.047619047619047616
+      },
+      {
+        "surah": 105,
+        "teleport_root_count": 0,
+        "total_root_count": 18,
+        "density": 0.0
+      },
+      {
+        "surah": 106,
+        "teleport_root_count": 0,
+        "total_root_count": 12,
+        "density": 0.0
+      },
+      {
+        "surah": 107,
+        "teleport_root_count": 0,
+        "total_root_count": 14,
+        "density": 0.0
+      },
+      {
+        "surah": 108,
+        "teleport_root_count": 0,
+        "total_root_count": 7,
+        "density": 0.0
+      },
+      {
+        "surah": 109,
+        "teleport_root_count": 0,
+        "total_root_count": 7,
+        "density": 0.0
+      },
+      {
+        "surah": 110,
+        "teleport_root_count": 0,
+        "total_root_count": 16,
+        "density": 0.0
+      },
+      {
+        "surah": 111,
+        "teleport_root_count": 1,
+        "total_root_count": 16,
+        "density": 0.0625
+      },
+      {
+        "surah": 112,
+        "teleport_root_count": 0,
+        "total_root_count": 9,
+        "density": 0.0
+      },
+      {
+        "surah": 113,
+        "teleport_root_count": 0,
+        "total_root_count": 14,
+        "density": 0.0
+      },
+      {
+        "surah": 114,
+        "teleport_root_count": 0,
+        "total_root_count": 16,
+        "density": 0.0
+      }
+    ]
+  },
+  "meccan_share_by_root": {
+    "sry": 1.0,
+    "rfE": 0.586,
+    "Erj": 0.667,
+    "Trf": 0.727,
+    "lmH": 1.0,
+    "nb*": 0.667,
+    "Awy": 0.528,
+    "HDr": 0.64,
+    "Hml": 0.641,
+    "gyb": 0.7,
+    "Zhr": 0.559,
+    "lbv": 0.871,
+    "bEv": 0.731,
+    "n$r": 0.905,
+    "wfy": 0.53,
+    "sxr": 0.786
+  },
+  "narrative_passages": [
+    {
+      "surah": 18,
+      "ayahs": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "ayah_range_label": "18:9-26",
+      "label": "Aṣḥāb al-Kahf — Cave Sleepers (309-year sleep)",
+      "roots": [
+        "Awy",
+        "Zhr",
+        "bEv",
+        "gyb",
+        "lbv",
+        "n$r"
+      ],
+      "n_roots": 6,
+      "per_ayah": {
+        "10": [
+          "Awy"
+        ],
+        "12": [
+          "bEv",
+          "lbv"
+        ],
+        "16": [
+          "Awy",
+          "n$r"
+        ],
+        "19": [
+          "bEv",
+          "lbv"
+        ],
+        "20": [
+          "Zhr"
+        ],
+        "22": [
+          "Zhr",
+          "gyb"
+        ],
+        "25": [
+          "lbv"
+        ],
+        "26": [
+          "gyb",
+          "lbv"
+        ]
+      }
+    },
+    {
+      "surah": 19,
+      "ayahs": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "ayah_range_label": "19:16-29",
+      "label": "Maryam — withdrawal & birth",
+      "roots": [
+        "Hml",
+        "nb*",
+        "sry"
+      ],
+      "n_roots": 3,
+      "per_ayah": {
+        "16": [
+          "nb*"
+        ],
+        "22": [
+          "Hml",
+          "nb*"
+        ],
+        "24": [
+          "sry"
+        ],
+        "27": [
+          "Hml"
+        ]
+      }
+    },
+    {
+      "surah": 2,
+      "ayahs": [
+        259
+      ],
+      "ayah_range_label": "2:259",
+      "label": "The man who passed by a town in ruins (100-year death/revival)",
+      "roots": [
+        "bEv",
+        "lbv"
+      ],
+      "n_roots": 2,
+      "per_ayah": {
+        "259": [
+          "bEv",
+          "lbv"
+        ]
+      }
+    },
+    {
+      "surah": 3,
+      "ayahs": [
+        55
+      ],
+      "ayah_range_label": "3:55",
+      "label": "ʿĪsā — God said: I am taking you (mutawaffīka) and raising you",
+      "roots": [
+        "rfE",
+        "wfy"
+      ],
+      "n_roots": 2,
+      "per_ayah": {
+        "55": [
+          "rfE",
+          "wfy"
+        ]
+      }
+    },
+    {
+      "surah": 6,
+      "ayahs": [
+        60,
+        61
+      ],
+      "ayah_range_label": "6:60-61",
+      "label": "Night-soul-taking + recording angels",
+      "roots": [
+        "bEv",
+        "wfy"
+      ],
+      "n_roots": 2,
+      "per_ayah": {
+        "60": [
+          "bEv",
+          "wfy"
+        ],
+        "61": [
+          "wfy"
+        ]
+      }
+    },
+    {
+      "surah": 16,
+      "ayahs": [
+        77
+      ],
+      "ayah_range_label": "16:77",
+      "label": "The matter of the Hour is as the blink of an eye (lmH)",
+      "roots": [
+        "gyb",
+        "lmH"
+      ],
+      "n_roots": 2,
+      "per_ayah": {
+        "77": [
+          "gyb",
+          "lmH"
+        ]
+      }
+    },
+    {
+      "surah": 22,
+      "ayahs": [
+        5,
+        6,
+        7
+      ],
+      "ayah_range_label": "22:5-7",
+      "label": "Resurrection logic (n$r/bEv)",
+      "roots": [
+        "bEv",
+        "wfy"
+      ],
+      "n_roots": 2,
+      "per_ayah": {
+        "5": [
+          "bEv",
+          "wfy"
+        ],
+        "7": [
+          "bEv"
+        ]
+      }
+    },
+    {
+      "surah": 34,
+      "ayahs": [
+        12,
+        13,
+        14
+      ],
+      "ayah_range_label": "34:12-14",
+      "label": "Solomon — wind, jinn, and his death revealed",
+      "roots": [
+        "gyb",
+        "lbv"
+      ],
+      "n_roots": 2,
+      "per_ayah": {
+        "14": [
+          "gyb",
+          "lbv"
+        ]
+      }
+    },
+    {
+      "surah": 36,
+      "ayahs": [
+        51,
+        52,
+        53
+      ],
+      "ayah_range_label": "36:51-53",
+      "label": "Trumpet — they spread out from graves (n$r/bEv)",
+      "roots": [
+        "HDr",
+        "bEv"
+      ],
+      "n_roots": 2,
+      "per_ayah": {
+        "52": [
+          "bEv"
+        ],
+        "53": [
+          "HDr"
+        ]
+      }
+    },
+    {
+      "surah": 43,
+      "ayahs": [
+        13,
+        14
+      ],
+      "ayah_range_label": "43:13-14",
+      "label": "Subjugation of riding-beasts (sxr); turning to your Lord",
+      "roots": [
+        "Zhr",
+        "sxr"
+      ],
+      "n_roots": 2,
+      "per_ayah": {
+        "13": [
+          "Zhr",
+          "sxr"
+        ]
+      }
+    },
+    {
+      "surah": 2,
+      "ayahs": [
+        55,
+        56
+      ],
+      "ayah_range_label": "2:55-56",
+      "label": "Banū Isrāʾīl killed by thunderbolt then raised",
+      "roots": [
+        "bEv"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "56": [
+          "bEv"
+        ]
+      }
+    },
+    {
+      "surah": 4,
+      "ayahs": [
+        157,
+        158
+      ],
+      "ayah_range_label": "4:157-158",
+      "label": "ʿĪsā — they did not kill him; God raised him to Himself",
+      "roots": [
+        "rfE"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "158": [
+          "rfE"
+        ]
+      }
+    },
+    {
+      "surah": 5,
+      "ayahs": [
+        117
+      ],
+      "ayah_range_label": "5:117",
+      "label": "ʿĪsā — when You took me (tawaffaytanī)",
+      "roots": [
+        "wfy"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "117": [
+          "wfy"
+        ]
+      }
+    },
+    {
+      "surah": 11,
+      "ayahs": [
+        42,
+        43
+      ],
+      "ayah_range_label": "11:42-43",
+      "label": "Nūḥ's son refusing the ark — 'I will take refuge (Awy)' on a mountain",
+      "roots": [
+        "Awy"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "43": [
+          "Awy"
+        ]
+      }
+    },
+    {
+      "surah": 14,
+      "ayahs": [
+        32,
+        33
+      ],
+      "ayah_range_label": "14:32-33",
+      "label": "Sun, moon, ships, rivers all subjugated (sxr)",
+      "roots": [
+        "sxr"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "32": [
+          "sxr"
+        ],
+        "33": [
+          "sxr"
+        ]
+      }
+    },
+    {
+      "surah": 17,
+      "ayahs": [
+        1
+      ],
+      "ayah_range_label": "17:1",
+      "label": "Isrāʾ (night-journey to al-Aqṣā)",
+      "roots": [
+        "sry"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "1": [
+          "sry"
+        ]
+      }
+    },
+    {
+      "surah": 19,
+      "ayahs": [
+        56,
+        57
+      ],
+      "ayah_range_label": "19:56-57",
+      "label": "Idrīs raised to a high station",
+      "roots": [
+        "rfE"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "57": [
+          "rfE"
+        ]
+      }
+    },
+    {
+      "surah": 27,
+      "ayahs": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "ayah_range_label": "27:16-30",
+      "label": "Solomon — hudhud + letter to Sheba",
+      "roots": [
+        "gyb"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "20": [
+          "gyb"
+        ]
+      }
+    },
+    {
+      "surah": 27,
+      "ayahs": [
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "ayah_range_label": "27:38-42",
+      "label": "Solomon — throne of Bilqīs (jinn vs. ifrit)",
+      "roots": [
+        "Trf"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "40": [
+          "Trf"
+        ]
+      }
+    },
+    {
+      "surah": 27,
+      "ayahs": [
+        40
+      ],
+      "ayah_range_label": "27:40",
+      "label": "I will bring it to you before your gaze returns (Trf)",
+      "roots": [
+        "Trf"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "40": [
+          "Trf"
+        ]
+      }
+    },
+    {
+      "surah": 32,
+      "ayahs": [
+        5
+      ],
+      "ayah_range_label": "32:5",
+      "label": "Day equal to a thousand years (Tadbir al-Amr)",
+      "roots": [
+        "Erj"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "5": [
+          "Erj"
+        ]
+      }
+    },
+    {
+      "surah": 38,
+      "ayahs": [
+        36,
+        37,
+        38
+      ],
+      "ayah_range_label": "38:36-38",
+      "label": "Solomon — wind subjugated",
+      "roots": [
+        "sxr"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "36": [
+          "sxr"
+        ]
+      }
+    },
+    {
+      "surah": 39,
+      "ayahs": [
+        42
+      ],
+      "ayah_range_label": "39:42",
+      "label": "God takes souls (yatawaffā) at death and during sleep",
+      "roots": [
+        "wfy"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "42": [
+          "wfy"
+        ]
+      }
+    },
+    {
+      "surah": 45,
+      "ayahs": [
+        12,
+        13
+      ],
+      "ayah_range_label": "45:12-13",
+      "label": "Sea + everything subjugated (sxr) for you",
+      "roots": [
+        "sxr"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "12": [
+          "sxr"
+        ],
+        "13": [
+          "sxr"
+        ]
+      }
+    },
+    {
+      "surah": 53,
+      "ayahs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "ayah_range_label": "53:1-18",
+      "label": "Najm — Mi'rāj vision",
+      "roots": [
+        "Awy"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "15": [
+          "Awy"
+        ]
+      }
+    },
+    {
+      "surah": 54,
+      "ayahs": [
+        50
+      ],
+      "ayah_range_label": "54:50",
+      "label": "Our command is but one — like the blink of an eye (lmH)",
+      "roots": [
+        "lmH"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "50": [
+          "lmH"
+        ]
+      }
+    },
+    {
+      "surah": 70,
+      "ayahs": [
+        3,
+        4
+      ],
+      "ayah_range_label": "70:3-4",
+      "label": "Day equal to fifty thousand years (the angels ascend)",
+      "roots": [
+        "Erj"
+      ],
+      "n_roots": 1,
+      "per_ayah": {
+        "3": [
+          "Erj"
+        ],
+        "4": [
+          "Erj"
+        ]
+      }
+    },
+    {
+      "surah": 2,
+      "ayahs": [
+        260
+      ],
+      "ayah_range_label": "2:260",
+      "label": "Ibrāhīm — four birds dismembered & called back",
+      "roots": [],
+      "n_roots": 0,
+      "per_ayah": {}
+    },
+    {
+      "surah": 8,
+      "ayahs": [
+        11
+      ],
+      "ayah_range_label": "8:11",
+      "label": "Sleep cast over you as security (nb* / Awy register)",
+      "roots": [],
+      "n_roots": 0,
+      "per_ayah": {}
+    },
+    {
+      "surah": 21,
+      "ayahs": [
+        81,
+        82
+      ],
+      "ayah_range_label": "21:81-82",
+      "label": "Solomon — wind & diving devils",
+      "roots": [],
+      "n_roots": 0,
+      "per_ayah": {}
+    },
+    {
+      "surah": 50,
+      "ayahs": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "ayah_range_label": "50:41-44",
+      "label": "The Day of the Cry — they emerge (n$r)",
+      "roots": [],
+      "n_roots": 0,
+      "per_ayah": {}
+    },
+    {
+      "surah": 75,
+      "ayahs": [
+        22,
+        23
+      ],
+      "ayah_range_label": "75:22-23",
+      "label": "Faces gazing toward their Lord (Trf/Zhr)",
+      "roots": [],
+      "n_roots": 0,
+      "per_ayah": {}
+    }
+  ]
+}

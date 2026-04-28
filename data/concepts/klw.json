@@ -1,0 +1,332 @@
+{
+  "root": "klw",
+  "root_arabic": "كلو",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "kilaA",
+      "lemma_arabic": "كِلَا",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        17,
+        23,
+        15
+      ],
+      "occurrences": [
+        {
+          "location": [
+            17,
+            23,
+            15
+          ],
+          "form_arabic": "كِلَاهُمَا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "kilotaA",
+      "lemma_arabic": "كِلْتَا",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        18,
+        33,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            18,
+            33,
+            1
+          ],
+          "form_arabic": "كِلْتَا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "Aff",
+      "root_arabic": "افف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "krm",
+      "root_arabic": "كرم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "qDy",
+      "root_arabic": "قضي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        23
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        33
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        33
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        33
+      ]
+    },
+    {
+      "root": "fjr",
+      "root_arabic": "فجر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        33
+      ]
+    },
+    {
+      "root": "xll",
+      "root_arabic": "خلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        33
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        33
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        33
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        17,
+        23,
+        15
+      ],
+      "form_arabic": "كِلَاهُمَا",
+      "lemma": "kilaA",
+      "lemma_arabic": "كِلَا",
+      "pos": "N",
+      "ayah_id": "17:23",
+      "ayah_arabic": "۞وَقَضَىٰ رَبُّكَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَٰنًاۚ إِمَّا يَبۡلُغَنَّ عِندَكَ ٱلۡكِبَرَ أَحَدُهُمَآ أَوۡ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفࣲّ وَلَا تَنۡهَرۡهُمَا وَقُل لَّهُمَا قَوۡلࣰ ا كَرِيمࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "both of them",
+      "translations": {
+        "saheeh": "And your Lord has decreed that you not worship except Him, and to parents, good treatment. Whether one or both of them reach old age [while] with you, say not to them [so much as], \"uff,\" and do not repel them but speak to them a noble word.",
+        "pickthall": "Thy Lord hath decreed, that ye worship none save Him, and (that ye show) kindness to parents. If one of them or both of them attain old age with thee, say not \"Fie\" unto them nor repulse them, but speak unto them a gracious word.",
+        "khattab": "For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ ‘ugh,’ nor yell at them. Rather, address them respectfully",
+        "arberry": "Thy Lord has decreed you shall not serve any but Him, and to be good to parents, whether one or both of them attains old age with thee; say not to them 'Fie' neither chide them, but speak unto them words respectful,"
+      }
+    },
+    {
+      "location": [
+        18,
+        33,
+        1
+      ],
+      "form_arabic": "كِلْتَا",
+      "lemma": "kilotaA",
+      "lemma_arabic": "كِلْتَا",
+      "pos": "N",
+      "ayah_id": "18:33",
+      "ayah_arabic": "كِلۡتَا ٱلۡجَنَّتَيۡنِ ءَاتَتۡ أُكُلَهَا وَلَمۡ تَظۡلِم مِّنۡهُ شَيۡـࣰٔ اۚ وَفَجَّرۡنَا خِلَٰلَهُمَا نَهَرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "Each",
+      "translations": {
+        "saheeh": "Each of the two gardens produced its fruit and did not fall short thereof in anything. And We caused to gush forth within them a river.",
+        "pickthall": "Each of the gardens gave its fruit and withheld naught thereof. And We caused a river to gush forth therein.",
+        "khattab": "Each garden yielded ˹all˺ its produce, never falling short. And We caused a river to flow between them",
+        "arberry": "each of the two gardens yielded its produce and failed naught in any wise; and We caused to gush amidst them a river."
+      }
+    }
+  ]
+}

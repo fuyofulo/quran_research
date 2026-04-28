@@ -1,0 +1,1599 @@
+{
+  "root": "rbS",
+  "root_arabic": "ربص",
+  "stats": {
+    "occurrences": 17,
+    "lemmas": 3,
+    "ayahs": 12,
+    "surahs": 7,
+    "pos_distribution": {
+      "V": 13,
+      "N": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "count": 13,
+      "pos_distribution": {
+        "V": 13
+      },
+      "first_occurrence": [
+        2,
+        228,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            228,
+            2
+          ],
+          "form_arabic": "يَتَرَبَّصْنَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            2,
+            234,
+            6
+          ],
+          "form_arabic": "يَتَرَبَّصْنَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            4,
+            141,
+            2
+          ],
+          "form_arabic": "يَتَرَبَّصُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            24,
+            24
+          ],
+          "form_arabic": "فَتَرَبَّصُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            52,
+            3
+          ],
+          "form_arabic": "تَرَبَّصُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            52,
+            9
+          ],
+          "form_arabic": "نَتَرَبَّصُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            52,
+            19
+          ],
+          "form_arabic": "فَتَرَبَّصُو^ا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            98,
+            8
+          ],
+          "form_arabic": "وَيَتَرَبَّصُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            20,
+            135,
+            4
+          ],
+          "form_arabic": "فَتَرَبَّصُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            23,
+            25,
+            7
+          ],
+          "form_arabic": "فَتَرَبَّصُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            52,
+            30,
+            4
+          ],
+          "form_arabic": "نَّتَرَبَّصُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            52,
+            31,
+            2
+          ],
+          "form_arabic": "تَرَبَّصُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            57,
+            14,
+            10
+          ],
+          "form_arabic": "وَتَرَبَّصْتُمْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "m~utarab~iS",
+      "lemma_arabic": "مُّتَرَبِّص",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        9,
+        52,
+        22
+      ],
+      "occurrences": [
+        {
+          "location": [
+            9,
+            52,
+            22
+          ],
+          "form_arabic": "مُّتَرَبِّصُونَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            20,
+            135,
+            3
+          ],
+          "form_arabic": "مُّتَرَبِّصٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            52,
+            31,
+            6
+          ],
+          "form_arabic": "ٱلْمُتَرَبِّصِينَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "tarab~uS",
+      "lemma_arabic": "تَرَبُّص",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        2,
+        226,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            226,
+            5
+          ],
+          "form_arabic": "تَرَبُّصُ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 8,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        226
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 7,
+      "share": 0.5833,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 3,
+      "share": 0.25,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "ryb",
+      "root_arabic": "ريب",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        52,
+        30
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        226
+      ]
+    },
+    {
+      "root": "$hr",
+      "root_arabic": "شهر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        226
+      ]
+    },
+    {
+      "root": "rbE",
+      "root_arabic": "ربع",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        226
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "E$r",
+      "root_arabic": "عشر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        234
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        234
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        9,
+        98
+      ]
+    },
+    {
+      "root": "$Er",
+      "root_arabic": "شعر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        52,
+        30
+      ]
+    },
+    {
+      "root": "mnn",
+      "root_arabic": "منن",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        52,
+        30
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        57,
+        14
+      ]
+    },
+    {
+      "root": "grr",
+      "root_arabic": "غرر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        57,
+        14
+      ]
+    },
+    {
+      "root": "ndw",
+      "root_arabic": "ندو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        57,
+        14
+      ]
+    },
+    {
+      "root": "ftn",
+      "root_arabic": "فتن",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        57,
+        14
+      ]
+    },
+    {
+      "root": "mny",
+      "root_arabic": "مني",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        57,
+        14
+      ]
+    },
+    {
+      "root": "Alw",
+      "root_arabic": "الو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        226
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        226
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        226
+      ]
+    },
+    {
+      "root": "fyA",
+      "root_arabic": "فيا",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        226
+      ]
+    },
+    {
+      "root": "Hw*",
+      "root_arabic": "حوذ",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "nSb",
+      "root_arabic": "نصب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "ftH",
+      "root_arabic": "فتح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "mnE",
+      "root_arabic": "منع",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "ktm",
+      "root_arabic": "كتم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Tlq",
+      "root_arabic": "طلق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "bEl",
+      "root_arabic": "بعل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "drj",
+      "root_arabic": "درج",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Ezz",
+      "root_arabic": "عزز",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        228
+      ]
+    },
+    {
+      "root": "fEl",
+      "root_arabic": "فعل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        234
+      ]
+    },
+    {
+      "root": "xbr",
+      "root_arabic": "خبر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        234
+      ]
+    },
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        234
+      ]
+    },
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        234
+      ]
+    },
+    {
+      "root": "Ajl",
+      "root_arabic": "اجل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        234
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        234
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        234
+      ]
+    },
+    {
+      "root": "w*r",
+      "root_arabic": "وذر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        234
+      ]
+    },
+    {
+      "root": "SrT",
+      "root_arabic": "صرط",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        20,
+        135
+      ]
+    },
+    {
+      "root": "SHb",
+      "root_arabic": "صحب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        20,
+        135
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        20,
+        135
+      ]
+    },
+    {
+      "root": "swy",
+      "root_arabic": "سوي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        20,
+        135
+      ]
+    },
+    {
+      "root": "tjr",
+      "root_arabic": "تجر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "skn",
+      "root_arabic": "سكن",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "x$y",
+      "root_arabic": "خشي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "ksd",
+      "root_arabic": "كسد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "jhd",
+      "root_arabic": "جهد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "fsq",
+      "root_arabic": "فسق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "qrf",
+      "root_arabic": "قرف",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        24
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        98
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        98
+      ]
+    },
+    {
+      "root": "Erb",
+      "root_arabic": "عرب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        98
+      ]
+    },
+    {
+      "root": "grm",
+      "root_arabic": "غرم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        98
+      ]
+    },
+    {
+      "root": "dwr",
+      "root_arabic": "دور",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        98
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        98
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        98
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        23,
+        25
+      ]
+    },
+    {
+      "root": "Hyn",
+      "root_arabic": "حين",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        23,
+        25
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        52
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        52
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        52
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        52
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        52
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        9,
+        52
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 6
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 3
+      },
+      {
+        "surah": 52,
+        "name_english": "At-Tur",
+        "name_arabic": "سُورَةُ الطُّورِ",
+        "revelation": "Meccan",
+        "occurrences": 3
+      },
+      {
+        "surah": 20,
+        "name_english": "Taa-Haa",
+        "name_arabic": "سُورَةُ طه",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 23,
+        "name_english": "Al-Muminoon",
+        "name_arabic": "سُورَةُ المُؤۡمِنُونَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 57,
+        "name_english": "Al-Hadid",
+        "name_arabic": "سُورَةُ الحَدِيدِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 11,
+      "Meccan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        226,
+        5
+      ],
+      "form_arabic": "تَرَبُّصُ",
+      "lemma": "tarab~uS",
+      "lemma_arabic": "تَرَبُّص",
+      "pos": "N",
+      "ayah_id": "2:226",
+      "ayah_arabic": "لِّلَّذِينَ يُؤۡلُونَ مِن نِّسَآئِهِمۡ تَرَبُّصُ أَرۡبَعَةِ أَشۡهُرࣲۖ فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(is a) waiting (of)",
+      "translations": {
+        "saheeh": "For those who swear not to have sexual relations with their wives is a waiting time of four months, but if they return [to normal relations] - then indeed, Allah is Forgiving and Merciful.",
+        "pickthall": "Those who forswear their wives must wait four months; then, if they change their mind, lo! Allah is Forgiving, Merciful.",
+        "khattab": "Those who swear not to have intercourse with their wives must wait for four months. If they change their mind, then Allah is certainly All-Forgiving, Most Merciful",
+        "arberry": "For those who forswear their women a wait of four months; if they revert, God is All-forgiving, All-compassionate;"
+      }
+    },
+    {
+      "location": [
+        2,
+        228,
+        2
+      ],
+      "form_arabic": "يَتَرَبَّصْنَ",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "2:228",
+      "ayah_arabic": "وَٱلۡمُطَلَّقَٰتُ يَتَرَبَّصۡنَ بِأَنفُسِهِنَّ ثَلَٰثَةَ قُرُوٓءࣲۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكۡتُمۡنَ مَا خَلَقَ ٱللَّهُ فِيٓ أَرۡحَامِهِنَّ إِن كُنَّ يُؤۡمِنَّ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِي ذَٰلِكَ إِنۡ أَرَادُوٓاْ إِصۡلَٰحࣰ اۚ وَلَهُنَّ مِثۡلُ ٱلَّذِي عَلَيۡهِنَّ بِٱلۡمَعۡرُوفِۚ وَلِلرِّجَالِ عَلَيۡهِنَّ دَرَجَةࣱۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "shall wait",
+      "translations": {
+        "saheeh": "Divorced women remain in waiting for three periods, and it is not lawful for them to conceal what Allah has created in their wombs if they believe in Allah and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to the wives is similar to what is expected of them, according to what is reasonable. But the men have a degree over them [in responsibility and authority]. And Allah is Exalted in Might and Wise.",
+        "pickthall": "Women who are divorced shall wait, keeping themselves apart, three (monthly) courses. And it is not lawful for them that they should conceal that which Allah hath created in their wombs if they are believers in Allah and the Last Day. And their husbands would do better to take them back in that case if they desire a reconciliation. And they (women) have rights similar to those (of men) over them in kindness, and men are a degree above them. Allah is Mighty, Wise.",
+        "khattab": "Divorced women must wait three monthly cycles ˹before they can re-marry˺. It is not lawful for them to conceal what Allah has created in their wombs, if they ˹truly˺ believe in Allah and the Last Day. And their husbands reserve the right to take them back within that period if they desire reconciliation. Women have rights similar to those of men equitably, although men have a degree ˹of responsibility˺ above them. And Allah is Almighty, All-Wise",
+        "arberry": "Divorced women shall wait by themselves for three periods; and it is not lawful for them to hide what God has created in their wombs; if they believe in God and the Last Day. In such time their mates have better right to restore them, if they desire to set things right. Women have such honourable rights as obligations, but their men have a degree above them; God is All-mighty, All-wise."
+      }
+    },
+    {
+      "location": [
+        2,
+        234,
+        6
+      ],
+      "form_arabic": "يَتَرَبَّصْنَ",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "2:234",
+      "ayah_arabic": "وَٱلَّذِينَ يُتَوَفَّوۡنَ مِنكُمۡ وَيَذَرُونَ أَزۡوَٰجࣰ ا يَتَرَبَّصۡنَ بِأَنفُسِهِنَّ أَرۡبَعَةَ أَشۡهُرࣲ وَعَشۡرࣰ اۖ فَإِذَا بَلَغۡنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا فَعَلۡنَ فِيٓ أَنفُسِهِنَّ بِٱلۡمَعۡرُوفِۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(the widows) should wait",
+      "translations": {
+        "saheeh": "And those who are taken in death among you and leave wives behind - they, [the wives, shall] wait four months and ten [days]. And when they have fulfilled their term, then there is no blame upon you for what they do with themselves in an acceptable manner. And Allah is [fully] Acquainted with what you do.",
+        "pickthall": "Such of you as die and leave behind them wives, they (the wives) shall wait, keeping themselves apart, four months and ten days. And when they reach the term (prescribed for them) then there is no sin for you in aught that they may do with themselves in decency. Allah is informed of what ye do.",
+        "khattab": "As for those of you who die and leave widows behind, let them observe a waiting period of four months and ten days. When they have reached the end of this period, then you are not accountable for what they decide for themselves in a reasonable manner. And Allah is All-Aware of what you do",
+        "arberry": "And those of you who die, leaving wives, they shall wait by themselves for four months and ten nights; when they have reached their term then it is no fault in you what they may do with themselves honourably. God is aware of the things you do."
+      }
+    },
+    {
+      "location": [
+        4,
+        141,
+        2
+      ],
+      "form_arabic": "يَتَرَبَّصُونَ",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "4:141",
+      "ayah_arabic": "ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمۡ فَإِن كَانَ لَكُمۡ فَتۡحࣱ مِّنَ ٱللَّهِ قَالُوٓاْ أَلَمۡ نَكُن مَّعَكُمۡ وَإِن كَانَ لِلۡكَٰفِرِينَ نَصِيبࣱ قَالُوٓاْ أَلَمۡ نَسۡتَحۡوِذۡ عَلَيۡكُمۡ وَنَمۡنَعۡكُم مِّنَ ٱلۡمُؤۡمِنِينَۚ فَٱللَّهُ يَحۡكُمُ بَيۡنَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۚ وَلَن يَجۡعَلَ ٱللَّهُ لِلۡكَٰفِرِينَ عَلَى ٱلۡمُؤۡمِنِينَ سَبِيلًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "are waiting",
+      "translations": {
+        "saheeh": "Those who wait [and watch] you. Then if you gain a victory from Allah, they say, \"Were we not with you?\" But if the disbelievers have a success, they say [to them], \"Did we not gain the advantage over you, but we protected you from the believers?\" Allah will judge between [all of] you on the Day of Resurrection, and never will Allah give the disbelievers over the believers a way [to overcome them].",
+        "pickthall": "Those who wait upon occasion in regard to you and, if a victory cometh unto you from Allah, say: Are we not with you? and if the disbelievers meet with a success say: Had we not the mastery of you, and did we not protect you from the believers? - Allah will judge between you at the Day of Resurrection, and Allah will not give the disbelievers any way (of success) against the believers.",
+        "khattab": "˹The hypocrites are˺ those who wait to see what happens to you. So if Allah grants you victory, they say ˹to you˺, “Were we not on your side?” But if the disbelievers have a share ˹of victory˺, they say ˹to them˺, “Did we not have the advantage over you, yet we protected you from the believers?” Allah will judge between ˹all of˺ you on the Day of Judgment. And Allah will never grant the disbelievers a way over the believers",
+        "arberry": "Those who wait upon you and, if a victory comes to you from God, say, 'Were we not with you?' but if the unbelievers get a share, they say, 'Did we not gain the mastery over you, and did we not defend you from the believers?' God will judge between you on the Resurrection Day, and God will not grant the unbelievers any way over the believers."
+      }
+    },
+    {
+      "location": [
+        9,
+        24,
+        24
+      ],
+      "form_arabic": "فَتَرَبَّصُوا@",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "9:24",
+      "ayah_arabic": "قُلۡ إِن كَانَ ءَابَآؤُكُمۡ وَأَبۡنَآؤُكُمۡ وَإِخۡوَٰنُكُمۡ وَأَزۡوَٰجُكُمۡ وَعَشِيرَتُكُمۡ وَأَمۡوَٰلٌ ٱقۡتَرَفۡتُمُوهَا وَتِجَٰرَةࣱ تَخۡشَوۡنَ كَسَادَهَا وَمَسَٰكِنُ تَرۡضَوۡنَهَآ أَحَبَّ إِلَيۡكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادࣲ فِي سَبِيلِهِۦ فَتَرَبَّصُواْ حَتَّىٰ يَأۡتِيَ ٱللَّهُ بِأَمۡرِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "then wait",
+      "translations": {
+        "saheeh": "Say, [O Muhammad], \"If your fathers, your sons, your brothers, your wives, your relatives, wealth which you have obtained, commerce wherein you fear decline, and dwellings with which you are pleased are more beloved to you than Allah and His Messenger and jihad in His cause, then wait until Allah executes His command. And Allah does not guide the defiantly disobedient people.\"",
+        "pickthall": "Say: If your fathers, and your sons, and your brethren, and your wives, and your tribe, and the wealth ye have acquired, and merchandise for which ye fear that there will no sale, and dwellings ye desire are dearer to you than Allah and His messenger and striving in His way: then wait till Allah bringeth His command to pass. Allah guideth not wrongdoing folk.",
+        "khattab": "Say, ˹O Prophet,˺ “If your parents and children and siblings and spouses and extended family and the wealth you have acquired and the trade you fear will decline and the homes you cherish—˹if all these˺ are more beloved to you than Allah and His Messenger and struggling in His Way, then wait until Allah brings about His Will. Allah does not guide the rebellious people.”",
+        "arberry": "Say: 'If your fathers, your sons, your brothers, your wives, your clan, your possessions that you have gained, commerce you fear may slacken, dwellings you love -- if these are dearer to you than God and His Messenger, and to struggle in His way, then wait till God brings His command; God guides not the people of the ungodly.'"
+      }
+    },
+    {
+      "location": [
+        9,
+        52,
+        3
+      ],
+      "form_arabic": "تَرَبَّصُونَ",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "9:52",
+      "ayah_arabic": "قُلۡ هَلۡ تَرَبَّصُونَ بِنَآ إِلَّآ إِحۡدَى ٱلۡحُسۡنَيَيۡنِۖ وَنَحۡنُ نَتَرَبَّصُ بِكُمۡ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابࣲ مِّنۡ عِندِهِۦٓ أَوۡ بِأَيۡدِينَاۖ فَتَرَبَّصُوٓاْ إِنَّا مَعَكُم مُّتَرَبِّصُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "you await",
+      "translations": {
+        "saheeh": "Say, \"Do you await for us except one of the two best things while we await for you that Allah will afflict you with punishment from Himself or at our hands? So wait; indeed we, along with you, are waiting.\"",
+        "pickthall": "Say: Can ye await for us aught save one of two good things (death or victory in Allah's way)? while we await for you that Allah will afflict you with a doom from Him or at our hands. Await then! Lo! We are awaiting with you.",
+        "khattab": "Say, “Are you awaiting anything to befall us except one of the two best things: ˹victory or martyrdom˺? But We are awaiting Allah to afflict you with torment either from Him or at our hands. So keep waiting! We too are waiting with you.”",
+        "arberry": "Say: 'Are you awaiting for aught to come to us but one of the two rewards most fair? We are awaiting in your case too, for God to visit you with chastisement. from Him, or at our hands; so await; we are awaiting with you.'"
+      }
+    },
+    {
+      "location": [
+        9,
+        52,
+        9
+      ],
+      "form_arabic": "نَتَرَبَّصُ",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "9:52",
+      "ayah_arabic": "قُلۡ هَلۡ تَرَبَّصُونَ بِنَآ إِلَّآ إِحۡدَى ٱلۡحُسۡنَيَيۡنِۖ وَنَحۡنُ نَتَرَبَّصُ بِكُمۡ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابࣲ مِّنۡ عِندِهِۦٓ أَوۡ بِأَيۡدِينَاۖ فَتَرَبَّصُوٓاْ إِنَّا مَعَكُم مُّتَرَبِّصُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "[we] await",
+      "translations": {
+        "saheeh": "Say, \"Do you await for us except one of the two best things while we await for you that Allah will afflict you with punishment from Himself or at our hands? So wait; indeed we, along with you, are waiting.\"",
+        "pickthall": "Say: Can ye await for us aught save one of two good things (death or victory in Allah's way)? while we await for you that Allah will afflict you with a doom from Him or at our hands. Await then! Lo! We are awaiting with you.",
+        "khattab": "Say, “Are you awaiting anything to befall us except one of the two best things: ˹victory or martyrdom˺? But We are awaiting Allah to afflict you with torment either from Him or at our hands. So keep waiting! We too are waiting with you.”",
+        "arberry": "Say: 'Are you awaiting for aught to come to us but one of the two rewards most fair? We are awaiting in your case too, for God to visit you with chastisement. from Him, or at our hands; so await; we are awaiting with you.'"
+      }
+    },
+    {
+      "location": [
+        9,
+        52,
+        19
+      ],
+      "form_arabic": "فَتَرَبَّصُو^ا@",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "9:52",
+      "ayah_arabic": "قُلۡ هَلۡ تَرَبَّصُونَ بِنَآ إِلَّآ إِحۡدَى ٱلۡحُسۡنَيَيۡنِۖ وَنَحۡنُ نَتَرَبَّصُ بِكُمۡ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابࣲ مِّنۡ عِندِهِۦٓ أَوۡ بِأَيۡدِينَاۖ فَتَرَبَّصُوٓاْ إِنَّا مَعَكُم مُّتَرَبِّصُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "So wait",
+      "translations": {
+        "saheeh": "Say, \"Do you await for us except one of the two best things while we await for you that Allah will afflict you with punishment from Himself or at our hands? So wait; indeed we, along with you, are waiting.\"",
+        "pickthall": "Say: Can ye await for us aught save one of two good things (death or victory in Allah's way)? while we await for you that Allah will afflict you with a doom from Him or at our hands. Await then! Lo! We are awaiting with you.",
+        "khattab": "Say, “Are you awaiting anything to befall us except one of the two best things: ˹victory or martyrdom˺? But We are awaiting Allah to afflict you with torment either from Him or at our hands. So keep waiting! We too are waiting with you.”",
+        "arberry": "Say: 'Are you awaiting for aught to come to us but one of the two rewards most fair? We are awaiting in your case too, for God to visit you with chastisement. from Him, or at our hands; so await; we are awaiting with you.'"
+      }
+    },
+    {
+      "location": [
+        9,
+        52,
+        22
+      ],
+      "form_arabic": "مُّتَرَبِّصُونَ",
+      "lemma": "m~utarab~iS",
+      "lemma_arabic": "مُّتَرَبِّص",
+      "pos": "N",
+      "ayah_id": "9:52",
+      "ayah_arabic": "قُلۡ هَلۡ تَرَبَّصُونَ بِنَآ إِلَّآ إِحۡدَى ٱلۡحُسۡنَيَيۡنِۖ وَنَحۡنُ نَتَرَبَّصُ بِكُمۡ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابࣲ مِّنۡ عِندِهِۦٓ أَوۡ بِأَيۡدِينَاۖ فَتَرَبَّصُوٓاْ إِنَّا مَعَكُم مُّتَرَبِّصُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "(are) waiting",
+      "translations": {
+        "saheeh": "Say, \"Do you await for us except one of the two best things while we await for you that Allah will afflict you with punishment from Himself or at our hands? So wait; indeed we, along with you, are waiting.\"",
+        "pickthall": "Say: Can ye await for us aught save one of two good things (death or victory in Allah's way)? while we await for you that Allah will afflict you with a doom from Him or at our hands. Await then! Lo! We are awaiting with you.",
+        "khattab": "Say, “Are you awaiting anything to befall us except one of the two best things: ˹victory or martyrdom˺? But We are awaiting Allah to afflict you with torment either from Him or at our hands. So keep waiting! We too are waiting with you.”",
+        "arberry": "Say: 'Are you awaiting for aught to come to us but one of the two rewards most fair? We are awaiting in your case too, for God to visit you with chastisement. from Him, or at our hands; so await; we are awaiting with you.'"
+      }
+    },
+    {
+      "location": [
+        9,
+        98,
+        8
+      ],
+      "form_arabic": "وَيَتَرَبَّصُ",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "9:98",
+      "ayah_arabic": "وَمِنَ ٱلۡأَعۡرَابِ مَن يَتَّخِذُ مَا يُنفِقُ مَغۡرَمࣰ ا وَيَتَرَبَّصُ بِكُمُ ٱلدَّوَآئِرَۚ عَلَيۡهِمۡ دَآئِرَةُ ٱلسَّوۡءِۗ وَٱللَّهُ سَمِيعٌ عَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "and he awaits",
+      "translations": {
+        "saheeh": "And among the bedouins are some who consider what they spend as a loss and await for you turns of misfortune. Upon them will be a misfortune of evil. And Allah is Hearing and Knowing.",
+        "pickthall": "And of the wandering Arabs there is he who taketh that which he expendeth (for the cause of Allah) as a loss, and awaiteth (evil) turns of fortune for you (that he may be rid of it). The evil turn of fortune will be theirs. Allah is Hearer, Knower.",
+        "khattab": "And among the nomads are those who consider what they donate to be a loss and await your misfortune. May ill-fortune befall them! And Allah is All-Hearing, All-Knowing",
+        "arberry": "Some of the Bedouins take what they expend for a fine, and await the turns of fortune to go against you. Theirs shall be the evil turn; God is All-hearing, All-knowing."
+      }
+    },
+    {
+      "location": [
+        20,
+        135,
+        3
+      ],
+      "form_arabic": "مُّتَرَبِّصٌ",
+      "lemma": "m~utarab~iS",
+      "lemma_arabic": "مُّتَرَبِّص",
+      "pos": "N",
+      "ayah_id": "20:135",
+      "ayah_arabic": "قُلۡ كُلࣱّ مُّتَرَبِّصࣱ فَتَرَبَّصُواْۖ فَسَتَعۡلَمُونَ مَنۡ أَصۡحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِيِّ وَمَنِ ٱهۡتَدَىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "(is) waiting",
+      "translations": {
+        "saheeh": "Say, \"Each [of us] is waiting; so wait. For you will know who are the companions of the sound path and who is guided.\"",
+        "pickthall": "Say: Each is awaiting; so await ye! Ye will come to know who are the owners of the path of equity, and who is right.",
+        "khattab": "Say ˹to them, O Prophet˺, “Each ˹of us˺ is waiting, so keep waiting! You will soon know who is on the Straight Path and is ˹rightly˺ guided.”",
+        "arberry": "Say: 'Everyone is waiting; so wait, and assuredly you shall know who are the travellers on the even path, and who is guided.'"
+      }
+    },
+    {
+      "location": [
+        20,
+        135,
+        4
+      ],
+      "form_arabic": "فَتَرَبَّصُوا@",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "20:135",
+      "ayah_arabic": "قُلۡ كُلࣱّ مُّتَرَبِّصࣱ فَتَرَبَّصُواْۖ فَسَتَعۡلَمُونَ مَنۡ أَصۡحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِيِّ وَمَنِ ٱهۡتَدَىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "so await",
+      "translations": {
+        "saheeh": "Say, \"Each [of us] is waiting; so wait. For you will know who are the companions of the sound path and who is guided.\"",
+        "pickthall": "Say: Each is awaiting; so await ye! Ye will come to know who are the owners of the path of equity, and who is right.",
+        "khattab": "Say ˹to them, O Prophet˺, “Each ˹of us˺ is waiting, so keep waiting! You will soon know who is on the Straight Path and is ˹rightly˺ guided.”",
+        "arberry": "Say: 'Everyone is waiting; so wait, and assuredly you shall know who are the travellers on the even path, and who is guided.'"
+      }
+    },
+    {
+      "location": [
+        23,
+        25,
+        7
+      ],
+      "form_arabic": "فَتَرَبَّصُوا@",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "23:25",
+      "ayah_arabic": "إِنۡ هُوَ إِلَّا رَجُلُۢ بِهِۦ جِنَّةࣱ فَتَرَبَّصُواْ بِهِۦ حَتَّىٰ حِينࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muminoon",
+      "literal_gloss": "so wait",
+      "translations": {
+        "saheeh": "He is not but a man possessed with madness, so wait concerning him for a time.\"",
+        "pickthall": "He is only a man in whom is a madness, so watch him for a while.",
+        "khattab": "He is simply insane, so bear with him for a while.”",
+        "arberry": "He is naught but a man bedevilled; so wait on him for a time."
+      }
+    },
+    {
+      "location": [
+        52,
+        30,
+        4
+      ],
+      "form_arabic": "نَّتَرَبَّصُ",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "52:30",
+      "ayah_arabic": "أَمۡ يَقُولُونَ شَاعِرࣱ نَّتَرَبَّصُ بِهِۦ رَيۡبَ ٱلۡمَنُونِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "we wait",
+      "translations": {
+        "saheeh": "Or do they say [of you], \"A poet for whom we await a misfortune of time?\"",
+        "pickthall": "Or say they: (he is) a poet, (one) for whom we may expect the accident of time?",
+        "khattab": "Or do they say, “˹He is˺ a poet, for whom we ˹eagerly˺ await an ill-fate!”",
+        "arberry": "Or do they say, 'He is a poet for whom we await Fate's uncertainty'?"
+      }
+    },
+    {
+      "location": [
+        52,
+        31,
+        2
+      ],
+      "form_arabic": "تَرَبَّصُوا@",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "52:31",
+      "ayah_arabic": "قُلۡ تَرَبَّصُواْ فَإِنِّي مَعَكُم مِّنَ ٱلۡمُتَرَبِّصِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "Wait",
+      "translations": {
+        "saheeh": "Say, \"Wait, for indeed I am, with you, among the waiters.\"",
+        "pickthall": "Say (unto them): Except (your fill)! Lo! I am with you among the expectant.",
+        "khattab": "Say, “Keep waiting! I too am waiting with you.”",
+        "arberry": "Say: 'Await! I shall be awaiting with you.'"
+      }
+    },
+    {
+      "location": [
+        52,
+        31,
+        6
+      ],
+      "form_arabic": "ٱلْمُتَرَبِّصِينَ",
+      "lemma": "m~utarab~iS",
+      "lemma_arabic": "مُّتَرَبِّص",
+      "pos": "N",
+      "ayah_id": "52:31",
+      "ayah_arabic": "قُلۡ تَرَبَّصُواْ فَإِنِّي مَعَكُم مِّنَ ٱلۡمُتَرَبِّصِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "those who wait",
+      "translations": {
+        "saheeh": "Say, \"Wait, for indeed I am, with you, among the waiters.\"",
+        "pickthall": "Say (unto them): Except (your fill)! Lo! I am with you among the expectant.",
+        "khattab": "Say, “Keep waiting! I too am waiting with you.”",
+        "arberry": "Say: 'Await! I shall be awaiting with you.'"
+      }
+    },
+    {
+      "location": [
+        57,
+        14,
+        10
+      ],
+      "form_arabic": "وَتَرَبَّصْتُمْ",
+      "lemma": "tarab~aSo",
+      "lemma_arabic": "تَرَبَّصْ",
+      "pos": "V",
+      "ayah_id": "57:14",
+      "ayah_arabic": "يُنَادُونَهُمۡ أَلَمۡ نَكُن مَّعَكُمۡۖ قَالُواْ بَلَىٰ وَلَٰكِنَّكُمۡ فَتَنتُمۡ أَنفُسَكُمۡ وَتَرَبَّصۡتُمۡ وَٱرۡتَبۡتُمۡ وَغَرَّتۡكُمُ ٱلۡأَمَانِيُّ حَتَّىٰ جَآءَ أَمۡرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلۡغَرُورُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hadid",
+      "literal_gloss": "and you awaited",
+      "translations": {
+        "saheeh": "The hypocrites will call to the believers, \"Were we not with you?\" They will say, \"Yes, but you afflicted yourselves and awaited [misfortune for us] and doubted, and wishful thinking deluded you until there came the command of Allah. And the Deceiver deceived you concerning Allah.",
+        "pickthall": "They will cry unto them (saying): Were we not with you? They will say: Yea, verily; but ye tempted one another, and hesitated, and doubted, and vain desires beguiled you till the ordinance of Allah came to pass; and the deceiver deceived you concerning Allah;",
+        "khattab": "The tormented will cry out to those graced, “Were we not with you?” They will reply, “Yes ˹you were˺. But you chose to be tempted ˹by hypocrisy˺, ˹eagerly˺ awaited ˹our demise˺, doubted ˹the truth˺, and were deluded by false hopes until Allah’s decree ˹of your death˺ came to pass. And ˹so˺ the Chief Deceiver deceived you about Allah",
+        "arberry": "They shall be calling unto them, 'Were we not with you?' They shall say, 'Yes indeed; but you tempted yourselves, and you awaited, and you were in doubt, and fancies deluded you, until God's commandment came, and the Deluder deluded you concerning God."
+      }
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "root": "wqf",
+  "root_arabic": "وقف",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 4,
+    "surahs": 3,
+    "pos_distribution": {
+      "V": 3,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "wuqifu",
+      "lemma_arabic": "وُقِفُ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        6,
+        27,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            6,
+            27,
+            4
+          ],
+          "form_arabic": "وُقِفُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            6,
+            30,
+            4
+          ],
+          "form_arabic": "وُقِفُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            37,
+            24,
+            1
+          ],
+          "form_arabic": "وَقِفُوهُمْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "mawoquwfuwn",
+      "lemma_arabic": "مَوْقُوفُون",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        34,
+        31,
+        16
+      ],
+      "occurrences": [
+        {
+          "location": [
+            34,
+            31,
+            16
+          ],
+          "form_arabic": "مَوْقُوفُونَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        6,
+        27
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        6,
+        27
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        6,
+        27
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        6,
+        27
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        6,
+        30
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        6,
+        27
+      ]
+    },
+    {
+      "root": "*wq",
+      "root_arabic": "ذوق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        30
+      ]
+    },
+    {
+      "root": "lys",
+      "root_arabic": "ليس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        30
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        30
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        30
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        27
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        27
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        27
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        6,
+        27
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        37,
+        24
+      ]
+    },
+    {
+      "root": "DEf",
+      "root_arabic": "ضعف",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        34,
+        31
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        34,
+        31
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        34,
+        31
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        34,
+        31
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        34,
+        31
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        34,
+        31
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        34,
+        31
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        34,
+        31
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        34,
+        31
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 34,
+        "name_english": "Saba",
+        "name_arabic": "سُورَةُ سَبَإٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        6,
+        27,
+        4
+      ],
+      "form_arabic": "وُقِفُوا@",
+      "lemma": "wuqifu",
+      "lemma_arabic": "وُقِفُ",
+      "pos": "V",
+      "ayah_id": "6:27",
+      "ayah_arabic": "وَلَوۡ تَرَىٰٓ إِذۡ وُقِفُواْ عَلَى ٱلنَّارِ فَقَالُواْ يَٰلَيۡتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "they are made to stand",
+      "translations": {
+        "saheeh": "If you could but see when they are made to stand before the Fire and will say, \"Oh, would that we could be returned [to life on earth] and not deny the signs of our Lord and be among the believers.\"",
+        "pickthall": "If thou couldst see when they are set before the Fire and say: Oh, would that we might return! Then would we not deny the revelations of our Lord but we would be of the believers!",
+        "khattab": "If only you could see when they will be detained before the Fire! They will cry, “Oh! If only we could be sent back, we would never deny the signs of our Lord and we would ˹surely˺ be of the believers.”",
+        "arberry": "If thou couldst see when they are stationed before the Fire, and they say, 'Would that we might be returned, and then not cry lies to the signs of our Lord, but that we might be among the believers!'"
+      }
+    },
+    {
+      "location": [
+        6,
+        30,
+        4
+      ],
+      "form_arabic": "وُقِفُوا@",
+      "lemma": "wuqifu",
+      "lemma_arabic": "وُقِفُ",
+      "pos": "V",
+      "ayah_id": "6:30",
+      "ayah_arabic": "وَلَوۡ تَرَىٰٓ إِذۡ وُقِفُواْ عَلَىٰ رَبِّهِمۡۚ قَالَ أَلَيۡسَ هَٰذَا بِٱلۡحَقِّۚ قَالُواْ بَلَىٰ وَرَبِّنَاۚ قَالَ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "they will be made to stand",
+      "translations": {
+        "saheeh": "If you could but see when they will be made to stand before their Lord. He will say, \"Is this not the truth?\" They will say, \"Yes, by our Lord.\" He will [then] say, \"So taste the punishment because you used to disbelieve.\"",
+        "pickthall": "If thou couldst see when they are set before their Lord! He will say: Is not this real? They will say: Yea, verily, by our Lord! He will say: Taste now the retribution for that ye used to disbelieve.",
+        "khattab": "But if only you could see when they will be detained before their Lord! He will ask ˹them˺, “Is this ˹Hereafter˺ not the truth?” They will cry, “Absolutely, by our Lord!” He will say, “Then taste the punishment for your disbelief.”",
+        "arberry": "If thou couldst see when they are stationed before their Lord! He will say, 'Is not this the truth?' They will say, 'Yes indeed, by our Lord!' He will say, 'Then taste the chastisement for your unbelief."
+      }
+    },
+    {
+      "location": [
+        34,
+        31,
+        16
+      ],
+      "form_arabic": "مَوْقُوفُونَ",
+      "lemma": "mawoquwfuwn",
+      "lemma_arabic": "مَوْقُوفُون",
+      "pos": "N",
+      "ayah_id": "34:31",
+      "ayah_arabic": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَن نُّؤۡمِنَ بِهَٰذَا ٱلۡقُرۡءَانِ وَلَا بِٱلَّذِي بَيۡنَ يَدَيۡهِۗ وَلَوۡ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ مَوۡقُوفُونَ عِندَ رَبِّهِمۡ يَرۡجِعُ بَعۡضُهُمۡ إِلَىٰ بَعۡضٍ ٱلۡقَوۡلَ يَقُولُ ٱلَّذِينَ ٱسۡتُضۡعِفُواْ لِلَّذِينَ ٱسۡتَكۡبَرُواْ لَوۡلَآ أَنتُمۡ لَكُنَّا مُؤۡمِنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saba",
+      "literal_gloss": "will be made to stand",
+      "translations": {
+        "saheeh": "And those who disbelieve say, \"We will never believe in this Qur'an nor in that before it.\" But if you could see when the wrongdoers are made to stand before their Lord, refuting each other's words... Those who were oppressed will say to those who were arrogant, \"If not for you, we would have been believers.\"",
+        "pickthall": "And those who disbelieve say: We believe not in this Qur'an nor in that which was before it; but oh, if thou couldst see, when the wrong-doers are brought up before their Lord, how they cast the blame one to another; how those who were despised (in the earth) say unto those who were proud: But for you, we should have been believers.",
+        "khattab": "The disbelievers vow, “We will never believe in this Quran, nor in those ˹Scriptures˺ before it.” If only you could see when the wrongdoers will be detained before their Lord, throwing blame at each other! The lowly ˹followers˺ will say to the arrogant ˹leaders˺, “Had it not been for you, we would certainly have been believers.”",
+        "arberry": "The unbelievers say, 'We will not believe in this Koran, nor in that before it.' Ah, if thou couldst see when the evildoers are stationed before their Lord, bandying argument the one against the other! Those that were abased will say to those that waxed proud, 'Had it not been for you, we would have been believers."
+      }
+    },
+    {
+      "location": [
+        37,
+        24,
+        1
+      ],
+      "form_arabic": "وَقِفُوهُمْ",
+      "lemma": "wuqifu",
+      "lemma_arabic": "وُقِفُ",
+      "pos": "V",
+      "ayah_id": "37:24",
+      "ayah_arabic": "وَقِفُوهُمۡۖ إِنَّهُم مَّسۡـُٔولُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "And stop them",
+      "translations": {
+        "saheeh": "And stop them; indeed, they are to be questioned.\"",
+        "pickthall": "And stop them, for they must be questioned.",
+        "khattab": "And detain them, for they must be questioned.”",
+        "arberry": "And halt them, to be questioned:"
+      }
+    }
+  ]
+}

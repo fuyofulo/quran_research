@@ -1,0 +1,341 @@
+{
+  "root": "Ass",
+  "root_arabic": "اسس",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">as~asa",
+      "lemma_arabic": "أَسَّسَ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        9,
+        108,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            9,
+            108,
+            6
+          ],
+          "form_arabic": "أُسِّسَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            109,
+            2
+          ],
+          "form_arabic": "أَسَّسَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            109,
+            12
+          ],
+          "form_arabic": "أَسَّسَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "Thr",
+      "root_arabic": "طهر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "Abd",
+      "root_arabic": "ابد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        108
+      ]
+    },
+    {
+      "root": "hwr",
+      "root_arabic": "هور",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "$fw",
+      "root_arabic": "شفو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "jrf",
+      "root_arabic": "جرف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        9,
+        109
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 3
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        9,
+        108,
+        6
+      ],
+      "form_arabic": "أُسِّسَ",
+      "lemma": ">as~asa",
+      "lemma_arabic": "أَسَّسَ",
+      "pos": "V",
+      "ayah_id": "9:108",
+      "ayah_arabic": "لَا تَقُمۡ فِيهِ أَبَدࣰ اۚ لَّمَسۡجِدٌ أُسِّسَ عَلَى ٱلتَّقۡوَىٰ مِنۡ أَوَّلِ يَوۡمٍ أَحَقُّ أَن تَقُومَ فِيهِۚ فِيهِ رِجَالࣱ يُحِبُّونَ أَن يَتَطَهَّرُواْۚ وَٱللَّهُ يُحِبُّ ٱلۡمُطَّهِّرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "founded",
+      "translations": {
+        "saheeh": "Do not stand [for prayer] within it - ever. A mosque founded on righteousness from the first day is more worthy for you to stand in. Within it are men who love to purify themselves; and Allah loves those who purify themselves.",
+        "pickthall": "Never stand (to pray) there. A place of worship which was found upon duty (to Allah) from the first day is more worthy that thou shouldst stand (to pray) therein, wherein are men who love to purify themselves. Allah loveth the purifiers.",
+        "khattab": "Do not ˹O Prophet˺ ever pray in it. Certainly, a mosque founded on righteousness from the first day is more worthy of your prayers. In it are men who love to be purified. And Allah loves those who purify themselves",
+        "arberry": "Stand there never. A mosque that was founded upon godfearing from the first day is worthier for thee to stand in; therein are men who love to cleanse themselves; and God loves those who cleanse themselves."
+      }
+    },
+    {
+      "location": [
+        9,
+        109,
+        2
+      ],
+      "form_arabic": "أَسَّسَ",
+      "lemma": ">as~asa",
+      "lemma_arabic": "أَسَّسَ",
+      "pos": "V",
+      "ayah_id": "9:109",
+      "ayah_arabic": "أَفَمَنۡ أَسَّسَ بُنۡيَٰنَهُۥ عَلَىٰ تَقۡوَىٰ مِنَ ٱللَّهِ وَرِضۡوَٰنٍ خَيۡرٌ أَم مَّنۡ أَسَّسَ بُنۡيَٰنَهُۥ عَلَىٰ شَفَا جُرُفٍ هَارࣲ فَٱنۡهَارَ بِهِۦ فِي نَارِ جَهَنَّمَۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "founded",
+      "translations": {
+        "saheeh": "Then is one who laid the foundation of his building on righteousness [with fear] from Allah and [seeking] His approval better or one who laid the foundation of his building on the edge of a bank about to collapse, so it collapsed with him into the fire of Hell? And Allah does not guide the wrongdoing people.",
+        "pickthall": "Is he who founded his building upon duty to Allah and His good pleasure better; or he who founded his building on the brink of a crumbling, overhanging precipice so that it toppled with him into the fire of hell? Allah guideth not wrongdoing folk.",
+        "khattab": "Which is better: those who laid the foundation of their building on the fear and pleasure of Allah, or those who did so on the edge of a crumbling cliff that tumbled down with them into the Fire of Hell? And Allah does not guide the wrongdoing people",
+        "arberry": "Why, is he better who founded his building upon the fear of God and His good pleasure, or he who founded his building upon the brink of a crumbling bank that has tumbled with him into the fire of Gehenna? And God guides not the people of the evildoers."
+      }
+    },
+    {
+      "location": [
+        9,
+        109,
+        12
+      ],
+      "form_arabic": "أَسَّسَ",
+      "lemma": ">as~asa",
+      "lemma_arabic": "أَسَّسَ",
+      "pos": "V",
+      "ayah_id": "9:109",
+      "ayah_arabic": "أَفَمَنۡ أَسَّسَ بُنۡيَٰنَهُۥ عَلَىٰ تَقۡوَىٰ مِنَ ٱللَّهِ وَرِضۡوَٰنٍ خَيۡرٌ أَم مَّنۡ أَسَّسَ بُنۡيَٰنَهُۥ عَلَىٰ شَفَا جُرُفٍ هَارࣲ فَٱنۡهَارَ بِهِۦ فِي نَارِ جَهَنَّمَۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "founded",
+      "translations": {
+        "saheeh": "Then is one who laid the foundation of his building on righteousness [with fear] from Allah and [seeking] His approval better or one who laid the foundation of his building on the edge of a bank about to collapse, so it collapsed with him into the fire of Hell? And Allah does not guide the wrongdoing people.",
+        "pickthall": "Is he who founded his building upon duty to Allah and His good pleasure better; or he who founded his building on the brink of a crumbling, overhanging precipice so that it toppled with him into the fire of hell? Allah guideth not wrongdoing folk.",
+        "khattab": "Which is better: those who laid the foundation of their building on the fear and pleasure of Allah, or those who did so on the edge of a crumbling cliff that tumbled down with them into the Fire of Hell? And Allah does not guide the wrongdoing people",
+        "arberry": "Why, is he better who founded his building upon the fear of God and His good pleasure, or he who founded his building upon the brink of a crumbling bank that has tumbled with him into the fire of Gehenna? And God guides not the people of the evildoers."
+      }
+    }
+  ]
+}

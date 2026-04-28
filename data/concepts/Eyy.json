@@ -1,0 +1,247 @@
+{
+  "root": "Eyy",
+  "root_arabic": "عيي",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "Eayiy",
+      "lemma_arabic": "عَيِي",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        46,
+        33,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            46,
+            33,
+            10
+          ],
+          "form_arabic": "يَعْىَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            50,
+            15,
+            1
+          ],
+          "form_arabic": "أَفَعَيِينَا",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        46,
+        33
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        46,
+        33
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        46,
+        33
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        46,
+        33
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        46,
+        33
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        46,
+        33
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        46,
+        33
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        46,
+        33
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        46,
+        33
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        46,
+        33
+      ]
+    },
+    {
+      "root": "jdd",
+      "root_arabic": "جدد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        50,
+        15
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        50,
+        15
+      ]
+    },
+    {
+      "root": "lbs",
+      "root_arabic": "لبس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        50,
+        15
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 46,
+        "name_english": "Al-Ahqaf",
+        "name_arabic": "سُورَةُ الأَحۡقَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 50,
+        "name_english": "Qaaf",
+        "name_arabic": "سُورَةُ قٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        46,
+        33,
+        10
+      ],
+      "form_arabic": "يَعْىَ",
+      "lemma": "Eayiy",
+      "lemma_arabic": "عَيِي",
+      "pos": "V",
+      "ayah_id": "46:33",
+      "ayah_arabic": "أَوَلَمۡ يَرَوۡاْ أَنَّ ٱللَّهَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَلَمۡ يَعۡيَ بِخَلۡقِهِنَّ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰۚ بَلَىٰٓۚ إِنَّهُۥ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ahqaf",
+      "literal_gloss": "tired",
+      "translations": {
+        "saheeh": "Do they not see that Allah, who created the heavens and earth and did not fail in their creation, is able to give life to the dead? Yes. Indeed, He is over all things competent.",
+        "pickthall": "Have they not seen that Allah, Who created the heavens and the earth and was not wearied by their creation, is Able to give life to the dead? Aye, He verily is Able to do all things.",
+        "khattab": "Do they not realize that Allah, Who created the heavens and the earth and did not tire in creating them, is able to give life to the dead? Yes ˹indeed˺! He is certainly Most Capable of everything",
+        "arberry": "What, have they not seen that God who created the heavens and earth, not being wearied by creating them, is able to give life to the dead? Yes indeed; He is powerful over everything."
+      }
+    },
+    {
+      "location": [
+        50,
+        15,
+        1
+      ],
+      "form_arabic": "أَفَعَيِينَا",
+      "lemma": "Eayiy",
+      "lemma_arabic": "عَيِي",
+      "pos": "V",
+      "ayah_id": "50:15",
+      "ayah_arabic": "أَفَعَيِينَا بِٱلۡخَلۡقِ ٱلۡأَوَّلِۚ بَلۡ هُمۡ فِي لَبۡسࣲ مِّنۡ خَلۡقࣲ جَدِيدࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Qaaf",
+      "literal_gloss": "Were We then tired",
+      "translations": {
+        "saheeh": "Did We fail in the first creation? But they are in confusion over a new creation.",
+        "pickthall": "Were We then worn out by the first creation? Yet they are in doubt about a new creation.",
+        "khattab": "Were We incapable of creating ˹them˺ the first time? In fact, they are in doubt about ˹their˺ re-creation",
+        "arberry": "What, were We wearied by the first creation? No indeed; but they are in uncertainty as to the new creation."
+      }
+    }
+  ]
+}

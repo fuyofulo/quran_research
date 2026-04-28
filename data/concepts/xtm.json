@@ -1,0 +1,866 @@
+{
+  "root": "xtm",
+  "root_arabic": "ختم",
+  "stats": {
+    "occurrences": 8,
+    "lemmas": 4,
+    "ayahs": 8,
+    "surahs": 7,
+    "pos_distribution": {
+      "V": 5,
+      "N": 2,
+      "ADJ": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "xatama",
+      "lemma_arabic": "خَتَمَ",
+      "count": 5,
+      "pos_distribution": {
+        "V": 5
+      },
+      "first_occurrence": [
+        2,
+        7,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            7,
+            1
+          ],
+          "form_arabic": "خَتَمَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            6,
+            46,
+            8
+          ],
+          "form_arabic": "وَخَتَمَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            36,
+            65,
+            2
+          ],
+          "form_arabic": "نَخْتِمُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            42,
+            24,
+            10
+          ],
+          "form_arabic": "يَخْتِمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            45,
+            23,
+            10
+          ],
+          "form_arabic": "وَخَتَمَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "xaAtam",
+      "lemma_arabic": "خَاتَم",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        33,
+        40,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            33,
+            40,
+            11
+          ],
+          "form_arabic": "وَخَاتَمَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "m~axotuwm",
+      "lemma_arabic": "مَّخْتُوم",
+      "count": 1,
+      "pos_distribution": {
+        "ADJ": 1
+      },
+      "first_occurrence": [
+        83,
+        25,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            83,
+            25,
+            4
+          ],
+          "form_arabic": "مَّخْتُومٍ",
+          "pos": "ADJ"
+        }
+      ]
+    },
+    {
+      "lemma": "xita`m",
+      "lemma_arabic": "خِتَٰم",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        83,
+        26,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            83,
+            26,
+            1
+          ],
+          "form_arabic": "خِتَٰمُهُ,",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 5,
+      "share": 0.625,
+      "first_together": [
+        2,
+        7
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 4,
+      "share": 0.5,
+      "first_together": [
+        2,
+        7
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        33,
+        40
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        2,
+        7
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        2,
+        7
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        6,
+        46
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        6,
+        46
+      ]
+    },
+    {
+      "root": "g$w",
+      "root_arabic": "غشو",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        2,
+        7
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        36,
+        65
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        33,
+        40
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        33,
+        40
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        6,
+        46
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        33,
+        40
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        45,
+        23
+      ]
+    },
+    {
+      "root": "hwy",
+      "root_arabic": "هوي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        45,
+        23
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        45,
+        23
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        45,
+        23
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        45,
+        23
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        45,
+        23
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        36,
+        65
+      ]
+    },
+    {
+      "root": "fwh",
+      "root_arabic": "فوه",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        36,
+        65
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        36,
+        65
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        36,
+        65
+      ]
+    },
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        36,
+        65
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        7
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        2,
+        7
+      ]
+    },
+    {
+      "root": "msk",
+      "root_arabic": "مسك",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        83,
+        26
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        83,
+        26
+      ]
+    },
+    {
+      "root": "kyf",
+      "root_arabic": "كيف",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        6,
+        46
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        6,
+        46
+      ]
+    },
+    {
+      "root": "Srf",
+      "root_arabic": "صرف",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        6,
+        46
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        6,
+        46
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        6,
+        46
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        6,
+        46
+      ]
+    },
+    {
+      "root": "Sdf",
+      "root_arabic": "صدف",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        6,
+        46
+      ]
+    },
+    {
+      "root": "rHq",
+      "root_arabic": "رحق",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        83,
+        25
+      ]
+    },
+    {
+      "root": "sqy",
+      "root_arabic": "سقي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        83,
+        25
+      ]
+    },
+    {
+      "root": "fry",
+      "root_arabic": "فري",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "mHw",
+      "root_arabic": "محو",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "Sdr",
+      "root_arabic": "صدر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "bTl",
+      "root_arabic": "بطل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        33,
+        40
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        33,
+        40
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        33,
+        40
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        33,
+        40
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        33,
+        40
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 83,
+        "name_english": "Al-Mutaffifin",
+        "name_arabic": "سُورَةُ المُطَفِّفِينَ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 33,
+        "name_english": "Al-Ahzaab",
+        "name_arabic": "سُورَةُ الأَحۡزَابِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 42,
+        "name_english": "Ash-Shura",
+        "name_arabic": "سُورَةُ الشُّورَىٰ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 45,
+        "name_english": "Al-Jaathiya",
+        "name_arabic": "سُورَةُ الجَاثِيَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        7,
+        1
+      ],
+      "form_arabic": "خَتَمَ",
+      "lemma": "xatama",
+      "lemma_arabic": "خَتَمَ",
+      "pos": "V",
+      "ayah_id": "2:7",
+      "ayah_arabic": "خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَعَلَىٰ سَمۡعِهِمۡۖ وَعَلَىٰٓ أَبۡصَٰرِهِمۡ غِشَٰوَةࣱۖ وَلَهُمۡ عَذَابٌ عَظِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "Has set a seal",
+      "translations": {
+        "saheeh": "Allah has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment.",
+        "pickthall": "Allah hath sealed their hearing and their hearts, and on their eyes there is a covering. Theirs will be an awful doom.",
+        "khattab": "Allah has sealed their hearts and their hearing, and their sight is covered. They will suffer a tremendous punishment",
+        "arberry": "God has set a seal on their hearts and on their hearing, and on their eyes is a covering, and there awaits them a mighty chastisement."
+      }
+    },
+    {
+      "location": [
+        6,
+        46,
+        8
+      ],
+      "form_arabic": "وَخَتَمَ",
+      "lemma": "xatama",
+      "lemma_arabic": "خَتَمَ",
+      "pos": "V",
+      "ayah_id": "6:46",
+      "ayah_arabic": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَخَذَ ٱللَّهُ سَمۡعَكُمۡ وَأَبۡصَٰرَكُمۡ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنۡ إِلَٰهٌ غَيۡرُ ٱللَّهِ يَأۡتِيكُم بِهِۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ ثُمَّ هُمۡ يَصۡدِفُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "and sealed",
+      "translations": {
+        "saheeh": "Say, \"Have you considered: if Allah should take away your hearing and your sight and set a seal upon your hearts, which deity other than Allah could bring them [back] to you?\" Look how we diversify the verses; then they [still] turn away.",
+        "pickthall": "Say: Have ye imagined, if Allah should take away your hearing and your sight and seal your hearts, Who is the Allah Who could restore it to you save Allah? See how We display the revelations unto them! Yet still they turn away.",
+        "khattab": "Ask ˹them, O Prophet˺, “Imagine if Allah were to take away your hearing or sight, or seal your hearts—who else other than Allah could restore it?” See ˹O Prophet˺ how We vary the signs, yet they still turn away",
+        "arberry": "Say: 'What think you? If God seizes your hearing and sight, and sets a seal upon your hearts, who is a god other than God to give it back to you?' Behold how We turn about the signs! Yet thereafter they are turning away."
+      }
+    },
+    {
+      "location": [
+        33,
+        40,
+        11
+      ],
+      "form_arabic": "وَخَاتَمَ",
+      "lemma": "xaAtam",
+      "lemma_arabic": "خَاتَم",
+      "pos": "N",
+      "ayah_id": "33:40",
+      "ayah_arabic": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدࣲ مِّن رِّجَالِكُمۡ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَۗ وَكَانَ ٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "and Seal",
+      "translations": {
+        "saheeh": "Muhammad is not the father of [any] one of your men, but [he is] the Messenger of Allah and last of the prophets. And ever is Allah, of all things, Knowing.",
+        "pickthall": "Muhammad is not the father of any man among you, but he is the messenger of Allah and the Seal of the Prophets; and Allah is ever Aware of all things.",
+        "khattab": "Muḥammad is not the father of any of your men, but is the Messenger of Allah and the seal of the prophets. And Allah has ˹perfect˺ knowledge of all things",
+        "arberry": "Muhammad is not the father of any one of your men, but the Messenger of God, and the Seal of the Prophets; God has knowledge of everything."
+      }
+    },
+    {
+      "location": [
+        36,
+        65,
+        2
+      ],
+      "form_arabic": "نَخْتِمُ",
+      "lemma": "xatama",
+      "lemma_arabic": "خَتَمَ",
+      "pos": "V",
+      "ayah_id": "36:65",
+      "ayah_arabic": "ٱلۡيَوۡمَ نَخۡتِمُ عَلَىٰٓ أَفۡوَٰهِهِمۡ وَتُكَلِّمُنَآ أَيۡدِيهِمۡ وَتَشۡهَدُ أَرۡجُلُهُم بِمَا كَانُواْ يَكۡسِبُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "We will seal",
+      "translations": {
+        "saheeh": "That Day, We will seal over their mouths, and their hands will speak to Us, and their feet will testify about what they used to earn.",
+        "pickthall": "This day We seal up their mouths, and their hands speak out to Us and their feet bear witness as to what they used to earn.",
+        "khattab": "On this Day We will seal their mouths, their hands will speak to Us, and their feet will testify to what they used to commit",
+        "arberry": "Today We set a seal on their mouths, and their hands speak to Us, and their feet bear witness as to what they have been earning."
+      }
+    },
+    {
+      "location": [
+        42,
+        24,
+        10
+      ],
+      "form_arabic": "يَخْتِمْ",
+      "lemma": "xatama",
+      "lemma_arabic": "خَتَمَ",
+      "pos": "V",
+      "ayah_id": "42:24",
+      "ayah_arabic": "أَمۡ يَقُولُونَ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبࣰ اۖ فَإِن يَشَإِ ٱللَّهُ يَخۡتِمۡ عَلَىٰ قَلۡبِكَۗ وَيَمۡحُ ٱللَّهُ ٱلۡبَٰطِلَ وَيُحِقُّ ٱلۡحَقَّ بِكَلِمَٰتِهِۦٓۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shura",
+      "literal_gloss": "He would seal",
+      "translations": {
+        "saheeh": "Or do they say, \"He has invented about Allah a lie\"? But if Allah willed, He could seal over your heart. And Allah eliminates falsehood and establishes the truth by His words. Indeed, He is Knowing of that within the breasts.",
+        "pickthall": "Or say they: He hath invented a lie concerning Allah? If Allah willed, He could have sealed thy heart (against them). And Allah will wipe out the lie and will vindicate the truth by His words. Lo! He is Aware of what is hidden in the breasts (of men).",
+        "khattab": "Or do they say, “He has fabricated a lie about Allah!”? ˹If you had,˺ Allah would have sealed your heart, if He willed. And Allah wipes out falsehood and establishes the truth by His Words. He certainly knows best what is ˹hidden˺ in the heart",
+        "arberry": "Or do they say, 'He has forged against God a lie?' But if God wills, He will set a seal on thy heart; and God blots out falsehood and verifies the truth by His words; He knows the thoughts within the breasts."
+      }
+    },
+    {
+      "location": [
+        45,
+        23,
+        10
+      ],
+      "form_arabic": "وَخَتَمَ",
+      "lemma": "xatama",
+      "lemma_arabic": "خَتَمَ",
+      "pos": "V",
+      "ayah_id": "45:23",
+      "ayah_arabic": "أَفَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلۡمࣲ وَخَتَمَ عَلَىٰ سَمۡعِهِۦ وَقَلۡبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةࣰ فَمَن يَهۡدِيهِ مِنۢ بَعۡدِ ٱللَّهِۚ أَفَلَا تَذَكَّرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Jaathiya",
+      "literal_gloss": "and He sets a seal",
+      "translations": {
+        "saheeh": "Have you seen he who has taken as his god his [own] desire, and Allah has sent him astray due to knowledge and has set a seal upon his hearing and his heart and put over his vision a veil? So who will guide him after Allah? Then will you not be reminded?",
+        "pickthall": "Hast thou seen him who maketh his desire his god, and Allah sendeth him astray purposely, and sealeth up his hearing and his heart, and setteth on his sight a covering? Then who will lead him after Allah (hath condemned him)? Will ye not then heed?",
+        "khattab": "Have you seen ˹O Prophet˺ those who have taken their own desires as their god? ˹And so˺ Allah left them to stray knowingly, sealed their hearing and hearts, and placed a cover on their sight. Who then can guide them after Allah? Will you ˹all˺ not then be mindful",
+        "arberry": "Hast thou seen him who has taken his caprice to be his god, and God has led him astray out of a knowledge, and set a seal upon his hearing and his heart, and laid a covering on his eyes? Who shall guide him after God? What, will you not remember?"
+      }
+    },
+    {
+      "location": [
+        83,
+        25,
+        4
+      ],
+      "form_arabic": "مَّخْتُومٍ",
+      "lemma": "m~axotuwm",
+      "lemma_arabic": "مَّخْتُوم",
+      "pos": "ADJ",
+      "ayah_id": "83:25",
+      "ayah_arabic": "يُسۡقَوۡنَ مِن رَّحِيقࣲ مَّخۡتُومٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mutaffifin",
+      "literal_gloss": "sealed",
+      "translations": {
+        "saheeh": "They will be given to drink [pure] wine [which was] sealed.",
+        "pickthall": "They are given to drink of a pure wine, sealed,",
+        "khattab": "They will be given a drink of sealed, pure wine",
+        "arberry": "as they are given to drink of a wine sealed"
+      }
+    },
+    {
+      "location": [
+        83,
+        26,
+        1
+      ],
+      "form_arabic": "خِتَٰمُهُ,",
+      "lemma": "xita`m",
+      "lemma_arabic": "خِتَٰم",
+      "pos": "N",
+      "ayah_id": "83:26",
+      "ayah_arabic": "خِتَٰمُهُۥ مِسۡكࣱۚ وَفِي ذَٰلِكَ فَلۡيَتَنَافَسِ ٱلۡمُتَنَٰفِسُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mutaffifin",
+      "literal_gloss": "Its seal",
+      "translations": {
+        "saheeh": "The last of it is musk. So for this let the competitors compete.",
+        "pickthall": "Whose seal is musk - for this let (all) those strive who strive for bliss -",
+        "khattab": "whose last sip will smell like musk. So let whoever aspires to this strive ˹diligently˺",
+        "arberry": "whose seal is musk -- so after that let the strivers strive --"
+      }
+    }
+  ]
+}

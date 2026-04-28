@@ -1,0 +1,479 @@
+{
+  "root": "hmn",
+  "root_arabic": "همن",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 1,
+      "ADJ": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "muhayomin",
+      "lemma_arabic": "مُهَيْمِن",
+      "count": 2,
+      "pos_distribution": {
+        "N": 1,
+        "ADJ": 1
+      },
+      "first_occurrence": [
+        5,
+        48,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            48,
+            11
+          ],
+          "form_arabic": "وَمُهَيْمِنًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            59,
+            23,
+            12
+          ],
+          "form_arabic": "ٱلْمُهَيْمِنُ",
+          "pos": "ADJ"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "hwy",
+      "root_arabic": "هوي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "sbq",
+      "root_arabic": "سبق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "nhj",
+      "root_arabic": "نهج",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "blw",
+      "root_arabic": "بلو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "$rE",
+      "root_arabic": "شرع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        48
+      ]
+    },
+    {
+      "root": "sbH",
+      "root_arabic": "سبح",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        59,
+        23
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        59,
+        23
+      ]
+    },
+    {
+      "root": "Ezz",
+      "root_arabic": "عزز",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        59,
+        23
+      ]
+    },
+    {
+      "root": "mlk",
+      "root_arabic": "ملك",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        59,
+        23
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        59,
+        23
+      ]
+    },
+    {
+      "root": "jbr",
+      "root_arabic": "جبر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        59,
+        23
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        59,
+        23
+      ]
+    },
+    {
+      "root": "qds",
+      "root_arabic": "قدس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        59,
+        23
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        59,
+        23
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 59,
+        "name_english": "Al-Hashr",
+        "name_arabic": "سُورَةُ الحَشۡرِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        5,
+        48,
+        11
+      ],
+      "form_arabic": "وَمُهَيْمِنًا",
+      "lemma": "muhayomin",
+      "lemma_arabic": "مُهَيْمِن",
+      "pos": "N",
+      "ayah_id": "5:48",
+      "ayah_arabic": "وَأَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ مُصَدِّقࣰ ا لِّمَا بَيۡنَ يَدَيۡهِ مِنَ ٱلۡكِتَٰبِ وَمُهَيۡمِنًا عَلَيۡهِۖ فَٱحۡكُم بَيۡنَهُم بِمَآ أَنزَلَ ٱللَّهُۖ وَلَا تَتَّبِعۡ أَهۡوَآءَهُمۡ عَمَّا جَآءَكَ مِنَ ٱلۡحَقِّۚ لِكُلࣲّ جَعَلۡنَا مِنكُمۡ شِرۡعَةࣰ وَمِنۡهَاجࣰ اۚ وَلَوۡ شَآءَ ٱللَّهُ لَجَعَلَكُمۡ أُمَّةࣰ وَٰحِدَةࣰ وَلَٰكِن لِّيَبۡلُوَكُمۡ فِي مَآ ءَاتَىٰكُمۡۖ فَٱسۡتَبِقُواْ ٱلۡخَيۡرَٰتِۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعࣰ ا فَيُنَبِّئُكُم بِمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "and a guardian",
+      "translations": {
+        "saheeh": "And We have revealed to you, [O Muhammad], the Book in truth, confirming that which preceded it of the Scripture and as a criterion over it. So judge between them by what Allah has revealed and do not follow their inclinations away from what has come to you of the truth. To each of you We prescribed a law and a method. Had Allah willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ.",
+        "pickthall": "And unto thee have We revealed the Scripture with the truth, confirming whatever Scripture was before it, and a watcher over it. So judge between them by that which Allah hath revealed, and follow not their desires away from the truth which hath come unto thee. For each We have appointed a divine law and a traced-out way. Had Allah willed He could have made you one community. But that He may try you by that which He hath given you (He hath made you as ye are). So vie one with another in good works. Unto Allah ye will all return, and He will then inform you of that wherein ye differ.",
+        "khattab": "We have revealed to you ˹O Prophet˺ this Book with the truth, as a confirmation of previous Scriptures and a supreme authority on them. So judge between them by what Allah has revealed, and do not follow their desires over the truth that has come to you. To each of you We have ordained a code of law and a way of life. If Allah had willed, He would have made you one community, but His Will is to test you with what He has given ˹each of˺ you. So compete with one another in doing good. To Allah you will all return, then He will inform you ˹of the truth˺ regarding your differences",
+        "arberry": "And We have sent down to thee the Book with the truth, confirming the Book that was before it, and assuring it. So judge between them according to what God has sent down, and do not follow their caprices, to forsake the truth that has come to thee. To every one of you We have appointed a right way and an open road. If God had willed, He would have made you one nation; but that He may try you in what has come to you. So be you forward in good works; unto God shall you return, all together; and He will tell you of that whereon you were at variance."
+      }
+    },
+    {
+      "location": [
+        59,
+        23,
+        12
+      ],
+      "form_arabic": "ٱلْمُهَيْمِنُ",
+      "lemma": "muhayomin",
+      "lemma_arabic": "مُهَيْمِن",
+      "pos": "ADJ",
+      "ayah_id": "59:23",
+      "ayah_arabic": "هُوَ ٱللَّهُ ٱلَّذِي لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡمَلِكُ ٱلۡقُدُّوسُ ٱلسَّلَٰمُ ٱلۡمُؤۡمِنُ ٱلۡمُهَيۡمِنُ ٱلۡعَزِيزُ ٱلۡجَبَّارُ ٱلۡمُتَكَبِّرُۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hashr",
+      "literal_gloss": "the Guardian",
+      "translations": {
+        "saheeh": "He is Allah, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him.",
+        "pickthall": "He is Allah, than Whom there is no other Allah, the Sovereign Lord, the Holy One, Peace, the Keeper of Faith, the Guardian, the Majestic, the Compeller, the Superb. Glorified be Allah from all that they ascribe as partner (unto Him).",
+        "khattab": "He is Allah—there is no god except Him: the King, the Most Holy, the All-Perfect, the Source of Serenity, the Watcher ˹of all˺, the Almighty, the Supreme in Might, the Majestic. Glorified is Allah far above what they associate with Him ˹in worship˺",
+        "arberry": "He is God; there is no god but He. He is the King, the All-holy, the All-peaceable, the All-faithful, the All-preserver, the All-mighty, the All-compeller, the All-sublime. Glory be to God, above that they associate!"
+      }
+    }
+  ]
+}

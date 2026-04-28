@@ -1,0 +1,685 @@
+{
+  "root": "myl",
+  "root_arabic": "ميل",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 3,
+    "ayahs": 3,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 3,
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yamiylu",
+      "lemma_arabic": "يَمِيلُ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        4,
+        27,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            27,
+            11
+          ],
+          "form_arabic": "تَمِيلُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            4,
+            102,
+            36
+          ],
+          "form_arabic": "فَيَمِيلُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            4,
+            129,
+            10
+          ],
+          "form_arabic": "تَمِيلُوا@",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "mayol",
+      "lemma_arabic": "مَيْل",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        4,
+        27,
+        12
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            27,
+            12
+          ],
+          "form_arabic": "مَيْلًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            129,
+            12
+          ],
+          "form_arabic": "ٱلْمَيْلِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "m~ayolap",
+      "lemma_arabic": "مَّيْلَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        4,
+        102,
+        38
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            102,
+            38
+          ],
+          "form_arabic": "مَّيْلَةً",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        4,
+        27
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        27
+      ]
+    },
+    {
+      "root": "$hw",
+      "root_arabic": "شهو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        27
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        27
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        27
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        27
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "Edl",
+      "root_arabic": "عدل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "Elq",
+      "root_arabic": "علق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "HrS",
+      "root_arabic": "حرص",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "w*r",
+      "root_arabic": "وذر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        129
+      ]
+    },
+    {
+      "root": "A*y",
+      "root_arabic": "اذي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "Twf",
+      "root_arabic": "طوف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "gfl",
+      "root_arabic": "غفل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "wDE",
+      "root_arabic": "وضع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "wry",
+      "root_arabic": "وري",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "wdd",
+      "root_arabic": "ودد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "mTr",
+      "root_arabic": "مطر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "H*r",
+      "root_arabic": "حذر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "Edd",
+      "root_arabic": "عدد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "hwn",
+      "root_arabic": "هون",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "slH",
+      "root_arabic": "سلح",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "mrD",
+      "root_arabic": "مرض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        102
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 6
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        27,
+        11
+      ],
+      "form_arabic": "تَمِيلُوا@",
+      "lemma": "yamiylu",
+      "lemma_arabic": "يَمِيلُ",
+      "pos": "V",
+      "ayah_id": "4:27",
+      "ayah_arabic": "وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيۡكُمۡ وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُواْ مَيۡلًا عَظِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "you deviate ",
+      "translations": {
+        "saheeh": "Allah wants to accept your repentance, but those who follow [their] passions want you to digress [into] a great deviation.",
+        "pickthall": "And Allah would turn to you in mercy; but those who follow vain desires would have you go tremendously astray.",
+        "khattab": "And it is Allah’s Will to turn to you in grace, but those who follow their desires wish to see you deviate entirely ˹from Allah’s Way˺",
+        "arberry": "and God desires to turn towards you, but those who follow their lusts desire you to swerve away mightily."
+      }
+    },
+    {
+      "location": [
+        4,
+        27,
+        12
+      ],
+      "form_arabic": "مَيْلًا",
+      "lemma": "mayol",
+      "lemma_arabic": "مَيْل",
+      "pos": "N",
+      "ayah_id": "4:27",
+      "ayah_arabic": "وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيۡكُمۡ وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُواْ مَيۡلًا عَظِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(into) a deviation",
+      "translations": {
+        "saheeh": "Allah wants to accept your repentance, but those who follow [their] passions want you to digress [into] a great deviation.",
+        "pickthall": "And Allah would turn to you in mercy; but those who follow vain desires would have you go tremendously astray.",
+        "khattab": "And it is Allah’s Will to turn to you in grace, but those who follow their desires wish to see you deviate entirely ˹from Allah’s Way˺",
+        "arberry": "and God desires to turn towards you, but those who follow their lusts desire you to swerve away mightily."
+      }
+    },
+    {
+      "location": [
+        4,
+        102,
+        36
+      ],
+      "form_arabic": "فَيَمِيلُونَ",
+      "lemma": "yamiylu",
+      "lemma_arabic": "يَمِيلُ",
+      "pos": "V",
+      "ayah_id": "4:102",
+      "ayah_arabic": "وَإِذَا كُنتَ فِيهِمۡ فَأَقَمۡتَ لَهُمُ ٱلصَّلَوٰةَ فَلۡتَقُمۡ طَآئِفَةࣱ مِّنۡهُم مَّعَكَ وَلۡيَأۡخُذُوٓاْ أَسۡلِحَتَهُمۡۖ فَإِذَا سَجَدُواْ فَلۡيَكُونُواْ مِن وَرَآئِكُمۡ وَلۡتَأۡتِ طَآئِفَةٌ أُخۡرَىٰ لَمۡ يُصَلُّواْ فَلۡيُصَلُّواْ مَعَكَ وَلۡيَأۡخُذُواْ حِذۡرَهُمۡ وَأَسۡلِحَتَهُمۡۗ وَدَّ ٱلَّذِينَ كَفَرُواْ لَوۡ تَغۡفُلُونَ عَنۡ أَسۡلِحَتِكُمۡ وَأَمۡتِعَتِكُمۡ فَيَمِيلُونَ عَلَيۡكُم مَّيۡلَةࣰ وَٰحِدَةࣰۚ وَلَا جُنَاحَ عَلَيۡكُمۡ إِن كَانَ بِكُمۡ أَذࣰ ى مِّن مَّطَرٍ أَوۡ كُنتُم مَّرۡضَىٰٓ أَن تَضَعُوٓاْ أَسۡلِحَتَكُمۡۖ وَخُذُواْ حِذۡرَكُمۡۗ إِنَّ ٱللَّهَ أَعَدَّ لِلۡكَٰفِرِينَ عَذَابࣰ ا مُّهِينࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "so (that) they (can) assault",
+      "translations": {
+        "saheeh": "And when you are among them and lead them in prayer, let a group of them stand [in prayer] with you and let them carry their arms. And when they have prostrated, let them be [in position] behind you and have the other group come forward which has not [yet] prayed and let them pray with you, taking precaution and carrying their arms. Those who disbelieve wish that you would neglect your weapons and your baggage so they could come down upon you in one [single] attack. But there is no blame upon you, if you are troubled by rain or are ill, for putting down your arms, but take precaution. Indeed, Allah has prepared for the disbelievers a humiliating punishment.",
+        "pickthall": "And when thou (O Muhammad) art among them and arrangest (their) worship for them, let only a party of them stand with thee (to worship) and let them take their arms. Then when they have performed their prostrations let them fall to the rear and let another party come that hath not worshipped and let them worship with thee, and let them take their precaution and their arms. Those who disbelieve long for you to neglect your arms and your baggage that they may attack you once for all. It is no sin for you to lay aside your arms, if rain impedeth you or ye are sick. But take your precaution. Lo! Allah prepareth for the disbelievers shameful punishment.",
+        "khattab": "When you ˹O Prophet˺ are ˹campaigning˺ with them and you lead them in prayer, let one group of them pray with you—while armed. When they prostrate themselves, let the other group stand guard behind them. Then the group that has not yet prayed will then join you in prayer—and let them be vigilant and armed. The disbelievers would wish to see you neglect your weapons and belongings, so they could launch a sweeping assault on you. But there is no blame if you lay aside your weapons when overcome by heavy rain or illness—but take precaution. Indeed, Allah has prepared a humiliating punishment for the disbelievers",
+        "arberry": "When thou art amongst them, and performest for them the prayer, let a party of them stand with thee, and let them take their weapons. When they bow themselves, let them be behind you; and let another party who have not prayed come and pray with thee, taking their precautions and their weapons. The unbelievers wish that you should be heedless of your weapons and your baggage, then they would wheel on you all at once. There is no fault in you, if rain molests you, or you are sick, to lay aside your weapons; but take your precautions. God has prepared for the unbelievers a humbling chastisement."
+      }
+    },
+    {
+      "location": [
+        4,
+        102,
+        38
+      ],
+      "form_arabic": "مَّيْلَةً",
+      "lemma": "m~ayolap",
+      "lemma_arabic": "مَّيْلَة",
+      "pos": "N",
+      "ayah_id": "4:102",
+      "ayah_arabic": "وَإِذَا كُنتَ فِيهِمۡ فَأَقَمۡتَ لَهُمُ ٱلصَّلَوٰةَ فَلۡتَقُمۡ طَآئِفَةࣱ مِّنۡهُم مَّعَكَ وَلۡيَأۡخُذُوٓاْ أَسۡلِحَتَهُمۡۖ فَإِذَا سَجَدُواْ فَلۡيَكُونُواْ مِن وَرَآئِكُمۡ وَلۡتَأۡتِ طَآئِفَةٌ أُخۡرَىٰ لَمۡ يُصَلُّواْ فَلۡيُصَلُّواْ مَعَكَ وَلۡيَأۡخُذُواْ حِذۡرَهُمۡ وَأَسۡلِحَتَهُمۡۗ وَدَّ ٱلَّذِينَ كَفَرُواْ لَوۡ تَغۡفُلُونَ عَنۡ أَسۡلِحَتِكُمۡ وَأَمۡتِعَتِكُمۡ فَيَمِيلُونَ عَلَيۡكُم مَّيۡلَةࣰ وَٰحِدَةࣰۚ وَلَا جُنَاحَ عَلَيۡكُمۡ إِن كَانَ بِكُمۡ أَذࣰ ى مِّن مَّطَرٍ أَوۡ كُنتُم مَّرۡضَىٰٓ أَن تَضَعُوٓاْ أَسۡلِحَتَكُمۡۖ وَخُذُواْ حِذۡرَكُمۡۗ إِنَّ ٱللَّهَ أَعَدَّ لِلۡكَٰفِرِينَ عَذَابࣰ ا مُّهِينࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(in) an attack",
+      "translations": {
+        "saheeh": "And when you are among them and lead them in prayer, let a group of them stand [in prayer] with you and let them carry their arms. And when they have prostrated, let them be [in position] behind you and have the other group come forward which has not [yet] prayed and let them pray with you, taking precaution and carrying their arms. Those who disbelieve wish that you would neglect your weapons and your baggage so they could come down upon you in one [single] attack. But there is no blame upon you, if you are troubled by rain or are ill, for putting down your arms, but take precaution. Indeed, Allah has prepared for the disbelievers a humiliating punishment.",
+        "pickthall": "And when thou (O Muhammad) art among them and arrangest (their) worship for them, let only a party of them stand with thee (to worship) and let them take their arms. Then when they have performed their prostrations let them fall to the rear and let another party come that hath not worshipped and let them worship with thee, and let them take their precaution and their arms. Those who disbelieve long for you to neglect your arms and your baggage that they may attack you once for all. It is no sin for you to lay aside your arms, if rain impedeth you or ye are sick. But take your precaution. Lo! Allah prepareth for the disbelievers shameful punishment.",
+        "khattab": "When you ˹O Prophet˺ are ˹campaigning˺ with them and you lead them in prayer, let one group of them pray with you—while armed. When they prostrate themselves, let the other group stand guard behind them. Then the group that has not yet prayed will then join you in prayer—and let them be vigilant and armed. The disbelievers would wish to see you neglect your weapons and belongings, so they could launch a sweeping assault on you. But there is no blame if you lay aside your weapons when overcome by heavy rain or illness—but take precaution. Indeed, Allah has prepared a humiliating punishment for the disbelievers",
+        "arberry": "When thou art amongst them, and performest for them the prayer, let a party of them stand with thee, and let them take their weapons. When they bow themselves, let them be behind you; and let another party who have not prayed come and pray with thee, taking their precautions and their weapons. The unbelievers wish that you should be heedless of your weapons and your baggage, then they would wheel on you all at once. There is no fault in you, if rain molests you, or you are sick, to lay aside your weapons; but take your precautions. God has prepared for the unbelievers a humbling chastisement."
+      }
+    },
+    {
+      "location": [
+        4,
+        129,
+        10
+      ],
+      "form_arabic": "تَمِيلُوا@",
+      "lemma": "yamiylu",
+      "lemma_arabic": "يَمِيلُ",
+      "pos": "V",
+      "ayah_id": "4:129",
+      "ayah_arabic": "وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورࣰ ا رَّحِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "incline",
+      "translations": {
+        "saheeh": "And you will never be able to be equal [in feeling] between wives, even if you should strive [to do so]. So do not incline completely [toward one] and leave another hanging. And if you amend [your affairs] and fear Allah - then indeed, Allah is ever Forgiving and Merciful.",
+        "pickthall": "Ye will not be able to deal equally between (your) wives, however much ye wish (to do so). But turn not altogether away (from one), leaving her as in suspense. If ye do good and keep from evil, lo! Allah is ever Forgiving, Merciful.",
+        "khattab": "You will never be able to maintain ˹emotional˺ justice between your wives—no matter how keen you are. So do not totally incline towards one leaving the other in suspense. And if you do what is right and are mindful ˹of Allah˺, surely Allah is All-Forgiving, Most Merciful",
+        "arberry": "You will not be able to be equitable between your wives, be you ever so eager; yet do not be altogether partial so that you leave her as it were suspended. If you set things right, and are godfearing, God is All-forgiving, All-compassionate."
+      }
+    },
+    {
+      "location": [
+        4,
+        129,
+        12
+      ],
+      "form_arabic": "ٱلْمَيْلِ",
+      "lemma": "mayol",
+      "lemma_arabic": "مَيْل",
+      "pos": "N",
+      "ayah_id": "4:129",
+      "ayah_arabic": "وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورࣰ ا رَّحِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "the inclination",
+      "translations": {
+        "saheeh": "And you will never be able to be equal [in feeling] between wives, even if you should strive [to do so]. So do not incline completely [toward one] and leave another hanging. And if you amend [your affairs] and fear Allah - then indeed, Allah is ever Forgiving and Merciful.",
+        "pickthall": "Ye will not be able to deal equally between (your) wives, however much ye wish (to do so). But turn not altogether away (from one), leaving her as in suspense. If ye do good and keep from evil, lo! Allah is ever Forgiving, Merciful.",
+        "khattab": "You will never be able to maintain ˹emotional˺ justice between your wives—no matter how keen you are. So do not totally incline towards one leaving the other in suspense. And if you do what is right and are mindful ˹of Allah˺, surely Allah is All-Forgiving, Most Merciful",
+        "arberry": "You will not be able to be equitable between your wives, be you ever so eager; yet do not be altogether partial so that you leave her as it were suspended. If you set things right, and are godfearing, God is All-forgiving, All-compassionate."
+      }
+    }
+  ]
+}

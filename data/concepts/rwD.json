@@ -1,0 +1,282 @@
+{
+  "root": "rwD",
+  "root_arabic": "روض",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "rawoDap",
+      "lemma_arabic": "رَوْضَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        30,
+        15,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            30,
+            15,
+            8
+          ],
+          "form_arabic": "رَوْضَةٍ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "rawoDaAt",
+      "lemma_arabic": "رَوْضَات",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        42,
+        22,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            42,
+            22,
+            14
+          ],
+          "form_arabic": "رَوْضَاتِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        30,
+        15
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        30,
+        15
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        30,
+        15
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "$fq",
+      "root_arabic": "شفق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "wqE",
+      "root_arabic": "وقع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        42,
+        22
+      ]
+    },
+    {
+      "root": "Hbr",
+      "root_arabic": "حبر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        30,
+        15
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 30,
+        "name_english": "Ar-Room",
+        "name_arabic": "سُورَةُ الرُّومِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 42,
+        "name_english": "Ash-Shura",
+        "name_arabic": "سُورَةُ الشُّورَىٰ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        30,
+        15,
+        8
+      ],
+      "form_arabic": "رَوْضَةٍ",
+      "lemma": "rawoDap",
+      "lemma_arabic": "رَوْضَة",
+      "pos": "N",
+      "ayah_id": "30:15",
+      "ayah_arabic": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَهُمۡ فِي رَوۡضَةࣲ يُحۡبَرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ar-Room",
+      "literal_gloss": "a Garden",
+      "translations": {
+        "saheeh": "And as for those who had believed and done righteous deeds, they will be in a garden [of Paradise], delighted.",
+        "pickthall": "As for those who believed and did good works, they will be made happy in a Garden.",
+        "khattab": "As for those who believed and did good, they will be rejoicing in a Garden",
+        "arberry": "as for those who believed, and did deeds of righteousness, they shall walk with joy in a green meadow,"
+      }
+    },
+    {
+      "location": [
+        42,
+        22,
+        14
+      ],
+      "form_arabic": "رَوْضَاتِ",
+      "lemma": "rawoDaAt",
+      "lemma_arabic": "رَوْضَات",
+      "pos": "N",
+      "ayah_id": "42:22",
+      "ayah_arabic": "تَرَى ٱلظَّٰلِمِينَ مُشۡفِقِينَ مِمَّا كَسَبُواْ وَهُوَ وَاقِعُۢ بِهِمۡۗ وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فِي رَوۡضَاتِ ٱلۡجَنَّاتِۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمۡۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shura",
+      "literal_gloss": "flowering meadows",
+      "translations": {
+        "saheeh": "You will see the wrongdoers fearful of what they have earned, and it will [certainly] befall them. And those who have believed and done righteous deeds will be in lush regions of the gardens [in Paradise] having whatever they will in the presence of their Lord. That is what is the great bounty.",
+        "pickthall": "Thou seest the wrong-doers fearful of that which they have earned, and it will surely befall them, while those who believe and do good works (will be) in flowering meadows of the Gardens, having what they wish from their Lord. This is the great preferment.",
+        "khattab": "You will see the wrongdoers fearful ˹of the punishment˺ for what they committed but it will be inevitable for them, whereas those who believe and do good will be in the lush Gardens of Paradise. They will have whatever they desire from their Lord. That is ˹truly˺ the greatest bounty",
+        "arberry": "Thou seest the evildoers going in fear of that they have earned, that is about to fall on them; but those who believe and do righteous deeds are in Meadows of the Gardens; whatsoever they will they shall have with their Lord; that is the great bounty."
+      }
+    }
+  ]
+}

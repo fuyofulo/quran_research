@@ -1,0 +1,880 @@
+{
+  "root": "mwj",
+  "root_arabic": "موج",
+  "stats": {
+    "occurrences": 7,
+    "lemmas": 2,
+    "ayahs": 6,
+    "surahs": 5,
+    "pos_distribution": {
+      "N": 6,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "mawoj",
+      "lemma_arabic": "مَوْج",
+      "count": 6,
+      "pos_distribution": {
+        "N": 6
+      },
+      "first_occurrence": [
+        10,
+        22,
+        22
+      ],
+      "occurrences": [
+        {
+          "location": [
+            10,
+            22,
+            22
+          ],
+          "form_arabic": "ٱلْمَوْجُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            11,
+            42,
+            5
+          ],
+          "form_arabic": "مَوْجٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            11,
+            43,
+            20
+          ],
+          "form_arabic": "ٱلْمَوْجُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            24,
+            40,
+            7
+          ],
+          "form_arabic": "مَوْجٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            24,
+            40,
+            10
+          ],
+          "form_arabic": "مَوْجٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            31,
+            32,
+            3
+          ],
+          "form_arabic": "مَّوْجٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "yamuwju",
+      "lemma_arabic": "يَمُوجُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        18,
+        99,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            18,
+            99,
+            4
+          ],
+          "form_arabic": "يَمُوجُ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 4,
+      "share": 0.6667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        42
+      ]
+    },
+    {
+      "root": "jry",
+      "root_arabic": "جري",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "jbl",
+      "root_arabic": "جبل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        42
+      ]
+    },
+    {
+      "root": "njw",
+      "root_arabic": "نجو",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "g$w",
+      "root_arabic": "غشو",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        24,
+        40
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "xlS",
+      "root_arabic": "خلص",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "brr",
+      "root_arabic": "برر",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        18,
+        99
+      ]
+    },
+    {
+      "root": "bHr",
+      "root_arabic": "بحر",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "Ezl",
+      "root_arabic": "عزل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        42
+      ]
+    },
+    {
+      "root": "ndw",
+      "root_arabic": "ندو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        42
+      ]
+    },
+    {
+      "root": "rkb",
+      "root_arabic": "ركب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        42
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        42
+      ]
+    },
+    {
+      "root": "qSd",
+      "root_arabic": "قصد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        31,
+        32
+      ]
+    },
+    {
+      "root": "xtr",
+      "root_arabic": "ختر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        31,
+        32
+      ]
+    },
+    {
+      "root": "Zll",
+      "root_arabic": "ظلل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        31,
+        32
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        31,
+        32
+      ]
+    },
+    {
+      "root": "jHd",
+      "root_arabic": "جحد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        31,
+        32
+      ]
+    },
+    {
+      "root": "trk",
+      "root_arabic": "ترك",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        99
+      ]
+    },
+    {
+      "root": "nfx",
+      "root_arabic": "نفخ",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        99
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        99
+      ]
+    },
+    {
+      "root": "Swr",
+      "root_arabic": "صور",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        99
+      ]
+    },
+    {
+      "root": "syr",
+      "root_arabic": "سير",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "frH",
+      "root_arabic": "فرح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "rwH",
+      "root_arabic": "روح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "flk",
+      "root_arabic": "فلك",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "Znn",
+      "root_arabic": "ظنن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "HwT",
+      "root_arabic": "حوط",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "Tyb",
+      "root_arabic": "طيب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "ESf",
+      "root_arabic": "عصف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        10,
+        22
+      ]
+    },
+    {
+      "root": "ESm",
+      "root_arabic": "عصم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        43
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        43
+      ]
+    },
+    {
+      "root": "Awy",
+      "root_arabic": "اوي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        43
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        43
+      ]
+    },
+    {
+      "root": "grq",
+      "root_arabic": "غرق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        43
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        43
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        43
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        43
+      ]
+    },
+    {
+      "root": "Hwl",
+      "root_arabic": "حول",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        43
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        11,
+        43
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        40
+      ]
+    },
+    {
+      "root": "ljj",
+      "root_arabic": "لجج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        40
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        40
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        40
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        40
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        40
+      ]
+    },
+    {
+      "root": "fwq",
+      "root_arabic": "فوق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        40
+      ]
+    },
+    {
+      "root": "sHb",
+      "root_arabic": "سحب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        40
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        40
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        40
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 10,
+        "name_english": "Yunus",
+        "name_arabic": "سُورَةُ يُونُسَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 31,
+        "name_english": "Luqman",
+        "name_arabic": "سُورَةُ لُقۡمَانَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 5,
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        10,
+        22,
+        22
+      ],
+      "form_arabic": "ٱلْمَوْجُ",
+      "lemma": "mawoj",
+      "lemma_arabic": "مَوْج",
+      "pos": "N",
+      "ayah_id": "10:22",
+      "ayah_arabic": "هُوَ ٱلَّذِي يُسَيِّرُكُمۡ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِۖ حَتَّىٰٓ إِذَا كُنتُمۡ فِي ٱلۡفُلۡكِ وَجَرَيۡنَ بِهِم بِرِيحࣲ طَيِّبَةࣲ وَفَرِحُواْ بِهَا جَآءَتۡهَا رِيحٌ عَاصِفࣱ وَجَآءَهُمُ ٱلۡمَوۡجُ مِن كُلِّ مَكَانࣲ وَظَنُّوٓاْ أَنَّهُمۡ أُحِيطَ بِهِمۡ دَعَوُاْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ لَئِنۡ أَنجَيۡتَنَا مِنۡ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yunus",
+      "literal_gloss": "the waves",
+      "translations": {
+        "saheeh": "It is He who enables you to travel on land and sea until, when you are in ships and they sail with them by a good wind and they rejoice therein, there comes a storm wind and the waves come upon them from everywhere and they assume that they are surrounded, supplicating Allah, sincere to Him in religion, \"If You should save us from this, we will surely be among the thankful.\"",
+        "pickthall": "He it is Who maketh you to go on the land and the sea till, when ye are in the ships and they sail with them with a fair breeze and they are glad therein, a storm-wind reacheth them and the wave cometh unto them from every side and they deem that they are overwhelmed therein; (then) they cry unto Allah, making their faith pure for Him only: If Thou deliver us from this, we truly will be of the thankful.",
+        "khattab": "He is the One Who enables you to travel through land and sea. And it so happens that you are on ships, sailing with a favourable wind, to the passengers’ delight. Suddenly, the ships are overcome by a gale wind and those on board are overwhelmed by waves from every side, and they assume they are doomed. They cry out to Allah ˹alone˺ in sincere devotion, “If You save us from this, we will certainly be grateful.”",
+        "arberry": "It is He who conveys you on the land and the sea; and when you are in the ship -- and the ships run with them with a fair breeze, and they rejoice in it, there comes upon them a strong wind, and waves come on them from every side, and they think they are encompassed; they call upon God, making their religion His sincerely: 'If Thou deliverest us from these, surely we shall be among the thankful.'"
+      }
+    },
+    {
+      "location": [
+        11,
+        42,
+        5
+      ],
+      "form_arabic": "مَوْجٍ",
+      "lemma": "mawoj",
+      "lemma_arabic": "مَوْج",
+      "pos": "N",
+      "ayah_id": "11:42",
+      "ayah_arabic": "وَهِيَ تَجۡرِي بِهِمۡ فِي مَوۡجࣲ كَٱلۡجِبَالِ وَنَادَىٰ نُوحٌ ٱبۡنَهُۥ وَكَانَ فِي مَعۡزِلࣲ يَٰبُنَيَّ ٱرۡكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلۡكَٰفِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "the waves",
+      "translations": {
+        "saheeh": "And it sailed with them through waves like mountains, and Noah called to his son who was apart [from them], \"O my son, come aboard with us and be not with the disbelievers.\"",
+        "pickthall": "And it sailed with them amid waves like mountains, and Noah cried unto his son - and he was standing aloof - O my son! Come ride with us, and be not with the disbelievers.",
+        "khattab": "And ˹so˺ the Ark sailed with them through waves like mountains. Noah called out to his son, who stood apart, “O my dear son! Come aboard with us and do not be with the disbelievers.”",
+        "arberry": "So it ran with them amid waves like mountains; and Noah called to his son, who was standing apart, 'Embark with us, my son, and be thou not with the unbelievers!'"
+      }
+    },
+    {
+      "location": [
+        11,
+        43,
+        20
+      ],
+      "form_arabic": "ٱلْمَوْجُ",
+      "lemma": "mawoj",
+      "lemma_arabic": "مَوْج",
+      "pos": "N",
+      "ayah_id": "11:43",
+      "ayah_arabic": "قَالَ سَـَٔاوِيٓ إِلَىٰ جَبَلࣲ يَعۡصِمُنِي مِنَ ٱلۡمَآءِۚ قَالَ لَا عَاصِمَ ٱلۡيَوۡمَ مِنۡ أَمۡرِ ٱللَّهِ إِلَّا مَن رَّحِمَۚ وَحَالَ بَيۡنَهُمَا ٱلۡمَوۡجُ فَكَانَ مِنَ ٱلۡمُغۡرَقِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "the waves",
+      "translations": {
+        "saheeh": "[But] he said, \"I will take refuge on a mountain to protect me from the water.\" [Noah] said, \"There is no protector today from the decree of Allah, except for whom He gives mercy.\" And the waves came between them, and he was among the drowned.",
+        "pickthall": "He said: I shall betake me to some mountain that will save me from the water. (Noah) said: This day there is none that saveth from the commandment of Allah save him on whom He hath had mercy. And the wave came in between them, so he was among the drowned.",
+        "khattab": "He replied, “I will take refuge on a mountain, which will protect me from the water.” Noah cried, “Today no one is protected from Allah’s decree except those to whom He shows mercy!” And the waves came between them, and his son was among the drowned",
+        "arberry": "He said, 'I will take refuge in a mountain, that shall defend me from the water.' Said he, 'Today there is no defender from God's command but for him on whom He has mercy.' And the waves came between them, and he was among the drowned."
+      }
+    },
+    {
+      "location": [
+        18,
+        99,
+        4
+      ],
+      "form_arabic": "يَمُوجُ",
+      "lemma": "yamuwju",
+      "lemma_arabic": "يَمُوجُ",
+      "pos": "V",
+      "ayah_id": "18:99",
+      "ayah_arabic": "۞وَتَرَكۡنَا بَعۡضَهُمۡ يَوۡمَئِذࣲ يَمُوجُ فِي بَعۡضࣲۖ وَنُفِخَ فِي ٱلصُّورِ فَجَمَعۡنَٰهُمۡ جَمۡعࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "to surge",
+      "translations": {
+        "saheeh": "And We will leave them that day surging over each other, and [then] the Horn will be blown, and We will assemble them in [one] assembly.",
+        "pickthall": "And on that day we shall let some of them surge against others, and the Trumpet will be blown. Then We shall gather them together in one gathering.",
+        "khattab": "On that Day, We will let them surge ˹like waves˺ over one another. Later, the Trumpet will be blown, and We will gather all ˹people˺ together",
+        "arberry": "Upon that day We shall leave them surging on one another, and the Trumpet shall he blown, and We shall gather them together,"
+      }
+    },
+    {
+      "location": [
+        24,
+        40,
+        7
+      ],
+      "form_arabic": "مَوْجٌ",
+      "lemma": "mawoj",
+      "lemma_arabic": "مَوْج",
+      "pos": "N",
+      "ayah_id": "24:40",
+      "ayah_arabic": "أَوۡ كَظُلُمَٰتࣲ فِي بَحۡرࣲ لُّجِّيࣲّ يَغۡشَىٰهُ مَوۡجࣱ مِّن فَوۡقِهِۦ مَوۡجࣱ مِّن فَوۡقِهِۦ سَحَابࣱۚ ظُلُمَٰتُۢ بَعۡضُهَا فَوۡقَ بَعۡضٍ إِذَآ أَخۡرَجَ يَدَهُۥ لَمۡ يَكَدۡ يَرَىٰهَاۗ وَمَن لَّمۡ يَجۡعَلِ ٱللَّهُ لَهُۥ نُورࣰ ا فَمَا لَهُۥ مِن نُّورٍ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "a wave",
+      "translations": {
+        "saheeh": "Or [they are] like darknesses within an unfathomable sea which is covered by waves, upon which are waves, over which are clouds - darknesses, some of them upon others. When one puts out his hand [therein], he can hardly see it. And he to whom Allah has not granted light - for him there is no light.",
+        "pickthall": "Or as darkness on a vast, abysmal sea. There covereth him a wave, above which is a wave, above which is a cloud. Layer upon layer of darkness. When he holdeth out his hand he scarce can see it. And he for whom Allah hath not appointed light, for him there is no light.",
+        "khattab": "Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it. And whoever Allah does not bless with light will have no light",
+        "arberry": "or they are as shadows upon a sea obscure covered by a billow above which is a billow above which are clouds, shadows piled one upon another; when he puts forth his hand, wellnigh he cannot see it. And to whomsoever God assigns no light, no light has he."
+      }
+    },
+    {
+      "location": [
+        24,
+        40,
+        10
+      ],
+      "form_arabic": "مَوْجٌ",
+      "lemma": "mawoj",
+      "lemma_arabic": "مَوْج",
+      "pos": "N",
+      "ayah_id": "24:40",
+      "ayah_arabic": "أَوۡ كَظُلُمَٰتࣲ فِي بَحۡرࣲ لُّجِّيࣲّ يَغۡشَىٰهُ مَوۡجࣱ مِّن فَوۡقِهِۦ مَوۡجࣱ مِّن فَوۡقِهِۦ سَحَابࣱۚ ظُلُمَٰتُۢ بَعۡضُهَا فَوۡقَ بَعۡضٍ إِذَآ أَخۡرَجَ يَدَهُۥ لَمۡ يَكَدۡ يَرَىٰهَاۗ وَمَن لَّمۡ يَجۡعَلِ ٱللَّهُ لَهُۥ نُورࣰ ا فَمَا لَهُۥ مِن نُّورٍ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "a wave",
+      "translations": {
+        "saheeh": "Or [they are] like darknesses within an unfathomable sea which is covered by waves, upon which are waves, over which are clouds - darknesses, some of them upon others. When one puts out his hand [therein], he can hardly see it. And he to whom Allah has not granted light - for him there is no light.",
+        "pickthall": "Or as darkness on a vast, abysmal sea. There covereth him a wave, above which is a wave, above which is a cloud. Layer upon layer of darkness. When he holdeth out his hand he scarce can see it. And he for whom Allah hath not appointed light, for him there is no light.",
+        "khattab": "Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it. And whoever Allah does not bless with light will have no light",
+        "arberry": "or they are as shadows upon a sea obscure covered by a billow above which is a billow above which are clouds, shadows piled one upon another; when he puts forth his hand, wellnigh he cannot see it. And to whomsoever God assigns no light, no light has he."
+      }
+    },
+    {
+      "location": [
+        31,
+        32,
+        3
+      ],
+      "form_arabic": "مَّوْجٌ",
+      "lemma": "mawoj",
+      "lemma_arabic": "مَوْج",
+      "pos": "N",
+      "ayah_id": "31:32",
+      "ayah_arabic": "وَإِذَا غَشِيَهُم مَّوۡجࣱ كَٱلظُّلَلِ دَعَوُاْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمۡ إِلَى ٱلۡبَرِّ فَمِنۡهُم مُّقۡتَصِدࣱۚ وَمَا يَجۡحَدُ بِـَٔايَٰتِنَآ إِلَّا كُلُّ خَتَّارࣲ كَفُورࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Luqman",
+      "literal_gloss": "a wave",
+      "translations": {
+        "saheeh": "And when waves come over them like canopies, they supplicate Allah, sincere to Him in religion. But when He delivers them to the land, there are [some] of them who are moderate [in faith]. And none rejects Our signs except everyone treacherous and ungrateful.",
+        "pickthall": "And if a wave enshroudeth them like awnings, they cry unto Allah, making their faith pure for Him only. But when He bringeth them safe to land, some of them compromise. None denieth Our signs save every traitor ingrate.",
+        "khattab": "And as soon as they are overwhelmed by waves like mountains, they cry out to Allah ˹alone˺ in sincere devotion. But when He delivers them ˹safely˺ to shore, only some become relatively grateful. And none rejects Our signs except whoever is deceitful, ungrateful",
+        "arberry": "And when the waves cover them like shadows they call upon God, making their religion sincerely His; but when He has delivered them to the land, some of them are lukewarm. And none denies Our signs, except every ungrateful traitor."
+      }
+    }
+  ]
+}

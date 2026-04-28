@@ -1,0 +1,357 @@
+{
+  "root": "mlq",
+  "root_arabic": "ملق",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "<imola`q",
+      "lemma_arabic": "إِمْلَٰق",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        6,
+        151,
+        18
+      ],
+      "occurrences": [
+        {
+          "location": [
+            6,
+            151,
+            18
+          ],
+          "form_arabic": "إِمْلَٰقٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            17,
+            31,
+            5
+          ],
+          "form_arabic": "إِمْلَٰقٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "x$y",
+      "root_arabic": "خشي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        31
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        31
+      ]
+    },
+    {
+      "root": "xTA",
+      "root_arabic": "خطا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        31
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        17,
+        31
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "wSy",
+      "root_arabic": "وصي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "bTn",
+      "root_arabic": "بطن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "tlw",
+      "root_arabic": "تلو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "fH$",
+      "root_arabic": "فحش",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "Zhr",
+      "root_arabic": "ظهر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "Elw",
+      "root_arabic": "علو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "Eql",
+      "root_arabic": "عقل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        6,
+        151
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        6,
+        151,
+        18
+      ],
+      "form_arabic": "إِمْلَٰقٍ",
+      "lemma": "<imola`q",
+      "lemma_arabic": "إِمْلَٰق",
+      "pos": "N",
+      "ayah_id": "6:151",
+      "ayah_arabic": "۞قُلۡ تَعَالَوۡاْ أَتۡلُ مَا حَرَّمَ رَبُّكُمۡ عَلَيۡكُمۡۖ أَلَّا تُشۡرِكُواْ بِهِۦ شَيۡـࣰٔ اۖ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَٰنࣰ اۖ وَلَا تَقۡتُلُوٓاْ أَوۡلَٰدَكُم مِّنۡ إِمۡلَٰقࣲ نَّحۡنُ نَرۡزُقُكُمۡ وَإِيَّاهُمۡۖ وَلَا تَقۡرَبُواْ ٱلۡفَوَٰحِشَ مَا ظَهَرَ مِنۡهَا وَمَا بَطَنَۖ وَلَا تَقۡتُلُواْ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّۚ ذَٰلِكُمۡ وَصَّىٰكُم بِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "poverty",
+      "translations": {
+        "saheeh": "Say, \"Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allah has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason.\"",
+        "pickthall": "Say: Come, I will recite unto you that which your Lord hath made a sacred duty for you: That ye ascribe no thing as partner unto Him and that ye do good to parents, and that ye slay not your children because of penury - We provide for you and for them - and that ye draw not nigh to lewd things whether open or concealed. And that ye slay not the life which Allah hath made sacred, save in the course of justice. This He hath command you, in order that ye may discern.",
+        "khattab": "Say, ˹O Prophet,˺ “Come! Let me recite to you what your Lord has forbidden to you: do not associate others with Him ˹in worship˺. ˹Do not fail to˺ honour your parents. Do not kill your children for fear of poverty. We provide for you and for them. Do not come near indecencies, openly or secretly. Do not take a ˹human˺ life—made sacred by Allah—except with ˹legal˺ right. This is what He has commanded you, so perhaps you will understand",
+        "arberry": "Say: 'Come, I will recite what your Lord has forbidden you: that you associate not anything with Him, and to be good to your parents, and not to slay your children because of poverty; We will provide you and them and that you approach not any indecency outward or inward, and that you slay not the soul God has forbidden, except by right. That then He has charged you with; haply you will understand."
+      }
+    },
+    {
+      "location": [
+        17,
+        31,
+        5
+      ],
+      "form_arabic": "إِمْلَٰقٍ",
+      "lemma": "<imola`q",
+      "lemma_arabic": "إِمْلَٰق",
+      "pos": "N",
+      "ayah_id": "17:31",
+      "ayah_arabic": "وَلَا تَقۡتُلُوٓاْ أَوۡلَٰدَكُمۡ خَشۡيَةَ إِمۡلَٰقࣲۖ نَّحۡنُ نَرۡزُقُهُمۡ وَإِيَّاكُمۡۚ إِنَّ قَتۡلَهُمۡ كَانَ خِطۡـࣰٔ ا كَبِيرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "(of) poverty",
+      "translations": {
+        "saheeh": "And do not kill your children for fear of poverty. We provide for them and for you. Indeed, their killing is ever a great sin.",
+        "pickthall": "Slay not your children, fearing a fall to poverty, We shall provide for them and for you. Lo! the slaying of them is great sin.",
+        "khattab": "Do not kill your children for fear of poverty. We provide for them and for you. Surely killing them is a heinous sin",
+        "arberry": "And slay not your children for fear of poverty; We will provide for you and them; surely the slaying of them is a grievous sin."
+      }
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "root": "Hw*",
+  "root_arabic": "حوذ",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "{sotaHowa*a",
+      "lemma_arabic": "ٱسْتَحْوَذَ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        4,
+        141,
+        20
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            141,
+            20
+          ],
+          "form_arabic": "نَسْتَحْوِذْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            58,
+            19,
+            1
+          ],
+          "form_arabic": "ٱسْتَحْوَذَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "nSb",
+      "root_arabic": "نصب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "rbS",
+      "root_arabic": "ربص",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "ftH",
+      "root_arabic": "فتح",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "mnE",
+      "root_arabic": "منع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        141
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        19
+      ]
+    },
+    {
+      "root": "$Tn",
+      "root_arabic": "شطن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        19
+      ]
+    },
+    {
+      "root": "xsr",
+      "root_arabic": "خسر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        19
+      ]
+    },
+    {
+      "root": "nsy",
+      "root_arabic": "نسي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        19
+      ]
+    },
+    {
+      "root": "Hzb",
+      "root_arabic": "حزب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        19
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 58,
+        "name_english": "Al-Mujaadila",
+        "name_arabic": "سُورَةُ المُجَادلَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        141,
+        20
+      ],
+      "form_arabic": "نَسْتَحْوِذْ",
+      "lemma": "{sotaHowa*a",
+      "lemma_arabic": "ٱسْتَحْوَذَ",
+      "pos": "V",
+      "ayah_id": "4:141",
+      "ayah_arabic": "ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمۡ فَإِن كَانَ لَكُمۡ فَتۡحࣱ مِّنَ ٱللَّهِ قَالُوٓاْ أَلَمۡ نَكُن مَّعَكُمۡ وَإِن كَانَ لِلۡكَٰفِرِينَ نَصِيبࣱ قَالُوٓاْ أَلَمۡ نَسۡتَحۡوِذۡ عَلَيۡكُمۡ وَنَمۡنَعۡكُم مِّنَ ٱلۡمُؤۡمِنِينَۚ فَٱللَّهُ يَحۡكُمُ بَيۡنَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۚ وَلَن يَجۡعَلَ ٱللَّهُ لِلۡكَٰفِرِينَ عَلَى ٱلۡمُؤۡمِنِينَ سَبِيلًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "we have advantage",
+      "translations": {
+        "saheeh": "Those who wait [and watch] you. Then if you gain a victory from Allah, they say, \"Were we not with you?\" But if the disbelievers have a success, they say [to them], \"Did we not gain the advantage over you, but we protected you from the believers?\" Allah will judge between [all of] you on the Day of Resurrection, and never will Allah give the disbelievers over the believers a way [to overcome them].",
+        "pickthall": "Those who wait upon occasion in regard to you and, if a victory cometh unto you from Allah, say: Are we not with you? and if the disbelievers meet with a success say: Had we not the mastery of you, and did we not protect you from the believers? - Allah will judge between you at the Day of Resurrection, and Allah will not give the disbelievers any way (of success) against the believers.",
+        "khattab": "˹The hypocrites are˺ those who wait to see what happens to you. So if Allah grants you victory, they say ˹to you˺, “Were we not on your side?” But if the disbelievers have a share ˹of victory˺, they say ˹to them˺, “Did we not have the advantage over you, yet we protected you from the believers?” Allah will judge between ˹all of˺ you on the Day of Judgment. And Allah will never grant the disbelievers a way over the believers",
+        "arberry": "Those who wait upon you and, if a victory comes to you from God, say, 'Were we not with you?' but if the unbelievers get a share, they say, 'Did we not gain the mastery over you, and did we not defend you from the believers?' God will judge between you on the Resurrection Day, and God will not grant the unbelievers any way over the believers."
+      }
+    },
+    {
+      "location": [
+        58,
+        19,
+        1
+      ],
+      "form_arabic": "ٱسْتَحْوَذَ",
+      "lemma": "{sotaHowa*a",
+      "lemma_arabic": "ٱسْتَحْوَذَ",
+      "pos": "V",
+      "ayah_id": "58:19",
+      "ayah_arabic": "ٱسۡتَحۡوَذَ عَلَيۡهِمُ ٱلشَّيۡطَٰنُ فَأَنسَىٰهُمۡ ذِكۡرَ ٱللَّهِۚ أُوْلَٰٓئِكَ حِزۡبُ ٱلشَّيۡطَٰنِۚ أَلَآ إِنَّ حِزۡبَ ٱلشَّيۡطَٰنِ هُمُ ٱلۡخَٰسِرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Mujaadila",
+      "literal_gloss": "Has overcome",
+      "translations": {
+        "saheeh": "Satan has overcome them and made them forget the remembrance of Allah. Those are the party of Satan. Unquestionably, the party of Satan - they will be the losers.",
+        "pickthall": "The devil hath engrossed them and so hath caused them to forget remembrance of Allah. They are the devil's party. Lo! is it not the devil's party who will be the losers?",
+        "khattab": "Satan has taken hold of them, causing them to forget the remembrance of Allah. They are the party of Satan. Surely Satan’s party is bound to lose",
+        "arberry": "Satan has gained the mastery over them, and caused them to forget God's Remembrance. Those are Satan's party; why, Satan's party, surely, they are the losers!"
+      }
+    }
+  ]
+}

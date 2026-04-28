@@ -1,0 +1,46 @@
+{
+  "_about": "Mapping from QAC English POS tag to its classical Arabic grammatical category. The 3-way classical division is ism (noun-like), fiʿl (verb), ḥarf (particle). The English labels are abbreviations of Arabic categories — the underlying analysis is genuine classical Arabic grammar (al-naḥw al-ʿarabī).",
+  "_source": "Quranic Arabic Corpus v0.4 documentation (corpus.quran.com/documentation/morphologicaltags.jsp), classical Arabic grammar (Sibawayh, Ibn Hisham, Ibn Malik tradition).",
+  "_categories": {
+    "ism": "اسم — noun-family. Includes everything that names: nouns, proper nouns, descriptive (adjectives), pronouns, demonstratives, relative pronouns, locative/time adverbs.",
+    "fiʿl": "فعل — verb. Past, present, imperative.",
+    "ḥarf": "حرف — particle. Connectives, prepositions, negations, interrogatives, etc. Has no independent meaning — gives meaning to nouns/verbs."
+  },
+  "tags": {
+    "N":     {"pos_arabic": "اسم",                  "transliteration": "ism",            "category": "ism",  "gloss": "noun"},
+    "PN":    {"pos_arabic": "اسم علم",              "transliteration": "ism ʿalam",      "category": "ism",  "gloss": "proper noun"},
+    "ADJ":   {"pos_arabic": "صفة",                  "transliteration": "ṣifa",           "category": "ism",  "gloss": "descriptive (adjective). In classical Arabic this is a sub-type of ism, not a separate category — QAC promotes it to a top-level tag for analytical convenience."},
+    "IMPN":  {"pos_arabic": "اسم فعل أمر",          "transliteration": "ism fiʿl amr",   "category": "ism",  "gloss": "quasi-verbal noun (imperative-noun) — a noun behaving like an imperative verb"},
+    "LOC":   {"pos_arabic": "ظرف مكان",             "transliteration": "ẓarf makān",     "category": "ism",  "gloss": "locative adverb (place)"},
+    "T":     {"pos_arabic": "ظرف زمان",             "transliteration": "ẓarf zamān",     "category": "ism",  "gloss": "time adverb"},
+    "PRON":  {"pos_arabic": "ضمير منفصل",           "transliteration": "ḍamīr munfaṣil", "category": "ism",  "gloss": "personal pronoun (free-standing)"},
+    "DEM":   {"pos_arabic": "اسم إشارة",            "transliteration": "ism ishāra",     "category": "ism",  "gloss": "demonstrative (this/that)"},
+    "REL":   {"pos_arabic": "اسم موصول",            "transliteration": "ism mawṣūl",     "category": "ism",  "gloss": "relative pronoun (who/which)"},
+
+    "V":     {"pos_arabic": "فعل",                  "transliteration": "fiʿl",           "category": "fiʿl", "gloss": "verb (past, present, or imperative)"},
+
+    "P":     {"pos_arabic": "حرف جر",               "transliteration": "ḥarf jarr",      "category": "ḥarf", "gloss": "preposition"},
+    "CONJ":  {"pos_arabic": "حرف عطف",              "transliteration": "ḥarf ʿaṭf",      "category": "ḥarf", "gloss": "coordinating conjunction (and, then, or)"},
+    "SUB":   {"pos_arabic": "حرف مصدري",            "transliteration": "ḥarf maṣdarī",   "category": "ḥarf", "gloss": "subordinating conjunction (that)"},
+    "ACC":   {"pos_arabic": "حرف نصب",              "transliteration": "ḥarf naṣb",      "category": "ḥarf", "gloss": "accusative particle (inna, anna — emphatic 'indeed')"},
+    "NEG":   {"pos_arabic": "حرف نفي",              "transliteration": "ḥarf nafy",      "category": "ḥarf", "gloss": "negation particle (lā, mā, lan, lam)"},
+    "PRO":   {"pos_arabic": "حرف نهي",              "transliteration": "ḥarf nahy",      "category": "ḥarf", "gloss": "prohibition particle (lā of negation imperative — 'do not')"},
+    "FUT":   {"pos_arabic": "حرف استقبال",          "transliteration": "ḥarf istiqbāl",  "category": "ḥarf", "gloss": "future particle (sa- prefix, sawfa)"},
+    "COND":  {"pos_arabic": "حرف شرط",              "transliteration": "ḥarf sharṭ",     "category": "ḥarf", "gloss": "conditional particle (in 'if', law 'if [counterfactual]')"},
+    "EXP":   {"pos_arabic": "أداة استثناء",         "transliteration": "adāt istithnāʾ", "category": "ḥarf", "gloss": "exceptive particle (illā 'except')"},
+    "INTG":  {"pos_arabic": "حرف استفهام",          "transliteration": "ḥarf istifhām",  "category": "ḥarf", "gloss": "interrogative particle (hal, a- 'is it…?')"},
+    "INL":   {"pos_arabic": "فواتح السور",           "transliteration": "fawātiḥ al-suwar","category": "ḥarf", "gloss": "Quranic initials — the disconnected letters at openings of certain surahs (alif lām mīm, ḥā mīm, etc.)"},
+    "INC":   {"pos_arabic": "حرف ابتداء",           "transliteration": "ḥarf ibtidāʾ",   "category": "ḥarf", "gloss": "inceptive particle (la- of inceptio, 'verily/indeed')"},
+    "RES":   {"pos_arabic": "حرف حصر",              "transliteration": "ḥarf ḥaṣr",      "category": "ḥarf", "gloss": "restriction particle (innamā 'only/merely')"},
+    "CERT":  {"pos_arabic": "حرف تحقيق",            "transliteration": "ḥarf taḥqīq",    "category": "ḥarf", "gloss": "particle of certainty (qad — emphatic with past, 'has indeed')"},
+    "AMD":   {"pos_arabic": "حرف استدراك",          "transliteration": "ḥarf istidrāk",  "category": "ḥarf", "gloss": "amendment particle (lākin 'but/however')"},
+    "ANS":   {"pos_arabic": "حرف جواب",             "transliteration": "ḥarf jawāb",     "category": "ḥarf", "gloss": "answer particle (naʿam 'yes', balā 'yes [contradicting negation]')"},
+    "AVR":   {"pos_arabic": "حرف ردع",              "transliteration": "ḥarf radʿ",      "category": "ḥarf", "gloss": "aversion/deterrence particle (kallā 'nay, by no means')"},
+    "EXH":   {"pos_arabic": "حرف تحضيض",            "transliteration": "ḥarf taḥḍīḍ",    "category": "ḥarf", "gloss": "exhortation particle (lawlā/lawmā 'why don't…')"},
+    "EXL":   {"pos_arabic": "حرف تفسير",            "transliteration": "ḥarf tafsīr",    "category": "ḥarf", "gloss": "explanation particle (ay, an — 'that is to say')"},
+    "RET":   {"pos_arabic": "حرف إضراب",            "transliteration": "ḥarf iḍrāb",     "category": "ḥarf", "gloss": "retraction particle (bal 'rather/but')"},
+    "SUR":   {"pos_arabic": "حرف فجاءة",            "transliteration": "ḥarf fujāʾa",    "category": "ḥarf", "gloss": "surprise particle (idhā 'when/lo!')"},
+    "SUP":   {"pos_arabic": "حرف زائد",             "transliteration": "ḥarf zāʾid",     "category": "ḥarf", "gloss": "supplemental/redundant particle"},
+    "INT":   {"pos_arabic": "حرف نصب وتوكيد",       "transliteration": "ḥarf naṣb wa-tawkīd", "category": "ḥarf", "gloss": "particle of interpretation/emphasis (anna)"}
+  }
+}

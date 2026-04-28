@@ -1,0 +1,846 @@
+{
+  "root": "srH",
+  "root_arabic": "سرح",
+  "stats": {
+    "occurrences": 7,
+    "lemmas": 4,
+    "ayahs": 5,
+    "surahs": 3,
+    "pos_distribution": {
+      "V": 4,
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "sar~iHu",
+      "lemma_arabic": "سَرِّحُ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        2,
+        231,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            231,
+            9
+          ],
+          "form_arabic": "سَرِّحُوهُنَّ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            33,
+            28,
+            13
+          ],
+          "form_arabic": "وَأُسَرِّحْكُنَّ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            33,
+            49,
+            20
+          ],
+          "form_arabic": "وَسَرِّحُوهُنَّ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "saraAH",
+      "lemma_arabic": "سَرَاح",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        33,
+        28,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            33,
+            28,
+            14
+          ],
+          "form_arabic": "سَرَاحًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            33,
+            49,
+            21
+          ],
+          "form_arabic": "سَرَاحًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "tasoriyH",
+      "lemma_arabic": "تَسْرِيح",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        2,
+        229,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            229,
+            6
+          ],
+          "form_arabic": "تَسْرِيحٌ[",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "tasoraHu",
+      "lemma_arabic": "تَسْرَحُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        16,
+        6,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            16,
+            6,
+            7
+          ],
+          "form_arabic": "تَسْرَحُونَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Tlq",
+      "root_arabic": "طلق",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "jml",
+      "root_arabic": "جمل",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        16,
+        6
+      ]
+    },
+    {
+      "root": "msk",
+      "root_arabic": "مسك",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Edw",
+      "root_arabic": "عدو",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        33,
+        28
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "fdy",
+      "root_arabic": "فدي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "mrr",
+      "root_arabic": "مرر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Hdd",
+      "root_arabic": "حدد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "rwH",
+      "root_arabic": "روح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        16,
+        6
+      ]
+    },
+    {
+      "root": "Hyn",
+      "root_arabic": "حين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        16,
+        6
+      ]
+    },
+    {
+      "root": "Elw",
+      "root_arabic": "علو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        28
+      ]
+    },
+    {
+      "root": "zyn",
+      "root_arabic": "زين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        28
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        28
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        28
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        28
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        28
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        28
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        28
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        28
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "Ajl",
+      "root_arabic": "اجل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "hzA",
+      "root_arabic": "هزا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "wEZ",
+      "root_arabic": "وعظ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "fEl",
+      "root_arabic": "فعل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "Drr",
+      "root_arabic": "ضرر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        231
+      ]
+    },
+    {
+      "root": "nkH",
+      "root_arabic": "نكح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        49
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        49
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        49
+      ]
+    },
+    {
+      "root": "Edd",
+      "root_arabic": "عدد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        49
+      ]
+    },
+    {
+      "root": "mss",
+      "root_arabic": "مسس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        33,
+        49
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 33,
+        "name_english": "Al-Ahzaab",
+        "name_arabic": "سُورَةُ الأَحۡزَابِ",
+        "revelation": "Medinan",
+        "occurrences": 4
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 16,
+        "name_english": "An-Nahl",
+        "name_arabic": "سُورَةُ النَّحۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 6,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        229,
+        6
+      ],
+      "form_arabic": "تَسْرِيحٌ[",
+      "lemma": "tasoriyH",
+      "lemma_arabic": "تَسْرِيح",
+      "pos": "N",
+      "ayah_id": "2:229",
+      "ayah_arabic": "ٱلطَّلَٰقُ مَرَّتَانِۖ فَإِمۡسَاكُۢ بِمَعۡرُوفٍ أَوۡ تَسۡرِيحُۢ بِإِحۡسَٰنࣲۗ وَلَا يَحِلُّ لَكُمۡ أَن تَأۡخُذُواْ مِمَّآ ءَاتَيۡتُمُوهُنَّ شَيۡـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِۖ فَإِنۡ خِفۡتُمۡ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيۡهِمَا فِيمَا ٱفۡتَدَتۡ بِهِۦۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَعۡتَدُوهَاۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "to release (her)",
+      "translations": {
+        "saheeh": "Divorce is twice. Then, either keep [her] in an acceptable manner or release [her] with good treatment. And it is not lawful for you to take anything of what you have given them unless both fear that they will not be able to keep [within] the limits of Allah. But if you fear that they will not keep [within] the limits of Allah, then there is no blame upon either of them concerning that by which she ransoms herself. These are the limits of Allah, so do not transgress them. And whoever transgresses the limits of Allah - it is those who are the wrongdoers.",
+        "pickthall": "Divorce must be pronounced twice and then (a woman) must be retained in honour or released in kindness. And it is not lawful for you that ye take from women aught of that which ye have given them; except (in the case) when both fear that they may not be able to keep within the limits (imposed by) Allah. And if ye fear that they may not be able to keep the limits of Allah, in that case it is no sin for either of them if the woman ransom herself. These are the limits (imposed by) Allah. Transgress them not. For whoso transgresseth Allah's limits: such are wrong-doers.",
+        "khattab": "Divorce may be retracted twice, then the husband must retain ˹his wife˺ with honour or separate ˹from her˺ with grace. It is not lawful for husbands to take back anything of the dowry given to their wives, unless the couple fears not being able to keep within the limits of Allah. So if you fear they will not be able to keep within the limits of Allah, there is no blame if the wife compensates the husband to obtain divorce. These are the limits set by Allah, so do not transgress them. And whoever transgresses the limits of Allah, they are the ˹true˺ wrongdoers",
+        "arberry": "Divorce is twice; then honourable retention or setting free kindly. It is not lawful for you to take of what you have given them unless the couple fear they may not maintain God's bounds; if you fear they may not maintain God's bounds, it is no fault in them for her to redeem herself. Those are God's bounds; do not transgress them. Whosoever transgresses the bounds of God -- those are the evildoers."
+      }
+    },
+    {
+      "location": [
+        2,
+        231,
+        9
+      ],
+      "form_arabic": "سَرِّحُوهُنَّ",
+      "lemma": "sar~iHu",
+      "lemma_arabic": "سَرِّحُ",
+      "pos": "V",
+      "ayah_id": "2:231",
+      "ayah_arabic": "وَإِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَبَلَغۡنَ أَجَلَهُنَّ فَأَمۡسِكُوهُنَّ بِمَعۡرُوفٍ أَوۡ سَرِّحُوهُنَّ بِمَعۡرُوفࣲۚ وَلَا تُمۡسِكُوهُنَّ ضِرَارࣰ ا لِّتَعۡتَدُواْۚ وَمَن يَفۡعَلۡ ذَٰلِكَ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ وَلَا تَتَّخِذُوٓاْ ءَايَٰتِ ٱللَّهِ هُزُوࣰ اۚ وَٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡ وَمَآ أَنزَلَ عَلَيۡكُم مِّنَ ٱلۡكِتَٰبِ وَٱلۡحِكۡمَةِ يَعِظُكُم بِهِۦۚ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "release them",
+      "translations": {
+        "saheeh": "And when you divorce women and they have [nearly] fulfilled their term, either retain them according to acceptable terms or release them according to acceptable terms, and do not keep them, intending harm, to transgress [against them]. And whoever does that has certainly wronged himself. And do not take the verses of Allah in jest. And remember the favor of Allah upon you and what has been revealed to you of the Book and wisdom by which He instructs you. And fear Allah and know that Allah is Knowing of all things.",
+        "pickthall": "When ye have divorced women, and they have reached their term, then retain them in kindness or release them in kindness. Retain them not to their hurt so that ye transgress (the limits). He who doeth that hath wronged his soul. Make not the revelations of Allah a laughing-stock (by your behaviour), but remember Allah's grace upon you and that which He hath revealed unto you of the Scripture and of wisdom, whereby He doth exhort you. Observe your duty to Allah and know that Allah is Aware of all things.",
+        "khattab": "When you divorce women and they have ˹almost˺ reached the end of their waiting period, either retain them honourably or let them go honourably. But do not retain them ˹only˺ to harm them ˹or˺ to take advantage ˹of them˺. Whoever does that surely wrongs his own soul. Do not take Allah’s revelations lightly. Remember Allah’s favours upon you as well as the Book and wisdom He has sent down for your guidance. Be mindful of Allah, and know that Allah has ˹perfect˺ knowledge of all things",
+        "arberry": "When you divorce women, and they have reached their term, then retain them honourably or set them free honourably; do not retain them by force, to transgress; whoever does that has wronged himself. Take not God's signs in mockery, and remember God's blessing upon you, and the Book and the Wisdom He has sent down on you, to admonish you. And fear God, and know that God has knowledge of everything."
+      }
+    },
+    {
+      "location": [
+        16,
+        6,
+        7
+      ],
+      "form_arabic": "تَسْرَحُونَ",
+      "lemma": "tasoraHu",
+      "lemma_arabic": "تَسْرَحُ",
+      "pos": "V",
+      "ayah_id": "16:6",
+      "ayah_arabic": "وَلَكُمۡ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسۡرَحُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Nahl",
+      "literal_gloss": "you take them out",
+      "translations": {
+        "saheeh": "And for you in them is [the enjoyment of] beauty when you bring them in [for the evening] and when you send them out [to pasture].",
+        "pickthall": "And wherein is beauty for you, when ye bring them home, and when ye take them out to pasture.",
+        "khattab": "They are also pleasing to you when you bring them home and when you take them out to graze",
+        "arberry": "and there is beauty in them for you, when you bring them home to rest and when you drive them forth abroad to pasture;"
+      }
+    },
+    {
+      "location": [
+        33,
+        28,
+        13
+      ],
+      "form_arabic": "وَأُسَرِّحْكُنَّ",
+      "lemma": "sar~iHu",
+      "lemma_arabic": "سَرِّحُ",
+      "pos": "V",
+      "ayah_id": "33:28",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّأَزۡوَٰجِكَ إِن كُنتُنَّ تُرِدۡنَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا وَزِينَتَهَا فَتَعَالَيۡنَ أُمَتِّعۡكُنَّ وَأُسَرِّحۡكُنَّ سَرَاحࣰ ا جَمِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "and release you",
+      "translations": {
+        "saheeh": "O Prophet, say to your wives, \"If you should desire the worldly life and its adornment, then come, I will provide for you and give you a gracious release.",
+        "pickthall": "O Prophet! Say unto thy wives: If ye desire the world's life and its adornment, come! I will content you and will release you with a fair release.",
+        "khattab": "O Prophet! Say to your wives, “If you desire the life of this world and its luxury, then come, I will give you a ˹suitable˺ compensation ˹for divorce˺ and let you go graciously",
+        "arberry": "O Prophet, say to thy wives: 'If you desire the present life and its adornment, come now, I will make you provision, and set you free with kindliness."
+      }
+    },
+    {
+      "location": [
+        33,
+        28,
+        14
+      ],
+      "form_arabic": "سَرَاحًا",
+      "lemma": "saraAH",
+      "lemma_arabic": "سَرَاح",
+      "pos": "N",
+      "ayah_id": "33:28",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّأَزۡوَٰجِكَ إِن كُنتُنَّ تُرِدۡنَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا وَزِينَتَهَا فَتَعَالَيۡنَ أُمَتِّعۡكُنَّ وَأُسَرِّحۡكُنَّ سَرَاحࣰ ا جَمِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "(with) a release",
+      "translations": {
+        "saheeh": "O Prophet, say to your wives, \"If you should desire the worldly life and its adornment, then come, I will provide for you and give you a gracious release.",
+        "pickthall": "O Prophet! Say unto thy wives: If ye desire the world's life and its adornment, come! I will content you and will release you with a fair release.",
+        "khattab": "O Prophet! Say to your wives, “If you desire the life of this world and its luxury, then come, I will give you a ˹suitable˺ compensation ˹for divorce˺ and let you go graciously",
+        "arberry": "O Prophet, say to thy wives: 'If you desire the present life and its adornment, come now, I will make you provision, and set you free with kindliness."
+      }
+    },
+    {
+      "location": [
+        33,
+        49,
+        20
+      ],
+      "form_arabic": "وَسَرِّحُوهُنَّ",
+      "lemma": "sar~iHu",
+      "lemma_arabic": "سَرِّحُ",
+      "pos": "V",
+      "ayah_id": "33:49",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَكَحۡتُمُ ٱلۡمُؤۡمِنَٰتِ ثُمَّ طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمۡ عَلَيۡهِنَّ مِنۡ عِدَّةࣲ تَعۡتَدُّونَهَاۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحࣰ ا جَمِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "and release them",
+      "translations": {
+        "saheeh": "O You who have believed, when you marry believing women and then divorce them before you have touched them, then there is not for you any waiting period to count concerning them. So provide for them and give them a gracious release.",
+        "pickthall": "O ye who believe! If ye wed believing women and divorce them before ye have touched them, then there is no period that ye should reckon. But content them and release them handsomely.",
+        "khattab": "O believers! If you marry believing women and then divorce them before you touch them, they will have no waiting period for you to count, so give them a ˹suitable˺ compensation, and let them go graciously",
+        "arberry": "O believers, when you marry believing women and then divorce them before you touch them, you have no period to reckon against them; so make provision for them, and set them free with kindliness."
+      }
+    },
+    {
+      "location": [
+        33,
+        49,
+        21
+      ],
+      "form_arabic": "سَرَاحًا",
+      "lemma": "saraAH",
+      "lemma_arabic": "سَرَاح",
+      "pos": "N",
+      "ayah_id": "33:49",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَكَحۡتُمُ ٱلۡمُؤۡمِنَٰتِ ثُمَّ طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمۡ عَلَيۡهِنَّ مِنۡ عِدَّةࣲ تَعۡتَدُّونَهَاۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحࣰ ا جَمِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "(with) a release",
+      "translations": {
+        "saheeh": "O You who have believed, when you marry believing women and then divorce them before you have touched them, then there is not for you any waiting period to count concerning them. So provide for them and give them a gracious release.",
+        "pickthall": "O ye who believe! If ye wed believing women and divorce them before ye have touched them, then there is no period that ye should reckon. But content them and release them handsomely.",
+        "khattab": "O believers! If you marry believing women and then divorce them before you touch them, they will have no waiting period for you to count, so give them a ˹suitable˺ compensation, and let them go graciously",
+        "arberry": "O believers, when you marry believing women and then divorce them before you touch them, you have no period to reckon against them; so make provision for them, and set them free with kindliness."
+      }
+    }
+  ]
+}

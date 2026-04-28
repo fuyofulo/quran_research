@@ -1,0 +1,670 @@
+{
+  "root": "Srx",
+  "root_arabic": "صرخ",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 4,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "N": 3,
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "muSorix",
+      "lemma_arabic": "مُصْرِخ",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        14,
+        22,
+        30
+      ],
+      "occurrences": [
+        {
+          "location": [
+            14,
+            22,
+            30
+          ],
+          "form_arabic": "بِمُصْرِخِكُمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            14,
+            22,
+            33
+          ],
+          "form_arabic": "بِمُصْرِخِىَّ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "yasotaSorixu",
+      "lemma_arabic": "يَسْتَصْرِخُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        28,
+        18,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            28,
+            18,
+            10
+          ],
+          "form_arabic": "يَسْتَصْرِخُهُ,",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "yaSoTarixu",
+      "lemma_arabic": "يَصْطَرِخُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        35,
+        37,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            35,
+            37,
+            2
+          ],
+          "form_arabic": "يَصْطَرِخُونَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "Sariyx",
+      "lemma_arabic": "صَرِيخ",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        36,
+        43,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            36,
+            43,
+            5
+          ],
+          "form_arabic": "صَرِيخَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        28,
+        18
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        35,
+        37
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        35,
+        37
+      ]
+    },
+    {
+      "root": "n*r",
+      "root_arabic": "نذر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        35,
+        37
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        35,
+        37
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        35,
+        37
+      ]
+    },
+    {
+      "root": "Emr",
+      "root_arabic": "عمر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        35,
+        37
+      ]
+    },
+    {
+      "root": "*wq",
+      "root_arabic": "ذوق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        35,
+        37
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        35,
+        37
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        35,
+        37
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        35,
+        37
+      ]
+    },
+    {
+      "root": "gwy",
+      "root_arabic": "غوي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        28,
+        18
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        28,
+        18
+      ]
+    },
+    {
+      "root": "rqb",
+      "root_arabic": "رقب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        28,
+        18
+      ]
+    },
+    {
+      "root": "mdn",
+      "root_arabic": "مدن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        28,
+        18
+      ]
+    },
+    {
+      "root": "SbH",
+      "root_arabic": "صبح",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        28,
+        18
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        28,
+        18
+      ]
+    },
+    {
+      "root": "nq*",
+      "root_arabic": "نقذ",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        36,
+        43
+      ]
+    },
+    {
+      "root": "grq",
+      "root_arabic": "غرق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        36,
+        43
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        36,
+        43
+      ]
+    },
+    {
+      "root": "slT",
+      "root_arabic": "سلط",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "lwm",
+      "root_arabic": "لوم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "jwb",
+      "root_arabic": "جوب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "$Tn",
+      "root_arabic": "شطن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "Alm",
+      "root_arabic": "الم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "qDy",
+      "root_arabic": "قضي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        14,
+        22
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 14,
+        "name_english": "Ibrahim",
+        "name_arabic": "سُورَةُ إِبۡرَاهِيمَ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 28,
+        "name_english": "Al-Qasas",
+        "name_arabic": "سُورَةُ القَصَصِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 35,
+        "name_english": "Faatir",
+        "name_arabic": "سُورَةُ فَاطِرٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 5
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        14,
+        22,
+        30
+      ],
+      "form_arabic": "بِمُصْرِخِكُمْ",
+      "lemma": "muSorix",
+      "lemma_arabic": "مُصْرِخ",
+      "pos": "N",
+      "ayah_id": "14:22",
+      "ayah_arabic": "وَقَالَ ٱلشَّيۡطَٰنُ لَمَّا قُضِيَ ٱلۡأَمۡرُ إِنَّ ٱللَّهَ وَعَدَكُمۡ وَعۡدَ ٱلۡحَقِّ وَوَعَدتُّكُمۡ فَأَخۡلَفۡتُكُمۡۖ وَمَا كَانَ لِيَ عَلَيۡكُم مِّن سُلۡطَٰنٍ إِلَّآ أَن دَعَوۡتُكُمۡ فَٱسۡتَجَبۡتُمۡ لِيۖ فَلَا تَلُومُونِي وَلُومُوٓاْ أَنفُسَكُمۖ مَّآ أَنَا۠ بِمُصۡرِخِكُمۡ وَمَآ أَنتُم بِمُصۡرِخِيَّ إِنِّي كَفَرۡتُ بِمَآ أَشۡرَكۡتُمُونِ مِن قَبۡلُۗ إِنَّ ٱلظَّٰلِمِينَ لَهُمۡ عَذَابٌ أَلِيمࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ibrahim",
+      "literal_gloss": "(be) your helper",
+      "translations": {
+        "saheeh": "And Satan will say when the matter has been concluded, \"Indeed, Allah had promised you the promise of truth. And I promised you, but I betrayed you. But I had no authority over you except that I invited you, and you responded to me. So do not blame me; but blame yourselves. I cannot be called to your aid, nor can you be called to my aid. Indeed, I deny your association of me [with Allah] before. Indeed, for the wrongdoers is a painful punishment.\"",
+        "pickthall": "And Satan saith, when the matter hath been decided: Lo! Allah promised you a promise of truth; and I promised you, then failed you. And I had no power over you save that I called unto you and ye obeyed me. So blame not, but blame yourselves. I cannot help you, nor can ye help me, Lo! I disbelieved in that which ye before ascribed to me. Lo! for wrong-doers is a painful doom.",
+        "khattab": "And Satan will say ˹to his followers˺ after the judgment has been passed, “Indeed, Allah has made you a true promise. I too made you a promise, but I failed you. I did not have any authority over you. I only called you, and you responded to me. So do not blame me; blame yourselves. I cannot save you, nor can you save me. Indeed, I denounce your previous association of me with Allah ˹in loyalty˺. Surely the wrongdoers will suffer a painful punishment.”",
+        "arberry": "And Satan says, when the issue is decided, 'God surely promised you a true promise; and I promised you, then I failed you, for I had no authority over you, but that I called you, and you answered me. So do not blame me, but blame yourselves; I cannot aid you, neither can you aid me. I disbelieved in your associating me with God aforetime.' As for the evildoers, for them awaits a painful chastisement;"
+      }
+    },
+    {
+      "location": [
+        14,
+        22,
+        33
+      ],
+      "form_arabic": "بِمُصْرِخِىَّ",
+      "lemma": "muSorix",
+      "lemma_arabic": "مُصْرِخ",
+      "pos": "N",
+      "ayah_id": "14:22",
+      "ayah_arabic": "وَقَالَ ٱلشَّيۡطَٰنُ لَمَّا قُضِيَ ٱلۡأَمۡرُ إِنَّ ٱللَّهَ وَعَدَكُمۡ وَعۡدَ ٱلۡحَقِّ وَوَعَدتُّكُمۡ فَأَخۡلَفۡتُكُمۡۖ وَمَا كَانَ لِيَ عَلَيۡكُم مِّن سُلۡطَٰنٍ إِلَّآ أَن دَعَوۡتُكُمۡ فَٱسۡتَجَبۡتُمۡ لِيۖ فَلَا تَلُومُونِي وَلُومُوٓاْ أَنفُسَكُمۖ مَّآ أَنَا۠ بِمُصۡرِخِكُمۡ وَمَآ أَنتُم بِمُصۡرِخِيَّ إِنِّي كَفَرۡتُ بِمَآ أَشۡرَكۡتُمُونِ مِن قَبۡلُۗ إِنَّ ٱلظَّٰلِمِينَ لَهُمۡ عَذَابٌ أَلِيمࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ibrahim",
+      "literal_gloss": "(be) my helper",
+      "translations": {
+        "saheeh": "And Satan will say when the matter has been concluded, \"Indeed, Allah had promised you the promise of truth. And I promised you, but I betrayed you. But I had no authority over you except that I invited you, and you responded to me. So do not blame me; but blame yourselves. I cannot be called to your aid, nor can you be called to my aid. Indeed, I deny your association of me [with Allah] before. Indeed, for the wrongdoers is a painful punishment.\"",
+        "pickthall": "And Satan saith, when the matter hath been decided: Lo! Allah promised you a promise of truth; and I promised you, then failed you. And I had no power over you save that I called unto you and ye obeyed me. So blame not, but blame yourselves. I cannot help you, nor can ye help me, Lo! I disbelieved in that which ye before ascribed to me. Lo! for wrong-doers is a painful doom.",
+        "khattab": "And Satan will say ˹to his followers˺ after the judgment has been passed, “Indeed, Allah has made you a true promise. I too made you a promise, but I failed you. I did not have any authority over you. I only called you, and you responded to me. So do not blame me; blame yourselves. I cannot save you, nor can you save me. Indeed, I denounce your previous association of me with Allah ˹in loyalty˺. Surely the wrongdoers will suffer a painful punishment.”",
+        "arberry": "And Satan says, when the issue is decided, 'God surely promised you a true promise; and I promised you, then I failed you, for I had no authority over you, but that I called you, and you answered me. So do not blame me, but blame yourselves; I cannot aid you, neither can you aid me. I disbelieved in your associating me with God aforetime.' As for the evildoers, for them awaits a painful chastisement;"
+      }
+    },
+    {
+      "location": [
+        28,
+        18,
+        10
+      ],
+      "form_arabic": "يَسْتَصْرِخُهُ,",
+      "lemma": "yasotaSorixu",
+      "lemma_arabic": "يَسْتَصْرِخُ",
+      "pos": "V",
+      "ayah_id": "28:18",
+      "ayah_arabic": "فَأَصۡبَحَ فِي ٱلۡمَدِينَةِ خَآئِفࣰ ا يَتَرَقَّبُ فَإِذَا ٱلَّذِي ٱسۡتَنصَرَهُۥ بِٱلۡأَمۡسِ يَسۡتَصۡرِخُهُۥۚ قَالَ لَهُۥ مُوسَىٰٓ إِنَّكَ لَغَوِيࣱّ مُّبِينࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qasas",
+      "literal_gloss": "cried out to him for help",
+      "translations": {
+        "saheeh": "And he became inside the city fearful and anticipating [exposure], when suddenly the one who sought his help the previous day cried out to him [once again]. Moses said to him, \"Indeed, you are an evident, [persistent] deviator.\"",
+        "pickthall": "And morning found him in the city, fearing, vigilant, when behold! he who had appealed to him the day before cried out to him for help. Moses said unto him: Lo! thou art indeed a mere hothead.",
+        "khattab": "And so Moses became fearful, watching out in the city, when suddenly the one who sought his help the day before cried out to him again for help. Moses rebuked him, “Indeed, you are clearly a trouble-maker.”",
+        "arberry": "Now in the morning he was in the city, fearful and vigilant; and behold, the man who had sought his, succour on the day before cried out to him again. Moses said to him, 'Clearly thou art, a quarreller.'"
+      }
+    },
+    {
+      "location": [
+        35,
+        37,
+        2
+      ],
+      "form_arabic": "يَصْطَرِخُونَ",
+      "lemma": "yaSoTarixu",
+      "lemma_arabic": "يَصْطَرِخُ",
+      "pos": "V",
+      "ayah_id": "35:37",
+      "ayah_arabic": "وَهُمۡ يَصۡطَرِخُونَ فِيهَا رَبَّنَآ أَخۡرِجۡنَا نَعۡمَلۡ صَٰلِحًا غَيۡرَ ٱلَّذِي كُنَّا نَعۡمَلُۚ أَوَلَمۡ نُعَمِّرۡكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُۖ فَذُوقُواْ فَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Faatir",
+      "literal_gloss": "will cry",
+      "translations": {
+        "saheeh": "And they will cry out therein, \"Our Lord, remove us; we will do righteousness - other than what we were doing!\" But did We not grant you life enough for whoever would remember therein to remember, and the warner had come to you? So taste [the punishment], for there is not for the wrongdoers any helper.",
+        "pickthall": "And they cry for help there, (saying): Our Lord! Release us; we will do right, not (the wrong) that we used to do. Did not We grant you a life long enough for him who reflected to reflect therein? And the warner came unto you. Now taste (the flavour of your deeds), for evil-doers have no helper.",
+        "khattab": "There they will be ˹fervently˺ screaming, “Our Lord! Take us out ˹and send us back˺. We will do good, unlike what we used to do.” ˹They will be told,˺ “Did We not give you lives long enough so that whoever wanted to be mindful could have done so? And the warner came to you. So taste ˹the punishment˺, for the wrongdoers have no helper.”",
+        "arberry": "Therein they shall shout, 'Our Lord, bring us forth, and we will do righteousness, other than what we have done.' 'What, did We not give you long life, enough to remember in for him who would remember? To you the warner came; taste you now! The evildoers shall have no helper.'"
+      }
+    },
+    {
+      "location": [
+        36,
+        43,
+        5
+      ],
+      "form_arabic": "صَرِيخَ",
+      "lemma": "Sariyx",
+      "lemma_arabic": "صَرِيخ",
+      "pos": "N",
+      "ayah_id": "36:43",
+      "ayah_arabic": "وَإِن نَّشَأۡ نُغۡرِقۡهُمۡ فَلَا صَرِيخَ لَهُمۡ وَلَا هُمۡ يُنقَذُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "(would be) a responder to a cry",
+      "translations": {
+        "saheeh": "And if We should will, We could drown them; then no one responding to a cry would there be for them, nor would they be saved",
+        "pickthall": "And if We will, We drown them, and there is no help for them, neither can they be saved;",
+        "khattab": "If We willed, We could drown them: then no one would respond to their cries, nor would they be rescued—",
+        "arberry": "and if We will, We drown them, then none have they to cry to, neither are they delivered,"
+      }
+    }
+  ]
+}

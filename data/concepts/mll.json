@@ -1,0 +1,1813 @@
+{
+  "root": "mll",
+  "root_arabic": "ملل",
+  "stats": {
+    "occurrences": 18,
+    "lemmas": 2,
+    "ayahs": 16,
+    "surahs": 11,
+    "pos_distribution": {
+      "N": 15,
+      "V": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "count": 15,
+      "pos_distribution": {
+        "N": 15
+      },
+      "first_occurrence": [
+        2,
+        120,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            120,
+            9
+          ],
+          "form_arabic": "مِلَّتَهُمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            130,
+            4
+          ],
+          "form_arabic": "مِّلَّةِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            135,
+            9
+          ],
+          "form_arabic": "مِلَّةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            3,
+            95,
+            5
+          ],
+          "form_arabic": "مِلَّةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            125,
+            11
+          ],
+          "form_arabic": "مِلَّةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            6,
+            161,
+            10
+          ],
+          "form_arabic": "مِّلَّةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            88,
+            17
+          ],
+          "form_arabic": "مِلَّتِنَا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            89,
+            9
+          ],
+          "form_arabic": "مِلَّتِكُم",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            37,
+            18
+          ],
+          "form_arabic": "مِلَّةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            38,
+            2
+          ],
+          "form_arabic": "مِلَّةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            14,
+            13,
+            11
+          ],
+          "form_arabic": "مِلَّتِنَا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            16,
+            123,
+            6
+          ],
+          "form_arabic": "مِلَّةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            18,
+            20,
+            9
+          ],
+          "form_arabic": "مِلَّتِهِمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            22,
+            78,
+            15
+          ],
+          "form_arabic": "مِّلَّةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            38,
+            7,
+            5
+          ],
+          "form_arabic": "ٱلْمِلَّةِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "yumil~a",
+      "lemma_arabic": "يُمِلَّ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        2,
+        282,
+        24
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            282,
+            24
+          ],
+          "form_arabic": "وَلْيُمْلِلِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            2,
+            282,
+            47
+          ],
+          "form_arabic": "يُمِلَّ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            2,
+            282,
+            49
+          ],
+          "form_arabic": "فَلْيُمْلِلْ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 9,
+      "share": 0.5625,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 8,
+      "share": 0.5,
+      "first_together": [
+        2,
+        120
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 7,
+      "share": 0.4375,
+      "first_together": [
+        2,
+        120
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 6,
+      "share": 0.375,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 5,
+      "share": 0.3125,
+      "first_together": [
+        2,
+        120
+      ]
+    },
+    {
+      "root": "Hnf",
+      "root_arabic": "حنف",
+      "ayahs_together": 5,
+      "share": 0.3125,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 5,
+      "share": 0.3125,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 5,
+      "share": 0.3125,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "Ewd",
+      "root_arabic": "عود",
+      "ayahs_together": 4,
+      "share": 0.25,
+      "first_together": [
+        7,
+        88
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 4,
+      "share": 0.25,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 4,
+      "share": 0.25,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 4,
+      "share": 0.25,
+      "first_together": [
+        2,
+        120
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 3,
+      "share": 0.1875,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 3,
+      "share": 0.1875,
+      "first_together": [
+        2,
+        120
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 3,
+      "share": 0.1875,
+      "first_together": [
+        2,
+        120
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 3,
+      "share": 0.1875,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 3,
+      "share": 0.1875,
+      "first_together": [
+        2,
+        120
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 3,
+      "share": 0.1875,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        7,
+        88
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        4,
+        125
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        12,
+        38
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        14,
+        13
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        12,
+        37
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        12,
+        38
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        12,
+        37
+      ]
+    },
+    {
+      "root": "wHy",
+      "root_arabic": "وحي",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        14,
+        13
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        12,
+        37
+      ]
+    },
+    {
+      "root": "sfh",
+      "root_arabic": "سفه",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        120
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 2,
+      "share": 0.125,
+      "first_together": [
+        2,
+        120
+      ]
+    },
+    {
+      "root": "mlA",
+      "root_arabic": "ملا",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        88
+      ]
+    },
+    {
+      "root": "krh",
+      "root_arabic": "كره",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        88
+      ]
+    },
+    {
+      "root": "qry",
+      "root_arabic": "قري",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        88
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        38,
+        7
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        38,
+        7
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        4,
+        125
+      ]
+    },
+    {
+      "root": "xll",
+      "root_arabic": "خلل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        4,
+        125
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        4,
+        125
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        4,
+        125
+      ]
+    },
+    {
+      "root": "rjm",
+      "root_arabic": "رجم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        18,
+        20
+      ]
+    },
+    {
+      "root": "flH",
+      "root_arabic": "فلح",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        18,
+        20
+      ]
+    },
+    {
+      "root": "Abd",
+      "root_arabic": "ابد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        18,
+        20
+      ]
+    },
+    {
+      "root": "Zhr",
+      "root_arabic": "ظهر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        18,
+        20
+      ]
+    },
+    {
+      "root": "hwd",
+      "root_arabic": "هود",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        135
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        22,
+        78
+      ]
+    },
+    {
+      "root": "zkw",
+      "root_arabic": "زكو",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        22,
+        78
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        22,
+        78
+      ]
+    },
+    {
+      "root": "jhd",
+      "root_arabic": "جهد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        22,
+        78
+      ]
+    },
+    {
+      "root": "jby",
+      "root_arabic": "جبي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        22,
+        78
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        22,
+        78
+      ]
+    },
+    {
+      "root": "ESm",
+      "root_arabic": "عصم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        22,
+        78
+      ]
+    },
+    {
+      "root": "Hrj",
+      "root_arabic": "حرج",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        22,
+        78
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        12,
+        38
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        12,
+        38
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        12,
+        38
+      ]
+    },
+    {
+      "root": "hlk",
+      "root_arabic": "هلك",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        14,
+        13
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        14,
+        13
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        14,
+        13
+      ]
+    },
+    {
+      "root": "SrT",
+      "root_arabic": "صرط",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        6,
+        161
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "ryb",
+      "root_arabic": "ريب",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "Ajl",
+      "root_arabic": "اجل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "dwr",
+      "root_arabic": "دور",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "mrA",
+      "root_arabic": "مرا",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "fEl",
+      "root_arabic": "فعل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "fsq",
+      "root_arabic": "فسق",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "tjr",
+      "root_arabic": "تجر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "lys",
+      "root_arabic": "ليس",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "Sgr",
+      "root_arabic": "صغر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "HDr",
+      "root_arabic": "حضر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "Edl",
+      "root_arabic": "عدل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "DEf",
+      "root_arabic": "ضعف",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "bxs",
+      "root_arabic": "بخس",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "qsT",
+      "root_arabic": "قسط",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "Drr",
+      "root_arabic": "ضرر",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "byE",
+      "root_arabic": "بيع",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "Aby",
+      "root_arabic": "ابي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "sAm",
+      "root_arabic": "سام",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        282
+      ]
+    },
+    {
+      "root": "trk",
+      "root_arabic": "ترك",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        12,
+        37
+      ]
+    },
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        12,
+        37
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        12,
+        37
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        12,
+        37
+      ]
+    },
+    {
+      "root": "TEm",
+      "root_arabic": "طعم",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        12,
+        37
+      ]
+    },
+    {
+      "root": "wsE",
+      "root_arabic": "وسع",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        89
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        89
+      ]
+    },
+    {
+      "root": "wkl",
+      "root_arabic": "وكل",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        89
+      ]
+    },
+    {
+      "root": "fry",
+      "root_arabic": "فري",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        89
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        89
+      ]
+    },
+    {
+      "root": "ftH",
+      "root_arabic": "فتح",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        89
+      ]
+    },
+    {
+      "root": "njw",
+      "root_arabic": "نجو",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        7,
+        89
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "Sfw",
+      "root_arabic": "صفو",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "rgb",
+      "root_arabic": "رغب",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        130
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        3,
+        95
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        120
+      ]
+    },
+    {
+      "root": "hwy",
+      "root_arabic": "هوي",
+      "ayahs_together": 1,
+      "share": 0.0625,
+      "first_together": [
+        2,
+        120
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 6
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 14,
+        "name_english": "Ibrahim",
+        "name_arabic": "سُورَةُ إِبۡرَاهِيمَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 16,
+        "name_english": "An-Nahl",
+        "name_arabic": "سُورَةُ النَّحۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 38,
+        "name_english": "Saad",
+        "name_arabic": "سُورَةُ صٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 9,
+      "Meccan": 9
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        120,
+        9
+      ],
+      "form_arabic": "مِلَّتَهُمْ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "2:120",
+      "ayah_arabic": "وَلَن تَرۡضَىٰ عَنكَ ٱلۡيَهُودُ وَلَا ٱلنَّصَٰرَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمۡۗ قُلۡ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلۡهُدَىٰۗ وَلَئِنِ ٱتَّبَعۡتَ أَهۡوَآءَهُم بَعۡدَ ٱلَّذِي جَآءَكَ مِنَ ٱلۡعِلۡمِ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِيࣲّ وَلَا نَصِيرٍ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "their religion",
+      "translations": {
+        "saheeh": "And never will the Jews or the Christians approve of you until you follow their religion. Say, \"Indeed, the guidance of Allah is the [only] guidance.\" If you were to follow their desires after what has come to you of knowledge, you would have against Allah no protector or helper.",
+        "pickthall": "And the Jews will not be pleased with thee, nor will the Christians, till thou follow their creed. Say: Lo! the guidance of Allah (Himself) is Guidance. And if thou shouldst follow their desires after the knowledge which hath come unto thee, then wouldst thou have from Allah no protecting guardian nor helper.",
+        "khattab": "Never will the Jews or Christians be pleased with you, until you follow their faith. Say, “Allah’s guidance is the only ˹true˺ guidance.” And if you were to follow their desires after ˹all˺ the knowledge that has come to you, there would be none to protect or help you against Allah",
+        "arberry": "Never will the Jews be satisfied with thee, neither the Christians, not till thou followest their religion. Say: 'God's guidance is the true guidance.' If thou followest their caprices, after the knowledge that has come to thee, thou shalt have against God neither protector nor helper."
+      }
+    },
+    {
+      "location": [
+        2,
+        130,
+        4
+      ],
+      "form_arabic": "مِّلَّةِ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "2:130",
+      "ayah_arabic": "وَمَن يَرۡغَبُ عَن مِّلَّةِ إِبۡرَٰهِـۧمَ إِلَّا مَن سَفِهَ نَفۡسَهُۥۚ وَلَقَدِ ٱصۡطَفَيۡنَٰهُ فِي ٱلدُّنۡيَاۖ وَإِنَّهُۥ فِي ٱلۡأٓخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(the) religion",
+      "translations": {
+        "saheeh": "And who would be averse to the religion of Abraham except one who makes a fool of himself. And We had chosen him in this world, and indeed he, in the Hereafter, will be among the righteous.",
+        "pickthall": "And who forsaketh the religion of Abraham save him who befooleth himself? Verily We chose him in the world, and lo! in the Hereafter he is among the righteous.",
+        "khattab": "And who would reject the faith of Abraham except a fool! We certainly chose him in this life, and in the Hereafter he will surely be among the righteous",
+        "arberry": "Who therefore shrinks from the religion of Abraham, except he be foolish-minded? Indeed, We chose him in the present world, and in the world to come he shall be among the righteous."
+      }
+    },
+    {
+      "location": [
+        2,
+        135,
+        9
+      ],
+      "form_arabic": "مِلَّةَ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "2:135",
+      "ayah_arabic": "وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُواْۗ قُلۡ بَلۡ مِلَّةَ إِبۡرَٰهِـۧمَ حَنِيفࣰ اۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(the) religion",
+      "translations": {
+        "saheeh": "They say, \"Be Jews or Christians [so] you will be guided.\" Say, \"Rather, [we follow] the religion of Abraham, inclining toward truth, and he was not of the polytheists.\"",
+        "pickthall": "And they say: Be Jews or Christians, then ye will be rightly guided. Say (unto them, O Muhammad): Nay, but (we follow) the religion of Abraham, the upright, and he was not of the idolaters.",
+        "khattab": "The Jews and Christians each say, “Follow our faith to be ˹rightly˺ guided.” Say, ˹O Prophet,˺ “No! We follow the faith of Abraham, the upright—who was not a polytheist.”",
+        "arberry": "And they say, 'Be Jews or Christians and you shall be guided.' Say thou: 'Nay, rather the creed of Abraham, a man of pure faith; he was no idolater.'"
+      }
+    },
+    {
+      "location": [
+        2,
+        282,
+        24
+      ],
+      "form_arabic": "وَلْيُمْلِلِ",
+      "lemma": "yumil~a",
+      "lemma_arabic": "يُمِلَّ",
+      "pos": "V",
+      "ayah_id": "2:282",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا تَدَايَنتُم بِدَيۡنٍ إِلَىٰٓ أَجَلࣲ مُّسَمࣰّ ى فَٱكۡتُبُوهُۚ وَلۡيَكۡتُب بَّيۡنَكُمۡ كَاتِبُۢ بِٱلۡعَدۡلِۚ وَلَا يَأۡبَ كَاتِبٌ أَن يَكۡتُبَ كَمَا عَلَّمَهُ ٱللَّهُۚ فَلۡيَكۡتُبۡ وَلۡيُمۡلِلِ ٱلَّذِي عَلَيۡهِ ٱلۡحَقُّ وَلۡيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبۡخَسۡ مِنۡهُ شَيۡـࣰٔ اۚ فَإِن كَانَ ٱلَّذِي عَلَيۡهِ ٱلۡحَقُّ سَفِيهًا أَوۡ ضَعِيفًا أَوۡ لَا يَسۡتَطِيعُ أَن يُمِلَّ هُوَ فَلۡيُمۡلِلۡ وَلِيُّهُۥ بِٱلۡعَدۡلِۚ وَٱسۡتَشۡهِدُواْ شَهِيدَيۡنِ مِن رِّجَالِكُمۡۖ فَإِن لَّمۡ يَكُونَا رَجُلَيۡنِ فَرَجُلࣱ وَٱمۡرَأَتَانِ مِمَّن تَرۡضَوۡنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحۡدَىٰهُمَا فَتُذَكِّرَ إِحۡدَىٰهُمَا ٱلۡأُخۡرَىٰۚ وَلَا يَأۡبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُواْۚ وَلَا تَسۡـَٔمُوٓاْ أَن تَكۡتُبُوهُ صَغِيرًا أَوۡ كَبِيرًا إِلَىٰٓ أَجَلِهِۦۚ ذَٰلِكُمۡ أَقۡسَطُ عِندَ ٱللَّهِ وَأَقۡوَمُ لِلشَّهَٰدَةِ وَأَدۡنَىٰٓ أَلَّا تَرۡتَابُوٓاْ إِلَّآ أَن تَكُونَ تِجَٰرَةً حَاضِرَةࣰ تُدِيرُونَهَا بَيۡنَكُمۡ فَلَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَلَّا تَكۡتُبُوهَاۗ وَأَشۡهِدُوٓاْ إِذَا تَبَايَعۡتُمۡۚ وَلَا يُضَآرَّ كَاتِبࣱ وَلَا شَهِيدࣱۚ وَإِن تَفۡعَلُواْ فَإِنَّهُۥ فُسُوقُۢ بِكُمۡۗ وَٱتَّقُواْ ٱللَّهَۖ وَيُعَلِّمُكُمُ ٱللَّهُۗ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "and let dictate",
+      "translations": {
+        "saheeh": "O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allah has taught him. So let him write and let the one who has the obligation dictate. And let him fear Allah, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of the women errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allah and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allah. And Allah teaches you. And Allah is Knowing of all things.",
+        "pickthall": "O ye who believe! When ye contract a debt for a fixed term, record it in writing. Let a scribe record it in writing between you in (terms of) equity. No scribe should refuse to write as Allah hath taught him, so let him write, and let him who incurreth the debt dictate, and let him observe his duty to Allah his Lord, and diminish naught thereof. But if he who oweth the debt is of low understanding, or weak, or unable himself to dictate, then let the guardian of his interests dictate in (terms of) equity. And call to witness, from among your men, two witnesses. And if two men be not (at hand) then a man and two women, of such as ye approve as witnesses, so that if the one erreth (through forgetfulness) the other will remember. And the witnesses must not refuse when they are summoned. Be not averse to writing down (the contract) whether it be small or great, with (record of) the term thereof. That is more equitable in the sight of Allah and more sure for testimony, and the best way of avoiding doubt between you; save only in the case when it is actual merchandise which ye transfer among yourselves from hand to hand. In that case it is no sin for you if ye write it not. And have witnesses when ye sell one to another, and let no harm be done to scribe or witness. If ye do (harm to them) lo! it is a sin in you. Observe your duty to Allah. Allah is teaching you. And Allah is knower of all things.",
+        "khattab": "O believers! When you contract a loan for a fixed period of time, commit it to writing. Let the scribe maintain justice between the parties. The scribe should not refuse to write as Allah has taught them to write. They will write what the debtor dictates, bearing Allah in mind and not defrauding the debt. If the debtor is incompetent, weak, or unable to dictate, let their guardian dictate for them with justice. Call upon two of your men to witness. If two men cannot be found, then one man and two women of your choice will witness—so if one of the women forgets the other may remind her. The witnesses must not refuse when they are summoned. You must not be against writing ˹contracts˺ for a fixed period—whether the sum is small or great. This is more just ˹for you˺ in the sight of Allah, and more convenient to establish evidence and remove doubts. However, if you conduct an immediate transaction among yourselves, then there is no need for you to record it, but call upon witnesses when a deal is finalized. Let no harm come to the scribe or witnesses. If you do, then you have gravely exceeded ˹your limits˺. Be mindful of Allah, for Allah ˹is the One Who˺ teaches you. And Allah has ˹perfect˺ knowledge of all things",
+        "arberry": "O believers, when you contract a debt one upon another for a stated term, write it down, and let a writer write it down between you justly, and let not any writer refuse to write it down, as God has taught him; so let him write, and let the debtor dictate, and let him fear God his Lord and not diminish aught of it. And if the debtor be a fool, or weak, or unable to dictate himself, then let his guardian dictate justly. And call in to witness two witnesses, men; or if the two be not men, then one man and two women, such witnesses as you approve of, that if one of the two women errs the other will remind her; and let the witnesses not refuse, whenever they are summoned. And be not loth to write it down, whether it be small or great, with its term; that is more equitable in God's sight, more upright for testimony, and likelier that you will not be in doubt. Unless it be merchandise present that you give and take between you; then it shall be no fault in you if you do not write it down. And take witnesses when you are trafficking one with another. And let not either writer or witness be pressed; or if you do, that is ungodliness in you. And fear God; God teaches you, and God has knowledge of everything."
+      }
+    },
+    {
+      "location": [
+        2,
+        282,
+        47
+      ],
+      "form_arabic": "يُمِلَّ",
+      "lemma": "yumil~a",
+      "lemma_arabic": "يُمِلَّ",
+      "pos": "V",
+      "ayah_id": "2:282",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا تَدَايَنتُم بِدَيۡنٍ إِلَىٰٓ أَجَلࣲ مُّسَمࣰّ ى فَٱكۡتُبُوهُۚ وَلۡيَكۡتُب بَّيۡنَكُمۡ كَاتِبُۢ بِٱلۡعَدۡلِۚ وَلَا يَأۡبَ كَاتِبٌ أَن يَكۡتُبَ كَمَا عَلَّمَهُ ٱللَّهُۚ فَلۡيَكۡتُبۡ وَلۡيُمۡلِلِ ٱلَّذِي عَلَيۡهِ ٱلۡحَقُّ وَلۡيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبۡخَسۡ مِنۡهُ شَيۡـࣰٔ اۚ فَإِن كَانَ ٱلَّذِي عَلَيۡهِ ٱلۡحَقُّ سَفِيهًا أَوۡ ضَعِيفًا أَوۡ لَا يَسۡتَطِيعُ أَن يُمِلَّ هُوَ فَلۡيُمۡلِلۡ وَلِيُّهُۥ بِٱلۡعَدۡلِۚ وَٱسۡتَشۡهِدُواْ شَهِيدَيۡنِ مِن رِّجَالِكُمۡۖ فَإِن لَّمۡ يَكُونَا رَجُلَيۡنِ فَرَجُلࣱ وَٱمۡرَأَتَانِ مِمَّن تَرۡضَوۡنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحۡدَىٰهُمَا فَتُذَكِّرَ إِحۡدَىٰهُمَا ٱلۡأُخۡرَىٰۚ وَلَا يَأۡبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُواْۚ وَلَا تَسۡـَٔمُوٓاْ أَن تَكۡتُبُوهُ صَغِيرًا أَوۡ كَبِيرًا إِلَىٰٓ أَجَلِهِۦۚ ذَٰلِكُمۡ أَقۡسَطُ عِندَ ٱللَّهِ وَأَقۡوَمُ لِلشَّهَٰدَةِ وَأَدۡنَىٰٓ أَلَّا تَرۡتَابُوٓاْ إِلَّآ أَن تَكُونَ تِجَٰرَةً حَاضِرَةࣰ تُدِيرُونَهَا بَيۡنَكُمۡ فَلَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَلَّا تَكۡتُبُوهَاۗ وَأَشۡهِدُوٓاْ إِذَا تَبَايَعۡتُمۡۚ وَلَا يُضَآرَّ كَاتِبࣱ وَلَا شَهِيدࣱۚ وَإِن تَفۡعَلُواْ فَإِنَّهُۥ فُسُوقُۢ بِكُمۡۗ وَٱتَّقُواْ ٱللَّهَۖ وَيُعَلِّمُكُمُ ٱللَّهُۗ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(can) dictate",
+      "translations": {
+        "saheeh": "O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allah has taught him. So let him write and let the one who has the obligation dictate. And let him fear Allah, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of the women errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allah and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allah. And Allah teaches you. And Allah is Knowing of all things.",
+        "pickthall": "O ye who believe! When ye contract a debt for a fixed term, record it in writing. Let a scribe record it in writing between you in (terms of) equity. No scribe should refuse to write as Allah hath taught him, so let him write, and let him who incurreth the debt dictate, and let him observe his duty to Allah his Lord, and diminish naught thereof. But if he who oweth the debt is of low understanding, or weak, or unable himself to dictate, then let the guardian of his interests dictate in (terms of) equity. And call to witness, from among your men, two witnesses. And if two men be not (at hand) then a man and two women, of such as ye approve as witnesses, so that if the one erreth (through forgetfulness) the other will remember. And the witnesses must not refuse when they are summoned. Be not averse to writing down (the contract) whether it be small or great, with (record of) the term thereof. That is more equitable in the sight of Allah and more sure for testimony, and the best way of avoiding doubt between you; save only in the case when it is actual merchandise which ye transfer among yourselves from hand to hand. In that case it is no sin for you if ye write it not. And have witnesses when ye sell one to another, and let no harm be done to scribe or witness. If ye do (harm to them) lo! it is a sin in you. Observe your duty to Allah. Allah is teaching you. And Allah is knower of all things.",
+        "khattab": "O believers! When you contract a loan for a fixed period of time, commit it to writing. Let the scribe maintain justice between the parties. The scribe should not refuse to write as Allah has taught them to write. They will write what the debtor dictates, bearing Allah in mind and not defrauding the debt. If the debtor is incompetent, weak, or unable to dictate, let their guardian dictate for them with justice. Call upon two of your men to witness. If two men cannot be found, then one man and two women of your choice will witness—so if one of the women forgets the other may remind her. The witnesses must not refuse when they are summoned. You must not be against writing ˹contracts˺ for a fixed period—whether the sum is small or great. This is more just ˹for you˺ in the sight of Allah, and more convenient to establish evidence and remove doubts. However, if you conduct an immediate transaction among yourselves, then there is no need for you to record it, but call upon witnesses when a deal is finalized. Let no harm come to the scribe or witnesses. If you do, then you have gravely exceeded ˹your limits˺. Be mindful of Allah, for Allah ˹is the One Who˺ teaches you. And Allah has ˹perfect˺ knowledge of all things",
+        "arberry": "O believers, when you contract a debt one upon another for a stated term, write it down, and let a writer write it down between you justly, and let not any writer refuse to write it down, as God has taught him; so let him write, and let the debtor dictate, and let him fear God his Lord and not diminish aught of it. And if the debtor be a fool, or weak, or unable to dictate himself, then let his guardian dictate justly. And call in to witness two witnesses, men; or if the two be not men, then one man and two women, such witnesses as you approve of, that if one of the two women errs the other will remind her; and let the witnesses not refuse, whenever they are summoned. And be not loth to write it down, whether it be small or great, with its term; that is more equitable in God's sight, more upright for testimony, and likelier that you will not be in doubt. Unless it be merchandise present that you give and take between you; then it shall be no fault in you if you do not write it down. And take witnesses when you are trafficking one with another. And let not either writer or witness be pressed; or if you do, that is ungodliness in you. And fear God; God teaches you, and God has knowledge of everything."
+      }
+    },
+    {
+      "location": [
+        2,
+        282,
+        49
+      ],
+      "form_arabic": "فَلْيُمْلِلْ",
+      "lemma": "yumil~a",
+      "lemma_arabic": "يُمِلَّ",
+      "pos": "V",
+      "ayah_id": "2:282",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا تَدَايَنتُم بِدَيۡنٍ إِلَىٰٓ أَجَلࣲ مُّسَمࣰّ ى فَٱكۡتُبُوهُۚ وَلۡيَكۡتُب بَّيۡنَكُمۡ كَاتِبُۢ بِٱلۡعَدۡلِۚ وَلَا يَأۡبَ كَاتِبٌ أَن يَكۡتُبَ كَمَا عَلَّمَهُ ٱللَّهُۚ فَلۡيَكۡتُبۡ وَلۡيُمۡلِلِ ٱلَّذِي عَلَيۡهِ ٱلۡحَقُّ وَلۡيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبۡخَسۡ مِنۡهُ شَيۡـࣰٔ اۚ فَإِن كَانَ ٱلَّذِي عَلَيۡهِ ٱلۡحَقُّ سَفِيهًا أَوۡ ضَعِيفًا أَوۡ لَا يَسۡتَطِيعُ أَن يُمِلَّ هُوَ فَلۡيُمۡلِلۡ وَلِيُّهُۥ بِٱلۡعَدۡلِۚ وَٱسۡتَشۡهِدُواْ شَهِيدَيۡنِ مِن رِّجَالِكُمۡۖ فَإِن لَّمۡ يَكُونَا رَجُلَيۡنِ فَرَجُلࣱ وَٱمۡرَأَتَانِ مِمَّن تَرۡضَوۡنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحۡدَىٰهُمَا فَتُذَكِّرَ إِحۡدَىٰهُمَا ٱلۡأُخۡرَىٰۚ وَلَا يَأۡبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُواْۚ وَلَا تَسۡـَٔمُوٓاْ أَن تَكۡتُبُوهُ صَغِيرًا أَوۡ كَبِيرًا إِلَىٰٓ أَجَلِهِۦۚ ذَٰلِكُمۡ أَقۡسَطُ عِندَ ٱللَّهِ وَأَقۡوَمُ لِلشَّهَٰدَةِ وَأَدۡنَىٰٓ أَلَّا تَرۡتَابُوٓاْ إِلَّآ أَن تَكُونَ تِجَٰرَةً حَاضِرَةࣰ تُدِيرُونَهَا بَيۡنَكُمۡ فَلَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَلَّا تَكۡتُبُوهَاۗ وَأَشۡهِدُوٓاْ إِذَا تَبَايَعۡتُمۡۚ وَلَا يُضَآرَّ كَاتِبࣱ وَلَا شَهِيدࣱۚ وَإِن تَفۡعَلُواْ فَإِنَّهُۥ فُسُوقُۢ بِكُمۡۗ وَٱتَّقُواْ ٱللَّهَۖ وَيُعَلِّمُكُمُ ٱللَّهُۗ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "then let dictate",
+      "translations": {
+        "saheeh": "O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allah has taught him. So let him write and let the one who has the obligation dictate. And let him fear Allah, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of the women errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allah and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allah. And Allah teaches you. And Allah is Knowing of all things.",
+        "pickthall": "O ye who believe! When ye contract a debt for a fixed term, record it in writing. Let a scribe record it in writing between you in (terms of) equity. No scribe should refuse to write as Allah hath taught him, so let him write, and let him who incurreth the debt dictate, and let him observe his duty to Allah his Lord, and diminish naught thereof. But if he who oweth the debt is of low understanding, or weak, or unable himself to dictate, then let the guardian of his interests dictate in (terms of) equity. And call to witness, from among your men, two witnesses. And if two men be not (at hand) then a man and two women, of such as ye approve as witnesses, so that if the one erreth (through forgetfulness) the other will remember. And the witnesses must not refuse when they are summoned. Be not averse to writing down (the contract) whether it be small or great, with (record of) the term thereof. That is more equitable in the sight of Allah and more sure for testimony, and the best way of avoiding doubt between you; save only in the case when it is actual merchandise which ye transfer among yourselves from hand to hand. In that case it is no sin for you if ye write it not. And have witnesses when ye sell one to another, and let no harm be done to scribe or witness. If ye do (harm to them) lo! it is a sin in you. Observe your duty to Allah. Allah is teaching you. And Allah is knower of all things.",
+        "khattab": "O believers! When you contract a loan for a fixed period of time, commit it to writing. Let the scribe maintain justice between the parties. The scribe should not refuse to write as Allah has taught them to write. They will write what the debtor dictates, bearing Allah in mind and not defrauding the debt. If the debtor is incompetent, weak, or unable to dictate, let their guardian dictate for them with justice. Call upon two of your men to witness. If two men cannot be found, then one man and two women of your choice will witness—so if one of the women forgets the other may remind her. The witnesses must not refuse when they are summoned. You must not be against writing ˹contracts˺ for a fixed period—whether the sum is small or great. This is more just ˹for you˺ in the sight of Allah, and more convenient to establish evidence and remove doubts. However, if you conduct an immediate transaction among yourselves, then there is no need for you to record it, but call upon witnesses when a deal is finalized. Let no harm come to the scribe or witnesses. If you do, then you have gravely exceeded ˹your limits˺. Be mindful of Allah, for Allah ˹is the One Who˺ teaches you. And Allah has ˹perfect˺ knowledge of all things",
+        "arberry": "O believers, when you contract a debt one upon another for a stated term, write it down, and let a writer write it down between you justly, and let not any writer refuse to write it down, as God has taught him; so let him write, and let the debtor dictate, and let him fear God his Lord and not diminish aught of it. And if the debtor be a fool, or weak, or unable to dictate himself, then let his guardian dictate justly. And call in to witness two witnesses, men; or if the two be not men, then one man and two women, such witnesses as you approve of, that if one of the two women errs the other will remind her; and let the witnesses not refuse, whenever they are summoned. And be not loth to write it down, whether it be small or great, with its term; that is more equitable in God's sight, more upright for testimony, and likelier that you will not be in doubt. Unless it be merchandise present that you give and take between you; then it shall be no fault in you if you do not write it down. And take witnesses when you are trafficking one with another. And let not either writer or witness be pressed; or if you do, that is ungodliness in you. And fear God; God teaches you, and God has knowledge of everything."
+      }
+    },
+    {
+      "location": [
+        3,
+        95,
+        5
+      ],
+      "form_arabic": "مِلَّةَ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "3:95",
+      "ayah_arabic": "قُلۡ صَدَقَ ٱللَّهُۗ فَٱتَّبِعُواْ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفࣰ اۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "(the) religion",
+      "translations": {
+        "saheeh": "Say, \"Allah has told the truth. So follow the religion of Abraham, inclining toward truth; and he was not of the polytheists.\"",
+        "pickthall": "Say: Allah speaketh truth. So follow the religion of Abraham, the upright. He was not of the idolaters.",
+        "khattab": "Say, ˹O Prophet,˺ “Allah has declared the truth. So follow the Way of Abraham, the upright—who was not a polytheist.”",
+        "arberry": "Say: 'God has spoken the truth; therefore follow the creed of Abraham, a man of pure faith and no idolater.'"
+      }
+    },
+    {
+      "location": [
+        4,
+        125,
+        11
+      ],
+      "form_arabic": "مِلَّةَ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "4:125",
+      "ayah_arabic": "وَمَنۡ أَحۡسَنُ دِينࣰ ا مِّمَّنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنࣱ وَٱتَّبَعَ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفࣰ اۗ وَٱتَّخَذَ ٱللَّهُ إِبۡرَٰهِيمَ خَلِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(the) religion",
+      "translations": {
+        "saheeh": "And who is better in religion than one who submits himself to Allah while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allah took Abraham as an intimate friend.",
+        "pickthall": "Who is better in religion than he who surrendereth his purpose to Allah while doing good (to men) and followeth the tradition of Abraham, the upright? Allah (Himself) chose Abraham for friend.",
+        "khattab": "And who is better in faith than those who ˹fully˺ submit themselves to Allah, do good, and follow the Way of Abraham, the upright? Allah chose Abraham as a close friend",
+        "arberry": "And who is there that has a fairer religion than he who submits his will to God being a good-doer, and who follows the creed of Abraham, a man of pure faith? And God took Abraham for a friend."
+      }
+    },
+    {
+      "location": [
+        6,
+        161,
+        10
+      ],
+      "form_arabic": "مِّلَّةَ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "6:161",
+      "ayah_arabic": "قُلۡ إِنَّنِي هَدَىٰنِي رَبِّيٓ إِلَىٰ صِرَٰطࣲ مُّسۡتَقِيمࣲ دِينࣰ ا قِيَمࣰ ا مِّلَّةَ إِبۡرَٰهِيمَ حَنِيفࣰ اۚ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "religion",
+      "translations": {
+        "saheeh": "Say, \"Indeed, my Lord has guided me to a straight path - a correct religion - the way of Abraham, inclining toward truth. And he was not among those who associated others with Allah.\"",
+        "pickthall": "Say: Lo! As for me, my Lord hath guided me unto a straight path, a right religion, the community of Abraham, the upright, who was no idolater.",
+        "khattab": "Say, ˹O Prophet,˺ “Surely my Lord has guided me to the Straight Path, a perfect way, the faith of Abraham, the upright, who was not one of the polytheists.”",
+        "arberry": "Say: 'As for me, my Lord has guided me to a straight path, a right religion, the creed of Abraham, a man of pure faith; he was no idolater.'"
+      }
+    },
+    {
+      "location": [
+        7,
+        88,
+        17
+      ],
+      "form_arabic": "مِلَّتِنَا",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "7:88",
+      "ayah_arabic": "۞قَالَ ٱلۡمَلَأُ ٱلَّذِينَ ٱسۡتَكۡبَرُواْ مِن قَوۡمِهِۦ لَنُخۡرِجَنَّكَ يَٰشُعَيۡبُ وَٱلَّذِينَ ءَامَنُواْ مَعَكَ مِن قَرۡيَتِنَآ أَوۡ لَتَعُودُنَّ فِي مِلَّتِنَاۚ قَالَ أَوَلَوۡ كُنَّا كَٰرِهِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "our religion",
+      "translations": {
+        "saheeh": "Said the eminent ones who were arrogant among his people, \"We will surely evict you, O Shu'ayb, and those who have believed with you from our city, or you must return to our religion.\" He said, \"Even if we were unwilling?\"",
+        "pickthall": "The chieftains of his people, who were scornful, said: Surely we will drive thee out, O Shu'eyb, and those who believe with thee, from our township, unless ye return to our religion. He said: Even though we hate it?",
+        "khattab": "The arrogant chiefs of his people threatened, “O Shu’aib! We will certainly expel you and your fellow believers from our land, unless you return to our faith.” He replied, “Even if we hate it",
+        "arberry": "Said the Council of those of his people who waxed proud, 'We will surely expel thee, O Shuaib, and those who believe with thee, from our city, unless you return into our creed.' He said, 'What, even though we detest it?"
+      }
+    },
+    {
+      "location": [
+        7,
+        89,
+        9
+      ],
+      "form_arabic": "مِلَّتِكُم",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "7:89",
+      "ayah_arabic": "قَدِ ٱفۡتَرَيۡنَا عَلَى ٱللَّهِ كَذِبًا إِنۡ عُدۡنَا فِي مِلَّتِكُم بَعۡدَ إِذۡ نَجَّىٰنَا ٱللَّهُ مِنۡهَاۚ وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَاۚ وَسِعَ رَبُّنَا كُلَّ شَيۡءٍ عِلۡمًاۚ عَلَى ٱللَّهِ تَوَكَّلۡنَاۚ رَبَّنَا ٱفۡتَحۡ بَيۡنَنَا وَبَيۡنَ قَوۡمِنَا بِٱلۡحَقِّ وَأَنتَ خَيۡرُ ٱلۡفَٰتِحِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "your religion",
+      "translations": {
+        "saheeh": "We would have invented against Allah a lie if we returned to your religion after Allah had saved us from it. And it is not for us to return to it except that Allah, our Lord, should will. Our Lord has encompassed all things in knowledge. Upon Allah we have relied. Our Lord, decide between us and our people in truth, and You are the best of those who give decision.\"",
+        "pickthall": "We should have invented a lie against Allah if we returned to your religion after Allah hath rescued us from it. It is not for us to return to it unless Allah our Lord should (so) will. Our Lord comprehendeth all things in knowledge. In Allah do we put our trust. Our Lord! Decide with truth between us and our folk, for Thou art the best of those who make decision.",
+        "khattab": "We would surely be fabricating a lie against Allah if we were to return to your faith after Allah has saved us from it. It does not befit us to return to it unless it is the Will of Allah, our Lord. Our Lord has encompassed everything in ˹His˺ knowledge. In Allah we trust. Our Lord! Judge between us and our people with truth. You are the best of those who judge.”",
+        "arberry": "We should have forged against God a lie if we returned into your creed; after God delivered us from it. It is not for us to return into it, unless God our Lord so will. Our Lord embraces all things in His knowledge. In God we have put our trust. Our Lord, give true deliverance between us and our people; Thou art the best of deliverers.'"
+      }
+    },
+    {
+      "location": [
+        12,
+        37,
+        18
+      ],
+      "form_arabic": "مِلَّةَ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "12:37",
+      "ayah_arabic": "قَالَ لَا يَأۡتِيكُمَا طَعَامࣱ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي تَرَكۡتُ مِلَّةَ قَوۡمࣲ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "(the) religion",
+      "translations": {
+        "saheeh": "He said, \"You will not receive food that is provided to you except that I will inform you of its interpretation before it comes to you. That is from what my Lord has taught me. Indeed, I have left the religion of a people who do not believe in Allah, and they, in the Hereafter, are disbelievers.",
+        "pickthall": "He said: The food which ye are given (daily) shall not come unto you but I shall tell you the interpretation ere it cometh unto you. This is of that which my Lord hath taught me. Lo! I have forsaken the religion of folk who believe not in Allah and are disbelievers in the Hereafter.",
+        "khattab": "Joseph replied, “I can even tell you what kind of meal you will be served before you receive it. This ˹knowledge˺ is from what my Lord has taught me. I have shunned the faith of a people who disbelieve in Allah and deny the Hereafter",
+        "arberry": "He said, 'No food shall come to you for your sustenance, but ere it comes to you I shall tell you its interpretation. That I shall tell you is of what God has taught me. I have forsaken the creed of a people who believe not in God and who moreover are unbelievers in the world to come."
+      }
+    },
+    {
+      "location": [
+        12,
+        38,
+        2
+      ],
+      "form_arabic": "مِلَّةَ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "12:38",
+      "ayah_arabic": "وَٱتَّبَعۡتُ مِلَّةَ ءَابَآءِيٓ إِبۡرَٰهِيمَ وَإِسۡحَٰقَ وَيَعۡقُوبَۚ مَا كَانَ لَنَآ أَن نُّشۡرِكَ بِٱللَّهِ مِن شَيۡءࣲۚ ذَٰلِكَ مِن فَضۡلِ ٱللَّهِ عَلَيۡنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَشۡكُرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "(the) religion",
+      "translations": {
+        "saheeh": "And I have followed the religion of my fathers, Abraham, Isaac and Jacob. And it was not for us to associate anything with Allah. That is from the favor of Allah upon us and upon the people, but most of the people are not grateful.",
+        "pickthall": "And I have followed the religion of my fathers, Abraham and Isaac and Jacob. It never was for us to attribute aught as partner to Allah. This is of the bounty of Allah unto us (the seed of Abraham) and unto mankind; but most men give not thanks.",
+        "khattab": "I follow the faith of my fathers: Abraham, Isaac, and Jacob. It is not ˹right˺ for us to associate anything with Allah ˹in worship˺. This is part of Allah’s grace upon us and humanity, but most people are not grateful",
+        "arberry": "And I have followed the creed of my fathers, Abraham, Isaac and Jacob. Not ours is it to associate aught with God. That is of God's bounty to us, and to men; but most men are not thankful."
+      }
+    },
+    {
+      "location": [
+        14,
+        13,
+        11
+      ],
+      "form_arabic": "مِلَّتِنَا",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "14:13",
+      "ayah_arabic": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لِرُسُلِهِمۡ لَنُخۡرِجَنَّكُم مِّنۡ أَرۡضِنَآ أَوۡ لَتَعُودُنَّ فِي مِلَّتِنَاۖ فَأَوۡحَىٰٓ إِلَيۡهِمۡ رَبُّهُمۡ لَنُهۡلِكَنَّ ٱلظَّٰلِمِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ibrahim",
+      "literal_gloss": "our religion",
+      "translations": {
+        "saheeh": "And those who disbelieved said to their messengers, \"We will surely drive you out of our land, or you must return to our religion.\" So their Lord inspired to them, \"We will surely destroy the wrongdoers.",
+        "pickthall": "And those who disbelieved said unto their messengers: Verily we will drive you out from our land, unless ye return to our religion. Then their Lord inspired them, (saying): Verily we shall destroy the wrong-doers,",
+        "khattab": "The disbelievers then threatened their messengers, “We will certainly expel you from our land, unless you return to our faith.” So their Lord revealed to them, “We will surely destroy the wrongdoers",
+        "arberry": "The unbelievers said to their Messengers, 'We will assuredly expel you from our land, or you will surely return into our creed.' Then did their Lord reveal unto them: 'We will surely destroy the evildoers,"
+      }
+    },
+    {
+      "location": [
+        16,
+        123,
+        6
+      ],
+      "form_arabic": "مِلَّةَ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "16:123",
+      "ayah_arabic": "ثُمَّ أَوۡحَيۡنَآ إِلَيۡكَ أَنِ ٱتَّبِعۡ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفࣰ اۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Nahl",
+      "literal_gloss": "(the) religion",
+      "translations": {
+        "saheeh": "Then We revealed to you, [O Muhammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allah.",
+        "pickthall": "And afterward We inspired thee (Muhammad, saying): Follow the religion of Abraham, as one by nature upright. He was not of the idolaters.",
+        "khattab": "Then We revealed to you ˹O Prophet, saying˺: “Follow the faith of Abraham, the upright, who was not one of the polytheists.”",
+        "arberry": "Then We revealed to thee: 'Follow thou the creed of Abraham, a man of pure faith and no idolater.'"
+      }
+    },
+    {
+      "location": [
+        18,
+        20,
+        9
+      ],
+      "form_arabic": "مِلَّتِهِمْ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "18:20",
+      "ayah_arabic": "إِنَّهُمۡ إِن يَظۡهَرُواْ عَلَيۡكُمۡ يَرۡجُمُوكُمۡ أَوۡ يُعِيدُوكُمۡ فِي مِلَّتِهِمۡ وَلَن تُفۡلِحُوٓاْ إِذًا أَبَدࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "their religion",
+      "translations": {
+        "saheeh": "Indeed, if they come to know of you, they will stone you or return you to their religion. And never would you succeed, then - ever.\"",
+        "pickthall": "For they, if they should come to know of you, will stone you or turn you back to their religion; then ye will never prosper.",
+        "khattab": "For, indeed, if they find out about you, they will stone you ˹to death˺, or force you back into their faith, and then you will never succeed.”",
+        "arberry": "If they should get knowledge of you they will stone you, or restore you to their creed, then you will not prosper ever."
+      }
+    },
+    {
+      "location": [
+        22,
+        78,
+        15
+      ],
+      "form_arabic": "مِّلَّةَ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "22:78",
+      "ayah_arabic": "وَجَٰهِدُواْ فِي ٱللَّهِ حَقَّ جِهَادِهِۦۚ هُوَ ٱجۡتَبَىٰكُمۡ وَمَا جَعَلَ عَلَيۡكُمۡ فِي ٱلدِّينِ مِنۡ حَرَجࣲۚ مِّلَّةَ أَبِيكُمۡ إِبۡرَٰهِيمَۚ هُوَ سَمَّىٰكُمُ ٱلۡمُسۡلِمِينَ مِن قَبۡلُ وَفِي هَٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيۡكُمۡ وَتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِۚ فَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱعۡتَصِمُواْ بِٱللَّهِ هُوَ مَوۡلَىٰكُمۡۖ فَنِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِيرُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "(The) religion",
+      "translations": {
+        "saheeh": "And strive for Allah with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. Allah named you \"Muslims\" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakah and hold fast to Allah. He is your protector; and excellent is the protector, and excellent is the helper.",
+        "pickthall": "And strive for Allah with the endeavour which is His right. He hath chosen you and hath not laid upon you in religion any hardship; the faith of your father Abraham (is yours). He hath named you Muslims of old time and in this (Scripture), that the messenger may be a witness against you, and that ye may be witnesses against mankind. So establish worship, pay the poor-due, and hold fast to Allah. He is your Protecting friend. A blessed Patron and a blessed Helper!",
+        "khattab": "Strive for ˹the cause of˺ Allah in the way He deserves, for ˹it is˺ He ˹Who˺ has chosen you, and laid upon you no hardship in the religion—the way of your forefather Abraham. ˹It is Allah˺ Who named you ‘the ones who submit’ ˹in the˺ earlier ˹Scriptures˺ and in this ˹Quran˺, so that the Messenger may be a witness over you, and that you may be witnesses over humanity. So establish prayer, pay alms-tax, and hold fast to Allah. He ˹alone˺ is your Guardian. What an excellent Guardian, and what an excellent Helper",
+        "arberry": "and struggle for God as is His due, for He has chosen you, and has laid on you no impediment in your religion, being the creed of your father Abraham; He named you Muslims aforetime and in this, that the Messenger might be a witness against you, and that you might be witnesses against mankind. So perform the prayer, and pay the alms, and hold you fast to God; He is your Protector -- an excellent Protector, an excellent Helper."
+      }
+    },
+    {
+      "location": [
+        38,
+        7,
+        5
+      ],
+      "form_arabic": "ٱلْمِلَّةِ",
+      "lemma": "mil~ap",
+      "lemma_arabic": "مِلَّة",
+      "pos": "N",
+      "ayah_id": "38:7",
+      "ayah_arabic": "مَا سَمِعۡنَا بِهَٰذَا فِي ٱلۡمِلَّةِ ٱلۡأٓخِرَةِ إِنۡ هَٰذَآ إِلَّا ٱخۡتِلَٰقٌ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "the religion",
+      "translations": {
+        "saheeh": "We have not heard of this in the latest religion. This is not but a fabrication.",
+        "pickthall": "We have not heard of this in later religion. This is naught but an invention.",
+        "khattab": "We have never heard of this in the previous faith. This is nothing but a fabrication",
+        "arberry": "We have not heard of this in the last religion; this is surely an invention."
+      }
+    }
+  ]
+}

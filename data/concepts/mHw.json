@@ -1,0 +1,446 @@
+{
+  "root": "mHw",
+  "root_arabic": "محو",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "V": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "maHawo",
+      "lemma_arabic": "مَحَوْ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        13,
+        39,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            13,
+            39,
+            1
+          ],
+          "form_arabic": "يَمْحُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            17,
+            12,
+            5
+          ],
+          "form_arabic": "فَمَحَوْنَا^",
+          "pos": "V"
+        },
+        {
+          "location": [
+            42,
+            24,
+            13
+          ],
+          "form_arabic": "وَيَمْحُ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        13,
+        39
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        13,
+        39
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "Hsb",
+      "root_arabic": "حسب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "snw",
+      "root_arabic": "سنو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "fSl",
+      "root_arabic": "فصل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "Edd",
+      "root_arabic": "عدد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        12
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        13,
+        39
+      ]
+    },
+    {
+      "root": "vbt",
+      "root_arabic": "ثبت",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        13,
+        39
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        13,
+        39
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        13,
+        39
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "xtm",
+      "root_arabic": "ختم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "bTl",
+      "root_arabic": "بطل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "fry",
+      "root_arabic": "فري",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        24
+      ]
+    },
+    {
+      "root": "Sdr",
+      "root_arabic": "صدر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        24
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 13,
+        "name_english": "Ar-Ra'd",
+        "name_arabic": "سُورَةُ الرَّعۡدِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 42,
+        "name_english": "Ash-Shura",
+        "name_arabic": "سُورَةُ الشُّورَىٰ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        13,
+        39,
+        1
+      ],
+      "form_arabic": "يَمْحُوا@",
+      "lemma": "maHawo",
+      "lemma_arabic": "مَحَوْ",
+      "pos": "V",
+      "ayah_id": "13:39",
+      "ayah_arabic": "يَمۡحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثۡبِتُۖ وَعِندَهُۥٓ أُمُّ ٱلۡكِتَٰبِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Ra'd",
+      "literal_gloss": "(Is) eliminated",
+      "translations": {
+        "saheeh": "Allah eliminates what He wills or confirms, and with Him is the Mother of the Book.",
+        "pickthall": "Allah effaceth what He will, and establisheth (what He will), and with Him is the source of ordinance.",
+        "khattab": "Allah eliminates and confirms what He wills, and with Him is the Master Record",
+        "arberry": "God blots out, and He establishes whatsoever He will; and with Him is the Essence of the Book."
+      }
+    },
+    {
+      "location": [
+        17,
+        12,
+        5
+      ],
+      "form_arabic": "فَمَحَوْنَا^",
+      "lemma": "maHawo",
+      "lemma_arabic": "مَحَوْ",
+      "pos": "V",
+      "ayah_id": "17:12",
+      "ayah_arabic": "وَجَعَلۡنَا ٱلَّيۡلَ وَٱلنَّهَارَ ءَايَتَيۡنِۖ فَمَحَوۡنَآ ءَايَةَ ٱلَّيۡلِ وَجَعَلۡنَآ ءَايَةَ ٱلنَّهَارِ مُبۡصِرَةࣰ لِّتَبۡتَغُواْ فَضۡلࣰ ا مِّن رَّبِّكُمۡ وَلِتَعۡلَمُواْ عَدَدَ ٱلسِّنِينَ وَٱلۡحِسَابَۚ وَكُلَّ شَيۡءࣲ فَصَّلۡنَٰهُ تَفۡصِيلࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "Then We erased",
+      "translations": {
+        "saheeh": "And We have made the night and day two signs, and We erased the sign of the night and made the sign of the day visible that you may seek bounty from your Lord and may know the number of years and the account [of time]. And everything We have set out in detail.",
+        "pickthall": "And We appoint the night and the day two portents. Then We make dark the portent of the night, and We make the portent of the day sight-giving, that ye may seek bounty from your Lord, and that ye may know the computation of the years, and the reckoning; and everything have We expounded with a clear expounding.",
+        "khattab": "We made the day and night as two signs. So We made the sign of the night devoid of light, and We made the sign of the day ˹perfectly˺ bright, so that you may seek the bounty of your Lord and know the number of years and calculation ˹of time˺. And We have explained everything in detail",
+        "arberry": "We have appointed the night and the day as two signs; then We have blotted out the sign of the night, and made the sign of the day to see, and that you may seek bounty from your Lord, and that you may know the number of the years, and the reckoning; and everything We have distinguished very distinctly."
+      }
+    },
+    {
+      "location": [
+        42,
+        24,
+        13
+      ],
+      "form_arabic": "وَيَمْحُ",
+      "lemma": "maHawo",
+      "lemma_arabic": "مَحَوْ",
+      "pos": "V",
+      "ayah_id": "42:24",
+      "ayah_arabic": "أَمۡ يَقُولُونَ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبࣰ اۖ فَإِن يَشَإِ ٱللَّهُ يَخۡتِمۡ عَلَىٰ قَلۡبِكَۗ وَيَمۡحُ ٱللَّهُ ٱلۡبَٰطِلَ وَيُحِقُّ ٱلۡحَقَّ بِكَلِمَٰتِهِۦٓۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shura",
+      "literal_gloss": "And Allah eliminates",
+      "translations": {
+        "saheeh": "Or do they say, \"He has invented about Allah a lie\"? But if Allah willed, He could seal over your heart. And Allah eliminates falsehood and establishes the truth by His words. Indeed, He is Knowing of that within the breasts.",
+        "pickthall": "Or say they: He hath invented a lie concerning Allah? If Allah willed, He could have sealed thy heart (against them). And Allah will wipe out the lie and will vindicate the truth by His words. Lo! He is Aware of what is hidden in the breasts (of men).",
+        "khattab": "Or do they say, “He has fabricated a lie about Allah!”? ˹If you had,˺ Allah would have sealed your heart, if He willed. And Allah wipes out falsehood and establishes the truth by His Words. He certainly knows best what is ˹hidden˺ in the heart",
+        "arberry": "Or do they say, 'He has forged against God a lie?' But if God wills, He will set a seal on thy heart; and God blots out falsehood and verifies the truth by His words; He knows the thoughts within the breasts."
+      }
+    }
+  ]
+}

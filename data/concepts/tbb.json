@@ -1,0 +1,477 @@
+{
+  "root": "tbb",
+  "root_arabic": "تبب",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 3,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 2,
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "tab~a",
+      "lemma_arabic": "تَبَّ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        111,
+        1,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            111,
+            1,
+            1
+          ],
+          "form_arabic": "تَبَّتْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            111,
+            1,
+            5
+          ],
+          "form_arabic": "وَتَبَّ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "tatobiyb",
+      "lemma_arabic": "تَتْبِيب",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        11,
+        101,
+        24
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            101,
+            24
+          ],
+          "form_arabic": "تَتْبِيبٍ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "tabaAb",
+      "lemma_arabic": "تَبَاب",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        40,
+        37,
+        23
+      ],
+      "occurrences": [
+        {
+          "location": [
+            40,
+            37,
+            23
+          ],
+          "form_arabic": "تَبَابٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "Sdd",
+      "root_arabic": "صدد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "sbb",
+      "root_arabic": "سبب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "Znn",
+      "root_arabic": "ظنن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "TlE",
+      "root_arabic": "طلع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "zyn",
+      "root_arabic": "زين",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "kyd",
+      "root_arabic": "كيد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        37
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "zyd",
+      "root_arabic": "زيد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "gny",
+      "root_arabic": "غني",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        101
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        111,
+        1
+      ]
+    },
+    {
+      "root": "lhb",
+      "root_arabic": "لهب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        111,
+        1
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        111,
+        1
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 111,
+        "name_english": "Al-Masad",
+        "name_arabic": "سُورَةُ المَسَدِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 40,
+        "name_english": "Ghafir",
+        "name_arabic": "سُورَةُ غَافِرٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        11,
+        101,
+        24
+      ],
+      "form_arabic": "تَتْبِيبٍ",
+      "lemma": "tatobiyb",
+      "lemma_arabic": "تَتْبِيب",
+      "pos": "N",
+      "ayah_id": "11:101",
+      "ayah_arabic": "وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن ظَلَمُوٓاْ أَنفُسَهُمۡۖ فَمَآ أَغۡنَتۡ عَنۡهُمۡ ءَالِهَتُهُمُ ٱلَّتِي يَدۡعُونَ مِن دُونِ ٱللَّهِ مِن شَيۡءࣲ لَّمَّا جَآءَ أَمۡرُ رَبِّكَۖ وَمَا زَادُوهُمۡ غَيۡرَ تَتۡبِيبࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "ruin",
+      "translations": {
+        "saheeh": "And We did not wrong them, but they wronged themselves. And they were not availed at all by their gods which they invoked other than Allah when there came the command of your Lord. And they did not increase them in other than ruin.",
+        "pickthall": "We wronged them not, but they did wrong themselves; and their gods on whom they call beside Allah availed them naught when came thy Lord's command; they added to them naught save ruin.",
+        "khattab": "We did not wrong them, rather they wronged themselves. The gods they invoked beside Allah were of no help at all when the command of your Lord came, and only contributed to their ruin",
+        "arberry": "And We wronged them not, but they wronged themselves; their gods availed them not that they called upon, apart from God, anything, when the command of thy Lord came; and they increased them not, save in destruction."
+      }
+    },
+    {
+      "location": [
+        40,
+        37,
+        23
+      ],
+      "form_arabic": "تَبَابٍ",
+      "lemma": "tabaAb",
+      "lemma_arabic": "تَبَاب",
+      "pos": "N",
+      "ayah_id": "40:37",
+      "ayah_arabic": "أَسۡبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُۥ كَٰذِبࣰ اۚ وَكَذَٰلِكَ زُيِّنَ لِفِرۡعَوۡنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِۚ وَمَا كَيۡدُ فِرۡعَوۡنَ إِلَّا فِي تَبَابࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ghafir",
+      "literal_gloss": "ruin",
+      "translations": {
+        "saheeh": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin.",
+        "pickthall": "The roads of the heavens, and may look upon the god of Moses, though verily I think him a liar. Thus was the evil that he did made fairseeming unto Pharaoh, and he was debarred from the (right) way. The plot of Pharaoh ended but in ruin.",
+        "khattab": "leading up to the heavens and look for the God of Moses, although I am sure he is a liar.” And so Pharaoh’s evil deeds were made so appealing to him that he was hindered from the ˹Right˺ Way. But the plotting of Pharaoh was only in vain",
+        "arberry": "the cords of the heavens, and look upon Moses' God; for I think that he is a liar.' So the evil of his deeds was decked out fair to Pharaoh, and he was barred from the way, and Pharaoh's guile came only to ruin."
+      }
+    },
+    {
+      "location": [
+        111,
+        1,
+        1
+      ],
+      "form_arabic": "تَبَّتْ",
+      "lemma": "tab~a",
+      "lemma_arabic": "تَبَّ",
+      "pos": "V",
+      "ayah_id": "111:1",
+      "ayah_arabic": "تَبَّتۡ يَدَآ أَبِي لَهَبࣲ وَتَبَّ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Masad",
+      "literal_gloss": "Perish",
+      "translations": {
+        "saheeh": "May the hands of Abu Lahab be ruined, and ruined is he.",
+        "pickthall": "The power of Abu Lahab will perish, and he will perish.",
+        "khattab": "May the hands of Abu Lahab perish, and he ˹himself˺ perish",
+        "arberry": "Perish the hands of Abu Lahab, and perish he!"
+      }
+    },
+    {
+      "location": [
+        111,
+        1,
+        5
+      ],
+      "form_arabic": "وَتَبَّ",
+      "lemma": "tab~a",
+      "lemma_arabic": "تَبَّ",
+      "pos": "V",
+      "ayah_id": "111:1",
+      "ayah_arabic": "تَبَّتۡ يَدَآ أَبِي لَهَبࣲ وَتَبَّ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Masad",
+      "literal_gloss": "and perish he",
+      "translations": {
+        "saheeh": "May the hands of Abu Lahab be ruined, and ruined is he.",
+        "pickthall": "The power of Abu Lahab will perish, and he will perish.",
+        "khattab": "May the hands of Abu Lahab perish, and he ˹himself˺ perish",
+        "arberry": "Perish the hands of Abu Lahab, and perish he!"
+      }
+    }
+  ]
+}

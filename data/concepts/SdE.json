@@ -1,0 +1,523 @@
+{
+  "root": "SdE",
+  "root_arabic": "صدع",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 5,
+    "ayahs": 5,
+    "surahs": 5,
+    "pos_distribution": {
+      "V": 3,
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "{SodaEo",
+      "lemma_arabic": "ٱصْدَعْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        15,
+        94,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            15,
+            94,
+            1
+          ],
+          "form_arabic": "فَٱصْدَعْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "yaS~ad~aEu",
+      "lemma_arabic": "يَصَّدَّعُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        30,
+        43,
+        16
+      ],
+      "occurrences": [
+        {
+          "location": [
+            30,
+            43,
+            16
+          ],
+          "form_arabic": "يَصَّدَّعُونَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "yuSad~aEu",
+      "lemma_arabic": "يُصَدَّعُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        56,
+        19,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            56,
+            19,
+            2
+          ],
+          "form_arabic": "يُصَدَّعُونَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "m~utaSad~iE",
+      "lemma_arabic": "مُّتَصَدِّع",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        59,
+        21,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            59,
+            21,
+            9
+          ],
+          "form_arabic": "مُّتَصَدِّعًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "S~adoE",
+      "lemma_arabic": "صَّدْع",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        86,
+        12,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            86,
+            12,
+            3
+          ],
+          "form_arabic": "ٱلصَّدْعِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        30,
+        43
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        30,
+        43
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        30,
+        43
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        30,
+        43
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        30,
+        43
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        30,
+        43
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        30,
+        43
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        30,
+        43
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        94
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        94
+      ]
+    },
+    {
+      "root": "ErD",
+      "root_arabic": "عرض",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        15,
+        94
+      ]
+    },
+    {
+      "root": "nzf",
+      "root_arabic": "نزف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        56,
+        19
+      ]
+    },
+    {
+      "root": "x$y",
+      "root_arabic": "خشي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        59,
+        21
+      ]
+    },
+    {
+      "root": "x$E",
+      "root_arabic": "خشع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        59,
+        21
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        59,
+        21
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        59,
+        21
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        59,
+        21
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        59,
+        21
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        59,
+        21
+      ]
+    },
+    {
+      "root": "fkr",
+      "root_arabic": "فكر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        59,
+        21
+      ]
+    },
+    {
+      "root": "jbl",
+      "root_arabic": "جبل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        59,
+        21
+      ]
+    },
+    {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        59,
+        21
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        86,
+        12
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 15,
+        "name_english": "Al-Hijr",
+        "name_arabic": "سُورَةُ الحِجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 30,
+        "name_english": "Ar-Room",
+        "name_arabic": "سُورَةُ الرُّومِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 59,
+        "name_english": "Al-Hashr",
+        "name_arabic": "سُورَةُ الحَشۡرِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 86,
+        "name_english": "At-Taariq",
+        "name_arabic": "سُورَةُ الطَّارِقِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        15,
+        94,
+        1
+      ],
+      "form_arabic": "فَٱصْدَعْ",
+      "lemma": "{SodaEo",
+      "lemma_arabic": "ٱصْدَعْ",
+      "pos": "V",
+      "ayah_id": "15:94",
+      "ayah_arabic": "فَٱصۡدَعۡ بِمَا تُؤۡمَرُ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Hijr",
+      "literal_gloss": "So proclaim",
+      "translations": {
+        "saheeh": "Then declare what you are commanded and turn away from the polytheists.",
+        "pickthall": "So proclaim that which thou art commanded, and withdraw from the idolaters.",
+        "khattab": "So proclaim what you have been commanded, and turn away from the polytheists",
+        "arberry": "So shout that thou art commanded and turn thou away from the idolaters."
+      }
+    },
+    {
+      "location": [
+        30,
+        43,
+        16
+      ],
+      "form_arabic": "يَصَّدَّعُونَ",
+      "lemma": "yaS~ad~aEu",
+      "lemma_arabic": "يَصَّدَّعُ",
+      "pos": "V",
+      "ayah_id": "30:43",
+      "ayah_arabic": "فَأَقِمۡ وَجۡهَكَ لِلدِّينِ ٱلۡقَيِّمِ مِن قَبۡلِ أَن يَأۡتِيَ يَوۡمࣱ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِۖ يَوۡمَئِذࣲ يَصَّدَّعُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ar-Room",
+      "literal_gloss": "they will be divided",
+      "translations": {
+        "saheeh": "So direct your face toward the correct religion before a Day comes from Allah of which there is no repelling. That Day, they will be divided.",
+        "pickthall": "So set thy purpose resolutely for the right religion, before the inevitable day cometh from Allah. On that day mankind will be sundered-",
+        "khattab": "So be steadfast in the Upright Faith ˹O Prophet˺, before the coming of a Day from Allah that cannot be averted. On that Day the people will be divided",
+        "arberry": "So set thy face to the true religion before there comes a day from God that cannot be turned back; on that day they shall be sundered apart."
+      }
+    },
+    {
+      "location": [
+        56,
+        19,
+        2
+      ],
+      "form_arabic": "يُصَدَّعُونَ",
+      "lemma": "yuSad~aEu",
+      "lemma_arabic": "يُصَدَّعُ",
+      "pos": "V",
+      "ayah_id": "56:19",
+      "ayah_arabic": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "they will get headache",
+      "translations": {
+        "saheeh": "No headache will they have therefrom, nor will they be intoxicated -",
+        "pickthall": "Wherefrom they get no aching of the head nor any madness,",
+        "khattab": "that will cause them neither headache nor intoxication",
+        "arberry": "(no brows throbbing, no intoxication)"
+      }
+    },
+    {
+      "location": [
+        59,
+        21,
+        9
+      ],
+      "form_arabic": "مُّتَصَدِّعًا",
+      "lemma": "m~utaSad~iE",
+      "lemma_arabic": "مُّتَصَدِّع",
+      "pos": "N",
+      "ayah_id": "59:21",
+      "ayah_arabic": "لَوۡ أَنزَلۡنَا هَٰذَا ٱلۡقُرۡءَانَ عَلَىٰ جَبَلࣲ لَّرَأَيۡتَهُۥ خَٰشِعࣰ ا مُّتَصَدِّعࣰ ا مِّنۡ خَشۡيَةِ ٱللَّهِۚ وَتِلۡكَ ٱلۡأَمۡثَٰلُ نَضۡرِبُهَا لِلنَّاسِ لَعَلَّهُمۡ يَتَفَكَّرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hashr",
+      "literal_gloss": "breaking asunder",
+      "translations": {
+        "saheeh": "If We had sent down this Qur'an upon a mountain, you would have seen it humbled and coming apart from fear of Allah. And these examples We present to the people that perhaps they will give thought.",
+        "pickthall": "If We had caused this Qur'an to descend upon a mountain, thou (O Muhammad) verily hadst seen it humbled, rent asunder by the fear of Allah. Such similitudes coin We for mankind that haply they may reflect.",
+        "khattab": "Had We sent down this Quran upon a mountain, you would have certainly seen it humbled and torn apart in awe of Allah. We set forth such comparisons for people, ˹so˺ perhaps they may reflect",
+        "arberry": "If We had sent down this Koran upon a mountain, thou wouldst have seen it humbled, split asunder out of the fear of God. And those similitudes -- We strike them for men; haply they will reflect."
+      }
+    },
+    {
+      "location": [
+        86,
+        12,
+        3
+      ],
+      "form_arabic": "ٱلصَّدْعِ",
+      "lemma": "S~adoE",
+      "lemma_arabic": "صَّدْع",
+      "pos": "N",
+      "ayah_id": "86:12",
+      "ayah_arabic": "وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Taariq",
+      "literal_gloss": "cracks open",
+      "translations": {
+        "saheeh": "And [by] the earth which cracks open,",
+        "pickthall": "And the earth which splitteth (with the growth of trees and plants)",
+        "khattab": "and the earth with its sprouting plants",
+        "arberry": "by earth splitting with verdure,"
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "root": "qTf",
+  "root_arabic": "قطف",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "quTuwf",
+      "lemma_arabic": "قُطُوف",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        69,
+        23,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            69,
+            23,
+            1
+          ],
+          "form_arabic": "قُطُوفُهَا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            76,
+            14,
+            5
+          ],
+          "form_arabic": "قُطُوفُهَا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        69,
+        23
+      ]
+    },
+    {
+      "root": "*ll",
+      "root_arabic": "ذلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        76,
+        14
+      ]
+    },
+    {
+      "root": "Zll",
+      "root_arabic": "ظلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        76,
+        14
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 69,
+        "name_english": "Al-Haaqqa",
+        "name_arabic": "سُورَةُ الحَاقَّةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 76,
+        "name_english": "Al-Insaan",
+        "name_arabic": "سُورَةُ الإِنسَانِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 1,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        69,
+        23,
+        1
+      ],
+      "form_arabic": "قُطُوفُهَا",
+      "lemma": "quTuwf",
+      "lemma_arabic": "قُطُوف",
+      "pos": "N",
+      "ayah_id": "69:23",
+      "ayah_arabic": "قُطُوفُهَا دَانِيَةࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Haaqqa",
+      "literal_gloss": "Its clusters of fruits",
+      "translations": {
+        "saheeh": "Its [fruit] to be picked hanging near.",
+        "pickthall": "Whereof the clusters are in easy reach.",
+        "khattab": "whose fruit will hang within reach",
+        "arberry": "its clusters nigh to gather."
+      }
+    },
+    {
+      "location": [
+        76,
+        14,
+        5
+      ],
+      "form_arabic": "قُطُوفُهَا",
+      "lemma": "quTuwf",
+      "lemma_arabic": "قُطُوف",
+      "pos": "N",
+      "ayah_id": "76:14",
+      "ayah_arabic": "وَدَانِيَةً عَلَيۡهِمۡ ظِلَٰلُهَا وَذُلِّلَتۡ قُطُوفُهَا تَذۡلِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Insaan",
+      "literal_gloss": "its cluster of fruits",
+      "translations": {
+        "saheeh": "And near above them are its shades, and its [fruit] to be picked will be lowered in compliance.",
+        "pickthall": "The shade thereof is close upon them and the clustered fruits thereof bow down.",
+        "khattab": "The Garden’s shade will be right above them, and its fruit will be made very easy to reach",
+        "arberry": "near them shall be its shades, and its clusters hung meekly down,"
+      }
+    }
+  ]
+}

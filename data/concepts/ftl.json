@@ -1,0 +1,489 @@
+{
+  "root": "ftl",
+  "root_arabic": "فتل",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "fatiyl",
+      "lemma_arabic": "فَتِيل",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        4,
+        49,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            49,
+            14
+          ],
+          "form_arabic": "فَتِيلًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            77,
+            48
+          ],
+          "form_arabic": "فَتِيلًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            17,
+            71,
+            15
+          ],
+          "form_arabic": "فَتِيلًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        4,
+        49
+      ]
+    },
+    {
+      "root": "zkw",
+      "root_arabic": "زكو",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        49
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        49
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        49
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        49
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        49
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "x$y",
+      "root_arabic": "خشي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "frq",
+      "root_arabic": "فرق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "kff",
+      "root_arabic": "كفف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "Ajl",
+      "root_arabic": "اجل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        77
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        71
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        71
+      ]
+    },
+    {
+      "root": "ymn",
+      "root_arabic": "يمن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        71
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        71
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        71
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        71
+      ]
+    },
+    {
+      "root": "Ans",
+      "root_arabic": "انس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        71
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        49,
+        14
+      ],
+      "form_arabic": "فَتِيلًا",
+      "lemma": "fatiyl",
+      "lemma_arabic": "فَتِيل",
+      "pos": "N",
+      "ayah_id": "4:49",
+      "ayah_arabic": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ يُزَكِّي مَن يَشَآءُ وَلَا يُظۡلَمُونَ فَتِيلًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(even as much as) a hair on a date-seed",
+      "translations": {
+        "saheeh": "Have you not seen those who claim themselves to be pure? Rather, Allah purifies whom He wills, and injustice is not done to them, [even] as much as a thread [inside a date seed].",
+        "pickthall": "Hast thou not seen those who praise themselves for purity? Nay, Allah purifieth whom He will, and they will not be wronged even the hair upon a date-stone.",
+        "khattab": "Have you ˹O Prophet˺ not seen those who ˹falsely˺ elevate themselves? It is Allah who elevates whoever He wills. And none will be wronged ˹even by the width of˺ the thread of a date stone",
+        "arberry": "Hast thou not regarded those who purify themselves? Nay; only God purifies whom He will; and they shall not be wronged a single date-thread."
+      }
+    },
+    {
+      "location": [
+        4,
+        77,
+        48
+      ],
+      "form_arabic": "فَتِيلًا",
+      "lemma": "fatiyl",
+      "lemma_arabic": "فَتِيل",
+      "pos": "N",
+      "ayah_id": "4:77",
+      "ayah_arabic": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمۡ كُفُّوٓاْ أَيۡدِيَكُمۡ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيۡهِمُ ٱلۡقِتَالُ إِذَا فَرِيقࣱ مِّنۡهُمۡ يَخۡشَوۡنَ ٱلنَّاسَ كَخَشۡيَةِ ٱللَّهِ أَوۡ أَشَدَّ خَشۡيَةࣰۚ وَقَالُواْ رَبَّنَا لِمَ كَتَبۡتَ عَلَيۡنَا ٱلۡقِتَالَ لَوۡلَآ أَخَّرۡتَنَآ إِلَىٰٓ أَجَلࣲ قَرِيبࣲۗ قُلۡ مَتَٰعُ ٱلدُّنۡيَا قَلِيلࣱ وَٱلۡأٓخِرَةُ خَيۡرࣱ لِّمَنِ ٱتَّقَىٰ وَلَا تُظۡلَمُونَ فَتِيلًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(even as much as) a hair on a date-seed",
+      "translations": {
+        "saheeh": "Have you not seen those who were told, \"Restrain your hands [from fighting] and establish prayer and give zakah\"? But then when fighting was ordained for them, at once a party of them feared men as they fear Allah or with [even] greater fear. They said, \"Our Lord, why have You decreed upon us fighting? If only You had postponed [it for] us for a short time.\" Say, The enjoyment of this world is little, and the Hereafter is better for he who fears Allah. And injustice will not be done to you, [even] as much as a thread [inside a date seed].\"",
+        "pickthall": "Hast thou not seen those unto whom it was said: Withhold your hands, establish worship and pay the poordue, but when fighting was prescribed for them behold! a party of them fear mankind even as their fear of Allah or with greater fear, and say: Our Lord! Why hast Thou ordained fighting for us? If only Thou wouldst give us respite yet a while! Say (unto them, O Muhammad): The comfort of this world is scant; the Hereafter will be better for him who wardeth off (evil); and ye will not be wronged the down upon a date-stone.",
+        "khattab": "Have you ˹O Prophet˺ not seen those who had been told, “Do not fight! Rather, establish prayer and pay alms-tax.”? Then once the order came to fight, a group of them feared those ˹hostile˺ people as Allah should be feared—or even more. They said, “Our Lord! Why have You ordered us to fight? If only You had delayed ˹the order for˺ us for a little while!” Say, ˹O Prophet,˺ “The enjoyment of this world is so little, whereas the Hereafter is far better for those mindful ˹of Allah˺. And none of you will be wronged ˹even by the width of˺ the thread of a date stone",
+        "arberry": "Hast thou not regarded those to whom it was said, 'Restrain your hands, and perform the prayer, and pay the alms'? Then, as soon as fighting is prescribed for them, there is a party of them fearing the people as they would fear God, or with a greater fear, and they say, 'Our Lord, why hast thou prescribed fighting for us? Why not defer us to a near term?' Say: 'The enjoyment of this world is little; the world to come is better for him who fears God; you shall not be wronged a single date-thread.'"
+      }
+    },
+    {
+      "location": [
+        17,
+        71,
+        15
+      ],
+      "form_arabic": "فَتِيلًا",
+      "lemma": "fatiyl",
+      "lemma_arabic": "فَتِيل",
+      "pos": "N",
+      "ayah_id": "17:71",
+      "ayah_arabic": "يَوۡمَ نَدۡعُواْ كُلَّ أُنَاسِۭ بِإِمَٰمِهِمۡۖ فَمَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَأُوْلَٰٓئِكَ يَقۡرَءُونَ كِتَٰبَهُمۡ وَلَا يُظۡلَمُونَ فَتِيلࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "(even as much as) a hair on a date seed",
+      "translations": {
+        "saheeh": "[Mention, O Muhammad], the Day We will call forth every people with their record [of deeds]. Then whoever is given his record in his right hand - those will read their records, and injustice will not be done to them, [even] as much as a thread [inside the date seed].",
+        "pickthall": "On the day when We shall summon all men with their record, whoso is given his book in his right hand - such will read their book and they will not be wronged a shred.",
+        "khattab": "˹Beware of˺ the Day We will summon every people with their leader. So whoever will be given their record in their right hand will read it ˹happily˺ and will not be wronged ˹even by the width of˺ the thread of a date stone",
+        "arberry": "On the day when We shall call all men with their record, and whoso is given his book in his right hand -- those shall read their book, and they shall not be wronged a single date-thread."
+      }
+    }
+  ]
+}

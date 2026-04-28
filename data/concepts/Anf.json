@@ -1,0 +1,393 @@
+{
+  "root": "Anf",
+  "root_arabic": "انف",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">anf",
+      "lemma_arabic": "أَنف",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        5,
+        45,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            45,
+            9
+          ],
+          "form_arabic": "وَٱلْأَنفَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            5,
+            45,
+            10
+          ],
+          "form_arabic": "بِٱلْأَنفِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "'aAnif",
+      "lemma_arabic": "ءَانِف",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        47,
+        16,
+        16
+      ],
+      "occurrences": [
+        {
+          "location": [
+            47,
+            16,
+            16
+          ],
+          "form_arabic": "ءَانِفًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "qSS",
+      "root_arabic": "قصص",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "Eyn",
+      "root_arabic": "عين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "jrH",
+      "root_arabic": "جرح",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "snn",
+      "root_arabic": "سنن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        45
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        16
+      ]
+    },
+    {
+      "root": "TbE",
+      "root_arabic": "طبع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        16
+      ]
+    },
+    {
+      "root": "hwy",
+      "root_arabic": "هوي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        16
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        16
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        16
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        16
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        16
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        16
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        16
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        47,
+        16
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 47,
+        "name_english": "Muhammad",
+        "name_arabic": "سُورَةُ مُحَمَّدٍ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        5,
+        45,
+        9
+      ],
+      "form_arabic": "وَٱلْأَنفَ",
+      "lemma": ">anf",
+      "lemma_arabic": "أَنف",
+      "pos": "N",
+      "ayah_id": "5:45",
+      "ayah_arabic": "وَكَتَبۡنَا عَلَيۡهِمۡ فِيهَآ أَنَّ ٱلنَّفۡسَ بِٱلنَّفۡسِ وَٱلۡعَيۡنَ بِٱلۡعَيۡنِ وَٱلۡأَنفَ بِٱلۡأَنفِ وَٱلۡأُذُنَ بِٱلۡأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلۡجُرُوحَ قِصَاصࣱۚ فَمَن تَصَدَّقَ بِهِۦ فَهُوَ كَفَّارَةࣱ لَّهُۥۚ وَمَن لَّمۡ يَحۡكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "and the nose",
+      "translations": {
+        "saheeh": "And We ordained for them therein a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him. And whoever does not judge by what Allah has revealed - then it is those who are the wrongdoers.",
+        "pickthall": "And We prescribed for them therein: The life for the life, and the eye for the eye, and the nose for the nose, and the ear for the ear, and the tooth for the tooth, and for wounds retaliation. But whoso forgoeth it (in the way of charity) it shall be expiation for him. Whoso judgeth not by that which Allah hath revealed: such are wrong-doers.",
+        "khattab": "We ordained for them in the Torah, “A life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth—and for wounds equal retaliation.” But whoever waives it charitably, it will be atonement for them. And those who do not judge by what Allah has revealed are ˹truly˺ the wrongdoers",
+        "arberry": "And therein We prescribed for them: 'A life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds retaliation'; but whosoever forgoes it as a freewill offering, that shall be for him an expiation. Whoso judges not according to what God has sent down -- they are the evildoers."
+      }
+    },
+    {
+      "location": [
+        5,
+        45,
+        10
+      ],
+      "form_arabic": "بِٱلْأَنفِ",
+      "lemma": ">anf",
+      "lemma_arabic": "أَنف",
+      "pos": "N",
+      "ayah_id": "5:45",
+      "ayah_arabic": "وَكَتَبۡنَا عَلَيۡهِمۡ فِيهَآ أَنَّ ٱلنَّفۡسَ بِٱلنَّفۡسِ وَٱلۡعَيۡنَ بِٱلۡعَيۡنِ وَٱلۡأَنفَ بِٱلۡأَنفِ وَٱلۡأُذُنَ بِٱلۡأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلۡجُرُوحَ قِصَاصࣱۚ فَمَن تَصَدَّقَ بِهِۦ فَهُوَ كَفَّارَةࣱ لَّهُۥۚ وَمَن لَّمۡ يَحۡكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "for the nose",
+      "translations": {
+        "saheeh": "And We ordained for them therein a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him. And whoever does not judge by what Allah has revealed - then it is those who are the wrongdoers.",
+        "pickthall": "And We prescribed for them therein: The life for the life, and the eye for the eye, and the nose for the nose, and the ear for the ear, and the tooth for the tooth, and for wounds retaliation. But whoso forgoeth it (in the way of charity) it shall be expiation for him. Whoso judgeth not by that which Allah hath revealed: such are wrong-doers.",
+        "khattab": "We ordained for them in the Torah, “A life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth—and for wounds equal retaliation.” But whoever waives it charitably, it will be atonement for them. And those who do not judge by what Allah has revealed are ˹truly˺ the wrongdoers",
+        "arberry": "And therein We prescribed for them: 'A life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds retaliation'; but whosoever forgoes it as a freewill offering, that shall be for him an expiation. Whoso judges not according to what God has sent down -- they are the evildoers."
+      }
+    },
+    {
+      "location": [
+        47,
+        16,
+        16
+      ],
+      "form_arabic": "ءَانِفًا",
+      "lemma": "'aAnif",
+      "lemma_arabic": "ءَانِف",
+      "pos": "N",
+      "ayah_id": "47:16",
+      "ayah_arabic": "وَمِنۡهُم مَّن يَسۡتَمِعُ إِلَيۡكَ حَتَّىٰٓ إِذَا خَرَجُواْ مِنۡ عِندِكَ قَالُواْ لِلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ مَاذَا قَالَ ءَانِفًاۚ أُوْلَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُمۡ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Muhammad",
+      "literal_gloss": "just now",
+      "translations": {
+        "saheeh": "And among them, [O Muhammad], are those who listen to you, until when they depart from you, they say to those who were given knowledge, \"What has he said just now?\" Those are the ones of whom Allah has sealed over their hearts and who have followed their [own] desires.",
+        "pickthall": "Among them are some who give ear unto thee (Muhammad) till, when they go forth from thy presence they say unto those who have been given knowledge: What was that he said just now? Those are they whose hearts Allah hath sealed, and they follow their own lusts.",
+        "khattab": "There are some of them who listen to you ˹O Prophet˺, but when they depart from you, they say ˹mockingly˺ to those ˹believers˺ gifted with knowledge, “What did he just say?” These are the ones whose hearts Allah has sealed and who ˹only˺ follow their desires",
+        "arberry": "And some of them there are give ear to thee, till, when they go forth from thee, they say to those who have been given knowledge, 'What said he just now?' Those are they upon whose hearts God has set a seal, and they have followed their caprices."
+      }
+    }
+  ]
+}

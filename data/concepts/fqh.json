@@ -1,0 +1,2121 @@
+{
+  "root": "fqh",
+  "root_arabic": "فقه",
+  "stats": {
+    "occurrences": 20,
+    "lemmas": 2,
+    "ayahs": 20,
+    "surahs": 12,
+    "pos_distribution": {
+      "V": 20
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "count": 19,
+      "pos_distribution": {
+        "V": 19
+      },
+      "first_occurrence": [
+        4,
+        78,
+        35
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            78,
+            35
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            6,
+            25,
+            10
+          ],
+          "form_arabic": "يَفْقَهُوهُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            6,
+            65,
+            27
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            6,
+            98,
+            13
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            7,
+            179,
+            11
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            8,
+            65,
+            26
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            81,
+            27
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            87,
+            11
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            9,
+            127,
+            21
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            11,
+            91,
+            4
+          ],
+          "form_arabic": "نَفْقَهُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            17,
+            44,
+            16
+          ],
+          "form_arabic": "تَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            17,
+            46,
+            6
+          ],
+          "form_arabic": "يَفْقَهُوهُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            18,
+            57,
+            19
+          ],
+          "form_arabic": "يَفْقَهُوهُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            18,
+            93,
+            12
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            20,
+            28,
+            1
+          ],
+          "form_arabic": "يَفْقَهُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            48,
+            15,
+            29
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            59,
+            13,
+            12
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            63,
+            3,
+            11
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            63,
+            7,
+            20
+          ],
+          "form_arabic": "يَفْقَهُونَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "yatafaq~ahu",
+      "lemma_arabic": "يَتَفَقَّهُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        9,
+        122,
+        13
+      ],
+      "occurrences": [
+        {
+          "location": [
+            9,
+            122,
+            13
+          ],
+          "form_arabic": "لِّيَتَفَقَّهُوا@",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 9,
+      "share": 0.45,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 7,
+      "share": 0.35,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 7,
+      "share": 0.35,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 7,
+      "share": 0.35,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 6,
+      "share": 0.3,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 4,
+      "share": 0.2,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 4,
+      "share": 0.2,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 4,
+      "share": 0.2,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "nfr",
+      "root_arabic": "نفر",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "wqr",
+      "root_arabic": "وقر",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "knn",
+      "root_arabic": "كنن",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 3,
+      "share": 0.15,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        7,
+        179
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        17,
+        46
+      ]
+    },
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        98
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        17,
+        46
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "Srf",
+      "root_arabic": "صرف",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        98
+      ]
+    },
+    {
+      "root": "TbE",
+      "root_arabic": "طبع",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        9,
+        87
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        17,
+        44
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        17,
+        44
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 2,
+      "share": 0.1,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "rjm",
+      "root_arabic": "رجم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        11,
+        91
+      ]
+    },
+    {
+      "root": "DEf",
+      "root_arabic": "ضعف",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        11,
+        91
+      ]
+    },
+    {
+      "root": "Ezz",
+      "root_arabic": "عزز",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        11,
+        91
+      ]
+    },
+    {
+      "root": "rhT",
+      "root_arabic": "رهط",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        11,
+        91
+      ]
+    },
+    {
+      "root": "bdl",
+      "root_arabic": "بدل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "Hsd",
+      "root_arabic": "حسد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "Tlq",
+      "root_arabic": "طلق",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "w*r",
+      "root_arabic": "وذر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "gnm",
+      "root_arabic": "غنم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        48,
+        15
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        17,
+        46
+      ]
+    },
+    {
+      "root": "dbr",
+      "root_arabic": "دبر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        17,
+        46
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        17,
+        46
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        93
+      ]
+    },
+    {
+      "root": "sdd",
+      "root_arabic": "سدد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        93
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        93
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        93
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        93
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        127
+      ]
+    },
+    {
+      "root": "swr",
+      "root_arabic": "سور",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        127
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        127
+      ]
+    },
+    {
+      "root": "Hrr",
+      "root_arabic": "حرر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "jhd",
+      "root_arabic": "جهد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "krh",
+      "root_arabic": "كره",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "frH",
+      "root_arabic": "فرح",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "qEd",
+      "root_arabic": "قعد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        81
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        87
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "Hdv",
+      "root_arabic": "حدث",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "drk",
+      "root_arabic": "درك",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "brj",
+      "root_arabic": "برج",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "$yd",
+      "root_arabic": "شيد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "fwq",
+      "root_arabic": "فوق",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "lbs",
+      "root_arabic": "لبس",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "$yE",
+      "root_arabic": "شيع",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "*wq",
+      "root_arabic": "ذوق",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "kyf",
+      "root_arabic": "كيف",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "bAs",
+      "root_arabic": "باس",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "tHt",
+      "root_arabic": "تحت",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        65
+      ]
+    },
+    {
+      "root": "sbH",
+      "root_arabic": "سبح",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        17,
+        44
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        17,
+        44
+      ]
+    },
+    {
+      "root": "sbE",
+      "root_arabic": "سبع",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        17,
+        44
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        17,
+        44
+      ]
+    },
+    {
+      "root": "Hmd",
+      "root_arabic": "حمد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        17,
+        44
+      ]
+    },
+    {
+      "root": "Hlm",
+      "root_arabic": "حلم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        17,
+        44
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "jdl",
+      "root_arabic": "جدل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "sTr",
+      "root_arabic": "سطر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        25
+      ]
+    },
+    {
+      "root": "frq",
+      "root_arabic": "فرق",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        122
+      ]
+    },
+    {
+      "root": "Twf",
+      "root_arabic": "طوف",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        122
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        122
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        122
+      ]
+    },
+    {
+      "root": "H*r",
+      "root_arabic": "حذر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        122
+      ]
+    },
+    {
+      "root": "n*r",
+      "root_arabic": "نذر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        122
+      ]
+    },
+    {
+      "root": "kff",
+      "root_arabic": "كفف",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        9,
+        122
+      ]
+    },
+    {
+      "root": "Sdr",
+      "root_arabic": "صدر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        59,
+        13
+      ]
+    },
+    {
+      "root": "rhb",
+      "root_arabic": "رهب",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        59,
+        13
+      ]
+    },
+    {
+      "root": "qrr",
+      "root_arabic": "قرر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        98
+      ]
+    },
+    {
+      "root": "wdE",
+      "root_arabic": "ودع",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        98
+      ]
+    },
+    {
+      "root": "n$A",
+      "root_arabic": "نشا",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        98
+      ]
+    },
+    {
+      "root": "fSl",
+      "root_arabic": "فصل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        6,
+        98
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "E$r",
+      "root_arabic": "عشر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "mAy",
+      "root_arabic": "ماي",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "Alf",
+      "root_arabic": "الف",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "HrD",
+      "root_arabic": "حرض",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "glb",
+      "root_arabic": "غلب",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        8,
+        65
+      ]
+    },
+    {
+      "root": "Abd",
+      "root_arabic": "ابد",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        57
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        57
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        57
+      ]
+    },
+    {
+      "root": "qdm",
+      "root_arabic": "قدم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        57
+      ]
+    },
+    {
+      "root": "ErD",
+      "root_arabic": "عرض",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        57
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        57
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        57
+      ]
+    },
+    {
+      "root": "nsy",
+      "root_arabic": "نسي",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        18,
+        57
+      ]
+    },
+    {
+      "root": "gfl",
+      "root_arabic": "غفل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        179
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        179
+      ]
+    },
+    {
+      "root": "Ans",
+      "root_arabic": "انس",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        179
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        179
+      ]
+    },
+    {
+      "root": "*rA",
+      "root_arabic": "ذرا",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        179
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        179
+      ]
+    },
+    {
+      "root": "Eyn",
+      "root_arabic": "عين",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        179
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        7,
+        179
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        63,
+        7
+      ]
+    },
+    {
+      "root": "xzn",
+      "root_arabic": "خزن",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        63,
+        7
+      ]
+    },
+    {
+      "root": "fDD",
+      "root_arabic": "فضض",
+      "ayahs_together": 1,
+      "share": 0.05,
+      "first_together": [
+        63,
+        7
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 4
+      },
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 3
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 63,
+        "name_english": "Al-Munaafiqoon",
+        "name_arabic": "سُورَةُ المُنَافِقُونَ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 8,
+        "name_english": "Al-Anfaal",
+        "name_arabic": "سُورَةُ الأَنفَالِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 20,
+        "name_english": "Taa-Haa",
+        "name_arabic": "سُورَةُ طه",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 48,
+        "name_english": "Al-Fath",
+        "name_arabic": "سُورَةُ الفَتۡحِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 59,
+        "name_english": "Al-Hashr",
+        "name_arabic": "سُورَةُ الحَشۡرِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 10,
+      "Meccan": 10
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        78,
+        35
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "4:78",
+      "ayah_arabic": "أَيۡنَمَا تَكُونُواْ يُدۡرِككُّمُ ٱلۡمَوۡتُ وَلَوۡ كُنتُمۡ فِي بُرُوجࣲ مُّشَيَّدَةࣲۗ وَإِن تُصِبۡهُمۡ حَسَنَةࣱ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِ ٱللَّهِۖ وَإِن تُصِبۡهُمۡ سَيِّئَةࣱ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِكَۚ قُلۡ كُلࣱّ مِّنۡ عِندِ ٱللَّهِۖ فَمَالِ هَٰٓؤُلَآءِ ٱلۡقَوۡمِ لَا يَكَادُونَ يَفۡقَهُونَ حَدِيثࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(to) understand",
+      "translations": {
+        "saheeh": "Wherever you may be, death will overtake you, even if you should be within towers of lofty construction. But if good comes to them, they say, \"This is from Allah \"; and if evil befalls them, they say, \"This is from you.\" Say, \"All [things] are from Allah.\" So what is [the matter] with those people that they can hardly understand any statement?",
+        "pickthall": "Wheresoever ye may be, death will overtake you, even though ye were in lofty towers. Yet if a happy thing befalleth them they say: This is from Allah; and if an evil thing befalleth them they say: This is of thy doing (O Muhammad). Say (unto them): All is from Allah. What is amiss with these people that they come not nigh to understand a happening?",
+        "khattab": "Wherever you may be, death will overcome you—even if you were in fortified towers.” When something good befalls them, they say, “This is from Allah,” but when something evil befalls them, they say, “This is from you.” Say, ˹O Prophet,˺ “Both have been destined by Allah.” So what is the matter with these people? They can hardly comprehend anything",
+        "arberry": "Wherever you may be, death will overtake you, though you should be in raised-up towers. And if a good thing visits them, they say, 'This is from God'; but if an evil thing visits them, they say, 'This is from thee.' Say: 'Everything is from God.' How is it with this people? They scarcely understand any tiding."
+      }
+    },
+    {
+      "location": [
+        6,
+        25,
+        10
+      ],
+      "form_arabic": "يَفْقَهُوهُ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "6:25",
+      "ayah_arabic": "وَمِنۡهُم مَّن يَسۡتَمِعُ إِلَيۡكَۖ وَجَعَلۡنَا عَلَىٰ قُلُوبِهِمۡ أَكِنَّةً أَن يَفۡقَهُوهُ وَفِيٓ ءَاذَانِهِمۡ وَقۡرࣰ اۚ وَإِن يَرَوۡاْ كُلَّ ءَايَةࣲ لَّا يُؤۡمِنُواْ بِهَاۖ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "they understand it",
+      "translations": {
+        "saheeh": "And among them are those who listen to you, but We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if they should see every sign, they will not believe in it. Even when they come to you arguing with you, those who disbelieve say, \"This is not but legends of the former peoples.\"",
+        "pickthall": "Of them are some who listen unto thee, but We have placed upon their hearts veils, lest they should understand, and in their ears a deafness. If they saw every token they would not believe therein; to the point that, when they come unto thee to argue with thee, the disbelievers say: This is naught else than fables of the men of old.",
+        "khattab": "There are some of them who ˹pretend to˺ listen to your recitation ˹of the Quran˺, but We have cast veils over their hearts—leaving them unable to comprehend it—and deafness in their ears. Even if they were to see every sign, they still would not believe in them. The disbelievers would ˹even˺ come to argue with you, saying, “This ˹Quran˺ is nothing but ancient fables!”",
+        "arberry": "And some of them there are that listen to thee, and We lay veils upon their hearts lest they understand it, and in their ears heaviness; and if they see any sign whatever, they do not believe in it, so that when they come to thee they dispute with thee, the unbelievers saying, 'This is naught but the fairy-tales of the ancient ones.'"
+      }
+    },
+    {
+      "location": [
+        6,
+        65,
+        27
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "6:65",
+      "ayah_arabic": "قُلۡ هُوَ ٱلۡقَادِرُ عَلَىٰٓ أَن يَبۡعَثَ عَلَيۡكُمۡ عَذَابࣰ ا مِّن فَوۡقِكُمۡ أَوۡ مِن تَحۡتِ أَرۡجُلِكُمۡ أَوۡ يَلۡبِسَكُمۡ شِيَعࣰ ا وَيُذِيقَ بَعۡضَكُم بَأۡسَ بَعۡضٍۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ لَعَلَّهُمۡ يَفۡقَهُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "understand",
+      "translations": {
+        "saheeh": "Say, \"He is the [one] Able to send upon you affliction from above you or from beneath your feet or to confuse you [so you become] sects and make you taste the violence of one another.\" Look how We diversify the signs that they might understand.",
+        "pickthall": "Say: He is able to send punishment upon you from above you or from beneath your feet, or to bewilder you with dissension and make you taste the tyranny one of another. See how We display the revelations so that they may understand.",
+        "khattab": "Say, “He ˹alone˺ has the power to unleash upon you a torment from above or below you or split you into ˹conflicting˺ factions and make you taste the violence of one another.” See how We vary the signs, so perhaps they will comprehend",
+        "arberry": "Say: 'He is able to send forth upon you chastisement, from above you or from under your feet, or to confuse you in sects and to make you taste the violence of one another.' Behold how We turn about the signs; haply they will understand."
+      }
+    },
+    {
+      "location": [
+        6,
+        98,
+        13
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "6:98",
+      "ayah_arabic": "وَهُوَ ٱلَّذِيٓ أَنشَأَكُم مِّن نَّفۡسࣲ وَٰحِدَةࣲ فَمُسۡتَقَرࣱّ وَمُسۡتَوۡدَعࣱۗ قَدۡ فَصَّلۡنَا ٱلۡأٓيَٰتِ لِقَوۡمࣲ يَفۡقَهُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "(who) understand",
+      "translations": {
+        "saheeh": "And it is He who produced you from one soul and [gave you] a place of dwelling and of storage. We have detailed the signs for a people who understand.",
+        "pickthall": "And He it is Who hath produced you from a single being, and (hath given you) a habitation and a repository. We have detailed Our revelations for a people who have understanding.",
+        "khattab": "And He is the One Who originated you all from a single soul, then assigned you a place to live and another to ˹be laid to˺ rest. We have already made the signs clear for people who comprehend",
+        "arberry": "It is He who produced you from one living soul, and then a lodging-place, and then a repository. We have distinguished the signs for a people who understand."
+      }
+    },
+    {
+      "location": [
+        7,
+        179,
+        11
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "7:179",
+      "ayah_arabic": "وَلَقَدۡ ذَرَأۡنَا لِجَهَنَّمَ كَثِيرࣰ ا مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ لَهُمۡ قُلُوبࣱ لَّا يَفۡقَهُونَ بِهَا وَلَهُمۡ أَعۡيُنࣱ لَّا يُبۡصِرُونَ بِهَا وَلَهُمۡ ءَاذَانࣱ لَّا يَسۡمَعُونَ بِهَآۚ أُوْلَٰٓئِكَ كَٱلۡأَنۡعَٰمِ بَلۡ هُمۡ أَضَلُّۚ أُوْلَٰٓئِكَ هُمُ ٱلۡغَٰفِلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "they understand",
+      "translations": {
+        "saheeh": "And We have certainly created for Hell many of the jinn and mankind. They have hearts with which they do not understand, they have eyes with which they do not see, and they have ears with which they do not hear. Those are like livestock; rather, they are more astray. It is they who are the heedless.",
+        "pickthall": "Already have We urged unto hell many of the jinn and humankind, having hearts wherewith they understand not, and having eyes wherewith they see not, and having ears wherewith they hear not. These are as the cattle - nay, but they are worse! These are the neglectful.",
+        "khattab": "Indeed, We have destined many jinn and humans for Hell. They have hearts they do not understand with, eyes they do not see with, and ears they do not hear with. They are like cattle. In fact, they are even less guided! Such ˹people˺ are ˹entirely˺ heedless",
+        "arberry": "We have created for Gehenna many jinn and men: they have hearts, but understand not with them; they have eyes, but perceive not with them; they have ears, but they hear not with them. They are like cattle; nay, rather they are further astray. Those -- they are the heedless."
+      }
+    },
+    {
+      "location": [
+        8,
+        65,
+        26
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "8:65",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَرِّضِ ٱلۡمُؤۡمِنِينَ عَلَى ٱلۡقِتَالِۚ إِن يَكُن مِّنكُمۡ عِشۡرُونَ صَٰبِرُونَ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُم مِّاْئَةࣱ يَغۡلِبُوٓاْ أَلۡفࣰ ا مِّنَ ٱلَّذِينَ كَفَرُواْ بِأَنَّهُمۡ قَوۡمࣱ لَّا يَفۡقَهُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "understand",
+      "translations": {
+        "saheeh": "O Prophet, urge the believers to battle. If there are among you twenty [who are] steadfast, they will overcome two hundred. And if there are among you one hundred [who are] steadfast, they will overcome a thousand of those who have disbelieved because they are a people who do not understand.",
+        "pickthall": "O Prophet! Exhort the believers to fight. If there be of you twenty steadfast they shall overcome two hundred, and if there be of you a hundred (steadfast) they shall overcome a thousand of those who disbelieve, because they (the disbelievers) are a folk without intelligence.",
+        "khattab": "O Prophet! Motivate the believers to fight. If there are twenty steadfast among you, they will overcome two hundred. And if there are one hundred of you, they will overcome one thousand of the disbelievers, for they are a people who do not comprehend",
+        "arberry": "O Prophet, urge on the believers to fight. If there be twenty of you, patient men, they will overcome two hundred; if there be a hundred of you, they will overcome a thousand unbelievers, for they are a people who understand not."
+      }
+    },
+    {
+      "location": [
+        9,
+        81,
+        27
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "9:81",
+      "ayah_arabic": "فَرِحَ ٱلۡمُخَلَّفُونَ بِمَقۡعَدِهِمۡ خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓاْ أَن يُجَٰهِدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِ وَقَالُواْ لَا تَنفِرُواْ فِي ٱلۡحَرِّۗ قُلۡ نَارُ جَهَنَّمَ أَشَدُّ حَرࣰّ اۚ لَّوۡ كَانُواْ يَفۡقَهُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "understand",
+      "translations": {
+        "saheeh": "Those who remained behind rejoiced in their staying [at home] after [the departure of] the Messenger of Allah and disliked to strive with their wealth and their lives in the cause of Allah and said, \"Do not go forth in the heat.\" Say, \"The fire of Hell is more intensive in heat\" - if they would but understand.",
+        "pickthall": "Those who were left behind rejoiced at sitting still behind the messenger of Allah, and were averse to striving with their wealth and their lives in Allah's way. And they said: Go not forth in the heat! Say: The fire of hell is more intense of heat, if they but understood.",
+        "khattab": "Those ˹hypocrites˺ who remained behind rejoiced for doing so in defiance of the Messenger of Allah and hated ˹the prospect of˺ striving with their wealth and their lives in the cause of Allah. They said ˹to one another˺, “Do not march forth in the heat.” Say, ˹O Prophet,˺ “The Fire of Hell is far hotter!” If only they could comprehend",
+        "arberry": "Those who were left behind rejoiced in tarrying behind the Messenger of God, and were averse to struggle with their possessions and their selves in the way of God. They said, 'Go not forth in the heat.' Say: 'Gehenna's fire is hotter, did they but understand.'"
+      }
+    },
+    {
+      "location": [
+        9,
+        87,
+        11
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "9:87",
+      "ayah_arabic": "رَضُواْ بِأَن يَكُونُواْ مَعَ ٱلۡخَوَالِفِ وَطُبِعَ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا يَفۡقَهُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "understand",
+      "translations": {
+        "saheeh": "They were satisfied to be with those who stay behind, and their hearts were sealed over, so they do not understand.",
+        "pickthall": "They are content that they should be with the useless and their hearts are sealed, so that they apprehend not.",
+        "khattab": "They preferred to stay behind with the helpless, and their hearts have been sealed so they do not comprehend",
+        "arberry": "They are well-pleased to be with those behind, and a seal has been set upon their hearts, so the they understand not."
+      }
+    },
+    {
+      "location": [
+        9,
+        122,
+        13
+      ],
+      "form_arabic": "لِّيَتَفَقَّهُوا@",
+      "lemma": "yatafaq~ahu",
+      "lemma_arabic": "يَتَفَقَّهُ",
+      "pos": "V",
+      "ayah_id": "9:122",
+      "ayah_arabic": "۞وَمَا كَانَ ٱلۡمُؤۡمِنُونَ لِيَنفِرُواْ كَآفَّةࣰۚ فَلَوۡلَا نَفَرَ مِن كُلِّ فِرۡقَةࣲ مِّنۡهُمۡ طَآئِفَةࣱ لِّيَتَفَقَّهُواْ فِي ٱلدِّينِ وَلِيُنذِرُواْ قَوۡمَهُمۡ إِذَا رَجَعُوٓاْ إِلَيۡهِمۡ لَعَلَّهُمۡ يَحۡذَرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "that they may obtain understanding",
+      "translations": {
+        "saheeh": "And it is not for the believers to go forth [to battle] all at once. For there should separate from every division of them a group [remaining] to obtain understanding in the religion and warn their people when they return to them that they might be cautious.",
+        "pickthall": "And the believers should not all go out to fight. Of every troop of them, a party only should go forth, that they (who are left behind) may gain sound knowledge in religion, and that they may warn their folk when they return to them, so that they may beware.",
+        "khattab": "˹However,˺ it is not necessary for the believers to march forth all at once. Only a party from each group should march forth, leaving the rest to gain religious knowledge then enlighten their people when they return to them, so that they ˹too˺ may beware ˹of evil˺",
+        "arberry": "It is not for the believers to go forth totally; but why should not a party of every section of them go forth, to become learned in religion, and to warn their people when they return to them, that haply they may beware?"
+      }
+    },
+    {
+      "location": [
+        9,
+        127,
+        21
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "9:127",
+      "ayah_arabic": "وَإِذَا مَآ أُنزِلَتۡ سُورَةࣱ نَّظَرَ بَعۡضُهُمۡ إِلَىٰ بَعۡضٍ هَلۡ يَرَىٰكُم مِّنۡ أَحَدࣲ ثُمَّ ٱنصَرَفُواْۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمۡ قَوۡمࣱ لَّا يَفۡقَهُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "they understand",
+      "translations": {
+        "saheeh": "And whenever a surah is revealed, they look at each other, [saying], \"Does anyone see you?\" and then they dismiss themselves. Allah has dismissed their hearts because they are a people who do not understand.",
+        "pickthall": "And whenever a surah is revealed, they look one at another (as who should say): Doth anybody see you? Then they turn away. Allah turneth away their hearts because they are a folk who understand not.",
+        "khattab": "Whenever a sûrah is revealed, they look at one another, ˹saying,˺ “Is anyone watching you?” Then they slip away. ˹It is˺ Allah ˹Who˺ has turned their hearts away because they are a people who do not comprehend",
+        "arberry": "And whenever a sura is sent down, they look one at another: 'Does anyone see you?' Then they turn away. God has turned away their hearts, for that they are a people who do not understand."
+      }
+    },
+    {
+      "location": [
+        11,
+        91,
+        4
+      ],
+      "form_arabic": "نَفْقَهُ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "11:91",
+      "ayah_arabic": "قَالُواْ يَٰشُعَيۡبُ مَا نَفۡقَهُ كَثِيرࣰ ا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفࣰ اۖ وَلَوۡلَا رَهۡطُكَ لَرَجَمۡنَٰكَۖ وَمَآ أَنتَ عَلَيۡنَا بِعَزِيزࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "we understand",
+      "translations": {
+        "saheeh": "They said, \"O Shu'ayb, we do not understand much of what you say, and indeed, we consider you among us as weak. And if not for your family, we would have stoned you [to death]; and you are not to us one respected.\"",
+        "pickthall": "They said: O Shu'eyb! We understand not much of that thou tellest, and lo! we do behold thee weak among us. But for thy family, we should have stoned thee, for thou art not strong against us.",
+        "khattab": "They threatened, “O Shu’aib! We do not comprehend much of what you say, and surely we see you powerless among us. Were it not for your clan, we would have certainly stoned you, for you are nothing to us.”",
+        "arberry": "They said, 'Shuaib, we do not understand much of what thou sayest. Truly we see thee weak among us; but for thy tribe we would have stoned thee; for thou art not strong against us."
+      }
+    },
+    {
+      "location": [
+        17,
+        44,
+        16
+      ],
+      "form_arabic": "تَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "17:44",
+      "ayah_arabic": "تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبۡعُ وَٱلۡأَرۡضُ وَمَن فِيهِنَّۚ وَإِن مِّن شَيۡءٍ إِلَّا يُسَبِّحُ بِحَمۡدِهِۦ وَلَٰكِن لَّا تَفۡقَهُونَ تَسۡبِيحَهُمۡۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "you understand",
+      "translations": {
+        "saheeh": "The seven heavens and the earth and whatever is in them exalt Him. And there is not a thing except that it exalts [Allah] by His praise, but you do not understand their [way of] exalting. Indeed, He is ever Forbearing and Forgiving.",
+        "pickthall": "The seven heavens and the earth and all that is therein praise Him, and there is not a thing but hymneth His praise; but ye understand not their praise. Lo! He is ever Clement, Forgiving.",
+        "khattab": "The seven heavens, the earth, and all those in them glorify Him. There is not a single thing that does not glorify His praises—but you ˹simply˺ cannot comprehend their glorification. He is indeed Most Forbearing, All-Forgiving",
+        "arberry": "The seven heavens and the earth, and whosoever in them is, extol Him; nothing is, that does not proclaim His praise, but you do not understand their extolling. Surely He is All-clement, All-forgiving."
+      }
+    },
+    {
+      "location": [
+        17,
+        46,
+        6
+      ],
+      "form_arabic": "يَفْقَهُوهُ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "17:46",
+      "ayah_arabic": "وَجَعَلۡنَا عَلَىٰ قُلُوبِهِمۡ أَكِنَّةً أَن يَفۡقَهُوهُ وَفِيٓ ءَاذَانِهِمۡ وَقۡرࣰ اۚ وَإِذَا ذَكَرۡتَ رَبَّكَ فِي ٱلۡقُرۡءَانِ وَحۡدَهُۥ وَلَّوۡاْ عَلَىٰٓ أَدۡبَٰرِهِمۡ نُفُورࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "they understand it",
+      "translations": {
+        "saheeh": "And We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And when you mention your Lord alone in the Qur'an, they turn back in aversion.",
+        "pickthall": "And We place upon their hearts veils lest they should understand it, and in their ears a deafness; and when thou makest mention of thy Lord alone in the Qur'an, they turn their backs in aversion.",
+        "khattab": "We have cast veils over their hearts—leaving them unable to comprehend it—and deafness in their ears. And when you mention your Lord alone in the Quran, they turn their backs in aversion",
+        "arberry": "and We lay veils upon their hearts lest they understand it, and in their ears heaviness. And when thou mentionest thy Lord only in the Koran, they turn in their traces in aversion."
+      }
+    },
+    {
+      "location": [
+        18,
+        57,
+        19
+      ],
+      "form_arabic": "يَفْقَهُوهُ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "18:57",
+      "ayah_arabic": "وَمَنۡ أَظۡلَمُ مِمَّن ذُكِّرَ بِـَٔايَٰتِ رَبِّهِۦ فَأَعۡرَضَ عَنۡهَا وَنَسِيَ مَا قَدَّمَتۡ يَدَاهُۚ إِنَّا جَعَلۡنَا عَلَىٰ قُلُوبِهِمۡ أَكِنَّةً أَن يَفۡقَهُوهُ وَفِيٓ ءَاذَانِهِمۡ وَقۡرࣰ اۖ وَإِن تَدۡعُهُمۡ إِلَى ٱلۡهُدَىٰ فَلَن يَهۡتَدُوٓاْ إِذًا أَبَدࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "they understand it",
+      "translations": {
+        "saheeh": "And who is more unjust than one who is reminded of the verses of his Lord but turns away from them and forgets what his hands have put forth? Indeed, We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if you invite them to guidance - they will never be guided, then - ever.",
+        "pickthall": "And who doth greater wrong than he who hath been reminded of the revelations of his Lord, yet turneth away from them and forgetteth what his hands send forward (to the Judgment)? Lo! on their hearts We have placed coverings so that they understand not, and in their ears a deafness. And though thou call them to the guidance, in that case they can never be led aright.",
+        "khattab": "And who does more wrong than those who, when reminded of their Lord’s revelations, turn away from them and forget what their own hands have done? We have certainly cast veils over their hearts—leaving them unable to comprehend this ˹Quran˺—and deafness in their ears. And if you ˹O Prophet˺ invite them to ˹true˺ guidance, they will never be ˹rightly˺ guided",
+        "arberry": "And who does greater evil than he who, being reminded of the signs of his Lord, turns away from them and forgets what his hands have forwarded? Surely We have laid veils on their hearts lest they understand it, and in their ears heaviness; and though thou callest them to the guidance, yet they will not be guided ever."
+      }
+    },
+    {
+      "location": [
+        18,
+        93,
+        12
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "18:93",
+      "ayah_arabic": "حَتَّىٰٓ إِذَا بَلَغَ بَيۡنَ ٱلسَّدَّيۡنِ وَجَدَ مِن دُونِهِمَا قَوۡمࣰ ا لَّا يَكَادُونَ يَفۡقَهُونَ قَوۡلࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "understand",
+      "translations": {
+        "saheeh": "Until, when he reached [a pass] between two mountains, he found beside them a people who could hardly understand [his] speech.",
+        "pickthall": "Till, when he came between the two mountains, he found upon their hither side a folk that scarce could understand a saying.",
+        "khattab": "until he reached ˹a pass˺ between two mountains. He found in front of them a people who could hardly understand ˹his˺ language",
+        "arberry": "until, when he reached between the two barriers, he found this side of them a people scarcely able to understand speech."
+      }
+    },
+    {
+      "location": [
+        20,
+        28,
+        1
+      ],
+      "form_arabic": "يَفْقَهُوا@",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "20:28",
+      "ayah_arabic": "يَفۡقَهُواْ قَوۡلِي",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "That they may understand",
+      "translations": {
+        "saheeh": "That they may understand my speech.",
+        "pickthall": "That they may understand my saying.",
+        "khattab": "so people may understand my speech",
+        "arberry": "hat they may understand my words."
+      }
+    },
+    {
+      "location": [
+        48,
+        15,
+        29
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "48:15",
+      "ayah_arabic": "سَيَقُولُ ٱلۡمُخَلَّفُونَ إِذَا ٱنطَلَقۡتُمۡ إِلَىٰ مَغَانِمَ لِتَأۡخُذُوهَا ذَرُونَا نَتَّبِعۡكُمۡۖ يُرِيدُونَ أَن يُبَدِّلُواْ كَلَٰمَ ٱللَّهِۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمۡ قَالَ ٱللَّهُ مِن قَبۡلُۖ فَسَيَقُولُونَ بَلۡ تَحۡسُدُونَنَاۚ بَلۡ كَانُواْ لَا يَفۡقَهُونَ إِلَّا قَلِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Fath",
+      "literal_gloss": "understanding",
+      "translations": {
+        "saheeh": "Those who remained behind will say when you set out toward the war booty to take it, \"Let us follow you.\" They wish to change the words of Allah. Say, \"Never will you follow us. Thus did Allah say before.\" So they will say, \"Rather, you envy us.\" But [in fact] they were not understanding except a little.",
+        "pickthall": "Those who were left behind will say, when ye set forth to capture booty: Let us go with you. They fain would change the verdict of Allah. Say (unto them, O Muhammad): Ye shall not go with us. Thus hath Allah said beforehand. Then they will say: Ye are envious of us. Nay, but they understand not, save a little.",
+        "khattab": "Those who stayed behind will say, when you ˹believers˺ set out to take the spoils of war, “Let us accompany you.” They wish to change Allah’s promise. Say, ˹O Prophet,˺ “You will not accompany us. This is what Allah has said before.” They will then say, “In fact, you are driven by jealousy against us!” The truth is: they can hardly comprehend",
+        "arberry": "The Bedouins who were left behind will say, when you set forth after spoils, to take them, 'Let us follow you,' desiring to change God's words. Say: 'You shall not follow us; so God said before.' Then they will say, 'Nay, but you' are jealous of us.' Nay, but they have not understood except a little."
+      }
+    },
+    {
+      "location": [
+        59,
+        13,
+        12
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "59:13",
+      "ayah_arabic": "لَأَنتُمۡ أَشَدُّ رَهۡبَةࣰ فِي صُدُورِهِم مِّنَ ٱللَّهِۚ ذَٰلِكَ بِأَنَّهُمۡ قَوۡمࣱ لَّا يَفۡقَهُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hashr",
+      "literal_gloss": "understand",
+      "translations": {
+        "saheeh": "You [believers] are more fearful within their breasts than Allah. That is because they are a people who do not understand.",
+        "pickthall": "Ye are more awful as a fear in their bosoms than Allah. That is because they are a folk who understand not.",
+        "khattab": "Indeed, there is more fear in their hearts for you ˹believers˺ than for Allah. That is because they are a people who do not comprehend",
+        "arberry": "Why, you arouse greater fear in their hearts than God; that is because they are a people who understand not."
+      }
+    },
+    {
+      "location": [
+        63,
+        3,
+        11
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "63:3",
+      "ayah_arabic": "ذَٰلِكَ بِأَنَّهُمۡ ءَامَنُواْ ثُمَّ كَفَرُواْ فَطُبِعَ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا يَفۡقَهُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Munaafiqoon",
+      "literal_gloss": "understand",
+      "translations": {
+        "saheeh": "That is because they believed, and then they disbelieved; so their hearts were sealed over, and they do not understand.",
+        "pickthall": "That is because they believed, then disbelieved, therefore their hearts are sealed so that they understand not.",
+        "khattab": "This is because they believed and then abandoned faith. Therefore, their hearts have been sealed, so they do not comprehend",
+        "arberry": "That is because they have believed, then they have disbelieved; therefore a seal has been set on their hearts, and they do not understand."
+      }
+    },
+    {
+      "location": [
+        63,
+        7,
+        20
+      ],
+      "form_arabic": "يَفْقَهُونَ",
+      "lemma": "yafoqahu",
+      "lemma_arabic": "يَفْقَهُ",
+      "pos": "V",
+      "ayah_id": "63:7",
+      "ayah_arabic": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنۡ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّواْۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَٰكِنَّ ٱلۡمُنَٰفِقِينَ لَا يَفۡقَهُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Munaafiqoon",
+      "literal_gloss": "understand",
+      "translations": {
+        "saheeh": "They are the ones who say, \"Do not spend on those who are with the Messenger of Allah until they disband.\" And to Allah belongs the depositories of the heavens and the earth, but the hypocrites do not understand.",
+        "pickthall": "They it is who say: Spend not on behalf of those (who dwell) with Allah's messenger that they may disperse (and go away from you); when Allah's are the treasures of the heavens and the earth; but the hypocrites comprehend not.",
+        "khattab": "They are the ones who say ˹to one another˺, “Do not spend ˹anything˺ on those ˹emigrants˺ with the Messenger of Allah so that they will break away ˹from him˺.” But to Allah ˹alone˺ belong the treasuries of the heavens and the earth, yet the hypocrites do not comprehend",
+        "arberry": "Those are they that say, 'Do not expend on them that are with God's Messenger until they scatter off'; yet unto God belong the treasuries of the heavens and of the earth, but the hypocrites do not understand."
+      }
+    }
+  ]
+}

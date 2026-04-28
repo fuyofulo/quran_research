@@ -1,0 +1,509 @@
+{
+  "root": "rmn",
+  "root_arabic": "رمن",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "r~um~aAn",
+      "lemma_arabic": "رُّمَّان",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        6,
+        99,
+        29
+      ],
+      "occurrences": [
+        {
+          "location": [
+            6,
+            99,
+            29
+          ],
+          "form_arabic": "وَٱلرُّمَّانَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            6,
+            141,
+            13
+          ],
+          "form_arabic": "وَٱلرُّمَّانَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            55,
+            68,
+            4
+          ],
+          "form_arabic": "وَرُمَّانٌ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "nxl",
+      "root_arabic": "نخل",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "$bh",
+      "root_arabic": "شبه",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "vmr",
+      "root_arabic": "ثمر",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "zyt",
+      "root_arabic": "زيت",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "zrE",
+      "root_arabic": "زرع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "n$A",
+      "root_arabic": "نشا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "Er$",
+      "root_arabic": "عرش",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "HSd",
+      "root_arabic": "حصد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "srf",
+      "root_arabic": "سرف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        141
+      ]
+    },
+    {
+      "root": "fkh",
+      "root_arabic": "فكه",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        55,
+        68
+      ]
+    },
+    {
+      "root": "ynE",
+      "root_arabic": "ينع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "rkb",
+      "root_arabic": "ركب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "nbt",
+      "root_arabic": "نبت",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "qnw",
+      "root_arabic": "قنو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "TlE",
+      "root_arabic": "طلع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "xDr",
+      "root_arabic": "خضر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "Enb",
+      "root_arabic": "عنب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        99
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 55,
+        "name_english": "Ar-Rahmaan",
+        "name_arabic": "سُورَةُ الرَّحۡمَٰن",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        6,
+        99,
+        29
+      ],
+      "form_arabic": "وَٱلرُّمَّانَ",
+      "lemma": "r~um~aAn",
+      "lemma_arabic": "رُّمَّان",
+      "pos": "N",
+      "ayah_id": "6:99",
+      "ayah_arabic": "وَهُوَ ٱلَّذِيٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءࣰ فَأَخۡرَجۡنَا بِهِۦ نَبَاتَ كُلِّ شَيۡءࣲ فَأَخۡرَجۡنَا مِنۡهُ خَضِرࣰ ا نُّخۡرِجُ مِنۡهُ حَبࣰّ ا مُّتَرَاكِبࣰ ا وَمِنَ ٱلنَّخۡلِ مِن طَلۡعِهَا قِنۡوَانࣱ دَانِيَةࣱ وَجَنَّٰتࣲ مِّنۡ أَعۡنَابࣲ وَٱلزَّيۡتُونَ وَٱلرُّمَّانَ مُشۡتَبِهࣰ ا وَغَيۡرَ مُتَشَٰبِهٍۗ ٱنظُرُوٓاْ إِلَىٰ ثَمَرِهِۦٓ إِذَآ أَثۡمَرَ وَيَنۡعِهِۦٓۚ إِنَّ فِي ذَٰلِكُمۡ لَأٓيَٰتࣲ لِّقَوۡمࣲ يُؤۡمِنُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "and the pomegranates",
+      "translations": {
+        "saheeh": "And it is He who sends down rain from the sky, and We produce thereby the growth of all things. We produce from it greenery from which We produce grains arranged in layers. And from the palm trees - of its emerging fruit are clusters hanging low. And [We produce] gardens of grapevines and olives and pomegranates, similar yet varied. Look at [each of] its fruit when it yields and [at] its ripening. Indeed in that are signs for a people who believe.",
+        "pickthall": "He it is Who sendeth down water from the sky, and therewith We bring forth buds of every kind; We bring forth the green blade from which We bring forth the thick-clustered grain; and from the date-palm, from the pollen thereof, spring pendant bunches; and (We bring forth) gardens of grapes, and the olive and the pomegranate, alike and unlike. Look upon the fruit thereof, when they bear fruit, and upon its ripening. Lo! herein verily are portents for a people who believe.",
+        "khattab": "And He is the One Who sends down rain from the sky—causing all kinds of plants to grow—producing green stalks from which We bring forth clustered grain. And from palm trees come clusters of dates hanging within reach. ˹There are˺ also gardens of grapevines, olives, and pomegranates, similar ˹in shape˺ but dissimilar ˹in taste˺. Look at their fruit as it yields and ripens! Indeed, in these are signs for people who believe",
+        "arberry": "It is He who sent down out of heaven water, and thereby We have brought forth the shoot of every plant, and then We have brought forth the green leaf of it, bringing forth from it close-compounded grain, and out of the palm-tree, from the spathe of it, dates thick-lustered, ready to the hand, and gardens of vines, olives, pomegranates, like each to each, and each unlike to each. Look upon their fruits when they fructify and ripen! Surely, in all this are signs for a people who do believe."
+      }
+    },
+    {
+      "location": [
+        6,
+        141,
+        13
+      ],
+      "form_arabic": "وَٱلرُّمَّانَ",
+      "lemma": "r~um~aAn",
+      "lemma_arabic": "رُّمَّان",
+      "pos": "N",
+      "ayah_id": "6:141",
+      "ayah_arabic": "۞وَهُوَ ٱلَّذِيٓ أَنشَأَ جَنَّٰتࣲ مَّعۡرُوشَٰتࣲ وَغَيۡرَ مَعۡرُوشَٰتࣲ وَٱلنَّخۡلَ وَٱلزَّرۡعَ مُخۡتَلِفًا أُكُلُهُۥ وَٱلزَّيۡتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهࣰ ا وَغَيۡرَ مُتَشَٰبِهࣲۚ كُلُواْ مِن ثَمَرِهِۦٓ إِذَآ أَثۡمَرَ وَءَاتُواْ حَقَّهُۥ يَوۡمَ حَصَادِهِۦۖ وَلَا تُسۡرِفُوٓاْۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُسۡرِفِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "and the pomegranates",
+      "translations": {
+        "saheeh": "And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakah] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess.",
+        "pickthall": "He it is Who produceth gardens trellised and untrellised, and the date-palm, and crops of divers flavour, and the olive and the pomegranate, like and unlike. Eat ye of the fruit thereof when it fruiteth, and pay the due thereof upon the harvest day, and be not prodigal. Lo! Allah loveth not the prodigals.",
+        "khattab": "He is the One Who produces gardens—both cultivated and wild—and palm trees, crops of different flavours, olives, and pomegranates—similar ˹in shape˺, but dissimilar ˹in taste˺. Eat of the fruit they bear and pay the dues at harvest, but do not waste. Surely He does not like the wasteful",
+        "arberry": "It is He who produces gardens trellised, and untrellised, palm-trees, and crops diverse in produce, olives, pomegranates, like each to each, and each unlike to each. Eat of their fruits when they fructify, and pay the due thereof on the day of its harvest; and be not prodigal; God loves not the prodigal."
+      }
+    },
+    {
+      "location": [
+        55,
+        68,
+        4
+      ],
+      "form_arabic": "وَرُمَّانٌ",
+      "lemma": "r~um~aAn",
+      "lemma_arabic": "رُّمَّان",
+      "pos": "N",
+      "ayah_id": "55:68",
+      "ayah_arabic": "فِيهِمَا فَٰكِهَةࣱ وَنَخۡلࣱ وَرُمَّانࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "and pomegranates",
+      "translations": {
+        "saheeh": "In both of them are fruit and palm trees and pomegranates.",
+        "pickthall": "Wherein is fruit, the date-palm and pomegranate.",
+        "khattab": "In both will be fruit, palm trees, and pomegranates",
+        "arberry": "therein fruits, and palm-trees, and pomegranates --"
+      }
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "root": "Erw",
+  "root_arabic": "عرو",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 2,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 2,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "Eurowap",
+      "lemma_arabic": "عُرْوَة",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        2,
+        256,
+        17
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            256,
+            17
+          ],
+          "form_arabic": "بِٱلْعُرْوَةِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            31,
+            22,
+            10
+          ],
+          "form_arabic": "بِٱلْعُرْوَةِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "{EotaraY`",
+      "lemma_arabic": "ٱعْتَرَىٰ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        11,
+        54,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            54,
+            4
+          ],
+          "form_arabic": "ٱعْتَرَىٰكَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "msk",
+      "root_arabic": "مسك",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "wvq",
+      "root_arabic": "وثق",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "Tgy",
+      "root_arabic": "طغي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "fSm",
+      "root_arabic": "فصم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "r$d",
+      "root_arabic": "رشد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "krh",
+      "root_arabic": "كره",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "gwy",
+      "root_arabic": "غوي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        256
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        31,
+        22
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        31,
+        22
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        31,
+        22
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        31,
+        22
+      ]
+    },
+    {
+      "root": "Eqb",
+      "root_arabic": "عقب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        31,
+        22
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        54
+      ]
+    },
+    {
+      "root": "brA",
+      "root_arabic": "برا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        54
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        54
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        54
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        54
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        11,
+        54
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 31,
+        "name_english": "Luqman",
+        "name_arabic": "سُورَةُ لُقۡمَانَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        256,
+        17
+      ],
+      "form_arabic": "بِٱلْعُرْوَةِ",
+      "lemma": "Eurowap",
+      "lemma_arabic": "عُرْوَة",
+      "pos": "N",
+      "ayah_id": "2:256",
+      "ayah_arabic": "لَآ إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ فَمَن يَكۡفُرۡ بِٱلطَّٰغُوتِ وَيُؤۡمِنۢ بِٱللَّهِ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰ لَا ٱنفِصَامَ لَهَاۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "the handhold ",
+      "translations": {
+        "saheeh": "There shall be no compulsion in [acceptance of] the religion. The right course has become clear from the wrong. So whoever disbelieves in Taghut and believes in Allah has grasped the most trustworthy handhold with no break in it. And Allah is Hearing and Knowing.",
+        "pickthall": "There is no compulsion in religion. The right direction is henceforth distinct from error. And he who rejecteth false deities and believeth in Allah hath grasped a firm handhold which will never break. Allah is Hearer, Knower.",
+        "khattab": "Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing",
+        "arberry": "No compulsion is there in religion. Rectitude has become clear from error. So whosoever disbelieves in idols and believes in God, has laid hold of the most firm handle, unbreaking; God is All-hearing, All-knowing."
+      }
+    },
+    {
+      "location": [
+        11,
+        54,
+        4
+      ],
+      "form_arabic": "ٱعْتَرَىٰكَ",
+      "lemma": "{EotaraY`",
+      "lemma_arabic": "ٱعْتَرَىٰ",
+      "pos": "V",
+      "ayah_id": "11:54",
+      "ayah_arabic": "إِن نَّقُولُ إِلَّا ٱعۡتَرَىٰكَ بَعۡضُ ءَالِهَتِنَا بِسُوٓءࣲۗ قَالَ إِنِّيٓ أُشۡهِدُ ٱللَّهَ وَٱشۡهَدُوٓاْ أَنِّي بَرِيٓءࣱ مِّمَّا تُشۡرِكُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "have seized you",
+      "translations": {
+        "saheeh": "We only say that some of our gods have possessed you with evil.\" He said, \"Indeed, I call Allah to witness, and witness [yourselves] that I am free from whatever you associate with Allah",
+        "pickthall": "We say naught save that one of our gods hath possessed thee in an evil way. He said: I call Allah to witness, and do ye (too) bear witness, that I am innocent of (all) that ye ascribe as partners (to Allah)",
+        "khattab": "All we can say is that some of our gods have possessed you with evil.” He said, “I call Allah to witness, and you too bear witness, that I ˹totally˺ reject whatever you associate",
+        "arberry": "We say nothing, but that one of our gods has smitten thee with some evil.' He said, 'I call God to witness; and witness you, that I am quit of that you associate"
+      }
+    },
+    {
+      "location": [
+        31,
+        22,
+        10
+      ],
+      "form_arabic": "بِٱلْعُرْوَةِ",
+      "lemma": "Eurowap",
+      "lemma_arabic": "عُرْوَة",
+      "pos": "N",
+      "ayah_id": "31:22",
+      "ayah_arabic": "۞وَمَن يُسۡلِمۡ وَجۡهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحۡسِنࣱ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰۗ وَإِلَى ٱللَّهِ عَٰقِبَةُ ٱلۡأُمُورِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Luqman",
+      "literal_gloss": "the handhold",
+      "translations": {
+        "saheeh": "And whoever submits his face to Allah while he is a doer of good - then he has grasped the most trustworthy handhold. And to Allah will be the outcome of [all] matters.",
+        "pickthall": "Whosoever surrendereth his purpose to Allah while doing good, he verily hath grasped the firm hand-hold. Unto Allah belongeth the sequel of all things.",
+        "khattab": "Whoever fully submits themselves to Allah and is a good-doer, they have certainly grasped the firmest hand-hold. And with Allah rests the outcome of ˹all˺ affairs",
+        "arberry": "And whosoever submits his will to God, being a good-doer, has laid hold of the most firm handle; and unto God is the issue of all affairs."
+      }
+    }
+  ]
+}

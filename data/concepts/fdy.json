@@ -1,0 +1,1816 @@
+{
+  "root": "fdy",
+  "root_arabic": "فدي",
+  "stats": {
+    "occurrences": 13,
+    "lemmas": 5,
+    "ayahs": 13,
+    "surahs": 10,
+    "pos_distribution": {
+      "V": 9,
+      "N": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "{fotadaY`",
+      "lemma_arabic": "ٱفْتَدَىٰ",
+      "count": 7,
+      "pos_distribution": {
+        "V": 7
+      },
+      "first_occurrence": [
+        2,
+        229,
+        33
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            229,
+            33
+          ],
+          "form_arabic": "ٱفْتَدَتْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            3,
+            91,
+            15
+          ],
+          "form_arabic": "ٱفْتَدَىٰ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            5,
+            36,
+            13
+          ],
+          "form_arabic": "لِيَفْتَدُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            10,
+            54,
+            9
+          ],
+          "form_arabic": "لَٱفْتَدَتْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            13,
+            18,
+            18
+          ],
+          "form_arabic": "لَٱفْتَدَوْا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            39,
+            47,
+            11
+          ],
+          "form_arabic": "لَٱفْتَدَوْا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            70,
+            11,
+            5
+          ],
+          "form_arabic": "يَفْتَدِى",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "fidoyap",
+      "lemma_arabic": "فِدْيَة",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        2,
+        184,
+        17
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            184,
+            17
+          ],
+          "form_arabic": "فِدْيَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            196,
+            27
+          ],
+          "form_arabic": "فَفِدْيَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            57,
+            15,
+            5
+          ],
+          "form_arabic": "فِدْيَةٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "tufa`du",
+      "lemma_arabic": "تُفَٰدُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        2,
+        85,
+        18
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            85,
+            18
+          ],
+          "form_arabic": "تُفَٰدُوهُمْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "fadayo",
+      "lemma_arabic": "فَدَيْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        37,
+        107,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            37,
+            107,
+            1
+          ],
+          "form_arabic": "وَفَدَيْنَٰهُ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "fidaA^'",
+      "lemma_arabic": "فِدَا^ء",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        47,
+        4,
+        16
+      ],
+      "occurrences": [
+        {
+          "location": [
+            47,
+            4,
+            16
+          ],
+          "form_arabic": "فِدَا^ءً",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 6,
+      "share": 0.4615,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 6,
+      "share": 0.4615,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 5,
+      "share": 0.3846,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 5,
+      "share": 0.3846,
+      "first_together": [
+        3,
+        91
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 5,
+      "share": 0.3846,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 4,
+      "share": 0.3077,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        5,
+        36
+      ]
+    },
+    {
+      "root": "jmE",
+      "root_arabic": "جمع",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        5,
+        36
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "Swm",
+      "root_arabic": "صوم",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "mrD",
+      "root_arabic": "مرض",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Edw",
+      "root_arabic": "عدو",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        13,
+        18
+      ]
+    },
+    {
+      "root": "Hsb",
+      "root_arabic": "حسب",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        13,
+        18
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        3,
+        91
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        3,
+        91
+      ]
+    },
+    {
+      "root": "Alm",
+      "root_arabic": "الم",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        3,
+        91
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "bAs",
+      "root_arabic": "باس",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        13,
+        18
+      ]
+    },
+    {
+      "root": "Awy",
+      "root_arabic": "اوي",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        13,
+        18
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "Twq",
+      "root_arabic": "طوق",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "TEm",
+      "root_arabic": "طعم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "sfr",
+      "root_arabic": "سفر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "Edd",
+      "root_arabic": "عدد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "skn",
+      "root_arabic": "سكن",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "srH",
+      "root_arabic": "سرح",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Tlq",
+      "root_arabic": "طلق",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "mrr",
+      "root_arabic": "مرر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "msk",
+      "root_arabic": "مسك",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "Hdd",
+      "root_arabic": "حدد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        229
+      ]
+    },
+    {
+      "root": "bdw",
+      "root_arabic": "بدو",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        39,
+        47
+      ]
+    },
+    {
+      "root": "vxn",
+      "root_arabic": "ثخن",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "wDE",
+      "root_arabic": "وضع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "wzr",
+      "root_arabic": "وزر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "wvq",
+      "root_arabic": "وثق",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "Hrb",
+      "root_arabic": "حرب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "mnn",
+      "root_arabic": "منن",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "blw",
+      "root_arabic": "بلو",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "rqb",
+      "root_arabic": "رقب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        47,
+        4
+      ]
+    },
+    {
+      "root": "mlA",
+      "root_arabic": "ملا",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        3,
+        91
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        3,
+        91
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        3,
+        91
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        3,
+        91
+      ]
+    },
+    {
+      "root": "Emr",
+      "root_arabic": "عمر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Eqb",
+      "root_arabic": "عقب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "tmm",
+      "root_arabic": "تمم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Hjj",
+      "root_arabic": "حجج",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Hlq",
+      "root_arabic": "حلق",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "ysr",
+      "root_arabic": "يسر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "A*y",
+      "root_arabic": "اذي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "sbE",
+      "root_arabic": "سبع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "kml",
+      "root_arabic": "كمل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "E$r",
+      "root_arabic": "عشر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "HDr",
+      "root_arabic": "حضر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "nsk",
+      "root_arabic": "نسك",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "HSr",
+      "root_arabic": "حصر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "rAs",
+      "root_arabic": "راس",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        70,
+        11
+      ]
+    },
+    {
+      "root": "wdd",
+      "root_arabic": "ودد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        70,
+        11
+      ]
+    },
+    {
+      "root": "jrm",
+      "root_arabic": "جرم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        70,
+        11
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        70,
+        11
+      ]
+    },
+    {
+      "root": "jwb",
+      "root_arabic": "جوب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        13,
+        18
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        13,
+        18
+      ]
+    },
+    {
+      "root": "mhd",
+      "root_arabic": "مهد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        13,
+        18
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        10,
+        54
+      ]
+    },
+    {
+      "root": "srr",
+      "root_arabic": "سرر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        10,
+        54
+      ]
+    },
+    {
+      "root": "ndm",
+      "root_arabic": "ندم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        10,
+        54
+      ]
+    },
+    {
+      "root": "qDy",
+      "root_arabic": "قضي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        10,
+        54
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        10,
+        54
+      ]
+    },
+    {
+      "root": "qsT",
+      "root_arabic": "قسط",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        10,
+        54
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        10,
+        54
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        57,
+        15
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        57,
+        15
+      ]
+    },
+    {
+      "root": "Syr",
+      "root_arabic": "صير",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        57,
+        15
+      ]
+    },
+    {
+      "root": "*bH",
+      "root_arabic": "ذبح",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        37,
+        107
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        37,
+        107
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "Zhr",
+      "root_arabic": "ظهر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "jzy",
+      "root_arabic": "جزي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "Asr",
+      "root_arabic": "اسر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "xzy",
+      "root_arabic": "خزي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "dwr",
+      "root_arabic": "دور",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "Avm",
+      "root_arabic": "اثم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "fEl",
+      "root_arabic": "فعل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "gfl",
+      "root_arabic": "غفل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    },
+    {
+      "root": "frq",
+      "root_arabic": "فرق",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        2,
+        85
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 4
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 10,
+        "name_english": "Yunus",
+        "name_arabic": "سُورَةُ يُونُسَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 13,
+        "name_english": "Ar-Ra'd",
+        "name_arabic": "سُورَةُ الرَّعۡدِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 47,
+        "name_english": "Muhammad",
+        "name_arabic": "سُورَةُ مُحَمَّدٍ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 57,
+        "name_english": "Al-Hadid",
+        "name_arabic": "سُورَةُ الحَدِيدِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 70,
+        "name_english": "Al-Ma'aarij",
+        "name_arabic": "سُورَةُ المَعَارِجِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 9,
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        85,
+        18
+      ],
+      "form_arabic": "تُفَٰدُوهُمْ",
+      "lemma": "tufa`du",
+      "lemma_arabic": "تُفَٰدُ",
+      "pos": "V",
+      "ayah_id": "2:85",
+      "ayah_arabic": "ثُمَّ أَنتُمۡ هَٰٓؤُلَآءِ تَقۡتُلُونَ أَنفُسَكُمۡ وَتُخۡرِجُونَ فَرِيقࣰ ا مِّنكُم مِّن دِيَٰرِهِمۡ تَظَٰهَرُونَ عَلَيۡهِم بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَإِن يَأۡتُوكُمۡ أُسَٰرَىٰ تُفَٰدُوهُمۡ وَهُوَ مُحَرَّمٌ عَلَيۡكُمۡ إِخۡرَاجُهُمۡۚ أَفَتُؤۡمِنُونَ بِبَعۡضِ ٱلۡكِتَٰبِ وَتَكۡفُرُونَ بِبَعۡضࣲۚ فَمَا جَزَآءُ مَن يَفۡعَلُ ذَٰلِكَ مِنكُمۡ إِلَّا خِزۡيࣱ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلۡعَذَابِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "you ransom them",
+      "translations": {
+        "saheeh": "Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allah is not unaware of what you do.",
+        "pickthall": "Yet ye it is who slay each other and drive out a party of your people from their homes, supporting one another against them by sin and transgression? - and if they came to you as captives ye would ransom them, whereas their expulsion was itself unlawful for you - Believe ye in part of the Scripture and disbelieve ye in part thereof? And what is the reward of those who do so save ignominy in the life of the world, and on the Day of Resurrection they will be consigned to the most grievous doom. For Allah is not unaware of what ye do.",
+        "khattab": "But here you are, killing each other and expelling some of your people from their homes, aiding one another in sin and aggression; and when those ˹expelled˺ come to you as captives, you still ransom them—though expelling them was unlawful for you. Do you believe in some of the Scripture and reject the rest? Is there any reward for those who do so among you other than disgrace in this worldly life and being subjected to the harshest punishment on the Day of Judgment? For Allah is never unaware of what you do",
+        "arberry": "Then there you are killing one another, and expelling a party of you from their habitations, conspiring against them in sin and enmity; and if they come to you as captives, you ransom them; yet their expulsion was forbidden you. What, do you believe in part of the Book, and disbelieve in part? What shall be the recompense of those of you who do that, but degradation in the present life, and on the Day of Resurrection to be returned unto the most terrible of chastisement? And God is not heedless of the things you do."
+      }
+    },
+    {
+      "location": [
+        2,
+        184,
+        17
+      ],
+      "form_arabic": "فِدْيَةٌ",
+      "lemma": "fidoyap",
+      "lemma_arabic": "فِدْيَة",
+      "pos": "N",
+      "ayah_id": "2:184",
+      "ayah_arabic": "أَيَّامࣰ ا مَّعۡدُودَٰتࣲۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ عَلَىٰ سَفَرࣲ فَعِدَّةࣱ مِّنۡ أَيَّامٍ أُخَرَۚ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدۡيَةࣱ طَعَامُ مِسۡكِينࣲۖ فَمَن تَطَوَّعَ خَيۡرࣰ ا فَهُوَ خَيۡرࣱ لَّهُۥۚ وَأَن تَصُومُواْ خَيۡرࣱ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "a ransom",
+      "translations": {
+        "saheeh": "[Fasting for] a limited number of days. So whoever among you is ill or on a journey [during them] - then an equal number of days [are to be made up]. And upon those who are able [to fast, but with hardship] - a ransom [as substitute] of feeding a poor person [each day]. And whoever volunteers excess - it is better for him. But to fast is best for you, if you only knew.",
+        "pickthall": "(Fast) a certain number of days; and (for) him who is sick among you, or on a journey, (the same) number of other days; and for those who can afford it there is a ransom: the feeding of a man in need - but whoso doeth good of his own accord, it is better for him: and that ye fast is better for you if ye did but know -",
+        "khattab": "˹Fast a˺ prescribed number of days. But whoever of you is ill or on a journey, then ˹let them fast˺ an equal number of days ˹after Ramaḍân˺. For those who can only fast with extreme difficulty, compensation can be made by feeding a needy person ˹for every day not fasted˺. But whoever volunteers to give more, it is better for them. And to fast is better for you, if only you knew",
+        "arberry": "for days numbered; and if any of you be sick, or if he be on a journey, then a number of other days; and for those who are able to fast, a redemption by feeding a poor man. Yet better it is for him who volunteers good, and that you should fast is better for you, if you but know;"
+      }
+    },
+    {
+      "location": [
+        2,
+        196,
+        27
+      ],
+      "form_arabic": "فَفِدْيَةٌ",
+      "lemma": "fidoyap",
+      "lemma_arabic": "فِدْيَة",
+      "pos": "N",
+      "ayah_id": "2:196",
+      "ayah_arabic": "وَأَتِمُّواْ ٱلۡحَجَّ وَٱلۡعُمۡرَةَ لِلَّهِۚ فَإِنۡ أُحۡصِرۡتُمۡ فَمَا ٱسۡتَيۡسَرَ مِنَ ٱلۡهَدۡيِۖ وَلَا تَحۡلِقُواْ رُءُوسَكُمۡ حَتَّىٰ يَبۡلُغَ ٱلۡهَدۡيُ مَحِلَّهُۥۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ بِهِۦٓ أَذࣰ ى مِّن رَّأۡسِهِۦ فَفِدۡيَةࣱ مِّن صِيَامٍ أَوۡ صَدَقَةٍ أَوۡ نُسُكࣲۚ فَإِذَآ أَمِنتُمۡ فَمَن تَمَتَّعَ بِٱلۡعُمۡرَةِ إِلَى ٱلۡحَجِّ فَمَا ٱسۡتَيۡسَرَ مِنَ ٱلۡهَدۡيِۚ فَمَن لَّمۡ يَجِدۡ فَصِيَامُ ثَلَٰثَةِ أَيَّامࣲ فِي ٱلۡحَجِّ وَسَبۡعَةٍ إِذَا رَجَعۡتُمۡۗ تِلۡكَ عَشَرَةࣱ كَامِلَةࣱۗ ذَٰلِكَ لِمَن لَّمۡ يَكُنۡ أَهۡلُهُۥ حَاضِرِي ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "then a ransom",
+      "translations": {
+        "saheeh": "And complete the Hajj and 'umrah for Allah. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs 'umrah [during the Hajj months] followed by Hajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during Hajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Haram. And fear Allah and know that Allah is severe in penalty.",
+        "pickthall": "Perform the pilgrimage and the visit (to Makka) for Allah. And if ye are prevented, then send such gifts as can be obtained with ease, and shave not your heads until the gifts have reached their destination. And whoever among you is sick or hath an ailment of the head must pay a ransom of fasting or almsgiving or offering. And if ye are in safety, then whosoever contenteth himself with the visit for the pilgrimage (shall give) such gifts as can be had with ease. And whosoever cannot find (such gifts), then a fast of three days while on the pilgrimage, and of seven when ye have returned; that is, ten in all. That is for him whoso folk are not present at the Inviolable Place of Worship. Observe your duty to Allah, and know that Allah is severe in punishment.",
+        "khattab": "Complete the pilgrimage and minor pilgrimage for Allah. But if prevented ˹from proceeding˺, then ˹offer˺ whatever sacrificial animals you can afford. And do not shave your heads until the sacrificial animal reaches its destination. But if any of you is ill or has a scalp ailment ˹requiring shaving˺, then compensate either by fasting, charity, or a sacrificial offering. In times of peace, you may combine the pilgrimage and minor pilgrimage then make the sacrificial offering you can afford. Whoever cannot afford that ˹offering˺, let them fast three days during pilgrimage and seven after returning ˹home˺—completing ten. These offerings are for those who do not live near the Sacred House. And be mindful of Allah, and know that Allah is severe in punishment",
+        "arberry": "Fulfil the Pilgrimage and the Visitation unto God; but if you are prevented, then such offering as may be feasible. And shave not your heads, till the offering reaches its place of sacrifice. If any of you is sick, or injured in his head, then redemption by fast, or freewill offering, or ritual sacrifice. When you are secure, then whosoever enjoys the Visitation until the Pilgrimage, let his offering be such as may be feasible; or if he finds none, then a fast of three days in the Pilgrimage, and of seven when you return, that is ten completely; that is for him whose family are not present at the Holy Mosque. And fear God, and know that God is terrible in retribution."
+      }
+    },
+    {
+      "location": [
+        2,
+        229,
+        33
+      ],
+      "form_arabic": "ٱفْتَدَتْ",
+      "lemma": "{fotadaY`",
+      "lemma_arabic": "ٱفْتَدَىٰ",
+      "pos": "V",
+      "ayah_id": "2:229",
+      "ayah_arabic": "ٱلطَّلَٰقُ مَرَّتَانِۖ فَإِمۡسَاكُۢ بِمَعۡرُوفٍ أَوۡ تَسۡرِيحُۢ بِإِحۡسَٰنࣲۗ وَلَا يَحِلُّ لَكُمۡ أَن تَأۡخُذُواْ مِمَّآ ءَاتَيۡتُمُوهُنَّ شَيۡـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِۖ فَإِنۡ خِفۡتُمۡ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيۡهِمَا فِيمَا ٱفۡتَدَتۡ بِهِۦۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَعۡتَدُوهَاۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "she ransoms",
+      "translations": {
+        "saheeh": "Divorce is twice. Then, either keep [her] in an acceptable manner or release [her] with good treatment. And it is not lawful for you to take anything of what you have given them unless both fear that they will not be able to keep [within] the limits of Allah. But if you fear that they will not keep [within] the limits of Allah, then there is no blame upon either of them concerning that by which she ransoms herself. These are the limits of Allah, so do not transgress them. And whoever transgresses the limits of Allah - it is those who are the wrongdoers.",
+        "pickthall": "Divorce must be pronounced twice and then (a woman) must be retained in honour or released in kindness. And it is not lawful for you that ye take from women aught of that which ye have given them; except (in the case) when both fear that they may not be able to keep within the limits (imposed by) Allah. And if ye fear that they may not be able to keep the limits of Allah, in that case it is no sin for either of them if the woman ransom herself. These are the limits (imposed by) Allah. Transgress them not. For whoso transgresseth Allah's limits: such are wrong-doers.",
+        "khattab": "Divorce may be retracted twice, then the husband must retain ˹his wife˺ with honour or separate ˹from her˺ with grace. It is not lawful for husbands to take back anything of the dowry given to their wives, unless the couple fears not being able to keep within the limits of Allah. So if you fear they will not be able to keep within the limits of Allah, there is no blame if the wife compensates the husband to obtain divorce. These are the limits set by Allah, so do not transgress them. And whoever transgresses the limits of Allah, they are the ˹true˺ wrongdoers",
+        "arberry": "Divorce is twice; then honourable retention or setting free kindly. It is not lawful for you to take of what you have given them unless the couple fear they may not maintain God's bounds; if you fear they may not maintain God's bounds, it is no fault in them for her to redeem herself. Those are God's bounds; do not transgress them. Whosoever transgresses the bounds of God -- those are the evildoers."
+      }
+    },
+    {
+      "location": [
+        3,
+        91,
+        15
+      ],
+      "form_arabic": "ٱفْتَدَىٰ",
+      "lemma": "{fotadaY`",
+      "lemma_arabic": "ٱفْتَدَىٰ",
+      "pos": "V",
+      "ayah_id": "3:91",
+      "ayah_arabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَمَاتُواْ وَهُمۡ كُفَّارࣱ فَلَن يُقۡبَلَ مِنۡ أَحَدِهِم مِّلۡءُ ٱلۡأَرۡضِ ذَهَبࣰ ا وَلَوِ ٱفۡتَدَىٰ بِهِۦٓۗ أُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ أَلِيمࣱ وَمَا لَهُم مِّن نَّٰصِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "he offered as ransom",
+      "translations": {
+        "saheeh": "Indeed, those who disbelieve and die while they are disbelievers - never would the [whole] capacity of the earth in gold be accepted from one of them if he would [seek to] ransom himself with it. For those there will be a painful punishment, and they will have no helpers.",
+        "pickthall": "Lo! those who disbelieve, and die in disbelief, the (whole) earth full of gold would not be accepted from such an one if it were offered as a ransom (for his soul). Theirs will be a painful doom and they will have no helpers.",
+        "khattab": "Indeed, if each of those who disbelieve then die as disbelievers were to offer a ransom of enough gold to fill the whole world, it would never be accepted from them. It is they who will suffer a painful punishment, and they will have no helpers",
+        "arberry": "Surely those who disbelieve, and die disbelieving, there shall not be accepted from any one of them the whole earth full of gold, if he would ransom himself thereby; for them awaits a painful chastisement, and they shall have no helpers."
+      }
+    },
+    {
+      "location": [
+        5,
+        36,
+        13
+      ],
+      "form_arabic": "لِيَفْتَدُوا@",
+      "lemma": "{fotadaY`",
+      "lemma_arabic": "ٱفْتَدَىٰ",
+      "pos": "V",
+      "ayah_id": "5:36",
+      "ayah_arabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ لَوۡ أَنَّ لَهُم مَّا فِي ٱلۡأَرۡضِ جَمِيعࣰ ا وَمِثۡلَهُۥ مَعَهُۥ لِيَفۡتَدُواْ بِهِۦ مِنۡ عَذَابِ يَوۡمِ ٱلۡقِيَٰمَةِ مَا تُقُبِّلَ مِنۡهُمۡۖ وَلَهُمۡ عَذَابٌ أَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "to ransom themselves",
+      "translations": {
+        "saheeh": "Indeed, those who disbelieve - if they should have all that is in the earth and the like of it with it by which to ransom themselves from the punishment of the Day of Resurrection, it will not be accepted from them, and for them is a painful punishment",
+        "pickthall": "As for those who disbelieve, lo! if all that is in the earth were theirs, and as much again therewith, to ransom them from the doom on the Day of Resurrection, it would not be accepted from them. Theirs will be a painful doom.",
+        "khattab": "As for the disbelievers, even if they were to possess everything in the world twice over ˹and offer it all˺ to ransom themselves from the punishment of the Day of Judgment, it would never be accepted from them. And they will suffer a painful punishment",
+        "arberry": "The unbelievers, though they possessed all that is in the earth, and the like of it with it, to ransom themselves from the chastisement of the Day of Resurrection thereby, it would not be accepted of them; for them awaits a painful chastisement."
+      }
+    },
+    {
+      "location": [
+        10,
+        54,
+        9
+      ],
+      "form_arabic": "لَٱفْتَدَتْ",
+      "lemma": "{fotadaY`",
+      "lemma_arabic": "ٱفْتَدَىٰ",
+      "pos": "V",
+      "ayah_id": "10:54",
+      "ayah_arabic": "وَلَوۡ أَنَّ لِكُلِّ نَفۡسࣲ ظَلَمَتۡ مَا فِي ٱلۡأَرۡضِ لَٱفۡتَدَتۡ بِهِۦۗ وَأَسَرُّواْ ٱلنَّدَامَةَ لَمَّا رَأَوُاْ ٱلۡعَذَابَۖ وَقُضِيَ بَيۡنَهُم بِٱلۡقِسۡطِ وَهُمۡ لَا يُظۡلَمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yunus",
+      "literal_gloss": "it (would) seek to ransom",
+      "translations": {
+        "saheeh": "And if each soul that wronged had everything on earth, it would offer it in ransom. And they will confide regret when they see the punishment; and they will be judged in justice, and they will not be wronged",
+        "pickthall": "And if each soul that doeth wrong had all that is in the earth it would seek to ransom itself therewith; and they will feel remorse within them, when they see the doom. But it hath been judged between them fairly and they are not wronged.",
+        "khattab": "If every wrongdoer were to possess everything in the world, they would surely ransom themselves with it. They will hide ˹their˺ remorse when they see the torment. And they will be judged in all fairness, and none will be wronged",
+        "arberry": "If every soul that has done evil possessed all that is in the earth, he would offer it for his ransom; and they will be secretly remorseful when they see the chastisement, and justly the issue is decided between them, and they are not wronged."
+      }
+    },
+    {
+      "location": [
+        13,
+        18,
+        18
+      ],
+      "form_arabic": "لَٱفْتَدَوْا@",
+      "lemma": "{fotadaY`",
+      "lemma_arabic": "ٱفْتَدَىٰ",
+      "pos": "V",
+      "ayah_id": "13:18",
+      "ayah_arabic": "لِلَّذِينَ ٱسۡتَجَابُواْ لِرَبِّهِمُ ٱلۡحُسۡنَىٰۚ وَٱلَّذِينَ لَمۡ يَسۡتَجِيبُواْ لَهُۥ لَوۡ أَنَّ لَهُم مَّا فِي ٱلۡأَرۡضِ جَمِيعࣰ ا وَمِثۡلَهُۥ مَعَهُۥ لَٱفۡتَدَوۡاْ بِهِۦٓۚ أُوْلَٰٓئِكَ لَهُمۡ سُوٓءُ ٱلۡحِسَابِ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Ra'd",
+      "literal_gloss": "surely they would offer ransom",
+      "translations": {
+        "saheeh": "For those who have responded to their Lord is the best [reward], but those who did not respond to Him - if they had all that is in the earth entirely and the like of it with it, they would [attempt to] ransom themselves thereby. Those will have the worst account, and their refuge is Hell, and wretched is the resting place.",
+        "pickthall": "For those who answered Allah's call is bliss; and for those who answered not His call, if they had all that is in the earth, and therewith the like thereof, they would proffer it as ransom. Such will have a woeful reckoning, and their habitation will be hell, a dire abode.",
+        "khattab": "Those who respond to ˹the call of˺ their Lord will have the finest reward. As for those who do not respond to Him, even if they were to possess everything in the world twice over, they would certainly offer it to ransom themselves. They will face strict judgment, and Hell will be their home. What an evil place to rest",
+        "arberry": "For those who answer their Lord, the reward most fair; and those who answer Him not -- if they possessed all that is in the earth and the like of it with it, they would offer it for their ransom. Those theirs shall be the evil reckoning, and their refuge shall be Gehenna -- an evil cradling!"
+      }
+    },
+    {
+      "location": [
+        37,
+        107,
+        1
+      ],
+      "form_arabic": "وَفَدَيْنَٰهُ",
+      "lemma": "fadayo",
+      "lemma_arabic": "فَدَيْ",
+      "pos": "V",
+      "ayah_id": "37:107",
+      "ayah_arabic": "وَفَدَيۡنَٰهُ بِذِبۡحٍ عَظِيمࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "And We ransomed him",
+      "translations": {
+        "saheeh": "And We ransomed him with a great sacrifice,",
+        "pickthall": "Then We ransomed him with a tremendous victim.",
+        "khattab": "And We ransomed his son with a great sacrifice",
+        "arberry": "And We ransomed him with a mighty sacrifice,"
+      }
+    },
+    {
+      "location": [
+        39,
+        47,
+        11
+      ],
+      "form_arabic": "لَٱفْتَدَوْا@",
+      "lemma": "{fotadaY`",
+      "lemma_arabic": "ٱفْتَدَىٰ",
+      "pos": "V",
+      "ayah_id": "39:47",
+      "ayah_arabic": "وَلَوۡ أَنَّ لِلَّذِينَ ظَلَمُواْ مَا فِي ٱلۡأَرۡضِ جَمِيعࣰ ا وَمِثۡلَهُۥ مَعَهُۥ لَٱفۡتَدَوۡاْ بِهِۦ مِن سُوٓءِ ٱلۡعَذَابِ يَوۡمَ ٱلۡقِيَٰمَةِۚ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمۡ يَكُونُواْ يَحۡتَسِبُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "they would ransom",
+      "translations": {
+        "saheeh": "And if those who did wrong had all that is in the earth entirely and the like of it with it, they would [attempt to] ransom themselves thereby from the worst of the punishment on the Day of Resurrection. And there will appear to them from Allah that which they had not taken into account.",
+        "pickthall": "And though those who do wrong possess all that is in the earth, and therewith as much again, they verily will seek to ransom themselves therewith on the Day of Resurrection from the awful doom; and there will appear unto them, from their Lord, that wherewith they never reckoned.",
+        "khattab": "Even if the wrongdoers were to possess everything in the world twice over, they would certainly offer it to ransom themselves from the horrible punishment on Judgment Day, for they will see from Allah what they had never expected",
+        "arberry": "If the evildoers possessed all that is in the earth, and the like of it with it, they would offer it to ransom themselves from the evil of the chastisement on the Day of Resurrection; yet there would appear to them from God that they never reckoned with,"
+      }
+    },
+    {
+      "location": [
+        47,
+        4,
+        16
+      ],
+      "form_arabic": "فِدَا^ءً",
+      "lemma": "fidaA^'",
+      "lemma_arabic": "فِدَا^ء",
+      "pos": "N",
+      "ayah_id": "47:4",
+      "ayah_arabic": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُواْ فَضَرۡبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثۡخَنتُمُوهُمۡ فَشُدُّواْ ٱلۡوَثَاقَ فَإِمَّا مَنَّۢا بَعۡدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلۡحَرۡبُ أَوۡزَارَهَاۚ ذَٰلِكَۖ وَلَوۡ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنۡهُمۡ وَلَٰكِن لِّيَبۡلُوَاْ بَعۡضَكُم بِبَعۡضࣲۗ وَٱلَّذِينَ قُتِلُواْ فِي سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعۡمَٰلَهُمۡ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Muhammad",
+      "literal_gloss": "ransom",
+      "translations": {
+        "saheeh": "So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure their bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens. That [is the command]. And if Allah had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allah - never will He waste their deeds.",
+        "pickthall": "Now when ye meet in battle those who disbelieve, then it is smiting of the necks until, when ye have routed them, then making fast of bonds; and afterward either grace or ransom till the war lay down its burdens. That (is the ordinance). And if Allah willed He could have punished them (without you) but (thus it is ordained) that He may try some of you by means of others. And those who are slain in the way of Allah, He rendereth not their actions vain.",
+        "khattab": "So when you meet the disbelievers ˹in battle˺, strike ˹their˺ necks until you have thoroughly subdued them, then bind them firmly. Later ˹free them either as˺ an act of grace or by ransom until the war comes to an end. So will it be. Had Allah willed, He ˹Himself˺ could have inflicted punishment on them. But He does ˹this only to˺ test some of you by means of others. And those who are martyred in the cause of Allah, He will never render their deeds void",
+        "arberry": "When you meet the unbelievers, smite their necks, then, when you have made wide slaughter among them, tie fast the bonds; then set them free, either by grace or ransom, till the war lays down its loads. So it shall be; and if God had willed, He would have avenged Himself upon them; but that He may try some of you by means of others. And those who are slain in the way of God, He will not send their works astray."
+      }
+    },
+    {
+      "location": [
+        57,
+        15,
+        5
+      ],
+      "form_arabic": "فِدْيَةٌ",
+      "lemma": "fidoyap",
+      "lemma_arabic": "فِدْيَة",
+      "pos": "N",
+      "ayah_id": "57:15",
+      "ayah_arabic": "فَٱلۡيَوۡمَ لَا يُؤۡخَذُ مِنكُمۡ فِدۡيَةࣱ وَلَا مِنَ ٱلَّذِينَ كَفَرُواْۚ مَأۡوَىٰكُمُ ٱلنَّارُۖ هِيَ مَوۡلَىٰكُمۡۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hadid",
+      "literal_gloss": "any ransom",
+      "translations": {
+        "saheeh": "So today no ransom will be taken from you or from those who disbelieved. Your refuge is the Fire. It is most worthy of you, and wretched is the destination.",
+        "pickthall": "So this day no ransom can be taken from you nor from those who disbelieved. Your home is the Fire; that is your patron, and a hapless journey's end.",
+        "khattab": "So Today no ransom will be accepted from you ˹hypocrites˺, nor from the disbelievers. Your home is the Fire—it is the ˹only˺ fitting place for you. What an evil destination!”",
+        "arberry": "Therefore today no ransom shall be taken from you, neither from those who disbelieved. Your refuge is the Fire, that is your master -- an evil homecoming!'"
+      }
+    },
+    {
+      "location": [
+        70,
+        11,
+        5
+      ],
+      "form_arabic": "يَفْتَدِى",
+      "lemma": "{fotadaY`",
+      "lemma_arabic": "ٱفْتَدَىٰ",
+      "pos": "V",
+      "ayah_id": "70:11",
+      "ayah_arabic": "يُبَصَّرُونَهُمۡۚ يَوَدُّ ٱلۡمُجۡرِمُ لَوۡ يَفۡتَدِي مِنۡ عَذَابِ يَوۡمِئِذِۭ بِبَنِيهِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ma'aarij",
+      "literal_gloss": "he (could be) ransomed",
+      "translations": {
+        "saheeh": "They will be shown each other. The criminal will wish that he could be ransomed from the punishment of that Day by his children",
+        "pickthall": "Though they will be given sight of them. The guilty man will long to be able to ransom himself from the punishment of that day at the price of his children",
+        "khattab": "˹although˺ they will be made to see each other. The wicked will wish to ransom themselves from the punishment of that Day by their children",
+        "arberry": "as they are given sight of them. The sinner will wish that he might ransom himself from the chastisement of that day even by his sons,"
+      }
+    }
+  ]
+}

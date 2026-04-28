@@ -1,0 +1,267 @@
+{
+  "root": "glf",
+  "root_arabic": "غلف",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "gulof",
+      "lemma_arabic": "غُلْف",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        2,
+        88,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            88,
+            3
+          ],
+          "form_arabic": "غُلْفٌ[",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            155,
+            13
+          ],
+          "form_arabic": "غُلْفٌ[",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        88
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        88
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        88
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        88
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        88
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        88
+      ]
+    },
+    {
+      "root": "lEn",
+      "root_arabic": "لعن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        88
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        155
+      ]
+    },
+    {
+      "root": "TbE",
+      "root_arabic": "طبع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        155
+      ]
+    },
+    {
+      "root": "nqD",
+      "root_arabic": "نقض",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        155
+      ]
+    },
+    {
+      "root": "wvq",
+      "root_arabic": "وثق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        155
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        155
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        155
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        155
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        4,
+        155
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        88,
+        3
+      ],
+      "form_arabic": "غُلْفٌ[",
+      "lemma": "gulof",
+      "lemma_arabic": "غُلْف",
+      "pos": "N",
+      "ayah_id": "2:88",
+      "ayah_arabic": "وَقَالُواْ قُلُوبُنَا غُلۡفُۢۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ فَقَلِيلࣰ ا مَّا يُؤۡمِنُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(are) wrapped",
+      "translations": {
+        "saheeh": "And they said, \"Our hearts are wrapped.\" But, [in fact], Allah has cursed them for their disbelief, so little is it that they believe.",
+        "pickthall": "And they say: Our hearts are hardened. Nay, but Allah hath cursed them for their unbelief. Little is that which they believe.",
+        "khattab": "They say, “Our hearts are unreceptive!” In fact, Allah has condemned them for their disbelief. They have but little faith",
+        "arberry": "And they say, 'Our hearts are uncircumcised.' Nay, but God has cursed them for their unbelief; little will they believe."
+      }
+    },
+    {
+      "location": [
+        4,
+        155,
+        13
+      ],
+      "form_arabic": "غُلْفٌ[",
+      "lemma": "gulof",
+      "lemma_arabic": "غُلْف",
+      "pos": "N",
+      "ayah_id": "4:155",
+      "ayah_arabic": "فَبِمَا نَقۡضِهِم مِّيثَٰقَهُمۡ وَكُفۡرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتۡلِهِمُ ٱلۡأَنۢبِيَآءَ بِغَيۡرِ حَقࣲّ وَقَوۡلِهِمۡ قُلُوبُنَا غُلۡفُۢۚ بَلۡ طَبَعَ ٱللَّهُ عَلَيۡهَا بِكُفۡرِهِمۡ فَلَا يُؤۡمِنُونَ إِلَّا قَلِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(are) wrapped",
+      "translations": {
+        "saheeh": "And [We cursed them] for their breaking of the covenant and their disbelief in the signs of Allah and their killing of the prophets without right and their saying, \"Our hearts are wrapped\". Rather, Allah has sealed them because of their disbelief, so they believe not, except for a few.",
+        "pickthall": "Then because of their breaking of their covenant, and their disbelieving in the revelations of Allah, and their slaying of the prophets wrongfully, and their saying: Our hearts are hardened - Nay, but Allah set a seal upon them for their disbelief, so that they believe not save a few -",
+        "khattab": "˹They were condemned˺ for breaking their covenant, rejecting Allah’s signs, killing the prophets unjustly, and for saying, “Our hearts are unreceptive!”—it is Allah Who has sealed their hearts for their disbelief, so they do not believe except for a few—",
+        "arberry": "So, for their breaking the compact, and disbelieving in the signs of God, and slaying the Prophets without right, and for their saying, 'Our hearts are uncircumcised' -- nay, but God sealed them for their unbelief, so they believe not, except a few --"
+      }
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "root": "ESr",
+  "root_arabic": "عصر",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 4,
+    "ayahs": 5,
+    "surahs": 4,
+    "pos_distribution": {
+      "N": 3,
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yaEoSiru",
+      "lemma_arabic": "يَعْصِرُ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        12,
+        36,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            36,
+            9
+          ],
+          "form_arabic": "أَعْصِرُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            12,
+            49,
+            11
+          ],
+          "form_arabic": "يَعْصِرُونَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "<iEoSaAr",
+      "lemma_arabic": "إِعْصَار",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        2,
+        266,
+        25
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            266,
+            25
+          ],
+          "form_arabic": "إِعْصَارٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "muEoSira`t",
+      "lemma_arabic": "مُعْصِرَٰت",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        78,
+        14,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            78,
+            14,
+            3
+          ],
+          "form_arabic": "ٱلْمُعْصِرَٰتِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "EaSor",
+      "lemma_arabic": "عَصْر",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        103,
+        1,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            103,
+            1,
+            1
+          ],
+          "form_arabic": "وَٱلْعَصْرِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        49
+      ]
+    },
+    {
+      "root": "Ewm",
+      "root_arabic": "عوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        49
+      ]
+    },
+    {
+      "root": "gyv",
+      "root_arabic": "غيث",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        49
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        49
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        49
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        78,
+        14
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        78,
+        14
+      ]
+    },
+    {
+      "root": "vjj",
+      "root_arabic": "ثجج",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        78,
+        14
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "xmr",
+      "root_arabic": "خمر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "rAs",
+      "root_arabic": "راس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "fty",
+      "root_arabic": "فتي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "Hml",
+      "root_arabic": "حمل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "fwq",
+      "root_arabic": "فوق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "xbz",
+      "root_arabic": "خبز",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "sjn",
+      "root_arabic": "سجن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "Tyr",
+      "root_arabic": "طير",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        36
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "vmr",
+      "root_arabic": "ثمر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "tHt",
+      "root_arabic": "تحت",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "fkr",
+      "root_arabic": "فكر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "wdd",
+      "root_arabic": "ودد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "*rr",
+      "root_arabic": "ذرر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "Hrq",
+      "root_arabic": "حرق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "jry",
+      "root_arabic": "جري",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "DEf",
+      "root_arabic": "ضعف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "nxl",
+      "root_arabic": "نخل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "Enb",
+      "root_arabic": "عنب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        266
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 78,
+        "name_english": "An-Naba",
+        "name_arabic": "سُورَةُ النَّبَإِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 103,
+        "name_english": "Al-Asr",
+        "name_arabic": "سُورَةُ العَصۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        266,
+        25
+      ],
+      "form_arabic": "إِعْصَارٌ",
+      "lemma": "<iEoSaAr",
+      "lemma_arabic": "إِعْصَار",
+      "pos": "N",
+      "ayah_id": "2:266",
+      "ayah_arabic": "أَيَوَدُّ أَحَدُكُمۡ أَن تَكُونَ لَهُۥ جَنَّةࣱ مِّن نَّخِيلࣲ وَأَعۡنَابࣲ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ لَهُۥ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَأَصَابَهُ ٱلۡكِبَرُ وَلَهُۥ ذُرِّيَّةࣱ ضُعَفَآءُ فَأَصَابَهَآ إِعۡصَارࣱ فِيهِ نَارࣱ فَٱحۡتَرَقَتۡۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِ لَعَلَّكُمۡ تَتَفَكَّرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "whirlwind",
+      "translations": {
+        "saheeh": "Would one of you like to have a garden of palm trees and grapevines underneath which rivers flow in which he has from every fruit? But he is afflicted with old age and has weak offspring, and it is hit by a whirlwind containing fire and is burned. Thus does Allah make clear to you [His] verses that you might give thought.",
+        "pickthall": "Would any of you like to have a garden of palm-trees and vines, with rivers flowing underneath it, with all kinds of fruit for him therein; and old age hath stricken him and he hath feeble offspring; and a fiery whirlwind striketh it and it is (all) consumed by fire. Thus Allah maketh plain His revelations unto you, in order that ye may give thought.",
+        "khattab": "Would any of you wish to have a garden with palm trees, grapevines, and all kinds of fruits with rivers flowing underneath and as they grow very old with dependent children, a fiery whirlwind hits the garden, burning it all up? This is how Allah makes His revelations clear to you, so perhaps you will reflect",
+        "arberry": "Would any of you wish to have a garden of palms and vines, with rivers flowing beneath it, and all manner of fruit there for him, then old age smites him, and he has seed, but weaklings, then a whirlwind with fire smites it, and it is consumed? So God makes clear the signs to you; haply you will reflect."
+      }
+    },
+    {
+      "location": [
+        12,
+        36,
+        9
+      ],
+      "form_arabic": "أَعْصِرُ",
+      "lemma": "yaEoSiru",
+      "lemma_arabic": "يَعْصِرُ",
+      "pos": "V",
+      "ayah_id": "12:36",
+      "ayah_arabic": "وَدَخَلَ مَعَهُ ٱلسِّجۡنَ فَتَيَانِۖ قَالَ أَحَدُهُمَآ إِنِّيٓ أَرَىٰنِيٓ أَعۡصِرُ خَمۡرࣰ اۖ وَقَالَ ٱلۡأٓخَرُ إِنِّيٓ أَرَىٰنِيٓ أَحۡمِلُ فَوۡقَ رَأۡسِي خُبۡزࣰ ا تَأۡكُلُ ٱلطَّيۡرُ مِنۡهُۖ نَبِّئۡنَا بِتَأۡوِيلِهِۦٓۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "pressing",
+      "translations": {
+        "saheeh": "And there entered the prison with him two young men. One of them said, \"Indeed, I have seen myself [in a dream] pressing wine.\" The other said, \"Indeed, I have seen myself carrying upon my head [some] bread, from which the birds were eating. Inform us of its interpretation; indeed, we see you to be of those who do good.\"",
+        "pickthall": "And two young men went to prison with him. One of them said: I dreamed that I was pressing wine. The other said: I dreamed that I was carrying upon my head bread whereof the birds were eating. Announce unto us the interpretation, for we see thee of those good (at interpretation).",
+        "khattab": "And two other servants went to jail with Joseph. One of them said, “I dreamt I was pressing wine.” The other said, “I dreamt I was carrying ˹some˺ bread on my head, from which birds were eating.” ˹Then both said,˺ “Tell us their interpretation, for we surely see you as one of the good-doers.”",
+        "arberry": "And there entered the prison with him two youths. Said one of them, 'I dreamed that I was pressing grapes. Said the other, 'I dreamed that I was carrying on my head bread, that birds were eating of. Tell us its interpretation; we see that thou art of the good-doers.'"
+      }
+    },
+    {
+      "location": [
+        12,
+        49,
+        11
+      ],
+      "form_arabic": "يَعْصِرُونَ",
+      "lemma": "yaEoSiru",
+      "lemma_arabic": "يَعْصِرُ",
+      "pos": "V",
+      "ayah_id": "12:49",
+      "ayah_arabic": "ثُمَّ يَأۡتِي مِنۢ بَعۡدِ ذَٰلِكَ عَامࣱ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعۡصِرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "they will press",
+      "translations": {
+        "saheeh": "Then will come after that a year in which the people will be given rain and in which they will press [olives and grapes].\"",
+        "pickthall": "Then, after that, will come a year when the people will have plenteous crops and when they will press (wine and oil).",
+        "khattab": "Then after that will come a year in which people will receive abundant rain and they will press ˹oil and wine˺.”",
+        "arberry": "Then thereafter there shall come a year wherein the people will be succoured and press in season."
+      }
+    },
+    {
+      "location": [
+        78,
+        14,
+        3
+      ],
+      "form_arabic": "ٱلْمُعْصِرَٰتِ",
+      "lemma": "muEoSira`t",
+      "lemma_arabic": "مُعْصِرَٰت",
+      "pos": "N",
+      "ayah_id": "78:14",
+      "ayah_arabic": "وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَٰتِ مَآءࣰ ثَجَّاجࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naba",
+      "literal_gloss": "the rain clouds",
+      "translations": {
+        "saheeh": "And sent down, from the rain clouds, pouring water",
+        "pickthall": "And have sent down from the rainy clouds abundant water,",
+        "khattab": "and sent down from rainclouds pouring water",
+        "arberry": "and have sent down out of the rainclouds water cascading"
+      }
+    },
+    {
+      "location": [
+        103,
+        1,
+        1
+      ],
+      "form_arabic": "وَٱلْعَصْرِ",
+      "lemma": "EaSor",
+      "lemma_arabic": "عَصْر",
+      "pos": "N",
+      "ayah_id": "103:1",
+      "ayah_arabic": "وَٱلۡعَصۡرِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Asr",
+      "literal_gloss": "By the time",
+      "translations": {
+        "saheeh": "By time,",
+        "pickthall": "By the declining day,",
+        "khattab": "By the ˹passage of˺ time",
+        "arberry": "By the afternoon!"
+      }
+    }
+  ]
+}

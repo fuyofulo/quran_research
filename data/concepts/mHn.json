@@ -1,0 +1,305 @@
+{
+  "root": "mhn",
+  "root_arabic": "مهن",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 1,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "ADJ": 3,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "m~ahiyn",
+      "lemma_arabic": "مَّهِين",
+      "count": 4,
+      "pos_distribution": {
+        "ADJ": 3,
+        "N": 1
+      },
+      "first_occurrence": [
+        32,
+        8,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            32,
+            8,
+            8
+          ],
+          "form_arabic": "مَّهِينٍ",
+          "pos": "ADJ"
+        },
+        {
+          "location": [
+            43,
+            52,
+            8
+          ],
+          "form_arabic": "مَهِينٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            68,
+            10,
+            5
+          ],
+          "form_arabic": "مَّهِينٍ",
+          "pos": "ADJ"
+        },
+        {
+          "location": [
+            77,
+            20,
+            5
+          ],
+          "form_arabic": "مَّهِينٍ",
+          "pos": "ADJ"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        32,
+        8
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        68,
+        10
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        68,
+        10
+      ]
+    },
+    {
+      "root": "Hlf",
+      "root_arabic": "حلف",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        68,
+        10
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        77,
+        20
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        43,
+        52
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        43,
+        52
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        43,
+        52
+      ]
+    },
+    {
+      "root": "sll",
+      "root_arabic": "سلل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        32,
+        8
+      ]
+    },
+    {
+      "root": "nsl",
+      "root_arabic": "نسل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        32,
+        8
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        32,
+        8
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 32,
+        "name_english": "As-Sajda",
+        "name_arabic": "سُورَةُ السَّجۡدَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 43,
+        "name_english": "Az-Zukhruf",
+        "name_arabic": "سُورَةُ الزُّخۡرُفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 68,
+        "name_english": "Al-Qalam",
+        "name_arabic": "سُورَةُ القَلَمِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 77,
+        "name_english": "Al-Mursalaat",
+        "name_arabic": "سُورَةُ المُرۡسَلَاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        32,
+        8,
+        8
+      ],
+      "form_arabic": "مَّهِينٍ",
+      "lemma": "m~ahiyn",
+      "lemma_arabic": "مَّهِين",
+      "pos": "ADJ",
+      "ayah_id": "32:8",
+      "ayah_arabic": "ثُمَّ جَعَلَ نَسۡلَهُۥ مِن سُلَٰلَةࣲ مِّن مَّآءࣲ مَّهِينࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Sajda",
+      "literal_gloss": "despised",
+      "translations": {
+        "saheeh": "Then He made his posterity out of the extract of a liquid disdained.",
+        "pickthall": "Then He made his seed from a draught of despised fluid;",
+        "khattab": "Then He made his descendants from an extract of a humble fluid",
+        "arberry": "then He fashioned his progeny of an extraction of mean water,"
+      }
+    },
+    {
+      "location": [
+        43,
+        52,
+        8
+      ],
+      "form_arabic": "مَهِينٌ",
+      "lemma": "m~ahiyn",
+      "lemma_arabic": "مَّهِين",
+      "pos": "N",
+      "ayah_id": "43:52",
+      "ayah_arabic": "أَمۡ أَنَا۠ خَيۡرࣱ مِّنۡ هَٰذَا ٱلَّذِي هُوَ مَهِينࣱ وَلَا يَكَادُ يُبِينُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zukhruf",
+      "literal_gloss": "(is) insignificant",
+      "translations": {
+        "saheeh": "Or am I [not] better than this one who is insignificant and hardly makes himself clear?",
+        "pickthall": "I am surely better than this fellow, who is despicable and can hardly make (his meaning) plain!",
+        "khattab": "Am I not better than this nobody who can hardly express himself",
+        "arberry": "Or am I better than this man, who is contemptible and scarcely makes things clear?"
+      }
+    },
+    {
+      "location": [
+        68,
+        10,
+        5
+      ],
+      "form_arabic": "مَّهِينٍ",
+      "lemma": "m~ahiyn",
+      "lemma_arabic": "مَّهِين",
+      "pos": "ADJ",
+      "ayah_id": "68:10",
+      "ayah_arabic": "وَلَا تُطِعۡ كُلَّ حَلَّافࣲ مَّهِينٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qalam",
+      "literal_gloss": "worthless",
+      "translations": {
+        "saheeh": "And do not obey every worthless habitual swearer",
+        "pickthall": "Neither obey thou each feeble oath-monger,",
+        "khattab": "And do not obey the despicable, vain oath-taker",
+        "arberry": "And obey thou not every mean swearer,"
+      }
+    },
+    {
+      "location": [
+        77,
+        20,
+        5
+      ],
+      "form_arabic": "مَّهِينٍ",
+      "lemma": "m~ahiyn",
+      "lemma_arabic": "مَّهِين",
+      "pos": "ADJ",
+      "ayah_id": "77:20",
+      "ayah_arabic": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءࣲ مَّهِينࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mursalaat",
+      "literal_gloss": "despicable",
+      "translations": {
+        "saheeh": "Did We not create you from a liquid disdained?",
+        "pickthall": "Did We not create you from a base fluid",
+        "khattab": "Did We not create you from a humble fluid",
+        "arberry": "Did We not create you of a mean water,"
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "root": "jdv",
+  "root_arabic": "جدث",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">ajodaAv",
+      "lemma_arabic": "أَجْدَاث",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        36,
+        51,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            36,
+            51,
+            7
+          ],
+          "form_arabic": "ٱلْأَجْدَاثِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            54,
+            7,
+            5
+          ],
+          "form_arabic": "ٱلْأَجْدَاثِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            70,
+            43,
+            4
+          ],
+          "form_arabic": "ٱلْأَجْدَاثِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        54,
+        7
+      ]
+    },
+    {
+      "root": "x$E",
+      "root_arabic": "خشع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        54,
+        7
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        54,
+        7
+      ]
+    },
+    {
+      "root": "jrd",
+      "root_arabic": "جرد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        54,
+        7
+      ]
+    },
+    {
+      "root": "n$r",
+      "root_arabic": "نشر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        54,
+        7
+      ]
+    },
+    {
+      "root": "nsl",
+      "root_arabic": "نسل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        36,
+        51
+      ]
+    },
+    {
+      "root": "nfx",
+      "root_arabic": "نفخ",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        36,
+        51
+      ]
+    },
+    {
+      "root": "Swr",
+      "root_arabic": "صور",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        36,
+        51
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        36,
+        51
+      ]
+    },
+    {
+      "root": "wfD",
+      "root_arabic": "وفض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        70,
+        43
+      ]
+    },
+    {
+      "root": "srE",
+      "root_arabic": "سرع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        70,
+        43
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        70,
+        43
+      ]
+    },
+    {
+      "root": "nSb",
+      "root_arabic": "نصب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        70,
+        43
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 54,
+        "name_english": "Al-Qamar",
+        "name_arabic": "سُورَةُ القَمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 70,
+        "name_english": "Al-Ma'aarij",
+        "name_arabic": "سُورَةُ المَعَارِجِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        36,
+        51,
+        7
+      ],
+      "form_arabic": "ٱلْأَجْدَاثِ",
+      "lemma": ">ajodaAv",
+      "lemma_arabic": "أَجْدَاث",
+      "pos": "N",
+      "ayah_id": "36:51",
+      "ayah_arabic": "وَنُفِخَ فِي ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلۡأَجۡدَاثِ إِلَىٰ رَبِّهِمۡ يَنسِلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "the graves",
+      "translations": {
+        "saheeh": "And the Horn will be blown; and at once from the graves to their Lord they will hasten.",
+        "pickthall": "And the trumpet is blown and lo! from the graves they hie unto their Lord,",
+        "khattab": "The Trumpet will be blown ˹a second time˺, then—behold!—they will rush from the graves to their Lord",
+        "arberry": "And the Trumpet shall be blown; then behold, they are sliding down from their tombs unto their Lord."
+      }
+    },
+    {
+      "location": [
+        54,
+        7,
+        5
+      ],
+      "form_arabic": "ٱلْأَجْدَاثِ",
+      "lemma": ">ajodaAv",
+      "lemma_arabic": "أَجْدَاث",
+      "pos": "N",
+      "ayah_id": "54:7",
+      "ayah_arabic": "خُشَّعًا أَبۡصَٰرُهُمۡ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ كَأَنَّهُمۡ جَرَادࣱ مُّنتَشِرࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qamar",
+      "literal_gloss": "the graves",
+      "translations": {
+        "saheeh": "Their eyes humbled, they will emerge from the graves as if they were locusts spreading,",
+        "pickthall": "With downcast eyes, they come forth from the graves as they were locusts spread abroad,",
+        "khattab": "With eyes downcast, they will come forth from the graves as if they were swarming locusts",
+        "arberry": "abasing their eyes, they shall come forth from the tombs as if they were scattered grasshoppers,"
+      }
+    },
+    {
+      "location": [
+        70,
+        43,
+        4
+      ],
+      "form_arabic": "ٱلْأَجْدَاثِ",
+      "lemma": ">ajodaAv",
+      "lemma_arabic": "أَجْدَاث",
+      "pos": "N",
+      "ayah_id": "70:43",
+      "ayah_arabic": "يَوۡمَ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعࣰ ا كَأَنَّهُمۡ إِلَىٰ نُصُبࣲ يُوفِضُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ma'aarij",
+      "literal_gloss": "the graves",
+      "translations": {
+        "saheeh": "The Day they will emerge from the graves rapidly as if they were, toward an erected idol, hastening.",
+        "pickthall": "The day when they come forth from the graves in haste, as racing to a goal,",
+        "khattab": "the Day they will come forth from the graves swiftly, as if racing to an idol ˹for a blessing˺",
+        "arberry": "the day they shall come forth from the tombs hastily, as if they were hurrying unto a waymark,"
+      }
+    }
+  ]
+}

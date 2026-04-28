@@ -1,0 +1,840 @@
+{
+  "root": "Ewj",
+  "root_arabic": "عوج",
+  "stats": {
+    "occurrences": 9,
+    "lemmas": 1,
+    "ayahs": 9,
+    "surahs": 7,
+    "pos_distribution": {
+      "N": 9
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "Eiwaj",
+      "lemma_arabic": "عِوَج",
+      "count": 9,
+      "pos_distribution": {
+        "N": 9
+      },
+      "first_occurrence": [
+        3,
+        99,
+        12
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            99,
+            12
+          ],
+          "form_arabic": "عِوَجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            45,
+            7
+          ],
+          "form_arabic": "عِوَجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            86,
+            14
+          ],
+          "form_arabic": "عِوَجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            11,
+            19,
+            7
+          ],
+          "form_arabic": "عِوَجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            14,
+            3,
+            12
+          ],
+          "form_arabic": "عِوَجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            18,
+            1,
+            11
+          ],
+          "form_arabic": "عِوَجَا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            20,
+            107,
+            4
+          ],
+          "form_arabic": "عِوَجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            20,
+            108,
+            5
+          ],
+          "form_arabic": "عِوَجَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            39,
+            28,
+            5
+          ],
+          "form_arabic": "عِوَجٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 6,
+      "share": 0.6667,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 5,
+      "share": 0.5556,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "Sdd",
+      "root_arabic": "صدد",
+      "ayahs_together": 5,
+      "share": 0.5556,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 5,
+      "share": 0.5556,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        45
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        7,
+        45
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        28
+      ]
+    },
+    {
+      "root": "Erb",
+      "root_arabic": "عرب",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        28
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        28
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        28
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        18,
+        1
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        18,
+        1
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        18,
+        1
+      ]
+    },
+    {
+      "root": "Hmd",
+      "root_arabic": "حمد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        18,
+        1
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        20,
+        107
+      ]
+    },
+    {
+      "root": "Amt",
+      "root_arabic": "امت",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        20,
+        107
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        14,
+        3
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        14,
+        3
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        14,
+        3
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        14,
+        3
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        14,
+        3
+      ]
+    },
+    {
+      "root": "gfl",
+      "root_arabic": "غفل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        3,
+        99
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "qEd",
+      "root_arabic": "قعد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "kyf",
+      "root_arabic": "كيف",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "Eqb",
+      "root_arabic": "عقب",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "SrT",
+      "root_arabic": "صرط",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "fsd",
+      "root_arabic": "فسد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        86
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        20,
+        108
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        20,
+        108
+      ]
+    },
+    {
+      "root": "x$E",
+      "root_arabic": "خشع",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        20,
+        108
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        20,
+        108
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        20,
+        108
+      ]
+    },
+    {
+      "root": "hms",
+      "root_arabic": "همس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        20,
+        108
+      ]
+    },
+    {
+      "root": "Swt",
+      "root_arabic": "صوت",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        20,
+        108
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 20,
+        "name_english": "Taa-Haa",
+        "name_arabic": "سُورَةُ طه",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 14,
+        "name_english": "Ibrahim",
+        "name_arabic": "سُورَةُ إِبۡرَاهِيمَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 8
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        99,
+        12
+      ],
+      "form_arabic": "عِوَجًا",
+      "lemma": "Eiwaj",
+      "lemma_arabic": "عِوَج",
+      "pos": "N",
+      "ayah_id": "3:99",
+      "ayah_arabic": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنۡ ءَامَنَ تَبۡغُونَهَا عِوَجࣰ ا وَأَنتُمۡ شُهَدَآءُۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "(seem) crooked",
+      "translations": {
+        "saheeh": "Say, \"O People of the Scripture, why do you avert from the way of Allah those who believe, seeking to make it [seem] deviant, while you are witnesses [to the truth]? And Allah is not unaware of what you do.\"",
+        "pickthall": "Say: O People of the Scripture! Why drive ye back believers from the way of Allah, seeking to make it crooked, when ye are witnesses (to Allah's guidance)? Allah is not unaware of what ye do.",
+        "khattab": "Say, “O People of the Book! Why do you turn the believers away from the Way of Allah—striving to make it ˹appear˺ crooked, while you are witnesses ˹to its truth˺? And Allah is never unaware of what you do.”",
+        "arberry": "Say: 'People of the Book, why do you bar from God's way the believer, desiring to make it crooked, yourselves being witnesses? God is not heedless of the things you do.'"
+      }
+    },
+    {
+      "location": [
+        7,
+        45,
+        7
+      ],
+      "form_arabic": "عِوَجًا",
+      "lemma": "Eiwaj",
+      "lemma_arabic": "عِوَج",
+      "pos": "N",
+      "ayah_id": "7:45",
+      "ayah_arabic": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجࣰ ا وَهُم بِٱلۡأٓخِرَةِ كَٰفِرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "crookedness",
+      "translations": {
+        "saheeh": "Who averted [people] from the way of Allah and sought to make it [seem] deviant while they were, concerning the Hereafter, disbelievers.",
+        "pickthall": "Who debar (men) from the path of Allah and would have it crooked, and who are disbelievers in the Last Day.",
+        "khattab": "those who hindered ˹others˺ from Allah’s Way, strived to make it ˹appear˺ crooked, and disbelieved in the Hereafter.”",
+        "arberry": "who bar from God's way, desiring to make it crooked, disbelieving in the world to come."
+      }
+    },
+    {
+      "location": [
+        7,
+        86,
+        14
+      ],
+      "form_arabic": "عِوَجًا",
+      "lemma": "Eiwaj",
+      "lemma_arabic": "عِوَج",
+      "pos": "N",
+      "ayah_id": "7:86",
+      "ayah_arabic": "وَلَا تَقۡعُدُواْ بِكُلِّ صِرَٰطࣲ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنۡ ءَامَنَ بِهِۦ وَتَبۡغُونَهَا عِوَجࣰ اۚ وَٱذۡكُرُوٓاْ إِذۡ كُنتُمۡ قَلِيلࣰ ا فَكَثَّرَكُمۡۖ وَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُفۡسِدِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "crooked",
+      "translations": {
+        "saheeh": "And do not sit on every path, threatening and averting from the way of Allah those who believe in Him, seeking to make it [seem] deviant. And remember when you were few and He increased you. And see how was the end of the corrupters.",
+        "pickthall": "Lurk not on every road to threaten (wayfarers), and to turn away from Allah's path him who believeth in Him, and to seek to make it crooked. And remember, when ye were but few, how He did multiply you. And see the nature of the consequence for the corrupters!",
+        "khattab": "And do not lie in ambush on every road—threatening and hindering those who believe in Allah from His Path and striving to make it ˹appear˺ crooked. Remember when you were few, then He increased you in number. And consider the fate of the corruptors",
+        "arberry": "And do not sit in every path, threatening and barring from God's way those who believe in Him, desiring to make it crooked. And remember when you were few, and He multiplied you; and behold, how was the end of the workers of corruption."
+      }
+    },
+    {
+      "location": [
+        11,
+        19,
+        7
+      ],
+      "form_arabic": "عِوَجًا",
+      "lemma": "Eiwaj",
+      "lemma_arabic": "عِوَج",
+      "pos": "N",
+      "ayah_id": "11:19",
+      "ayah_arabic": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجࣰ ا وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "crookedness",
+      "translations": {
+        "saheeh": "Who averted [people] from the way of Allah and sought to make it [seem] deviant while they, concerning the Hereafter, were disbelievers.",
+        "pickthall": "Who debar (men) from the way of Allah and would have it crooked, and who are disbelievers in the Hereafter.",
+        "khattab": "who hinder ˹others˺ from Allah’s Path, striving to make it ˹appear˺ crooked, and disbelieve in the Hereafter",
+        "arberry": "who bar from God's way, desiring to make it crooked; they disbelieve in the world to come;"
+      }
+    },
+    {
+      "location": [
+        14,
+        3,
+        12
+      ],
+      "form_arabic": "عِوَجًا",
+      "lemma": "Eiwaj",
+      "lemma_arabic": "عِوَج",
+      "pos": "N",
+      "ayah_id": "14:3",
+      "ayah_arabic": "ٱلَّذِينَ يَسۡتَحِبُّونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا عَلَى ٱلۡأٓخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجًاۚ أُوْلَٰٓئِكَ فِي ضَلَٰلِۭ بَعِيدࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ibrahim",
+      "literal_gloss": "crookedness",
+      "translations": {
+        "saheeh": "The ones who prefer the worldly life over the Hereafter and avert [people] from the way of Allah, seeking to make it (seem) deviant. Those are in extreme error.",
+        "pickthall": "Those who love the life of the world more than the Hereafter, and debar (men) from the way of Allah and would have it crooked: such are far astray.",
+        "khattab": "˹They are˺ the ones who favour the life of this world over the Hereafter and hinder ˹others˺ from the Way of Allah, striving to make it ˹appear˺ crooked. It is they who have gone far astray",
+        "arberry": "such as prefer the present life over the world to come, and bar from God's way, desiring to make it crooked -- they are in far error."
+      }
+    },
+    {
+      "location": [
+        18,
+        1,
+        11
+      ],
+      "form_arabic": "عِوَجَا",
+      "lemma": "Eiwaj",
+      "lemma_arabic": "عِوَج",
+      "pos": "N",
+      "ayah_id": "18:1",
+      "ayah_arabic": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِيٓ أَنزَلَ عَلَىٰ عَبۡدِهِ ٱلۡكِتَٰبَ وَلَمۡ يَجۡعَل لَّهُۥ عِوَجَاۜ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "any crookedness",
+      "translations": {
+        "saheeh": "[All] praise is [due] to Allah, who has sent down upon His Servant the Book and has not made therein any deviance.",
+        "pickthall": "Praise be to Allah Who hath revealed the Scripture unto His slave, and hath not placed therein any crookedness,",
+        "khattab": "All praise is for Allah Who has revealed the Book to His servant, allowing no crookedness in it",
+        "arberry": "Praise belongs to God who has sent down upon His servant the Book and has not assigned unto it any crookedness;"
+      }
+    },
+    {
+      "location": [
+        20,
+        107,
+        4
+      ],
+      "form_arabic": "عِوَجًا",
+      "lemma": "Eiwaj",
+      "lemma_arabic": "عِوَج",
+      "pos": "N",
+      "ayah_id": "20:107",
+      "ayah_arabic": "لَّا تَرَىٰ فِيهَا عِوَجࣰ ا وَلَآ أَمۡتࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "any crookedness",
+      "translations": {
+        "saheeh": "You will not see therein a depression or an elevation.\"",
+        "pickthall": "Wherein thou seest neither curve nor ruggedness.",
+        "khattab": "with neither depressions nor elevations to be seen.”",
+        "arberry": "wherein thou wilt see no crookedness neither any curving.'"
+      }
+    },
+    {
+      "location": [
+        20,
+        108,
+        5
+      ],
+      "form_arabic": "عِوَجَ",
+      "lemma": "Eiwaj",
+      "lemma_arabic": "عِوَج",
+      "pos": "N",
+      "ayah_id": "20:108",
+      "ayah_arabic": "يَوۡمَئِذࣲ يَتَّبِعُونَ ٱلدَّاعِيَ لَا عِوَجَ لَهُۥۖ وَخَشَعَتِ ٱلۡأَصۡوَاتُ لِلرَّحۡمَٰنِ فَلَا تَسۡمَعُ إِلَّا هَمۡسࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "deviation",
+      "translations": {
+        "saheeh": "That Day, everyone will follow [the call of] the Caller [with] no deviation therefrom, and [all] voices will be stilled before the Most Merciful, so you will not hear except a whisper [of footsteps].",
+        "pickthall": "On that day they follow the summoner who deceiveth not, and voices are hushed for the Beneficent, and thou hearest but a faint murmur.",
+        "khattab": "On that Day all will follow the caller ˹for assembly˺, ˹and˺ none will dare to deviate. All voices will be hushed before the Most Compassionate. Only whispers will be heard",
+        "arberry": "On that day they will follow the Summoner in whom is no crookedness; voices will be hushed to the All-merciful, so that thou hearest naught but a murmuring."
+      }
+    },
+    {
+      "location": [
+        39,
+        28,
+        5
+      ],
+      "form_arabic": "عِوَجٍ",
+      "lemma": "Eiwaj",
+      "lemma_arabic": "عِوَج",
+      "pos": "N",
+      "ayah_id": "39:28",
+      "ayah_arabic": "قُرۡءَانًا عَرَبِيًّا غَيۡرَ ذِي عِوَجࣲ لَّعَلَّهُمۡ يَتَّقُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "crookedness",
+      "translations": {
+        "saheeh": "[It is] an Arabic Qur'an, without any deviance that they might become righteous.",
+        "pickthall": "A Lecture in Arabic, containing no crookedness, that haply they may ward off (evil).",
+        "khattab": "˹It is˺ a Quran ˹revealed˺ in Arabic without any crookedness, so perhaps they will be conscious ˹of Allah˺",
+        "arberry": "Koran, wherein there is no crookedness; haply they will be godfearing."
+      }
+    }
+  ]
+}

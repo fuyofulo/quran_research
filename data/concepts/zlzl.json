@@ -1,0 +1,536 @@
+{
+  "root": "zlzl",
+  "root_arabic": "زلزل",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 3,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "V": 3,
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "zulozilu",
+      "lemma_arabic": "زُلْزِلُ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        2,
+        214,
+        16
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            214,
+            16
+          ],
+          "form_arabic": "وَزُلْزِلُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            33,
+            11,
+            4
+          ],
+          "form_arabic": "وَزُلْزِلُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            99,
+            1,
+            2
+          ],
+          "form_arabic": "زُلْزِلَتِ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "zilozaAl",
+      "lemma_arabic": "زِلْزَال",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        33,
+        11,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            33,
+            11,
+            5
+          ],
+          "form_arabic": "زِلْزَالًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            99,
+            1,
+            4
+          ],
+          "form_arabic": "زِلْزَالَهَا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "zalozalap",
+      "lemma_arabic": "زَلْزَلَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        22,
+        1,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            22,
+            1,
+            6
+          ],
+          "form_arabic": "زَلْزَلَةَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        22,
+        1
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        22,
+        1
+      ]
+    },
+    {
+      "root": "swE",
+      "root_arabic": "سوع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        22,
+        1
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        22,
+        1
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        22,
+        1
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        22,
+        1
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "mss",
+      "root_arabic": "مسس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "Hsb",
+      "root_arabic": "حسب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "bAs",
+      "root_arabic": "باس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "Drr",
+      "root_arabic": "ضرر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "xlw",
+      "root_arabic": "خلو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        214
+      ]
+    },
+    {
+      "root": "blw",
+      "root_arabic": "بلو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        11
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        33,
+        11
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        99,
+        1
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 33,
+        "name_english": "Al-Ahzaab",
+        "name_arabic": "سُورَةُ الأَحۡزَابِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 99,
+        "name_english": "Az-Zalzala",
+        "name_arabic": "سُورَةُ الزَّلۡزَلَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        214,
+        16
+      ],
+      "form_arabic": "وَزُلْزِلُوا@",
+      "lemma": "zulozilu",
+      "lemma_arabic": "زُلْزِلُ",
+      "pos": "V",
+      "ayah_id": "2:214",
+      "ayah_arabic": "أَمۡ حَسِبۡتُمۡ أَن تَدۡخُلُواْ ٱلۡجَنَّةَ وَلَمَّا يَأۡتِكُم مَّثَلُ ٱلَّذِينَ خَلَوۡاْ مِن قَبۡلِكُمۖ مَّسَّتۡهُمُ ٱلۡبَأۡسَآءُ وَٱلضَّرَّآءُ وَزُلۡزِلُواْ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ مَتَىٰ نَصۡرُ ٱللَّهِۗ أَلَآ إِنَّ نَصۡرَ ٱللَّهِ قَرِيبࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "and they were shaken",
+      "translations": {
+        "saheeh": "Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, \"When is the help of Allah?\" Unquestionably, the help of Allah is near.",
+        "pickthall": "Or think ye that ye will enter paradise while yet there hath not come unto you the like of (that which came to) those who passed away before you? Affliction and adversity befell them, they were shaken as with earthquake, till the messenger (of Allah) and those who believed along with him said: When cometh Allah's help? Now surely Allah's help is nigh.",
+        "khattab": "Do you think you will be admitted into Paradise without being tested like those before you? They were afflicted with suffering and adversity and were so ˹violently˺ shaken that ˹even˺ the Messenger and the believers with him cried out, “When will Allah’s help come?” Indeed, Allah’s help is ˹always˺ near",
+        "arberry": "Or did you suppose you should enter Paradise without there had come upon you the like of those who passed away before you? They were afflicted by misery and hardship and were so convulsed, that the Messenger and those who believed with him said, 'When comes God's help?' Ah, but surely God's help is nigh."
+      }
+    },
+    {
+      "location": [
+        22,
+        1,
+        6
+      ],
+      "form_arabic": "زَلْزَلَةَ",
+      "lemma": "zalozalap",
+      "lemma_arabic": "زَلْزَلَة",
+      "pos": "N",
+      "ayah_id": "22:1",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمۡۚ إِنَّ زَلۡزَلَةَ ٱلسَّاعَةِ شَيۡءٌ عَظِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "(the) convulsion",
+      "translations": {
+        "saheeh": "O mankind, fear your Lord. Indeed, the convulsion of the [final] Hour is a terrible thing.",
+        "pickthall": "O mankind! Fear your Lord. Lo! the earthquake of the Hour (of Doom) is a tremendous thing.",
+        "khattab": "O humanity! Fear your Lord, for the ˹violent˺ quaking at the Hour is surely a dreadful thing",
+        "arberry": "O men, fear your Lord! Surely the earthquake of the Hour is a mighty thing;"
+      }
+    },
+    {
+      "location": [
+        33,
+        11,
+        4
+      ],
+      "form_arabic": "وَزُلْزِلُوا@",
+      "lemma": "zulozilu",
+      "lemma_arabic": "زُلْزِلُ",
+      "pos": "V",
+      "ayah_id": "33:11",
+      "ayah_arabic": "هُنَالِكَ ٱبۡتُلِيَ ٱلۡمُؤۡمِنُونَ وَزُلۡزِلُواْ زِلۡزَالࣰ ا شَدِيدࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "and shaken",
+      "translations": {
+        "saheeh": "There the believers were tested and shaken with a severe shaking.",
+        "pickthall": "There were the believers sorely tried, and shaken with a mighty shock.",
+        "khattab": "Then and there the believers were put to the test, and were violently shaken",
+        "arberry": "there it was that the believers were tried, and shaken most mightily."
+      }
+    },
+    {
+      "location": [
+        33,
+        11,
+        5
+      ],
+      "form_arabic": "زِلْزَالًا",
+      "lemma": "zilozaAl",
+      "lemma_arabic": "زِلْزَال",
+      "pos": "N",
+      "ayah_id": "33:11",
+      "ayah_arabic": "هُنَالِكَ ٱبۡتُلِيَ ٱلۡمُؤۡمِنُونَ وَزُلۡزِلُواْ زِلۡزَالࣰ ا شَدِيدࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "(with a) shake",
+      "translations": {
+        "saheeh": "There the believers were tested and shaken with a severe shaking.",
+        "pickthall": "There were the believers sorely tried, and shaken with a mighty shock.",
+        "khattab": "Then and there the believers were put to the test, and were violently shaken",
+        "arberry": "there it was that the believers were tried, and shaken most mightily."
+      }
+    },
+    {
+      "location": [
+        99,
+        1,
+        2
+      ],
+      "form_arabic": "زُلْزِلَتِ",
+      "lemma": "zulozilu",
+      "lemma_arabic": "زُلْزِلُ",
+      "pos": "V",
+      "ayah_id": "99:1",
+      "ayah_arabic": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Az-Zalzala",
+      "literal_gloss": "is shaken",
+      "translations": {
+        "saheeh": "When the earth is shaken with its [final] earthquake",
+        "pickthall": "When Earth is shaken with her (final) earthquake",
+        "khattab": "When the earth is shaken ˹in˺ its ultimate quaking",
+        "arberry": "When earth is shaken with a mighty shaking"
+      }
+    },
+    {
+      "location": [
+        99,
+        1,
+        4
+      ],
+      "form_arabic": "زِلْزَالَهَا",
+      "lemma": "zilozaAl",
+      "lemma_arabic": "زِلْزَال",
+      "pos": "N",
+      "ayah_id": "99:1",
+      "ayah_arabic": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Az-Zalzala",
+      "literal_gloss": "(with) its earthquake",
+      "translations": {
+        "saheeh": "When the earth is shaken with its [final] earthquake",
+        "pickthall": "When Earth is shaken with her (final) earthquake",
+        "khattab": "When the earth is shaken ˹in˺ its ultimate quaking",
+        "arberry": "When earth is shaken with a mighty shaking"
+      }
+    }
+  ]
+}

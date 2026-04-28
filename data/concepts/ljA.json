@@ -1,0 +1,369 @@
+{
+  "root": "ljA",
+  "root_arabic": "لجا",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "m~aloja<",
+      "lemma_arabic": "مَّلْجَإ",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        9,
+        57,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            9,
+            57,
+            3
+          ],
+          "form_arabic": "مَلْجَـ#ًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            9,
+            118,
+            18
+          ],
+          "form_arabic": "مَلْجَأَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            42,
+            47,
+            16
+          ],
+          "form_arabic": "مَّلْجَإٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        9,
+        118
+      ]
+    },
+    {
+      "root": "Znn",
+      "root_arabic": "ظنن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        118
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        118
+      ]
+    },
+    {
+      "root": "Dyq",
+      "root_arabic": "ضيق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        118
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        118
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        118
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        118
+      ]
+    },
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        118
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        118
+      ]
+    },
+    {
+      "root": "rHb",
+      "root_arabic": "رحب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        118
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        57
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        57
+      ]
+    },
+    {
+      "root": "gwr",
+      "root_arabic": "غور",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        57
+      ]
+    },
+    {
+      "root": "jmH",
+      "root_arabic": "جمح",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        57
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        57
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        47
+      ]
+    },
+    {
+      "root": "jwb",
+      "root_arabic": "جوب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        47
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        47
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        47
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        47
+      ]
+    },
+    {
+      "root": "nkr",
+      "root_arabic": "نكر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        47
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        42,
+        47
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 42,
+        "name_english": "Ash-Shura",
+        "name_arabic": "سُورَةُ الشُّورَىٰ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        9,
+        57,
+        3
+      ],
+      "form_arabic": "مَلْجَـ#ًا",
+      "lemma": "m~aloja<",
+      "lemma_arabic": "مَّلْجَإ",
+      "pos": "N",
+      "ayah_id": "9:57",
+      "ayah_arabic": "لَوۡ يَجِدُونَ مَلۡجَـًٔا أَوۡ مَغَٰرَٰتٍ أَوۡ مُدَّخَلࣰ ا لَّوَلَّوۡاْ إِلَيۡهِ وَهُمۡ يَجۡمَحُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "a refuge",
+      "translations": {
+        "saheeh": "If they could find a refuge or some caves or any place to enter [and hide], they would turn to it while they run heedlessly.",
+        "pickthall": "Had they but found a refuge, or caverns, or a place to enter, they surely had resorted thither swift as runaways.",
+        "khattab": "If only they could find a refuge, or a cave, or any hiding-place, they would rush headlong towards it",
+        "arberry": "If they could find a shelter, or some caverns, or any place to creep into, they would turn about and bolt away to it."
+      }
+    },
+    {
+      "location": [
+        9,
+        118,
+        18
+      ],
+      "form_arabic": "مَلْجَأَ",
+      "lemma": "m~aloja<",
+      "lemma_arabic": "مَّلْجَإ",
+      "pos": "N",
+      "ayah_id": "9:118",
+      "ayah_arabic": "وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُواْ حَتَّىٰٓ إِذَا ضَاقَتۡ عَلَيۡهِمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ وَضَاقَتۡ عَلَيۡهِمۡ أَنفُسُهُمۡ وَظَنُّوٓاْ أَن لَّا مَلۡجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيۡهِ ثُمَّ تَابَ عَلَيۡهِمۡ لِيَتُوبُوٓاْۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "refuge",
+      "translations": {
+        "saheeh": "And [He also forgave] the three who were left behind [and regretted their error] to the point that the earth closed in on them in spite of its vastness and their souls confined them and they were certain that there is no refuge from Allah except in Him. Then He turned to them so they could repent. Indeed, Allah is the Accepting of repentance, the Merciful.",
+        "pickthall": "And to the three also (did He turn in mercy) who were left behind, when the earth, vast as it is, was straitened for them, and their own souls were straitened for them till they bethought them that there is no refuge from Allah save toward Him. Then turned He unto them in mercy that they (too) might turn (repentant unto Him). Lo! Allah! He is the Relenting, the Merciful.",
+        "khattab": "And ˹Allah has also turned in mercy to˺ the three who had remained behind, ˹whose guilt distressed them˺ until the earth, despite its vastness, seemed to close in on them, and their souls were torn in anguish. They knew there was no refuge from Allah except in Him. Then He turned to them in mercy so that they might repent. Surely Allah ˹alone˺ is the Accepter of Repentance, Most Merciful",
+        "arberry": "And to the three who were left behind, until, when the earth became strait for them, for all its breadth, and their souls became strait for them, and they thought that there was no shelter from God except in Him, then He turned towards them, that they might also turn; surely God turns, and is All-compassionate."
+      }
+    },
+    {
+      "location": [
+        42,
+        47,
+        16
+      ],
+      "form_arabic": "مَّلْجَإٍ",
+      "lemma": "m~aloja<",
+      "lemma_arabic": "مَّلْجَإ",
+      "pos": "N",
+      "ayah_id": "42:47",
+      "ayah_arabic": "ٱسۡتَجِيبُواْ لِرَبِّكُم مِّن قَبۡلِ أَن يَأۡتِيَ يَوۡمࣱ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِۚ مَا لَكُم مِّن مَّلۡجَإࣲ يَوۡمَئِذࣲ وَمَا لَكُم مِّن نَّكِيرࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shura",
+      "literal_gloss": "refuge",
+      "translations": {
+        "saheeh": "Respond to your Lord before a Day comes from Allah of which there is no repelling. No refuge will you have that day, nor for you will there be any denial.",
+        "pickthall": "Answer the call of your Lord before there cometh unto you from Allah a Day which there is no averting. Ye have no refuge on that Day, nor have a ye any (power of) refusal.",
+        "khattab": "Respond to your Lord before the coming of a Day from Allah that cannot be averted. There will be no refuge for you then, nor ˹grounds for˺ denial ˹of sins˺",
+        "arberry": "Answer your Lord, before there comes a day from God that cannot be turned back; upon that day you shall have no shelter, no denial."
+      }
+    }
+  ]
+}

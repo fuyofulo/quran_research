@@ -1,0 +1,392 @@
+{
+  "root": "vbr",
+  "root_arabic": "ثبر",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 2,
+    "ayahs": 4,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 5
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "vubuwr",
+      "lemma_arabic": "ثُبُور",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        25,
+        13,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            25,
+            13,
+            9
+          ],
+          "form_arabic": "ثُبُورًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            25,
+            14,
+            4
+          ],
+          "form_arabic": "ثُبُورًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            25,
+            14,
+            7
+          ],
+          "form_arabic": "ثُبُورًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            84,
+            11,
+            3
+          ],
+          "form_arabic": "ثُبُورًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "mavobuwr",
+      "lemma_arabic": "مَثْبُور",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        17,
+        102,
+        15
+      ],
+      "occurrences": [
+        {
+          "location": [
+            17,
+            102,
+            15
+          ],
+          "form_arabic": "مَثْبُورًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        25,
+        13
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        102
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        102
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        102
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        102
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        102
+      ]
+    },
+    {
+      "root": "Znn",
+      "root_arabic": "ظنن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        102
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        102
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        102
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        25,
+        13
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        25,
+        13
+      ]
+    },
+    {
+      "root": "qrn",
+      "root_arabic": "قرن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        25,
+        13
+      ]
+    },
+    {
+      "root": "Dyq",
+      "root_arabic": "ضيق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        25,
+        13
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        25,
+        14
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        25,
+        14
+      ]
+    },
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        25,
+        14
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 25,
+        "name_english": "Al-Furqaan",
+        "name_arabic": "سُورَةُ الفُرۡقَانِ",
+        "revelation": "Meccan",
+        "occurrences": 3
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 84,
+        "name_english": "Al-Inshiqaaq",
+        "name_arabic": "سُورَةُ الانشِقَاقِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 5
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        17,
+        102,
+        15
+      ],
+      "form_arabic": "مَثْبُورًا",
+      "lemma": "mavobuwr",
+      "lemma_arabic": "مَثْبُور",
+      "pos": "N",
+      "ayah_id": "17:102",
+      "ayah_arabic": "قَالَ لَقَدۡ عَلِمۡتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ بَصَآئِرَ وَإِنِّي لَأَظُنُّكَ يَٰفِرۡعَوۡنُ مَثۡبُورࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "(you are) destroyed",
+      "translations": {
+        "saheeh": "[Moses] said, \"You have already known that none has sent down these [signs] except the Lord of the heavens and the earth as evidence, and indeed I think, O Pharaoh, that you are destroyed.\"",
+        "pickthall": "He said: In truth thou knowest that none sent down these (portents) save the Lord of the heavens and the earth as proofs, and lo! (for my part) I deem thee lost, O Pharaoh.",
+        "khattab": "Moses replied, “You know well that none has sent these ˹signs˺ down except the Lord of the heavens and the earth as insights. And I really think that you, O Pharaoh, are doomed.”",
+        "arberry": "He said, 'Indeed thou knowest that none sent these down, except the Lord of the heavens and earth, as clear proofs; and, Pharaoh, I think thou art accursed.'"
+      }
+    },
+    {
+      "location": [
+        25,
+        13,
+        9
+      ],
+      "form_arabic": "ثُبُورًا",
+      "lemma": "vubuwr",
+      "lemma_arabic": "ثُبُور",
+      "pos": "N",
+      "ayah_id": "25:13",
+      "ayah_arabic": "وَإِذَآ أُلۡقُواْ مِنۡهَا مَكَانࣰ ا ضَيِّقࣰ ا مُّقَرَّنِينَ دَعَوۡاْ هُنَالِكَ ثُبُورࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "(for) destruction",
+      "translations": {
+        "saheeh": "And when they are thrown into a narrow place therein bound in chains, they will cry out thereupon for destruction.",
+        "pickthall": "And when they are flung into a narrow place thereof, chained together, they pray for destruction there.",
+        "khattab": "And when they are tossed into a narrow place inside ˹Hell˺, chained together, then and there they will cry out for ˹instant˺ destruction",
+        "arberry": "And when they are cast, coupled in fetters, into a narrow place of that Fire, they will call out there for destruction."
+      }
+    },
+    {
+      "location": [
+        25,
+        14,
+        4
+      ],
+      "form_arabic": "ثُبُورًا",
+      "lemma": "vubuwr",
+      "lemma_arabic": "ثُبُور",
+      "pos": "N",
+      "ayah_id": "25:14",
+      "ayah_arabic": "لَّا تَدۡعُواْ ٱلۡيَوۡمَ ثُبُورࣰ ا وَٰحِدࣰ ا وَٱدۡعُواْ ثُبُورࣰ ا كَثِيرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "(for) destruction",
+      "translations": {
+        "saheeh": "[They will be told], \"Do not cry this Day for one destruction but cry for much destruction.\"",
+        "pickthall": "Pray not that day for one destruction, but pray for many destructions!",
+        "khattab": "˹They will be told,˺ “Do not cry only once for destruction, but cry many times over!”",
+        "arberry": "'Call not out today for one destruction, but call for many!'"
+      }
+    },
+    {
+      "location": [
+        25,
+        14,
+        7
+      ],
+      "form_arabic": "ثُبُورًا",
+      "lemma": "vubuwr",
+      "lemma_arabic": "ثُبُور",
+      "pos": "N",
+      "ayah_id": "25:14",
+      "ayah_arabic": "لَّا تَدۡعُواْ ٱلۡيَوۡمَ ثُبُورࣰ ا وَٰحِدࣰ ا وَٱدۡعُواْ ثُبُورࣰ ا كَثِيرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "(for) destructions",
+      "translations": {
+        "saheeh": "[They will be told], \"Do not cry this Day for one destruction but cry for much destruction.\"",
+        "pickthall": "Pray not that day for one destruction, but pray for many destructions!",
+        "khattab": "˹They will be told,˺ “Do not cry only once for destruction, but cry many times over!”",
+        "arberry": "'Call not out today for one destruction, but call for many!'"
+      }
+    },
+    {
+      "location": [
+        84,
+        11,
+        3
+      ],
+      "form_arabic": "ثُبُورًا",
+      "lemma": "vubuwr",
+      "lemma_arabic": "ثُبُور",
+      "pos": "N",
+      "ayah_id": "84:11",
+      "ayah_arabic": "فَسَوۡفَ يَدۡعُواْ ثُبُورࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Inshiqaaq",
+      "literal_gloss": "(for) destruction",
+      "translations": {
+        "saheeh": "He will cry out for destruction",
+        "pickthall": "He surely will invoke destruction",
+        "khattab": "they will cry for ˹instant˺ destruction",
+        "arberry": "he shall call for destruction"
+      }
+    }
+  ]
+}

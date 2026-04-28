@@ -1,0 +1,942 @@
+{
+  "root": "qsw",
+  "root_arabic": "قسو",
+  "stats": {
+    "occurrences": 7,
+    "lemmas": 3,
+    "ayahs": 6,
+    "surahs": 6,
+    "pos_distribution": {
+      "N": 4,
+      "V": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "qasato",
+      "lemma_arabic": "قَسَتْ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        2,
+        74,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            74,
+            2
+          ],
+          "form_arabic": "قَسَتْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            6,
+            43,
+            7
+          ],
+          "form_arabic": "قَسَتْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            57,
+            16,
+            24
+          ],
+          "form_arabic": "فَقَسَتْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "qa`siyap",
+      "lemma_arabic": "قَٰسِيَة",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        5,
+        13,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            13,
+            7
+          ],
+          "form_arabic": "قَٰسِيَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            22,
+            53,
+            10
+          ],
+          "form_arabic": "وَٱلْقَاسِيَةِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            39,
+            22,
+            12
+          ],
+          "form_arabic": "لِّلْقَٰسِيَةِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "qasowap",
+      "lemma_arabic": "قَسْوَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        2,
+        74,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            74,
+            11
+          ],
+          "form_arabic": "قَسْوَةً",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 6,
+      "share": 1.0,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 4,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "$qq",
+      "root_arabic": "شقق",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "$Tn",
+      "root_arabic": "شطن",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        43
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        6,
+        43
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        53
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        53
+      ]
+    },
+    {
+      "root": "mrD",
+      "root_arabic": "مرض",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        53
+      ]
+    },
+    {
+      "root": "ftn",
+      "root_arabic": "فتن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        22,
+        53
+      ]
+    },
+    {
+      "root": "zyn",
+      "root_arabic": "زين",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        43
+      ]
+    },
+    {
+      "root": "DrE",
+      "root_arabic": "ضرع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        43
+      ]
+    },
+    {
+      "root": "bAs",
+      "root_arabic": "باس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        43
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        6,
+        43
+      ]
+    },
+    {
+      "root": "x$y",
+      "root_arabic": "خشي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "hbT",
+      "root_arabic": "هبط",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "fjr",
+      "root_arabic": "فجر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "gfl",
+      "root_arabic": "غفل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "Hjr",
+      "root_arabic": "حجر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        74
+      ]
+    },
+    {
+      "root": "Amd",
+      "root_arabic": "امد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "x$E",
+      "root_arabic": "خشع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "Any",
+      "root_arabic": "اني",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "Twl",
+      "root_arabic": "طول",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "fsq",
+      "root_arabic": "فسق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        57,
+        16
+      ]
+    },
+    {
+      "root": "TlE",
+      "root_arabic": "طلع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "SfH",
+      "root_arabic": "صفح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "zyl",
+      "root_arabic": "زيل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "Hrf",
+      "root_arabic": "حرف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "lEn",
+      "root_arabic": "لعن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "xwn",
+      "root_arabic": "خون",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "wDE",
+      "root_arabic": "وضع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "nsy",
+      "root_arabic": "نسي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "HZZ",
+      "root_arabic": "حظظ",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "wvq",
+      "root_arabic": "وثق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "Efw",
+      "root_arabic": "عفو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "nqD",
+      "root_arabic": "نقض",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        13
+      ]
+    },
+    {
+      "root": "$rH",
+      "root_arabic": "شرح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        22
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        22
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        22
+      ]
+    },
+    {
+      "root": "Sdr",
+      "root_arabic": "صدر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        22
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        22
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        22
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        39,
+        22
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 57,
+        "name_english": "Al-Hadid",
+        "name_arabic": "سُورَةُ الحَدِيدِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 5,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        74,
+        2
+      ],
+      "form_arabic": "قَسَتْ",
+      "lemma": "qasato",
+      "lemma_arabic": "قَسَتْ",
+      "pos": "V",
+      "ayah_id": "2:74",
+      "ayah_arabic": "ثُمَّ قَسَتۡ قُلُوبُكُم مِّنۢ بَعۡدِ ذَٰلِكَ فَهِيَ كَٱلۡحِجَارَةِ أَوۡ أَشَدُّ قَسۡوَةࣰۚ وَإِنَّ مِنَ ٱلۡحِجَارَةِ لَمَا يَتَفَجَّرُ مِنۡهُ ٱلۡأَنۡهَٰرُۚ وَإِنَّ مِنۡهَا لَمَا يَشَّقَّقُ فَيَخۡرُجُ مِنۡهُ ٱلۡمَآءُۚ وَإِنَّ مِنۡهَا لَمَا يَهۡبِطُ مِنۡ خَشۡيَةِ ٱللَّهِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "hardened",
+      "translations": {
+        "saheeh": "Then your hearts became hardened after that, being like stones or even harder. For indeed, there are stones from which rivers burst forth, and there are some of them that split open and water comes out, and there are some of them that fall down for fear of Allah. And Allah is not unaware of what you do.",
+        "pickthall": "Then, even after that, your hearts were hardened and became as rocks, or worse than rocks, for hardness. For indeed there are rocks from out which rivers gush, and indeed there are rocks which split asunder so that water floweth from them. And indeed there are rocks which fall down for the fear of Allah. Allah is not unaware of what ye do.",
+        "khattab": "Even then your hearts became hardened like a rock or even harder, for some rocks gush rivers; others split, spilling water; while others are humbled in awe of Allah. And Allah is never unaware of what you do",
+        "arberry": "Then your hearts became hardened thereafter and are like stones, or even yet harder; for there are stones from which rivers come gushing, and others split, so that water issues from them, and others crash down in the fear of God. And God is not heedless of the things you do."
+      }
+    },
+    {
+      "location": [
+        2,
+        74,
+        11
+      ],
+      "form_arabic": "قَسْوَةً",
+      "lemma": "qasowap",
+      "lemma_arabic": "قَسْوَة",
+      "pos": "N",
+      "ayah_id": "2:74",
+      "ayah_arabic": "ثُمَّ قَسَتۡ قُلُوبُكُم مِّنۢ بَعۡدِ ذَٰلِكَ فَهِيَ كَٱلۡحِجَارَةِ أَوۡ أَشَدُّ قَسۡوَةࣰۚ وَإِنَّ مِنَ ٱلۡحِجَارَةِ لَمَا يَتَفَجَّرُ مِنۡهُ ٱلۡأَنۡهَٰرُۚ وَإِنَّ مِنۡهَا لَمَا يَشَّقَّقُ فَيَخۡرُجُ مِنۡهُ ٱلۡمَآءُۚ وَإِنَّ مِنۡهَا لَمَا يَهۡبِطُ مِنۡ خَشۡيَةِ ٱللَّهِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(in) hardness",
+      "translations": {
+        "saheeh": "Then your hearts became hardened after that, being like stones or even harder. For indeed, there are stones from which rivers burst forth, and there are some of them that split open and water comes out, and there are some of them that fall down for fear of Allah. And Allah is not unaware of what you do.",
+        "pickthall": "Then, even after that, your hearts were hardened and became as rocks, or worse than rocks, for hardness. For indeed there are rocks from out which rivers gush, and indeed there are rocks which split asunder so that water floweth from them. And indeed there are rocks which fall down for the fear of Allah. Allah is not unaware of what ye do.",
+        "khattab": "Even then your hearts became hardened like a rock or even harder, for some rocks gush rivers; others split, spilling water; while others are humbled in awe of Allah. And Allah is never unaware of what you do",
+        "arberry": "Then your hearts became hardened thereafter and are like stones, or even yet harder; for there are stones from which rivers come gushing, and others split, so that water issues from them, and others crash down in the fear of God. And God is not heedless of the things you do."
+      }
+    },
+    {
+      "location": [
+        5,
+        13,
+        7
+      ],
+      "form_arabic": "قَٰسِيَةً",
+      "lemma": "qa`siyap",
+      "lemma_arabic": "قَٰسِيَة",
+      "pos": "N",
+      "ayah_id": "5:13",
+      "ayah_arabic": "فَبِمَا نَقۡضِهِم مِّيثَٰقَهُمۡ لَعَنَّٰهُمۡ وَجَعَلۡنَا قُلُوبَهُمۡ قَٰسِيَةࣰۖ يُحَرِّفُونَ ٱلۡكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُواْ حَظࣰّ ا مِّمَّا ذُكِّرُواْ بِهِۦۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةࣲ مِّنۡهُمۡ إِلَّا قَلِيلࣰ ا مِّنۡهُمۡۖ فَٱعۡفُ عَنۡهُمۡ وَٱصۡفَحۡۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُحۡسِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "hard",
+      "translations": {
+        "saheeh": "So for their breaking of the covenant We cursed them and made their hearts hard. They distort words from their [proper] usages and have forgotten a portion of that of which they were reminded. And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allah loves the doers of good.",
+        "pickthall": "And because of their breaking their covenant, We have cursed them and made hard their hearts. They change words from their context and forget a part of that whereof they were admonished. Thou wilt not cease to discover treachery from all save a few of them. But bear with them and pardon them. Lo! Allah loveth the kindly.",
+        "khattab": "But for breaking their covenant We condemned them and hardened their hearts. They distorted the words of the Scripture and neglected a portion of what they had been commanded to uphold. You ˹O Prophet˺ will always find deceit on their part, except for a few. But pardon them and bear with them. Indeed, Allah loves the good-doers",
+        "arberry": "So for their breaking their compact We cursed them and made their hearts hard, they perverting words from their meanings; and they have forgotten a portion of that they were reminded of; and thou wilt never cease to light upon some act of treachery on their part, except a few of them. Yet pardon them, and forgive; surely God loves the good-doers."
+      }
+    },
+    {
+      "location": [
+        6,
+        43,
+        7
+      ],
+      "form_arabic": "قَسَتْ",
+      "lemma": "qasato",
+      "lemma_arabic": "قَسَتْ",
+      "pos": "V",
+      "ayah_id": "6:43",
+      "ayah_arabic": "فَلَوۡلَآ إِذۡ جَآءَهُم بَأۡسُنَا تَضَرَّعُواْ وَلَٰكِن قَسَتۡ قُلُوبُهُمۡ وَزَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ مَا كَانُواْ يَعۡمَلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "became hardened",
+      "translations": {
+        "saheeh": "Then why, when Our punishment came to them, did they not humble themselves? But their hearts became hardened, and Satan made attractive to them that which they were doing.",
+        "pickthall": "If only, when Our disaster came on them, they had been humble! But their hearts were hardened and the devil made all that they used to do seem fair unto them!",
+        "khattab": "Why did they not humble themselves when We made them suffer? Instead, their hearts were hardened, and Satan made their misdeeds appealing to them",
+        "arberry": "if only, when Our might came upon them, they had been humble! But their hearts were hard, and Satan decked out fair to them what they were doing."
+      }
+    },
+    {
+      "location": [
+        22,
+        53,
+        10
+      ],
+      "form_arabic": "وَٱلْقَاسِيَةِ",
+      "lemma": "qa`siyap",
+      "lemma_arabic": "قَٰسِيَة",
+      "pos": "N",
+      "ayah_id": "22:53",
+      "ayah_arabic": "لِّيَجۡعَلَ مَا يُلۡقِي ٱلشَّيۡطَٰنُ فِتۡنَةࣰ لِّلَّذِينَ فِي قُلُوبِهِم مَّرَضࣱ وَٱلۡقَاسِيَةِ قُلُوبُهُمۡۗ وَإِنَّ ٱلظَّٰلِمِينَ لَفِي شِقَاقِۭ بَعِيدࣲ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "and (are) hardened",
+      "translations": {
+        "saheeh": "[That is] so He may make what Satan throws in a trial for those within whose hearts is disease and those hard of heart. And indeed, the wrongdoers are in extreme dissension.",
+        "pickthall": "That He may make that which the devil proposeth a temptation for those in whose hearts is a disease, and those whose hearts are hardened - Lo! the evil-doers are in open schism -",
+        "khattab": "All that so He may make Satan’s influence a trial for those ˹hypocrites˺ whose hearts are sick and those ˹disbelievers˺ whose hearts are hardened. Surely the wrongdoers are totally engrossed in opposition",
+        "arberry": "that He may make what Satan casts a trial for those in whose hearts is sickness, and those whose hearts are hard; and surely the evildoers are in wide schism;"
+      }
+    },
+    {
+      "location": [
+        39,
+        22,
+        12
+      ],
+      "form_arabic": "لِّلْقَٰسِيَةِ",
+      "lemma": "qa`siyap",
+      "lemma_arabic": "قَٰسِيَة",
+      "pos": "N",
+      "ayah_id": "39:22",
+      "ayah_arabic": "أَفَمَن شَرَحَ ٱللَّهُ صَدۡرَهُۥ لِلۡإِسۡلَٰمِ فَهُوَ عَلَىٰ نُورࣲ مِّن رَّبِّهِۦۚ فَوَيۡلࣱ لِّلۡقَٰسِيَةِ قُلُوبُهُم مِّن ذِكۡرِ ٱللَّهِۚ أُوْلَٰٓئِكَ فِي ضَلَٰلࣲ مُّبِينٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "to (those are) hardened",
+      "translations": {
+        "saheeh": "So is one whose breast Allah has expanded to [accept] Islam and he is upon a light from his Lord [like one whose heart rejects it]? Then woe to those whose hearts are hardened against the remembrance of Allah. Those are in manifest error.",
+        "pickthall": "Is he whose bosom Allah hath expanded for Al-Islam, so that he followeth a light from his Lord, (as he who disbelieveth)? Then woe unto those whose hearts are hardened against remembrance of Allah. Such are in plain error.",
+        "khattab": "Can ˹the misguided be like˺ those whose hearts Allah has opened to Islam, so they are enlightened by their Lord? So woe to those whose hearts are hardened at the remembrance of Allah! It is they who are clearly astray",
+        "arberry": "Is he whose breast God has expanded unto Islam, so he walks in a light from his Lord...? But woe to those whose hearts are hardened against the remembrance of God! Those are in manifest error."
+      }
+    },
+    {
+      "location": [
+        57,
+        16,
+        24
+      ],
+      "form_arabic": "فَقَسَتْ",
+      "lemma": "qasato",
+      "lemma_arabic": "قَسَتْ",
+      "pos": "V",
+      "ayah_id": "57:16",
+      "ayah_arabic": "۞أَلَمۡ يَأۡنِ لِلَّذِينَ ءَامَنُوٓاْ أَن تَخۡشَعَ قُلُوبُهُمۡ لِذِكۡرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلۡحَقِّ وَلَا يَكُونُواْ كَٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلُ فَطَالَ عَلَيۡهِمُ ٱلۡأَمَدُ فَقَسَتۡ قُلُوبُهُمۡۖ وَكَثِيرࣱ مِّنۡهُمۡ فَٰسِقُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hadid",
+      "literal_gloss": "so hardened",
+      "translations": {
+        "saheeh": "Has the time not come for those who have believed that their hearts should become humbly submissive at the remembrance of Allah and what has come down of the truth? And let them not be like those who were given the Scripture before, and a long period passed over them, so their hearts hardened; and many of them are defiantly disobedient.",
+        "pickthall": "Is not the time ripe for the hearts of those who believe to submit to Allah's reminder and to the truth which is revealed, that they become not as those who received the scripture of old but the term was prolonged for them and so their hearts were hardened, and many of them are evil-livers.",
+        "khattab": "Has the time not yet come for believers’ hearts to be humbled at the remembrance of Allah and what has been revealed of the truth, and not be like those given the Scripture before—˹those˺ who were spoiled for so long that their hearts became hardened. And many of them are ˹still˺ rebellious",
+        "arberry": "Is it not time that the hearts of those who believe should be humbled to the Remembrance of God and the Truth which He has sent down, and that they should not be as those to whom the Book was given aforetime, and the term seemed over long to them, so that their hearts have become hard, and many of them are ungodly?"
+      }
+    }
+  ]
+}

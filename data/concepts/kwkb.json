@@ -1,0 +1,632 @@
+{
+  "root": "kwkb",
+  "root_arabic": "كوكب",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 1,
+    "ayahs": 5,
+    "surahs": 5,
+    "pos_distribution": {
+      "N": 5
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "kawokab",
+      "lemma_arabic": "كَوْكَب",
+      "count": 5,
+      "pos_distribution": {
+        "N": 5
+      },
+      "first_occurrence": [
+        6,
+        76,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            6,
+            76,
+            6
+          ],
+          "form_arabic": "كَوْكَبًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            4,
+            10
+          ],
+          "form_arabic": "كَوْكَبًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            24,
+            35,
+            15
+          ],
+          "form_arabic": "كَوْكَبٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            37,
+            6,
+            6
+          ],
+          "form_arabic": "ٱلْكَوَاكِبِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            82,
+            2,
+            2
+          ],
+          "form_arabic": "ٱلْكَوَاكِبُ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        6,
+        76
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        6,
+        76
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        4
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        4
+      ]
+    },
+    {
+      "root": "E$r",
+      "root_arabic": "عشر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        4
+      ]
+    },
+    {
+      "root": "$ms",
+      "root_arabic": "شمس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        4
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        4
+      ]
+    },
+    {
+      "root": "qmr",
+      "root_arabic": "قمر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        12,
+        4
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        6,
+        76
+      ]
+    },
+    {
+      "root": "Afl",
+      "root_arabic": "افل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        6,
+        76
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        6,
+        76
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        6,
+        76
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        6,
+        76
+      ]
+    },
+    {
+      "root": "dnw",
+      "root_arabic": "دنو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        37,
+        6
+      ]
+    },
+    {
+      "root": "zyn",
+      "root_arabic": "زين",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        37,
+        6
+      ]
+    },
+    {
+      "root": "drr",
+      "root_arabic": "درر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "DwA",
+      "root_arabic": "ضوا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "mss",
+      "root_arabic": "مسس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "wqd",
+      "root_arabic": "وقد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "$rq",
+      "root_arabic": "شرق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "$jr",
+      "root_arabic": "شجر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "zjj",
+      "root_arabic": "زجج",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "zyt",
+      "root_arabic": "زيت",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "SbH",
+      "root_arabic": "صبح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "$kw",
+      "root_arabic": "شكو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "grb",
+      "root_arabic": "غرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "brk",
+      "root_arabic": "برك",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        24,
+        35
+      ]
+    },
+    {
+      "root": "nvr",
+      "root_arabic": "نثر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        82,
+        2
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 82,
+        "name_english": "Al-Infitaar",
+        "name_arabic": "سُورَةُ الانفِطَارِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        6,
+        76,
+        6
+      ],
+      "form_arabic": "كَوْكَبًا",
+      "lemma": "kawokab",
+      "lemma_arabic": "كَوْكَب",
+      "pos": "N",
+      "ayah_id": "6:76",
+      "ayah_arabic": "فَلَمَّا جَنَّ عَلَيۡهِ ٱلَّيۡلُ رَءَا كَوۡكَبࣰ اۖ قَالَ هَٰذَا رَبِّيۖ فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلۡأٓفِلِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "a star",
+      "translations": {
+        "saheeh": "So when the night covered him [with darkness], he saw a star. He said, \"This is my lord.\" But when it set, he said, \"I like not those that disappear.\"",
+        "pickthall": "When the night grew dark upon him he beheld a star. He said: This is my Lord. But when it set, he said: I love not things that set.",
+        "khattab": "When the night grew dark upon him, he saw a star and said, “This is my Lord!” But when it set, he said, “I do not love things that set.”",
+        "arberry": "When night outspread over him he saw a star and said, 'This is my Lord.' But when it set he said, 'I love not the setters.'"
+      }
+    },
+    {
+      "location": [
+        12,
+        4,
+        10
+      ],
+      "form_arabic": "كَوْكَبًا",
+      "lemma": "kawokab",
+      "lemma_arabic": "كَوْكَب",
+      "pos": "N",
+      "ayah_id": "12:4",
+      "ayah_arabic": "إِذۡ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّي رَأَيۡتُ أَحَدَ عَشَرَ كَوۡكَبࣰ ا وَٱلشَّمۡسَ وَٱلۡقَمَرَ رَأَيۡتُهُمۡ لِي سَٰجِدِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "stars",
+      "translations": {
+        "saheeh": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\"",
+        "pickthall": "When Joseph said unto his father: O my father! Lo! I saw in a dream eleven planets and the sun and the moon, I saw them prostrating themselves unto me.",
+        "khattab": "˹Remember˺ when Joseph said to his father, “O my dear father! Indeed I dreamt of eleven stars, and the sun, and the moon—I saw them prostrating to me!”",
+        "arberry": "When Joseph said to his father, 'Father, I saw eleven stars, and the sun and the moon; I saw them bowing down before me.'"
+      }
+    },
+    {
+      "location": [
+        24,
+        35,
+        15
+      ],
+      "form_arabic": "كَوْكَبٌ",
+      "lemma": "kawokab",
+      "lemma_arabic": "كَوْكَب",
+      "pos": "N",
+      "ayah_id": "24:35",
+      "ayah_arabic": "۞ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ مَثَلُ نُورِهِۦ كَمِشۡكَوٰةࣲ فِيهَا مِصۡبَاحٌۖ ٱلۡمِصۡبَاحُ فِي زُجَاجَةٍۖ ٱلزُّجَاجَةُ كَأَنَّهَا كَوۡكَبࣱ دُرِّيࣱّ يُوقَدُ مِن شَجَرَةࣲ مُّبَٰرَكَةࣲ زَيۡتُونَةࣲ لَّا شَرۡقِيَّةࣲ وَلَا غَرۡبِيَّةࣲ يَكَادُ زَيۡتُهَا يُضِيٓءُ وَلَوۡ لَمۡ تَمۡسَسۡهُ نَارࣱۚ نُّورٌ عَلَىٰ نُورࣲۚ يَهۡدِي ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُۚ وَيَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَٰلَ لِلنَّاسِۗ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "a star",
+      "translations": {
+        "saheeh": "Allah is the Light of the heavens and the earth. The example of His light is like a niche within which is a lamp, the lamp is within glass, the glass as if it were a pearly [white] star lit from [the oil of] a blessed olive tree, neither of the east nor of the west, whose oil would almost glow even if untouched by fire. Light upon light. Allah guides to His light whom He wills. And Allah presents examples for the people, and Allah is Knowing of all things.",
+        "pickthall": "Allah is the Light of the heavens and the earth. The similitude of His light is as a niche wherein is a lamp. The lamp is in a glass. The glass is as it were a shining star. (This lamp is) kindled from a blessed tree, an olive neither of the East nor of the West, whose oil would almost glow forth (of itself) though no fire touched it. Light upon light. Allah guideth unto His light whom He will. And Allah speaketh to mankind in allegories, for Allah is Knower of all things.",
+        "khattab": "Allah is the Light of the heavens and the earth. His light is like a niche in which there is a lamp, the lamp is in a crystal, the crystal is like a shining star, lit from ˹the oil of˺ a blessed olive tree, ˹located˺ neither to the east nor the west, whose oil would almost glow, even without being touched by fire. Light upon light! Allah guides whoever He wills to His light. And Allah sets forth parables for humanity. For Allah has ˹perfect˺ knowledge of all things",
+        "arberry": "God is the Light of the heavens and the earth; the likeness of His Light is as a niche wherein is a lamp (the lamp in a glass, the glass as it were a glittering star) kindled from a Blessed Tree, an olive that is neither of the East nor of the West whose oil wellnigh would shine, even if no fire touched it; Light upon Light; (God guides to His Light whom He will.) (And God strikes similitudes for men, and God has knowledge of everything.)"
+      }
+    },
+    {
+      "location": [
+        37,
+        6,
+        6
+      ],
+      "form_arabic": "ٱلْكَوَاكِبِ",
+      "lemma": "kawokab",
+      "lemma_arabic": "كَوْكَب",
+      "pos": "N",
+      "ayah_id": "37:6",
+      "ayah_arabic": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِزِينَةٍ ٱلۡكَوَاكِبِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "(of) the stars",
+      "translations": {
+        "saheeh": "Indeed, We have adorned the nearest heaven with an adornment of stars",
+        "pickthall": "Lo! We have adorned the lowest heaven with an ornament, the planets;",
+        "khattab": "Indeed, We have adorned the lowest heaven with the stars for decoration",
+        "arberry": "We have adorned the lower heaven with the adornment of the stars"
+      }
+    },
+    {
+      "location": [
+        82,
+        2,
+        2
+      ],
+      "form_arabic": "ٱلْكَوَاكِبُ",
+      "lemma": "kawokab",
+      "lemma_arabic": "كَوْكَب",
+      "pos": "N",
+      "ayah_id": "82:2",
+      "ayah_arabic": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Infitaar",
+      "literal_gloss": "the stars",
+      "translations": {
+        "saheeh": "And when the stars fall, scattering,",
+        "pickthall": "When the planets are dispersed,",
+        "khattab": "and when the stars fall away",
+        "arberry": "when the stars are scattered,"
+      }
+    }
+  ]
+}

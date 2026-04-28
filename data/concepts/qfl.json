@@ -1,0 +1,109 @@
+{
+  "root": "qfl",
+  "root_arabic": "قفل",
+  "stats": {
+    "occurrences": 1,
+    "lemmas": 1,
+    "ayahs": 1,
+    "surahs": 1,
+    "pos_distribution": {
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">aqofaAl",
+      "lemma_arabic": "أَقْفَال",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        47,
+        24,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            47,
+            24,
+            7
+          ],
+          "form_arabic": "أَقْفَالُهَا^",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "dbr",
+      "root_arabic": "دبر",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        47,
+        24
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        47,
+        24
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        47,
+        24
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 47,
+        "name_english": "Muhammad",
+        "name_arabic": "سُورَةُ مُحَمَّدٍ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        47,
+        24,
+        7
+      ],
+      "form_arabic": "أَقْفَالُهَا^",
+      "lemma": ">aqofaAl",
+      "lemma_arabic": "أَقْفَال",
+      "pos": "N",
+      "ayah_id": "47:24",
+      "ayah_arabic": "أَفَلَا يَتَدَبَّرُونَ ٱلۡقُرۡءَانَ أَمۡ عَلَىٰ قُلُوبٍ أَقۡفَالُهَآ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Muhammad",
+      "literal_gloss": "(are) locks",
+      "translations": {
+        "saheeh": "Then do they not reflect upon the Qur'an, or are there locks upon [their] hearts?",
+        "pickthall": "Will they then not meditate on the Qur'an, or are there locks on the hearts?",
+        "khattab": "Do they not then reflect on the Quran? Or are there locks upon their hearts",
+        "arberry": "What, do they not ponder the Koran? Or is it that there are locks upon their hearts?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "root": "lmH",
+  "root_arabic": "لمح",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "lamoH",
+      "lemma_arabic": "لَمْح",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        16,
+        77,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            16,
+            77,
+            9
+          ],
+          "form_arabic": "كَلَمْحِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            54,
+            50,
+            5
+          ],
+          "form_arabic": "كَلَمْحٍ]",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "swE",
+      "root_arabic": "سوع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "gyb",
+      "root_arabic": "غيب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        16,
+        77
+      ]
+    },
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        54,
+        50
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 16,
+        "name_english": "An-Nahl",
+        "name_arabic": "سُورَةُ النَّحۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 54,
+        "name_english": "Al-Qamar",
+        "name_arabic": "سُورَةُ القَمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        16,
+        77,
+        9
+      ],
+      "form_arabic": "كَلَمْحِ",
+      "lemma": "lamoH",
+      "lemma_arabic": "لَمْح",
+      "pos": "N",
+      "ayah_id": "16:77",
+      "ayah_arabic": "وَلِلَّهِ غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَآ أَمۡرُ ٱلسَّاعَةِ إِلَّا كَلَمۡحِ ٱلۡبَصَرِ أَوۡ هُوَ أَقۡرَبُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Nahl",
+      "literal_gloss": "as a twinkling",
+      "translations": {
+        "saheeh": "And to Allah belongs the unseen [aspects] of the heavens and the earth. And the command for the Hour is not but as a glance of the eye or even nearer. Indeed, Allah is over all things competent.",
+        "pickthall": "And unto Allah belongeth the Unseen of the heavens and the earth, and the matter of the Hour (of Doom) is but as a twinkling of the eye, or it is nearer still. Lo! Allah is Able to do all things.",
+        "khattab": "To Allah ˹alone˺ belongs ˹the knowledge of˺ the unseen in the heavens and the earth. Bringing about the Hour would only take the blink of an eye, or even less. Surely Allah is Most Capable of everything",
+        "arberry": "To God belongs the Unseen in the heavens and in the earth. And the matter of the Hour is as a twinkling of the eye, or nearer. Surely God is powerful over everything."
+      }
+    },
+    {
+      "location": [
+        54,
+        50,
+        5
+      ],
+      "form_arabic": "كَلَمْحٍ]",
+      "lemma": "lamoH",
+      "lemma_arabic": "لَمْح",
+      "pos": "N",
+      "ayah_id": "54:50",
+      "ayah_arabic": "وَمَآ أَمۡرُنَآ إِلَّا وَٰحِدَةࣱ كَلَمۡحِۭ بِٱلۡبَصَرِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qamar",
+      "literal_gloss": "like the twinkling",
+      "translations": {
+        "saheeh": "And Our command is but one, like a glance of the eye.",
+        "pickthall": "And Our commandment is but one (commandment), as the twinkling of an eye.",
+        "khattab": "Our command is but a single word, done in the blink of an eye",
+        "arberry": "Our commandment is but one word, as the twinkling of an eye."
+      }
+    }
+  ]
+}

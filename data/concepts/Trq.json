@@ -1,0 +1,945 @@
+{
+  "root": "Trq",
+  "root_arabic": "طرق",
+  "stats": {
+    "occurrences": 11,
+    "lemmas": 3,
+    "ayahs": 11,
+    "surahs": 6,
+    "pos_distribution": {
+      "N": 11
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "Tariyqap",
+      "lemma_arabic": "طَرِيقَة",
+      "count": 5,
+      "pos_distribution": {
+        "N": 5
+      },
+      "first_occurrence": [
+        20,
+        63,
+        12
+      ],
+      "occurrences": [
+        {
+          "location": [
+            20,
+            63,
+            12
+          ],
+          "form_arabic": "بِطَرِيقَتِكُمُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            20,
+            104,
+            8
+          ],
+          "form_arabic": "طَرِيقَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            23,
+            17,
+            5
+          ],
+          "form_arabic": "طَرَا^ئِقَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            72,
+            11,
+            8
+          ],
+          "form_arabic": "طَرَا^ئِقَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            72,
+            16,
+            4
+          ],
+          "form_arabic": "ٱلطَّرِيقَةِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "Tariyq",
+      "lemma_arabic": "طَرِيق",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        4,
+        168,
+        12
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            168,
+            12
+          ],
+          "form_arabic": "طَرِيقًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            169,
+            2
+          ],
+          "form_arabic": "طَرِيقَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            20,
+            77,
+            10
+          ],
+          "form_arabic": "طَرِيقًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            46,
+            30,
+            18
+          ],
+          "form_arabic": "طَرِيقٍ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "T~aAriq",
+      "lemma_arabic": "طَّارِق",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        86,
+        1,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            86,
+            1,
+            2
+          ],
+          "form_arabic": "وَٱلطَّارِقِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            86,
+            2,
+            4
+          ],
+          "form_arabic": "ٱلطَّارِقُ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 4,
+      "share": 0.3636,
+      "first_together": [
+        4,
+        168
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        20,
+        63
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        4,
+        168
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        46,
+        30
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        20,
+        63
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        4,
+        168
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        46,
+        30
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        46,
+        30
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        46,
+        30
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        46,
+        30
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        46,
+        30
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        46,
+        30
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        46,
+        30
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        46,
+        30
+      ]
+    },
+    {
+      "root": "sbE",
+      "root_arabic": "سبع",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        23,
+        17
+      ]
+    },
+    {
+      "root": "fwq",
+      "root_arabic": "فوق",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        23,
+        17
+      ]
+    },
+    {
+      "root": "gfl",
+      "root_arabic": "غفل",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        23,
+        17
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        23,
+        17
+      ]
+    },
+    {
+      "root": "lbv",
+      "root_arabic": "لبث",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        104
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        104
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        104
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        86,
+        1
+      ]
+    },
+    {
+      "root": "qdd",
+      "root_arabic": "قدد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        72,
+        11
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        72,
+        11
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        72,
+        11
+      ]
+    },
+    {
+      "root": "wHy",
+      "root_arabic": "وحي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "x$y",
+      "root_arabic": "خشي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "ybs",
+      "root_arabic": "يبس",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "drk",
+      "root_arabic": "درك",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "sry",
+      "root_arabic": "سري",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "bHr",
+      "root_arabic": "بحر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "ysr",
+      "root_arabic": "يسر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        169
+      ]
+    },
+    {
+      "root": "Abd",
+      "root_arabic": "ابد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        169
+      ]
+    },
+    {
+      "root": "xld",
+      "root_arabic": "خلد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        169
+      ]
+    },
+    {
+      "root": "gdq",
+      "root_arabic": "غدق",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        72,
+        16
+      ]
+    },
+    {
+      "root": "sqy",
+      "root_arabic": "سقي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        72,
+        16
+      ]
+    },
+    {
+      "root": "mwh",
+      "root_arabic": "موه",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        72,
+        16
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        168
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        168
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        168
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        63
+      ]
+    },
+    {
+      "root": "sHr",
+      "root_arabic": "سحر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        63
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        63
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        63
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        20,
+        63
+      ]
+    },
+    {
+      "root": "dry",
+      "root_arabic": "دري",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        86,
+        2
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 20,
+        "name_english": "Taa-Haa",
+        "name_arabic": "سُورَةُ طه",
+        "revelation": "Meccan",
+        "occurrences": 3
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 72,
+        "name_english": "Al-Jinn",
+        "name_arabic": "سُورَةُ الجِنِّ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 86,
+        "name_english": "At-Taariq",
+        "name_arabic": "سُورَةُ الطَّارِقِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 23,
+        "name_english": "Al-Muminoon",
+        "name_arabic": "سُورَةُ المُؤۡمِنُونَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 46,
+        "name_english": "Al-Ahqaf",
+        "name_arabic": "سُورَةُ الأَحۡقَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 9
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        168,
+        12
+      ],
+      "form_arabic": "طَرِيقًا",
+      "lemma": "Tariyq",
+      "lemma_arabic": "طَرِيق",
+      "pos": "N",
+      "ayah_id": "4:168",
+      "ayah_arabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَظَلَمُواْ لَمۡ يَكُنِ ٱللَّهُ لِيَغۡفِرَ لَهُمۡ وَلَا لِيَهۡدِيَهُمۡ طَرِيقًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(to) a way",
+      "translations": {
+        "saheeh": "Indeed, those who disbelieve and commit wrong [or injustice] - never will Allah forgive them, nor will He guide them to a path.",
+        "pickthall": "Lo! those who disbelieve and deal in wrong, Allah will never forgive them, neither will He guide them unto a road,",
+        "khattab": "Those who disbelieve and wrong themselves—surely Allah will neither forgive them nor guide them to any path",
+        "arberry": "Surely the unbelievers, who have done evil, God would not forgive them, neither guide them on any road"
+      }
+    },
+    {
+      "location": [
+        4,
+        169,
+        2
+      ],
+      "form_arabic": "طَرِيقَ",
+      "lemma": "Tariyq",
+      "lemma_arabic": "طَرِيق",
+      "pos": "N",
+      "ayah_id": "4:169",
+      "ayah_arabic": "إِلَّا طَرِيقَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدࣰ اۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(the) way",
+      "translations": {
+        "saheeh": "Except the path of Hell; they will abide therein forever. And that, for Allah, is [always] easy.",
+        "pickthall": "Except the road of hell, wherein they will abide for ever. And that is ever easy for Allah.",
+        "khattab": "except that of Hell, to stay there for ever and ever. And that is easy for Allah",
+        "arberry": "but the road to Gehenna, therein dwelling forever and ever; and that for God is an easy matter."
+      }
+    },
+    {
+      "location": [
+        20,
+        63,
+        12
+      ],
+      "form_arabic": "بِطَرِيقَتِكُمُ",
+      "lemma": "Tariyqap",
+      "lemma_arabic": "طَرِيقَة",
+      "pos": "N",
+      "ayah_id": "20:63",
+      "ayah_arabic": "قَالُوٓاْ إِنۡ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخۡرِجَاكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِمَا وَيَذۡهَبَا بِطَرِيقَتِكُمُ ٱلۡمُثۡلَىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "with your way",
+      "translations": {
+        "saheeh": "They said, \"Indeed, these are two magicians who want to drive you out of your land with their magic and do away with your most exemplary way.",
+        "pickthall": "They said: Lo! these are two wizards who would drive you out from your country by their magic, and destroy your best traditions;",
+        "khattab": "They concluded, “These two are only magicians who want to drive you out of your land with their magic, and do away with your most cherished traditions",
+        "arberry": "saying, 'These two men are sorcerers and their purpose is to expel you out of your land by their sorcery, and to extirpate your justest way."
+      }
+    },
+    {
+      "location": [
+        20,
+        77,
+        10
+      ],
+      "form_arabic": "طَرِيقًا",
+      "lemma": "Tariyq",
+      "lemma_arabic": "طَرِيق",
+      "pos": "N",
+      "ayah_id": "20:77",
+      "ayah_arabic": "وَلَقَدۡ أَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَسۡرِ بِعِبَادِي فَٱضۡرِبۡ لَهُمۡ طَرِيقࣰ ا فِي ٱلۡبَحۡرِ يَبَسࣰ ا لَّا تَخَٰفُ دَرَكࣰ ا وَلَا تَخۡشَىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "a path",
+      "translations": {
+        "saheeh": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\"",
+        "pickthall": "And verily We inspired Moses, saying: Take away My slaves by night and strike for them a dry path in the sea, fearing not to be overtaken, neither being afraid (of the sea).",
+        "khattab": "And We surely inspired Moses, ˹saying,˺ “Leave with My servants ˹at night˺ and strike a dry passage for them across the sea. Have no fear of being overtaken, nor be concerned ˹of drowning˺.”",
+        "arberry": "Also We revealed unto Moses, 'Go with My servants by night; strike for them a dry path in the sea, fearing not overtaking, neither afraid.'"
+      }
+    },
+    {
+      "location": [
+        20,
+        104,
+        8
+      ],
+      "form_arabic": "طَرِيقَةً",
+      "lemma": "Tariyqap",
+      "lemma_arabic": "طَرِيقَة",
+      "pos": "N",
+      "ayah_id": "20:104",
+      "ayah_arabic": "نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَ إِذۡ يَقُولُ أَمۡثَلُهُمۡ طَرِيقَةً إِن لَّبِثۡتُمۡ إِلَّا يَوۡمࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "(in) conduct",
+      "translations": {
+        "saheeh": "We are most knowing of what they say when the best of them in manner will say, \"You remained not but one day.\"",
+        "pickthall": "We are Best Aware of what they utter when their best in conduct say: Ye have tarried but a day.",
+        "khattab": "We know best what they will say—the most reasonable of them will say, “You stayed no more than a day.”",
+        "arberry": "We know very well what they will say, when the justest of them in the way will say, 'You have tarried only a day.'"
+      }
+    },
+    {
+      "location": [
+        23,
+        17,
+        5
+      ],
+      "form_arabic": "طَرَا^ئِقَ",
+      "lemma": "Tariyqap",
+      "lemma_arabic": "طَرِيقَة",
+      "pos": "N",
+      "ayah_id": "23:17",
+      "ayah_arabic": "وَلَقَدۡ خَلَقۡنَا فَوۡقَكُمۡ سَبۡعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلۡخَلۡقِ غَٰفِلِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muminoon",
+      "literal_gloss": "paths",
+      "translations": {
+        "saheeh": "And We have created above you seven layered heavens, and never have We been of [Our] creation unaware.",
+        "pickthall": "And We have created above you seven paths, and We are never unmindful of creation.",
+        "khattab": "And indeed, We created above you seven levels ˹of heaven˺. We are never unmindful of ˹Our˺ creation",
+        "arberry": "And We created above you seven ways, and We were not heedless of creation."
+      }
+    },
+    {
+      "location": [
+        46,
+        30,
+        18
+      ],
+      "form_arabic": "طَرِيقٍ",
+      "lemma": "Tariyq",
+      "lemma_arabic": "طَرِيق",
+      "pos": "N",
+      "ayah_id": "46:30",
+      "ayah_arabic": "قَالُواْ يَٰقَوۡمَنَآ إِنَّا سَمِعۡنَا كِتَٰبًا أُنزِلَ مِنۢ بَعۡدِ مُوسَىٰ مُصَدِّقࣰ ا لِّمَا بَيۡنَ يَدَيۡهِ يَهۡدِيٓ إِلَى ٱلۡحَقِّ وَإِلَىٰ طَرِيقࣲ مُّسۡتَقِيمࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ahqaf",
+      "literal_gloss": "a Path",
+      "translations": {
+        "saheeh": "They said, \"O our people, indeed we have heard a [recited] Book revealed after Moses confirming what was before it which guides to the truth and to a straight path.",
+        "pickthall": "They said: O our people! Lo! we have heard a scripture which hath been revealed after Moses, confirming that which was before it, guiding unto the truth and a right road.",
+        "khattab": "They declared, “O our fellow jinn! We have truly heard a scripture revealed after Moses, confirming what came before it. It guides to the truth and the Straight Way",
+        "arberry": "They said, 'Our people, we have heard a Book that was sent down after Moses, confirming what was before it, guiding to the truth and to a straight path."
+      }
+    },
+    {
+      "location": [
+        72,
+        11,
+        8
+      ],
+      "form_arabic": "طَرَا^ئِقَ",
+      "lemma": "Tariyqap",
+      "lemma_arabic": "طَرِيقَة",
+      "pos": "N",
+      "ayah_id": "72:11",
+      "ayah_arabic": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَۖ كُنَّا طَرَآئِقَ قِدَدࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Jinn",
+      "literal_gloss": "(are on) ways",
+      "translations": {
+        "saheeh": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways.",
+        "pickthall": "And among us there are righteous folk and among us there are far from that. We are sects having different rules.",
+        "khattab": "Among us are those who are righteous and those who are less so. We have been of different factions",
+        "arberry": "And some of us are the righteous, and some of us are otherwise; we are sects differing."
+      }
+    },
+    {
+      "location": [
+        72,
+        16,
+        4
+      ],
+      "form_arabic": "ٱلطَّرِيقَةِ",
+      "lemma": "Tariyqap",
+      "lemma_arabic": "طَرِيقَة",
+      "pos": "N",
+      "ayah_id": "72:16",
+      "ayah_arabic": "وَأَلَّوِ ٱسۡتَقَٰمُواْ عَلَى ٱلطَّرِيقَةِ لَأَسۡقَيۡنَٰهُم مَّآءً غَدَقࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Jinn",
+      "literal_gloss": "the Way",
+      "translations": {
+        "saheeh": "And [Allah revealed] that if they had remained straight on the way, We would have given them abundant provision",
+        "pickthall": "If they (the idolaters) tread the right path, We shall give them to drink of water in abundance",
+        "khattab": "Had the deniers followed the Right Way, We would have certainly granted them abundant rain to drink—",
+        "arberry": "Would they but go straight on the way, We would give them to drink of water copious,"
+      }
+    },
+    {
+      "location": [
+        86,
+        1,
+        2
+      ],
+      "form_arabic": "وَٱلطَّارِقِ",
+      "lemma": "T~aAriq",
+      "lemma_arabic": "طَّارِق",
+      "pos": "N",
+      "ayah_id": "86:1",
+      "ayah_arabic": "وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Taariq",
+      "literal_gloss": "and the night comer",
+      "translations": {
+        "saheeh": "By the sky and the night comer -",
+        "pickthall": "By the heaven and the Morning Star",
+        "khattab": "By the heaven and the nightly star",
+        "arberry": "By heaven and the night-star!"
+      }
+    },
+    {
+      "location": [
+        86,
+        2,
+        4
+      ],
+      "form_arabic": "ٱلطَّارِقُ",
+      "lemma": "T~aAriq",
+      "lemma_arabic": "طَّارِق",
+      "pos": "N",
+      "ayah_id": "86:2",
+      "ayah_arabic": "وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Taariq",
+      "literal_gloss": "the night comer (is)",
+      "translations": {
+        "saheeh": "And what can make you know what is the night comer?",
+        "pickthall": "- Ah, what will tell thee what the Morning Star is!",
+        "khattab": "And what will make you realize what the nightly star is",
+        "arberry": "And what shall teach thee what is the night-star?"
+      }
+    }
+  ]
+}

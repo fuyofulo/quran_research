@@ -1,0 +1,417 @@
+{
+  "root": "bwl",
+  "root_arabic": "بول",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 1,
+    "ayahs": 4,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "baAl",
+      "lemma_arabic": "بَال",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        12,
+        50,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            50,
+            14
+          ],
+          "form_arabic": "بَالُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            20,
+            51,
+            3
+          ],
+          "form_arabic": "بَالُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            47,
+            2,
+            18
+          ],
+          "form_arabic": "بَالَهُمْ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            47,
+            5,
+            3
+          ],
+          "form_arabic": "بَالَهُمْ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        47,
+        2
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "mlk",
+      "root_arabic": "ملك",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "kyd",
+      "root_arabic": "كيد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "qTE",
+      "root_arabic": "قطع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        12,
+        50
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        20,
+        51
+      ]
+    },
+    {
+      "root": "qrn",
+      "root_arabic": "قرن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        20,
+        51
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        47,
+        2
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        47,
+        2
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        47,
+        2
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        47,
+        2
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        47,
+        2
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        47,
+        2
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        47,
+        5
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 47,
+        "name_english": "Muhammad",
+        "name_arabic": "سُورَةُ مُحَمَّدٍ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 20,
+        "name_english": "Taa-Haa",
+        "name_arabic": "سُورَةُ طه",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2,
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        12,
+        50,
+        14
+      ],
+      "form_arabic": "بَالُ",
+      "lemma": "baAl",
+      "lemma_arabic": "بَال",
+      "pos": "N",
+      "ayah_id": "12:50",
+      "ayah_arabic": "وَقَالَ ٱلۡمَلِكُ ٱئۡتُونِي بِهِۦۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرۡجِعۡ إِلَىٰ رَبِّكَ فَسۡـَٔلۡهُ مَا بَالُ ٱلنِّسۡوَةِ ٱلَّٰتِي قَطَّعۡنَ أَيۡدِيَهُنَّۚ إِنَّ رَبِّي بِكَيۡدِهِنَّ عَلِيمࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "(is the) case",
+      "translations": {
+        "saheeh": "And the king said, \"Bring him to me.\" But when the messenger came to him, [Joseph] said, \"Return to your master and ask him what is the case of the women who cut their hands. Indeed, my Lord is Knowing of their plan.\"",
+        "pickthall": "And the king said: Bring him unto me. And when the messenger came unto him, he (Joseph) said: Return unto thy lord and ask him what was the case of the women who cut their hands. Lo! my Lord knoweth their guile.",
+        "khattab": "The King ˹then˺ said, “Bring him to me.” When the messenger came to him, Joseph said, “Go back to your master and ask him about the case of the women who cut their hands. Surely my Lord has ˹full˺ knowledge of their cunning.”",
+        "arberry": "The king said, 'Bring him to me!' And when the messenger came to him, he said, 'Return unto thy lord, and ask of him, \"What of the women who cut their hands?\" Surely my Lord has knowledge of their guile.'"
+      }
+    },
+    {
+      "location": [
+        20,
+        51,
+        3
+      ],
+      "form_arabic": "بَالُ",
+      "lemma": "baAl",
+      "lemma_arabic": "بَال",
+      "pos": "N",
+      "ayah_id": "20:51",
+      "ayah_arabic": "قَالَ فَمَا بَالُ ٱلۡقُرُونِ ٱلۡأُولَىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "(is the) case",
+      "translations": {
+        "saheeh": "[Pharaoh] said, \"Then what is the case of the former generations?\"",
+        "pickthall": "He said: What then is the state of the generations of old?",
+        "khattab": "Pharaoh asked, “And what about previous peoples?”",
+        "arberry": "Pharaoh said, 'And what of the former generations?'"
+      }
+    },
+    {
+      "location": [
+        47,
+        2,
+        18
+      ],
+      "form_arabic": "بَالَهُمْ",
+      "lemma": "baAl",
+      "lemma_arabic": "بَال",
+      "pos": "N",
+      "ayah_id": "47:2",
+      "ayah_arabic": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَءَامَنُواْ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدࣲ وَهُوَ ٱلۡحَقُّ مِن رَّبِّهِمۡ كَفَّرَ عَنۡهُمۡ سَيِّـَٔاتِهِمۡ وَأَصۡلَحَ بَالَهُمۡ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Muhammad",
+      "literal_gloss": "their condition",
+      "translations": {
+        "saheeh": "And those who believe and do righteous deeds and believe in what has been sent down upon Muhammad - and it is the truth from their Lord - He will remove from them their misdeeds and amend their condition.",
+        "pickthall": "And those who believe and do good works and believe in that which is revealed unto Muhammad - and it is the truth from their Lord - He riddeth them of their ill-deeds and improveth their state.",
+        "khattab": "As for those who believe, do good, and have faith in what has been revealed to Muḥammad—which is the truth from their Lord—He will absolve them of their sins and improve their condition",
+        "arberry": "But those who believe and do righteous deeds and believe in what is sent down to Muhammad -- and it is the truth from their Lord -- He will acquit them of their evil deeds, and dispose their minds aright."
+      }
+    },
+    {
+      "location": [
+        47,
+        5,
+        3
+      ],
+      "form_arabic": "بَالَهُمْ",
+      "lemma": "baAl",
+      "lemma_arabic": "بَال",
+      "pos": "N",
+      "ayah_id": "47:5",
+      "ayah_arabic": "سَيَهۡدِيهِمۡ وَيُصۡلِحُ بَالَهُمۡ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Muhammad",
+      "literal_gloss": "their condition",
+      "translations": {
+        "saheeh": "He will guide them and amend their condition",
+        "pickthall": "He will guide them and improve their state,",
+        "khattab": "He will guide them ˹to their reward˺, improve their condition",
+        "arberry": "He will guide them, and dispose their minds aright,"
+      }
+    }
+  ]
+}

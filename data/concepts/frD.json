@@ -1,0 +1,1926 @@
+{
+  "root": "frD",
+  "root_arabic": "فرض",
+  "stats": {
+    "occurrences": 18,
+    "lemmas": 4,
+    "ayahs": 14,
+    "surahs": 7,
+    "pos_distribution": {
+      "V": 9,
+      "N": 6,
+      "ADJ": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "faraDa",
+      "lemma_arabic": "فَرَضَ",
+      "count": 9,
+      "pos_distribution": {
+        "V": 9
+      },
+      "first_occurrence": [
+        2,
+        197,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            197,
+            5
+          ],
+          "form_arabic": "فَرَضَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            2,
+            236,
+            11
+          ],
+          "form_arabic": "تَفْرِضُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            2,
+            237,
+            8
+          ],
+          "form_arabic": "فَرَضْتُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            2,
+            237,
+            13
+          ],
+          "form_arabic": "فَرَضْتُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            24,
+            1,
+            3
+          ],
+          "form_arabic": "وَفَرَضْنَٰهَا",
+          "pos": "V"
+        },
+        {
+          "location": [
+            28,
+            85,
+            3
+          ],
+          "form_arabic": "فَرَضَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            33,
+            38,
+            8
+          ],
+          "form_arabic": "فَرَضَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            33,
+            50,
+            47
+          ],
+          "form_arabic": "فَرَضْنَا",
+          "pos": "V"
+        },
+        {
+          "location": [
+            66,
+            2,
+            2
+          ],
+          "form_arabic": "فَرَضَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "fariyDap",
+      "lemma_arabic": "فَرِيضَة",
+      "count": 6,
+      "pos_distribution": {
+        "N": 6
+      },
+      "first_occurrence": [
+        2,
+        236,
+        13
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            236,
+            13
+          ],
+          "form_arabic": "فَرِيضَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            237,
+            10
+          ],
+          "form_arabic": "فَرِيضَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            11,
+            64
+          ],
+          "form_arabic": "فَرِيضَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            24,
+            28
+          ],
+          "form_arabic": "فَرِيضَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            24,
+            37
+          ],
+          "form_arabic": "ٱلْفَرِيضَةِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            9,
+            60,
+            17
+          ],
+          "form_arabic": "فَرِيضَةً",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "m~aforuwD",
+      "lemma_arabic": "مَّفْرُوض",
+      "count": 2,
+      "pos_distribution": {
+        "ADJ": 2
+      },
+      "first_occurrence": [
+        4,
+        7,
+        19
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            7,
+            19
+          ],
+          "form_arabic": "مَّفْرُوضًا",
+          "pos": "ADJ"
+        },
+        {
+          "location": [
+            4,
+            118,
+            8
+          ],
+          "form_arabic": "مَّفْرُوضًا",
+          "pos": "ADJ"
+        }
+      ]
+    },
+    {
+      "lemma": "faAriD",
+      "lemma_arabic": "فَارِض",
+      "count": 1,
+      "pos_distribution": {
+        "ADJ": 1
+      },
+      "first_occurrence": [
+        2,
+        68,
+        15
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            68,
+            15
+          ],
+          "form_arabic": "فَارِضٌ",
+          "pos": "ADJ"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 9,
+      "share": 0.6429,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 7,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 4,
+      "share": 0.2857,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 4,
+      "share": 0.2857,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 4,
+      "share": 0.2857,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 4,
+      "share": 0.2857,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 3,
+      "share": 0.2143,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 3,
+      "share": 0.2143,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 3,
+      "share": 0.2143,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "ymn",
+      "root_arabic": "يمن",
+      "ayahs_together": 3,
+      "share": 0.2143,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 3,
+      "share": 0.2143,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "fEl",
+      "root_arabic": "فعل",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "nSb",
+      "root_arabic": "نصب",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        4,
+        7
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "Hrj",
+      "root_arabic": "حرج",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        33,
+        38
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        33,
+        38
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "Tlq",
+      "root_arabic": "طلق",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "mss",
+      "root_arabic": "مسس",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "nkH",
+      "root_arabic": "نكح",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "nSf",
+      "root_arabic": "نصف",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "mlk",
+      "root_arabic": "ملك",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "Ajr",
+      "root_arabic": "اجر",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        4,
+        7
+      ]
+    },
+    {
+      "root": "trk",
+      "root_arabic": "ترك",
+      "ayahs_together": 2,
+      "share": 0.1429,
+      "first_together": [
+        4,
+        7
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        28,
+        85
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        28,
+        85
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        28,
+        85
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        28,
+        85
+      ]
+    },
+    {
+      "root": "Ewd",
+      "root_arabic": "عود",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        28,
+        85
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        28,
+        85
+      ]
+    },
+    {
+      "root": "fsq",
+      "root_arabic": "فسق",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "lbb",
+      "root_arabic": "لبب",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "jdl",
+      "root_arabic": "جدل",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "rfv",
+      "root_arabic": "رفث",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "zwd",
+      "root_arabic": "زود",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "$hr",
+      "root_arabic": "شهر",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "Hjj",
+      "root_arabic": "حجج",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "bkr",
+      "root_arabic": "بكر",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "Ewn",
+      "root_arabic": "عون",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "bqr",
+      "root_arabic": "بقر",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        24,
+        1
+      ]
+    },
+    {
+      "root": "swr",
+      "root_arabic": "سور",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        24,
+        1
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        24,
+        1
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        118
+      ]
+    },
+    {
+      "root": "lEn",
+      "root_arabic": "لعن",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        118
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        118
+      ]
+    },
+    {
+      "root": "xlw",
+      "root_arabic": "خلو",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        38
+      ]
+    },
+    {
+      "root": "snn",
+      "root_arabic": "سنن",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        38
+      ]
+    },
+    {
+      "root": "sbl",
+      "root_arabic": "سبل",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        9,
+        60
+      ]
+    },
+    {
+      "root": "Alf",
+      "root_arabic": "الف",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        9,
+        60
+      ]
+    },
+    {
+      "root": "skn",
+      "root_arabic": "سكن",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        9,
+        60
+      ]
+    },
+    {
+      "root": "grm",
+      "root_arabic": "غرم",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        9,
+        60
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        9,
+        60
+      ]
+    },
+    {
+      "root": "fqr",
+      "root_arabic": "فقر",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        9,
+        60
+      ]
+    },
+    {
+      "root": "rqb",
+      "root_arabic": "رقب",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        9,
+        60
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        9,
+        60
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        66,
+        2
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "Efw",
+      "root_arabic": "عفو",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "nsy",
+      "root_arabic": "نسي",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "Eqd",
+      "root_arabic": "عقد",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        237
+      ]
+    },
+    {
+      "root": "wry",
+      "root_arabic": "وري",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "HSn",
+      "root_arabic": "حصن",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "sfH",
+      "root_arabic": "سفح",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        24
+      ]
+    },
+    {
+      "root": "whb",
+      "root_arabic": "وهب",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "xwl",
+      "root_arabic": "خول",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "mrA",
+      "root_arabic": "مرا",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "Emm",
+      "root_arabic": "عمم",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "xlS",
+      "root_arabic": "خلص",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "hjr",
+      "root_arabic": "هجر",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "fyA",
+      "root_arabic": "فيا",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        33,
+        50
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "dry",
+      "root_arabic": "دري",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "HZZ",
+      "root_arabic": "حظظ",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "vny",
+      "root_arabic": "ثني",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "sds",
+      "root_arabic": "سدس",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "fwq",
+      "root_arabic": "فوق",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "wSy",
+      "root_arabic": "وصي",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "wrv",
+      "root_arabic": "ورث",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "Anv",
+      "root_arabic": "انث",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "nfE",
+      "root_arabic": "نفع",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "wsE",
+      "root_arabic": "وسع",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "qtr",
+      "root_arabic": "قتر",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        2,
+        236
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        7
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        7
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.0714,
+      "first_together": [
+        4,
+        7
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 7
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 5
+      },
+      {
+        "surah": 33,
+        "name_english": "Al-Ahzaab",
+        "name_arabic": "سُورَةُ الأَحۡزَابِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 28,
+        "name_english": "Al-Qasas",
+        "name_arabic": "سُورَةُ القَصَصِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 66,
+        "name_english": "At-Tahrim",
+        "name_arabic": "سُورَةُ التَّحۡرِيمِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 17,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        68,
+        15
+      ],
+      "form_arabic": "فَارِضٌ",
+      "lemma": "faAriD",
+      "lemma_arabic": "فَارِض",
+      "pos": "ADJ",
+      "ayah_id": "2:68",
+      "ayah_arabic": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةࣱ لَّا فَارِضࣱ وَلَا بِكۡرٌ عَوَانُۢ بَيۡنَ ذَٰلِكَۖ فَٱفۡعَلُواْ مَا تُؤۡمَرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "old",
+      "translations": {
+        "saheeh": "They said, \"Call upon your Lord to make clear to us what it is.\" [Moses] said, \"[Allah] says, 'It is a cow which is neither old nor virgin, but median between that,' so do what you are commanded.\"",
+        "pickthall": "They said: Pray for us unto thy Lord that He make clear to us what (cow) she is. (Moses) answered: Lo! He saith, Verily she is a cow neither with calf nor immature; (she is) between the two conditions; so do that which ye are commanded.",
+        "khattab": "They said, “Call upon your Lord to clarify for us what type ˹of cow˺ it should be!” He replied, “Allah says, ‘The cow should neither be old nor young but in between. So do as you are commanded!’”",
+        "arberry": "They said, 'Pray to thy Lord for us, that He may make clear to us what she may be.' He said, 'He says she is a cow neither old, nor virgin, middling between the two; so do that you are bidden.'"
+      }
+    },
+    {
+      "location": [
+        2,
+        197,
+        5
+      ],
+      "form_arabic": "فَرَضَ",
+      "lemma": "faraDa",
+      "lemma_arabic": "فَرَضَ",
+      "pos": "V",
+      "ayah_id": "2:197",
+      "ayah_arabic": "ٱلۡحَجُّ أَشۡهُرࣱ مَّعۡلُومَٰتࣱۚ فَمَن فَرَضَ فِيهِنَّ ٱلۡحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي ٱلۡحَجِّۗ وَمَا تَفۡعَلُواْ مِنۡ خَيۡرࣲ يَعۡلَمۡهُ ٱللَّهُۗ وَتَزَوَّدُواْ فَإِنَّ خَيۡرَ ٱلزَّادِ ٱلتَّقۡوَىٰۖ وَٱتَّقُونِ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "undertakes",
+      "translations": {
+        "saheeh": "Hajj is [during] well-known months, so whoever has made Hajj obligatory upon himself therein [by entering the state of ihram], there is [to be for him] no sexual relations and no disobedience and no disputing during Hajj. And whatever good you do - Allah knows it. And take provisions, but indeed, the best provision is fear of Allah. And fear Me, O you of understanding.",
+        "pickthall": "The pilgrimage is (in) the well-known months, and whoever is minded to perform the pilgrimage therein (let him remember that) there is (to be) no lewdness nor abuse nor angry conversation on the pilgrimage. And whatsoever good ye do Allah knoweth it. So make provision for yourselves (Hereafter); for the best provision is to ward off evil. Therefore keep your duty unto Me, O men of understanding.",
+        "khattab": "˹Commitment to˺ pilgrimage is made in appointed months. Whoever commits to ˹performing˺ pilgrimage, let them stay away from intimate relations, foul language, and arguments during pilgrimage. Whatever good you do, Allah ˹fully˺ knows of it. Take ˹necessary˺ provisions ˹for the journey˺—surely the best provision is righteousness. And be mindful of Me, O people of reason",
+        "arberry": "The Pilgrimage is in months well-known; whoso undertakes the duty of Pilgrimage in them shall not go in to his womenfolk nor indulge in ungodliness and disputing in the Pilgrimage. Whatever good you do, God knows it. And take provision; but the best provision is godfearing, so fear you Me, men possessed of minds!"
+      }
+    },
+    {
+      "location": [
+        2,
+        236,
+        11
+      ],
+      "form_arabic": "تَفْرِضُوا@",
+      "lemma": "faraDa",
+      "lemma_arabic": "فَرَضَ",
+      "pos": "V",
+      "ayah_id": "2:236",
+      "ayah_arabic": "لَّا جُنَاحَ عَلَيۡكُمۡ إِن طَلَّقۡتُمُ ٱلنِّسَآءَ مَا لَمۡ تَمَسُّوهُنَّ أَوۡ تَفۡرِضُواْ لَهُنَّ فَرِيضَةࣰۚ وَمَتِّعُوهُنَّ عَلَى ٱلۡمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلۡمُقۡتِرِ قَدَرُهُۥ مَتَٰعَۢا بِٱلۡمَعۡرُوفِۖ حَقًّا عَلَى ٱلۡمُحۡسِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "you specified",
+      "translations": {
+        "saheeh": "There is no blame upon you if you divorce women you have not touched nor specified for them an obligation. But give them [a gift of] compensation - the wealthy according to his capability and the poor according to his capability - a provision according to what is acceptable, a duty upon the doers of good.",
+        "pickthall": "It is no sin for you if ye divorce women while yet ye have not touched them, nor appointed unto them a portion. Provide for them, the rich according to his means, and the straitened according to his means, a fair provision. (This is) a bounden duty for those who do good.",
+        "khattab": "There is no blame if you divorce women before the marriage is consummated or the dowry is settled. But give them a ˹suitable˺ compensation—the rich according to his means and the poor according to his. A reasonable compensation is an obligation on the good-doers",
+        "arberry": "There is no fault in you, if you divorce women while as yet you have not touched them nor appointed any marriage-portion for them; yet make provision for them, the affluent man according to his means, and according to his means the needy man, honourably -- an obligation on the good-doers."
+      }
+    },
+    {
+      "location": [
+        2,
+        236,
+        13
+      ],
+      "form_arabic": "فَرِيضَةً",
+      "lemma": "fariyDap",
+      "lemma_arabic": "فَرِيضَة",
+      "pos": "N",
+      "ayah_id": "2:236",
+      "ayah_arabic": "لَّا جُنَاحَ عَلَيۡكُمۡ إِن طَلَّقۡتُمُ ٱلنِّسَآءَ مَا لَمۡ تَمَسُّوهُنَّ أَوۡ تَفۡرِضُواْ لَهُنَّ فَرِيضَةࣰۚ وَمَتِّعُوهُنَّ عَلَى ٱلۡمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلۡمُقۡتِرِ قَدَرُهُۥ مَتَٰعَۢا بِٱلۡمَعۡرُوفِۖ حَقًّا عَلَى ٱلۡمُحۡسِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "an obligation (dower)",
+      "translations": {
+        "saheeh": "There is no blame upon you if you divorce women you have not touched nor specified for them an obligation. But give them [a gift of] compensation - the wealthy according to his capability and the poor according to his capability - a provision according to what is acceptable, a duty upon the doers of good.",
+        "pickthall": "It is no sin for you if ye divorce women while yet ye have not touched them, nor appointed unto them a portion. Provide for them, the rich according to his means, and the straitened according to his means, a fair provision. (This is) a bounden duty for those who do good.",
+        "khattab": "There is no blame if you divorce women before the marriage is consummated or the dowry is settled. But give them a ˹suitable˺ compensation—the rich according to his means and the poor according to his. A reasonable compensation is an obligation on the good-doers",
+        "arberry": "There is no fault in you, if you divorce women while as yet you have not touched them nor appointed any marriage-portion for them; yet make provision for them, the affluent man according to his means, and according to his means the needy man, honourably -- an obligation on the good-doers."
+      }
+    },
+    {
+      "location": [
+        2,
+        237,
+        8
+      ],
+      "form_arabic": "فَرَضْتُمْ",
+      "lemma": "faraDa",
+      "lemma_arabic": "فَرَضَ",
+      "pos": "V",
+      "ayah_id": "2:237",
+      "ayah_arabic": "وَإِن طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ وَقَدۡ فَرَضۡتُمۡ لَهُنَّ فَرِيضَةࣰ فَنِصۡفُ مَا فَرَضۡتُمۡ إِلَّآ أَن يَعۡفُونَ أَوۡ يَعۡفُوَاْ ٱلَّذِي بِيَدِهِۦ عُقۡدَةُ ٱلنِّكَاحِۚ وَأَن تَعۡفُوٓاْ أَقۡرَبُ لِلتَّقۡوَىٰۚ وَلَا تَنسَوُاْ ٱلۡفَضۡلَ بَيۡنَكُمۡۚ إِنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ بَصِيرٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "you have specified",
+      "translations": {
+        "saheeh": "And if you divorce them before you have touched them and you have already specified for them an obligation, then [give] half of what you specified - unless they forego the right or the one in whose hand is the marriage contract foregoes it. And to forego it is nearer to righteousness. And do not forget graciousness between you. Indeed Allah, of whatever you do, is Seeing.",
+        "pickthall": "If ye divorce them before ye have touched them and ye have appointed unto them a portion, then (pay the) half of that which ye appointed, unless they (the women) agree to forgo it, or he agreeth to forgo it in whose hand is the marriage tie. To forgo is nearer to piety. And forget not kindness among yourselves. Allah is Seer of what ye do.",
+        "khattab": "And if you divorce them before consummating the marriage but after deciding on a dowry, pay half of the dowry, unless the wife graciously waives it or the husband graciously pays in full. Graciousness is closer to righteousness. And do not forget kindness among yourselves. Surely Allah is All-Seeing of what you do",
+        "arberry": "And if you divorce them before you have touched them, and you have already appointed for them a marriage-portion, then one-half of what you have appointed, unless it be they make remission, or he makes remission in whose hand is the knot of marriage; yet that you should remit is nearer to godfearing. Forget not to be bountiful one towards another. Surely God sees the things you do."
+      }
+    },
+    {
+      "location": [
+        2,
+        237,
+        10
+      ],
+      "form_arabic": "فَرِيضَةً",
+      "lemma": "fariyDap",
+      "lemma_arabic": "فَرِيضَة",
+      "pos": "N",
+      "ayah_id": "2:237",
+      "ayah_arabic": "وَإِن طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ وَقَدۡ فَرَضۡتُمۡ لَهُنَّ فَرِيضَةࣰ فَنِصۡفُ مَا فَرَضۡتُمۡ إِلَّآ أَن يَعۡفُونَ أَوۡ يَعۡفُوَاْ ٱلَّذِي بِيَدِهِۦ عُقۡدَةُ ٱلنِّكَاحِۚ وَأَن تَعۡفُوٓاْ أَقۡرَبُ لِلتَّقۡوَىٰۚ وَلَا تَنسَوُاْ ٱلۡفَضۡلَ بَيۡنَكُمۡۚ إِنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ بَصِيرٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "an obligation (dower)",
+      "translations": {
+        "saheeh": "And if you divorce them before you have touched them and you have already specified for them an obligation, then [give] half of what you specified - unless they forego the right or the one in whose hand is the marriage contract foregoes it. And to forego it is nearer to righteousness. And do not forget graciousness between you. Indeed Allah, of whatever you do, is Seeing.",
+        "pickthall": "If ye divorce them before ye have touched them and ye have appointed unto them a portion, then (pay the) half of that which ye appointed, unless they (the women) agree to forgo it, or he agreeth to forgo it in whose hand is the marriage tie. To forgo is nearer to piety. And forget not kindness among yourselves. Allah is Seer of what ye do.",
+        "khattab": "And if you divorce them before consummating the marriage but after deciding on a dowry, pay half of the dowry, unless the wife graciously waives it or the husband graciously pays in full. Graciousness is closer to righteousness. And do not forget kindness among yourselves. Surely Allah is All-Seeing of what you do",
+        "arberry": "And if you divorce them before you have touched them, and you have already appointed for them a marriage-portion, then one-half of what you have appointed, unless it be they make remission, or he makes remission in whose hand is the knot of marriage; yet that you should remit is nearer to godfearing. Forget not to be bountiful one towards another. Surely God sees the things you do."
+      }
+    },
+    {
+      "location": [
+        2,
+        237,
+        13
+      ],
+      "form_arabic": "فَرَضْتُمْ",
+      "lemma": "faraDa",
+      "lemma_arabic": "فَرَضَ",
+      "pos": "V",
+      "ayah_id": "2:237",
+      "ayah_arabic": "وَإِن طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ وَقَدۡ فَرَضۡتُمۡ لَهُنَّ فَرِيضَةࣰ فَنِصۡفُ مَا فَرَضۡتُمۡ إِلَّآ أَن يَعۡفُونَ أَوۡ يَعۡفُوَاْ ٱلَّذِي بِيَدِهِۦ عُقۡدَةُ ٱلنِّكَاحِۚ وَأَن تَعۡفُوٓاْ أَقۡرَبُ لِلتَّقۡوَىٰۚ وَلَا تَنسَوُاْ ٱلۡفَضۡلَ بَيۡنَكُمۡۚ إِنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ بَصِيرٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "you have specified",
+      "translations": {
+        "saheeh": "And if you divorce them before you have touched them and you have already specified for them an obligation, then [give] half of what you specified - unless they forego the right or the one in whose hand is the marriage contract foregoes it. And to forego it is nearer to righteousness. And do not forget graciousness between you. Indeed Allah, of whatever you do, is Seeing.",
+        "pickthall": "If ye divorce them before ye have touched them and ye have appointed unto them a portion, then (pay the) half of that which ye appointed, unless they (the women) agree to forgo it, or he agreeth to forgo it in whose hand is the marriage tie. To forgo is nearer to piety. And forget not kindness among yourselves. Allah is Seer of what ye do.",
+        "khattab": "And if you divorce them before consummating the marriage but after deciding on a dowry, pay half of the dowry, unless the wife graciously waives it or the husband graciously pays in full. Graciousness is closer to righteousness. And do not forget kindness among yourselves. Surely Allah is All-Seeing of what you do",
+        "arberry": "And if you divorce them before you have touched them, and you have already appointed for them a marriage-portion, then one-half of what you have appointed, unless it be they make remission, or he makes remission in whose hand is the knot of marriage; yet that you should remit is nearer to godfearing. Forget not to be bountiful one towards another. Surely God sees the things you do."
+      }
+    },
+    {
+      "location": [
+        4,
+        7,
+        19
+      ],
+      "form_arabic": "مَّفْرُوضًا",
+      "lemma": "m~aforuwD",
+      "lemma_arabic": "مَّفْرُوض",
+      "pos": "ADJ",
+      "ayah_id": "4:7",
+      "ayah_arabic": "لِّلرِّجَالِ نَصِيبࣱ مِّمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَ وَلِلنِّسَآءِ نَصِيبࣱ مِّمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَ مِمَّا قَلَّ مِنۡهُ أَوۡ كَثُرَۚ نَصِيبࣰ ا مَّفۡرُوضࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "obligatory",
+      "translations": {
+        "saheeh": "For men is a share of what the parents and close relatives leave, and for women is a share of what the parents and close relatives leave, be it little or much - an obligatory share.",
+        "pickthall": "Unto the men (of a family) belongeth a share of that which parents and near kindred leave, and unto the women a share of that which parents and near kindred leave, whether it be little or much - a legal share.",
+        "khattab": "For men there is a share in what their parents and close relatives leave, and for women there is a share in what their parents and close relatives leave—whether it is little or much. ˹These are˺ obligatory shares",
+        "arberry": "To the men a share of what parents and kinsmen leave, and to the women a share of what parents and kinsmen leave, whether it be little or much, a share apportioned;"
+      }
+    },
+    {
+      "location": [
+        4,
+        11,
+        64
+      ],
+      "form_arabic": "فَرِيضَةً",
+      "lemma": "fariyDap",
+      "lemma_arabic": "فَرِيضَة",
+      "pos": "N",
+      "ayah_id": "4:11",
+      "ayah_arabic": "يُوصِيكُمُ ٱللَّهُ فِيٓ أَوۡلَٰدِكُمۡۖ لِلذَّكَرِ مِثۡلُ حَظِّ ٱلۡأُنثَيَيۡنِۚ فَإِن كُنَّ نِسَآءࣰ فَوۡقَ ٱثۡنَتَيۡنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَۖ وَإِن كَانَتۡ وَٰحِدَةࣰ فَلَهَا ٱلنِّصۡفُۚ وَلِأَبَوَيۡهِ لِكُلِّ وَٰحِدࣲ مِّنۡهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدࣱۚ فَإِن لَّمۡ يَكُن لَّهُۥ وَلَدࣱ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُۚ فَإِن كَانَ لَهُۥٓ إِخۡوَةࣱ فَلِأُمِّهِ ٱلسُّدُسُۚ مِنۢ بَعۡدِ وَصِيَّةࣲ يُوصِي بِهَآ أَوۡ دَيۡنٍۗ ءَابَآؤُكُمۡ وَأَبۡنَآؤُكُمۡ لَا تَدۡرُونَ أَيُّهُمۡ أَقۡرَبُ لَكُمۡ نَفۡعࣰ اۚ فَرِيضَةࣰ مِّنَ ٱللَّهِۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "An obligation",
+      "translations": {
+        "saheeh": "Allah instructs you concerning your children: for the male, what is equal to the share of two females. But if there are [only] daughters, two or more, for them is two thirds of one's estate. And if there is only one, for her is half. And for one's parents, to each one of them is a sixth of his estate if he left children. But if he had no children and the parents [alone] inherit from him, then for his mother is one third. And if he had brothers [or sisters], for his mother is a sixth, after any bequest he [may have] made or debt. Your parents or your children - you know not which of them are nearest to you in benefit. [These shares are] an obligation [imposed] by Allah. Indeed, Allah is ever Knowing and Wise.",
+        "pickthall": "Allah chargeth you concerning (the provision for) your children: to the male the equivalent of the portion of two females, and if there be women more than two, then theirs is two-thirds of the inheritance, and if there be one (only) then the half. And to each of his parents a sixth of the inheritance, if he have a son; and if he have no son and his parents are his heirs, then to his mother appertaineth the third; and if he have brethren, then to his mother appertaineth the sixth, after any legacy he may have bequeathed, or debt (hath been paid). Your parents and your children: Ye know not which of them is nearer unto you in usefulness. It is an injunction from Allah. Lo! Allah is Knower, Wise.",
+        "khattab": "Allah commands you regarding your children: the share of the male will be twice that of the female. If you leave only two ˹or more˺ females, their share is two-thirds of the estate. But if there is only one female, her share will be one-half. Each parent is entitled to one-sixth if you leave offspring. But if you are childless and your parents are the only heirs, then your mother will receive one-third. But if you leave siblings, then your mother will receive one-sixth—after the fulfilment of bequests and debts. ˹Be fair to˺ your parents and children, as you do not ˹fully˺ know who is more beneficial to you. ˹This is˺ an obligation from Allah. Surely Allah is All-Knowing, All-Wise",
+        "arberry": "God charges you, concerning your children: to the male the like of the portion of two females, and if they be women above two, then for them two-thirds of what he leaves, but if she be one then to her a half; and to his parents to each one of the two the sixth of what he leaves, if he has children; but if he has no children, and his heirs are his parents, a third to his mother, or, if he has brothers, to his mother a sixth, after any bequest he may bequeath, or any debt. Your fathers and your sons -- you know not which out of them is nearer in profit to you. So God apportions; surely God is All-knowing, All-wise."
+      }
+    },
+    {
+      "location": [
+        4,
+        24,
+        28
+      ],
+      "form_arabic": "فَرِيضَةً",
+      "lemma": "fariyDap",
+      "lemma_arabic": "فَرِيضَة",
+      "pos": "N",
+      "ayah_id": "4:24",
+      "ayah_arabic": "۞وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتۡ أَيۡمَٰنُكُمۡۖ كِتَٰبَ ٱللَّهِ عَلَيۡكُمۡۚ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمۡ أَن تَبۡتَغُواْ بِأَمۡوَٰلِكُم مُّحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَۚ فَمَا ٱسۡتَمۡتَعۡتُم بِهِۦ مِنۡهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةࣰۚ وَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا تَرَٰضَيۡتُم بِهِۦ مِنۢ بَعۡدِ ٱلۡفَرِيضَةِۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(as) an obligation",
+      "translations": {
+        "saheeh": "And [also prohibited to you are all] married women except those your right hands possess. [This is] the decree of Allah upon you. And lawful to you are [all others] beyond these, [provided] that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse. So for whatever you enjoy [of marriage] from them, give them their due compensation as an obligation. And there is no blame upon you for what you mutually agree to beyond the obligation. Indeed, Allah is ever Knowing and Wise.",
+        "pickthall": "And all married women (are forbidden unto you) save those (captives) whom your right hands possess. It is a decree of Allah for you. Lawful unto you are all beyond those mentioned, so that ye seek them with your wealth in honest wedlock, not debauchery. And those of whom ye seek content (by marrying them), give unto them their portions as a duty. And there is no sin for you in what ye do by mutual agreement after the duty (hath been done). Lo! Allah is ever Knower, Wise.",
+        "khattab": "Also ˹forbidden are˺ married women—except ˹female˺ captives in your possession. This is Allah’s commandment to you. Lawful to you are all beyond these—as long as you seek them with your wealth in a legal marriage, not in fornication. Give those you have consummated marriage with their due dowries. It is permissible to be mutually gracious regarding the set dowry. Surely Allah is All-Knowing, All-Wise",
+        "arberry": "and wedded women, save what your right hands own. So God prescribes for you. Lawful for you, beyond all that, is that you may seek, using your wealth, in wedlock and not in licence. Such wives as you enjoy thereby, give them their wages apportionate; it is no fault in you in your agreeing together, after the due apportionate. God is All-knowing, All-wise."
+      }
+    },
+    {
+      "location": [
+        4,
+        24,
+        37
+      ],
+      "form_arabic": "ٱلْفَرِيضَةِ",
+      "lemma": "fariyDap",
+      "lemma_arabic": "فَرِيضَة",
+      "pos": "N",
+      "ayah_id": "4:24",
+      "ayah_arabic": "۞وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتۡ أَيۡمَٰنُكُمۡۖ كِتَٰبَ ٱللَّهِ عَلَيۡكُمۡۚ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمۡ أَن تَبۡتَغُواْ بِأَمۡوَٰلِكُم مُّحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَۚ فَمَا ٱسۡتَمۡتَعۡتُم بِهِۦ مِنۡهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةࣰۚ وَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا تَرَٰضَيۡتُم بِهِۦ مِنۢ بَعۡدِ ٱلۡفَرِيضَةِۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "the obligation",
+      "translations": {
+        "saheeh": "And [also prohibited to you are all] married women except those your right hands possess. [This is] the decree of Allah upon you. And lawful to you are [all others] beyond these, [provided] that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse. So for whatever you enjoy [of marriage] from them, give them their due compensation as an obligation. And there is no blame upon you for what you mutually agree to beyond the obligation. Indeed, Allah is ever Knowing and Wise.",
+        "pickthall": "And all married women (are forbidden unto you) save those (captives) whom your right hands possess. It is a decree of Allah for you. Lawful unto you are all beyond those mentioned, so that ye seek them with your wealth in honest wedlock, not debauchery. And those of whom ye seek content (by marrying them), give unto them their portions as a duty. And there is no sin for you in what ye do by mutual agreement after the duty (hath been done). Lo! Allah is ever Knower, Wise.",
+        "khattab": "Also ˹forbidden are˺ married women—except ˹female˺ captives in your possession. This is Allah’s commandment to you. Lawful to you are all beyond these—as long as you seek them with your wealth in a legal marriage, not in fornication. Give those you have consummated marriage with their due dowries. It is permissible to be mutually gracious regarding the set dowry. Surely Allah is All-Knowing, All-Wise",
+        "arberry": "and wedded women, save what your right hands own. So God prescribes for you. Lawful for you, beyond all that, is that you may seek, using your wealth, in wedlock and not in licence. Such wives as you enjoy thereby, give them their wages apportionate; it is no fault in you in your agreeing together, after the due apportionate. God is All-knowing, All-wise."
+      }
+    },
+    {
+      "location": [
+        4,
+        118,
+        8
+      ],
+      "form_arabic": "مَّفْرُوضًا",
+      "lemma": "m~aforuwD",
+      "lemma_arabic": "مَّفْرُوض",
+      "pos": "ADJ",
+      "ayah_id": "4:118",
+      "ayah_arabic": "لَّعَنَهُ ٱللَّهُۘ وَقَالَ لَأَتَّخِذَنَّ مِنۡ عِبَادِكَ نَصِيبࣰ ا مَّفۡرُوضࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "appointed",
+      "translations": {
+        "saheeh": "Whom Allah has cursed. For he had said, \"I will surely take from among Your servants a specific portion.",
+        "pickthall": "Whom Allah cursed, and he said: Surely I will take of Thy bondmen an appointed portion,",
+        "khattab": "cursed by Allah—who said, “I will surely take hold of a certain number of Your servants",
+        "arberry": "He said, 'Assuredly I will take unto myself a portion appointed of Thy servants,"
+      }
+    },
+    {
+      "location": [
+        9,
+        60,
+        17
+      ],
+      "form_arabic": "فَرِيضَةً",
+      "lemma": "fariyDap",
+      "lemma_arabic": "فَرِيضَة",
+      "pos": "N",
+      "ayah_id": "9:60",
+      "ayah_arabic": "۞إِنَّمَا ٱلصَّدَقَٰتُ لِلۡفُقَرَآءِ وَٱلۡمَسَٰكِينِ وَٱلۡعَٰمِلِينَ عَلَيۡهَا وَٱلۡمُؤَلَّفَةِ قُلُوبُهُمۡ وَفِي ٱلرِّقَابِ وَٱلۡغَٰرِمِينَ وَفِي سَبِيلِ ٱللَّهِ وَٱبۡنِ ٱلسَّبِيلِۖ فَرِيضَةࣰ مِّنَ ٱللَّهِۗ وَٱللَّهُ عَلِيمٌ حَكِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "an obligation",
+      "translations": {
+        "saheeh": "Zakah expenditures are only for the poor and for the needy and for those employed to collect [zakah] and for bringing hearts together [for Islam] and for freeing captives [or slaves] and for those in debt and for the cause of Allah and for the [stranded] traveler - an obligation [imposed] by Allah. And Allah is Knowing and Wise.",
+        "pickthall": "The alms are only for the poor and the needy, and those who collect them, and those whose hearts are to be reconciled, and to free the captives and the debtors, and for the cause of Allah, and (for) the wayfarer; a duty imposed by Allah. Allah is Knower, Wise.",
+        "khattab": "Alms-tax is only for the poor and the needy, for those employed to administer it, for those whose hearts are attracted ˹to the faith˺, for ˹freeing˺ slaves, for those in debt, for Allah’s cause, and for ˹needy˺ travellers. ˹This is˺ an obligation from Allah. And Allah is All-Knowing, All-Wise",
+        "arberry": "The freewill offerings are for the poor and needy, those who work to collect them, those whose hearts are brought together, the ransoming of slaves, debtors, in God's way, and the traveller; so God ordains; God is All-knowing, All-wise."
+      }
+    },
+    {
+      "location": [
+        24,
+        1,
+        3
+      ],
+      "form_arabic": "وَفَرَضْنَٰهَا",
+      "lemma": "faraDa",
+      "lemma_arabic": "فَرَضَ",
+      "pos": "V",
+      "ayah_id": "24:1",
+      "ayah_arabic": "سُورَةٌ أَنزَلۡنَٰهَا وَفَرَضۡنَٰهَا وَأَنزَلۡنَا فِيهَآ ءَايَٰتِۭ بَيِّنَٰتࣲ لَّعَلَّكُمۡ تَذَكَّرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "and We (have) made it obligatory",
+      "translations": {
+        "saheeh": "[This is] a surah which We have sent down and made [that within it] obligatory and revealed therein verses of clear evidence that you might remember.",
+        "pickthall": "(Here is) a surah which We have revealed and enjoined, and wherein We have revealed plain tokens, that haply ye may take heed.",
+        "khattab": "˹This is˺ a sûrah which We have revealed and made ˹its rulings˺ obligatory, and revealed in it clear commandments so that you may be mindful",
+        "arberry": "A sura that We have sent down and appointed; and We have sent down in it signs, clear signs, that haply you will remember."
+      }
+    },
+    {
+      "location": [
+        28,
+        85,
+        3
+      ],
+      "form_arabic": "فَرَضَ",
+      "lemma": "faraDa",
+      "lemma_arabic": "فَرَضَ",
+      "pos": "V",
+      "ayah_id": "28:85",
+      "ayah_arabic": "إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادࣲۚ قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلࣲ مُّبِينࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qasas",
+      "literal_gloss": "ordained",
+      "translations": {
+        "saheeh": "Indeed, [O Muhammad], He who imposed upon you the Qur'an will take you back to a place of return. Say, \"My Lord is most knowing of who brings guidance and who is in clear error.\"",
+        "pickthall": "Lo! He Who hath given thee the Qur'an for a law will surely bring thee home again. Say: My Lord is Best Aware of him who bringeth guidance and him who is in error manifest.",
+        "khattab": "Most certainly, the One Who has ordained the Quran for you will ˹ultimately˺ bring you back home ˹to Mecca˺. Say, “My Lord knows best who has come with ˹true˺ guidance and who is clearly astray.”",
+        "arberry": "He who imposed 'the Recitation upon thee. shall surely restore thee to a place of homing. Say: 'My Lord' knows very well who comes with guidance, and who is in manifest error."
+      }
+    },
+    {
+      "location": [
+        33,
+        38,
+        8
+      ],
+      "form_arabic": "فَرَضَ",
+      "lemma": "faraDa",
+      "lemma_arabic": "فَرَضَ",
+      "pos": "V",
+      "ayah_id": "33:38",
+      "ayah_arabic": "مَّا كَانَ عَلَى ٱلنَّبِيِّ مِنۡ حَرَجࣲ فِيمَا فَرَضَ ٱللَّهُ لَهُۥۖ سُنَّةَ ٱللَّهِ فِي ٱلَّذِينَ خَلَوۡاْ مِن قَبۡلُۚ وَكَانَ أَمۡرُ ٱللَّهِ قَدَرࣰ ا مَّقۡدُورًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "Allah has imposed",
+      "translations": {
+        "saheeh": "There is not to be upon the Prophet any discomfort concerning that which Allah has imposed upon him. [This is] the established way of Allah with those [prophets] who have passed on before. And ever is the command of Allah a destiny decreed.",
+        "pickthall": "There is no reproach for the Prophet in that which Allah maketh his due. That was Allah's way with those who passed away of old - and the commandment of Allah is certain destiny -",
+        "khattab": "There is no blame on the Prophet for doing what Allah has ordained for him. That has been the way of Allah with those ˹prophets˺ who had gone before. And Allah’s command has been firmly decreed",
+        "arberry": "There is no fault in the Prophet, touching what God has ordained for him -- God's wont with those who passed away before; and God's commandment is doom decreed;"
+      }
+    },
+    {
+      "location": [
+        33,
+        50,
+        47
+      ],
+      "form_arabic": "فَرَضْنَا",
+      "lemma": "faraDa",
+      "lemma_arabic": "فَرَضَ",
+      "pos": "V",
+      "ayah_id": "33:50",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِنَّآ أَحۡلَلۡنَا لَكَ أَزۡوَٰجَكَ ٱلَّٰتِيٓ ءَاتَيۡتَ أُجُورَهُنَّ وَمَا مَلَكَتۡ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيۡكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَٰلَٰتِكَ ٱلَّٰتِي هَاجَرۡنَ مَعَكَ وَٱمۡرَأَةࣰ مُّؤۡمِنَةً إِن وَهَبَتۡ نَفۡسَهَا لِلنَّبِيِّ إِنۡ أَرَادَ ٱلنَّبِيُّ أَن يَسۡتَنكِحَهَا خَالِصَةࣰ لَّكَ مِن دُونِ ٱلۡمُؤۡمِنِينَۗ قَدۡ عَلِمۡنَا مَا فَرَضۡنَا عَلَيۡهِمۡ فِيٓ أَزۡوَٰجِهِمۡ وَمَا مَلَكَتۡ أَيۡمَٰنُهُمۡ لِكَيۡلَا يَكُونَ عَلَيۡكَ حَرَجࣱۗ وَكَانَ ٱللَّهُ غَفُورࣰ ا رَّحِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "We have made obligatory",
+      "translations": {
+        "saheeh": "O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allah has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her, [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, [but this is for you] in order that there will be upon you no discomfort. And ever is Allah Forgiving and Merciful.",
+        "pickthall": "O Prophet! Lo! We have made lawful unto thee thy wives unto whom thou hast paid their dowries, and those whom thy right hand possesseth of those whom Allah hath given thee as spoils of war, and the daughters of thine uncle on the father's side and the daughters of thine aunts on the father's side, and the daughters of thine uncle on the mother's side and the daughters of thine aunts on the mother's side who emigrated with thee, and a believing woman if she give herself unto the Prophet and the Prophet desire to ask her in marriage - a privilege for thee only, not for the (rest of) believers - We are Aware of that which We enjoined upon them concerning their wives and those whom their right hands possess - that thou mayst be free from blame, for Allah is ever Forgiving, Merciful.",
+        "khattab": "O Prophet! We have made lawful for you your wives to whom you have paid their ˹full˺ dowries as well as those ˹bondwomen˺ in your possession, whom Allah has granted you. And ˹you are allowed to marry˺ the daughters of your paternal uncles and aunts, and the daughters of your maternal uncles and aunts, who have emigrated like you. Also ˹allowed for marriage is˺ a believing woman who offers herself to the Prophet ˹without dowry˺ if he is interested in marrying her—˹this is˺ exclusively for you, not for the rest of the believers. We know well what ˹rulings˺ We have ordained for the believers in relation to their wives and those ˹bondwomen˺ in their possession. As such, there would be no blame on you. And Allah is All-Forgiving, Most Merciful",
+        "arberry": "O Prophet, We have made lawful for thee thy wives whom thou hast given their wages and what thy right hand owns, spoils of war that God has given thee, and the daughters of thy uncles paternal and aunts paternal, thy uncles maternal and aunts maternal, who have emigrated with thee, and any woman believer, if she give herself to the Prophet and if the Prophet desire to take her in marriage, for thee exclusively, apart from the believers -- We know what We have imposed upon them touching their wives and what their right hands own -- that there may be no fault in thee; God is All-forgiving, All-compassionate."
+      }
+    },
+    {
+      "location": [
+        66,
+        2,
+        2
+      ],
+      "form_arabic": "فَرَضَ",
+      "lemma": "faraDa",
+      "lemma_arabic": "فَرَضَ",
+      "pos": "V",
+      "ayah_id": "66:2",
+      "ayah_arabic": "قَدۡ فَرَضَ ٱللَّهُ لَكُمۡ تَحِلَّةَ أَيۡمَٰنِكُمۡۚ وَٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tahrim",
+      "literal_gloss": "has ordained",
+      "translations": {
+        "saheeh": "Allah has already ordained for you [Muslims] the dissolution of your oaths. And Allah is your protector, and He is the Knowing, the Wise.",
+        "pickthall": "Allah hath made lawful for you (Muslims) absolution from your oaths (of such a kind), and Allah is your Protector. He is the Knower, the Wise.",
+        "khattab": "Allah has already ordained for you ˹believers˺ the way to absolve yourselves from your oaths. For Allah is your Guardian. And He is the All-Knowing, All-Wise",
+        "arberry": "God has ordained for you the absolution of your oaths. God is your Protector, and He is the All-knowing, the All-wise."
+      }
+    }
+  ]
+}

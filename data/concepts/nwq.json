@@ -1,0 +1,700 @@
+{
+  "root": "nwq",
+  "root_arabic": "نوق",
+  "stats": {
+    "occurrences": 7,
+    "lemmas": 1,
+    "ayahs": 7,
+    "surahs": 6,
+    "pos_distribution": {
+      "N": 7
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "naAqap",
+      "lemma_arabic": "نَاقَة",
+      "count": 7,
+      "pos_distribution": {
+        "N": 7
+      },
+      "first_occurrence": [
+        7,
+        73,
+        20
+      ],
+      "occurrences": [
+        {
+          "location": [
+            7,
+            73,
+            20
+          ],
+          "form_arabic": "نَاقَةُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            77,
+            2
+          ],
+          "form_arabic": "ٱلنَّاقَةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            11,
+            64,
+            3
+          ],
+          "form_arabic": "نَاقَةُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            17,
+            59,
+            13
+          ],
+          "form_arabic": "ٱلنَّاقَةَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            26,
+            155,
+            3
+          ],
+          "form_arabic": "نَاقَةٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            54,
+            27,
+            3
+          ],
+          "form_arabic": "ٱلنَّاقَةِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            91,
+            13,
+            5
+          ],
+          "form_arabic": "نَاقَةَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 4,
+      "share": 0.5714,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 4,
+      "share": 0.5714,
+      "first_together": [
+        7,
+        77
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 3,
+      "share": 0.4286,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.4286,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "w*r",
+      "root_arabic": "وذر",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "mss",
+      "root_arabic": "مسس",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        77
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        26,
+        155
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        26,
+        155
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        26,
+        155
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        11,
+        64
+      ]
+    },
+    {
+      "root": "sqy",
+      "root_arabic": "سقي",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        91,
+        13
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        77
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        77
+      ]
+    },
+    {
+      "root": "Eqr",
+      "root_arabic": "عقر",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        77
+      ]
+    },
+    {
+      "root": "Etw",
+      "root_arabic": "عتو",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        77
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        77
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "Alm",
+      "root_arabic": "الم",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        7,
+        73
+      ]
+    },
+    {
+      "root": "rqb",
+      "root_arabic": "رقب",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        54,
+        27
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        54,
+        27
+      ]
+    },
+    {
+      "root": "ftn",
+      "root_arabic": "فتن",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        54,
+        27
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        17,
+        59
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        17,
+        59
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        17,
+        59
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        17,
+        59
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        17,
+        59
+      ]
+    },
+    {
+      "root": "mnE",
+      "root_arabic": "منع",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        17,
+        59
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 26,
+        "name_english": "Ash-Shu'araa",
+        "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 54,
+        "name_english": "Al-Qamar",
+        "name_arabic": "سُورَةُ القَمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 91,
+        "name_english": "Ash-Shams",
+        "name_arabic": "سُورَةُ الشَّمۡسِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 7
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        7,
+        73,
+        20
+      ],
+      "form_arabic": "نَاقَةُ",
+      "lemma": "naAqap",
+      "lemma_arabic": "نَاقَة",
+      "pos": "N",
+      "ayah_id": "7:73",
+      "ayah_arabic": "وَإِلَىٰ ثَمُودَ أَخَاهُمۡ صَٰلِحࣰ اۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥۖ قَدۡ جَآءَتۡكُم بَيِّنَةࣱ مِّن رَّبِّكُمۡۖ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمۡ ءَايَةࣰۖ فَذَرُوهَا تَأۡكُلۡ فِيٓ أَرۡضِ ٱللَّهِۖ وَلَا تَمَسُّوهَا بِسُوٓءࣲ فَيَأۡخُذَكُمۡ عَذَابٌ أَلِيمࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "(is) a she-camel",
+      "translations": {
+        "saheeh": "And to the Thamud [We sent] their brother Salih. He said, \"O my people, worship Allah; you have no deity other than Him. There has come to you clear evidence from your Lord. This is the she-camel of Allah [sent] to you as a sign. So leave her to eat within Allah 's land and do not touch her with harm, lest there seize you a painful punishment.",
+        "pickthall": "And to (the tribe of) Thamud (We sent) their brother Salih. He said: O my people! Serve Allah. Ye have no other Allah save Him. A wonder from your Lord hath come unto you. Lo! this is the camel of Allah, a token unto you; so let her feed in Allah's earth, and touch her not with hurt lest painful torment seize you.",
+        "khattab": "And to the people of Thamûd We sent their brother Ṣâliḥ. He said, “O my people! Worship Allah—you have no other god except Him. A clear proof has come to you from your Lord: this is Allah’s she-camel as a sign to you. So leave her to graze ˹freely˺ on Allah’s land and do not harm her, or else you will be overcome by a painful punishment",
+        "arberry": "And to Thamood their brother Salih; he said, 'O my people, serve God! You have no god other than He; there has now come to you a clear sign from your Lord -- this is the She-camel of God, to be a sign for you. Leave her that she may eat in God's earth, and do not touch her with evil, lest you be seized by a painful chastisement."
+      }
+    },
+    {
+      "location": [
+        7,
+        77,
+        2
+      ],
+      "form_arabic": "ٱلنَّاقَةَ",
+      "lemma": "naAqap",
+      "lemma_arabic": "نَاقَة",
+      "pos": "N",
+      "ayah_id": "7:77",
+      "ayah_arabic": "فَعَقَرُواْ ٱلنَّاقَةَ وَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ وَقَالُواْ يَٰصَٰلِحُ ٱئۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلۡمُرۡسَلِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "the she-camel",
+      "translations": {
+        "saheeh": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Salih, bring us what you promise us, if you should be of the messengers.\"",
+        "pickthall": "So they hamstrung the she-camel, and they flouted the commandment of their Lord, and they said: O Salih! Bring upon us that thou threatenest if thou art indeed of those sent (from Allah).",
+        "khattab": "Then they killed the she-camel—defying their Lord’s command—and challenged ˹Ṣâliḥ˺, “Bring us what you threaten us with, if you are ˹truly˺ one of the messengers.”",
+        "arberry": "So they hamstrung the She-camel and turned in disdain from the commandment of their Lord, saying, 'O Salih, bring us that thou promisest us, if thou art an Envoy.'"
+      }
+    },
+    {
+      "location": [
+        11,
+        64,
+        3
+      ],
+      "form_arabic": "نَاقَةُ",
+      "lemma": "naAqap",
+      "lemma_arabic": "نَاقَة",
+      "pos": "N",
+      "ayah_id": "11:64",
+      "ayah_arabic": "وَيَٰقَوۡمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمۡ ءَايَةࣰۖ فَذَرُوهَا تَأۡكُلۡ فِيٓ أَرۡضِ ٱللَّهِۖ وَلَا تَمَسُّوهَا بِسُوٓءࣲ فَيَأۡخُذَكُمۡ عَذَابࣱ قَرِيبࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "she-camel",
+      "translations": {
+        "saheeh": "And O my people, this is the she-camel of Allah - [she is] to you a sign. So let her feed upon Allah 's earth and do not touch her with harm, or you will be taken by an impending punishment.\"",
+        "pickthall": "O my people! This is the camel of Allah, a token unto you, so suffer her to feed in Allah's earth, and touch her not with harm lest a near torment seize you.",
+        "khattab": "And O my people! This she-camel of Allah is a sign for you. So leave her to graze ˹freely˺ on Allah’s earth and do her no harm, or a swift punishment will overtake you!”",
+        "arberry": "O my people, this is the She-camel of God, to be a sign for you. Leave her that she may eat in God's earth, and touch her not with evil, lest you' be seized by a nigh chastisement.'"
+      }
+    },
+    {
+      "location": [
+        17,
+        59,
+        13
+      ],
+      "form_arabic": "ٱلنَّاقَةَ",
+      "lemma": "naAqap",
+      "lemma_arabic": "نَاقَة",
+      "pos": "N",
+      "ayah_id": "17:59",
+      "ayah_arabic": "وَمَا مَنَعَنَآ أَن نُّرۡسِلَ بِٱلۡأٓيَٰتِ إِلَّآ أَن كَذَّبَ بِهَا ٱلۡأَوَّلُونَۚ وَءَاتَيۡنَا ثَمُودَ ٱلنَّاقَةَ مُبۡصِرَةࣰ فَظَلَمُواْ بِهَاۚ وَمَا نُرۡسِلُ بِٱلۡأٓيَٰتِ إِلَّا تَخۡوِيفࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "the she-camel",
+      "translations": {
+        "saheeh": "And nothing has prevented Us from sending signs except that the former peoples denied them. And We gave Thamud the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning.",
+        "pickthall": "Naught hindereth Us from sending portents save that the folk of old denied them. And We gave Thamud the she-camel - a clear portent save to warn.",
+        "khattab": "Nothing keeps Us from sending the ˹demanded˺ signs except that they had ˹already˺ been denied by earlier peoples. And We gave Thamûd the she-camel as a clear sign, but they wrongfully rejected it. We only send the signs as a warning",
+        "arberry": "Naught prevented Us from sending the signs but that the ancients cried lies to them; and We brought Thamood the She-camel visible, but they did her wrong. And We do not send the signs, except to frighten."
+      }
+    },
+    {
+      "location": [
+        26,
+        155,
+        3
+      ],
+      "form_arabic": "نَاقَةٌ",
+      "lemma": "naAqap",
+      "lemma_arabic": "نَاقَة",
+      "pos": "N",
+      "ayah_id": "26:155",
+      "ayah_arabic": "قَالَ هَٰذِهِۦ نَاقَةࣱ لَّهَا شِرۡبࣱ وَلَكُمۡ شِرۡبُ يَوۡمࣲ مَّعۡلُومࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "(is) a she-camel",
+      "translations": {
+        "saheeh": "He said, \"This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day.",
+        "pickthall": "He said: (Behold) this she-camel. She hath the right to drink (at the well), and ye have the right to drink, (each) on an appointed day.",
+        "khattab": "Ṣâliḥ said, “Here is a camel. She will have her turn to drink as you have yours, each on an appointed day",
+        "arberry": "He said, 'This is a she-camel; to her a draught and to you a draught, on a day appointed,"
+      }
+    },
+    {
+      "location": [
+        54,
+        27,
+        3
+      ],
+      "form_arabic": "ٱلنَّاقَةِ",
+      "lemma": "naAqap",
+      "lemma_arabic": "نَاقَة",
+      "pos": "N",
+      "ayah_id": "54:27",
+      "ayah_arabic": "إِنَّا مُرۡسِلُواْ ٱلنَّاقَةِ فِتۡنَةࣰ لَّهُمۡ فَٱرۡتَقِبۡهُمۡ وَٱصۡطَبِرۡ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qamar",
+      "literal_gloss": "the she-camel",
+      "translations": {
+        "saheeh": "Indeed, We are sending the she-camel as trial for them, so watch them and be patient.",
+        "pickthall": "Lo! We are sending the she-camel as a test for them; so watch them and have patience;",
+        "khattab": "We are sending the she-camel as a test for them. So watch them ˹closely˺, and have patience",
+        "arberry": "They shall send the She-camel as a trial for them; so watch thou them and keep patience."
+      }
+    },
+    {
+      "location": [
+        91,
+        13,
+        5
+      ],
+      "form_arabic": "نَاقَةَ",
+      "lemma": "naAqap",
+      "lemma_arabic": "نَاقَة",
+      "pos": "N",
+      "ayah_id": "91:13",
+      "ayah_arabic": "فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shams",
+      "literal_gloss": "(It is the) she-camel",
+      "translations": {
+        "saheeh": "And the messenger of Allah [Salih] said to them, \"[Do not harm] the she-camel of Allah or [prevent her from] her drink.\"",
+        "pickthall": "And the messenger of Allah said: It is the she-camel of Allah, so let her drink!",
+        "khattab": "But the messenger of Allah warned them, “˹Do not disturb˺ Allah’s camel and her ˹turn to˺ drink!”",
+        "arberry": "then the Messenger of God said to them, 'The She-camel of God; let her drink!'"
+      }
+    }
+  ]
+}

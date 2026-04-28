@@ -1,0 +1,408 @@
+{
+  "root": "xdE",
+  "root_arabic": "خدع",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 3,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "V": 4,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yuxa`diEu",
+      "lemma_arabic": "يُخَٰدِعُ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        2,
+        9,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            9,
+            1
+          ],
+          "form_arabic": "يُخَٰدِعُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            4,
+            142,
+            3
+          ],
+          "form_arabic": "يُخَٰدِعُونَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "yaxodaEu",
+      "lemma_arabic": "يَخْدَعُ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        2,
+        9,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            9,
+            6
+          ],
+          "form_arabic": "يَخْدَعُونَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            8,
+            62,
+            4
+          ],
+          "form_arabic": "يَخْدَعُوكَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "xa`diE",
+      "lemma_arabic": "خَٰدِع",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        4,
+        142,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            142,
+            6
+          ],
+          "form_arabic": "خَٰدِعُهُمْ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        2,
+        9
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        9
+      ]
+    },
+    {
+      "root": "$Er",
+      "root_arabic": "شعر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        9
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        9
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        142
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        142
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        142
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        142
+      ]
+    },
+    {
+      "root": "nfq",
+      "root_arabic": "نفق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        142
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        142
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        142
+      ]
+    },
+    {
+      "root": "ksl",
+      "root_arabic": "كسل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        142
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        62
+      ]
+    },
+    {
+      "root": "Ayd",
+      "root_arabic": "ايد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        62
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        62
+      ]
+    },
+    {
+      "root": "Hsb",
+      "root_arabic": "حسب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        62
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 8,
+        "name_english": "Al-Anfaal",
+        "name_arabic": "سُورَةُ الأَنفَالِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 5
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        9,
+        1
+      ],
+      "form_arabic": "يُخَٰدِعُونَ",
+      "lemma": "yuxa`diEu",
+      "lemma_arabic": "يُخَٰدِعُ",
+      "pos": "V",
+      "ayah_id": "2:9",
+      "ayah_arabic": "يُخَٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُواْ وَمَا يَخۡدَعُونَ إِلَّآ أَنفُسَهُمۡ وَمَا يَشۡعُرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "They seek to deceive",
+      "translations": {
+        "saheeh": "They [think to] deceive Allah and those who believe, but they deceive not except themselves and perceive [it] not.",
+        "pickthall": "They think to beguile Allah and those who believe, and they beguile none save themselves; but they perceive not.",
+        "khattab": "They seek to deceive Allah and the believers, yet they only deceive themselves, but they fail to perceive it",
+        "arberry": "They would trick God and the believers, and only themselves they deceive, and they are not aware."
+      }
+    },
+    {
+      "location": [
+        2,
+        9,
+        6
+      ],
+      "form_arabic": "يَخْدَعُونَ",
+      "lemma": "yaxodaEu",
+      "lemma_arabic": "يَخْدَعُ",
+      "pos": "V",
+      "ayah_id": "2:9",
+      "ayah_arabic": "يُخَٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُواْ وَمَا يَخۡدَعُونَ إِلَّآ أَنفُسَهُمۡ وَمَا يَشۡعُرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "they deceive",
+      "translations": {
+        "saheeh": "They [think to] deceive Allah and those who believe, but they deceive not except themselves and perceive [it] not.",
+        "pickthall": "They think to beguile Allah and those who believe, and they beguile none save themselves; but they perceive not.",
+        "khattab": "They seek to deceive Allah and the believers, yet they only deceive themselves, but they fail to perceive it",
+        "arberry": "They would trick God and the believers, and only themselves they deceive, and they are not aware."
+      }
+    },
+    {
+      "location": [
+        4,
+        142,
+        3
+      ],
+      "form_arabic": "يُخَٰدِعُونَ",
+      "lemma": "yuxa`diEu",
+      "lemma_arabic": "يُخَٰدِعُ",
+      "pos": "V",
+      "ayah_id": "4:142",
+      "ayah_arabic": "إِنَّ ٱلۡمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمۡ وَإِذَا قَامُوٓاْ إِلَى ٱلصَّلَوٰةِ قَامُواْ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذۡكُرُونَ ٱللَّهَ إِلَّا قَلِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "(seek to) deceive",
+      "translations": {
+        "saheeh": "Indeed, the hypocrites [think to] deceive Allah, but He is deceiving them. And when they stand for prayer, they stand lazily, showing [themselves to] the people and not remembering Allah except a little,",
+        "pickthall": "Lo! the hypocrites seek to beguile Allah, but it is He Who beguileth them. When they stand up to worship they perform it languidly and to be seen of men, and are mindful of Allah but little;",
+        "khattab": "Surely the hypocrites seek to deceive Allah, but He outwits them. When they stand up for prayer, they do it half-heartedly only to be seen by people—hardly remembering Allah at all",
+        "arberry": "The hypocrites seek to trick God, but God is tricking them. When they stand up to pray they stand up lazily, showing off to the people and not remembering God save a little;"
+      }
+    },
+    {
+      "location": [
+        4,
+        142,
+        6
+      ],
+      "form_arabic": "خَٰدِعُهُمْ",
+      "lemma": "xa`diE",
+      "lemma_arabic": "خَٰدِع",
+      "pos": "N",
+      "ayah_id": "4:142",
+      "ayah_arabic": "إِنَّ ٱلۡمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمۡ وَإِذَا قَامُوٓاْ إِلَى ٱلصَّلَوٰةِ قَامُواْ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذۡكُرُونَ ٱللَّهَ إِلَّا قَلِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "who deceives them",
+      "translations": {
+        "saheeh": "Indeed, the hypocrites [think to] deceive Allah, but He is deceiving them. And when they stand for prayer, they stand lazily, showing [themselves to] the people and not remembering Allah except a little,",
+        "pickthall": "Lo! the hypocrites seek to beguile Allah, but it is He Who beguileth them. When they stand up to worship they perform it languidly and to be seen of men, and are mindful of Allah but little;",
+        "khattab": "Surely the hypocrites seek to deceive Allah, but He outwits them. When they stand up for prayer, they do it half-heartedly only to be seen by people—hardly remembering Allah at all",
+        "arberry": "The hypocrites seek to trick God, but God is tricking them. When they stand up to pray they stand up lazily, showing off to the people and not remembering God save a little;"
+      }
+    },
+    {
+      "location": [
+        8,
+        62,
+        4
+      ],
+      "form_arabic": "يَخْدَعُوكَ",
+      "lemma": "yaxodaEu",
+      "lemma_arabic": "يَخْدَعُ",
+      "pos": "V",
+      "ayah_id": "8:62",
+      "ayah_arabic": "وَإِن يُرِيدُوٓاْ أَن يَخۡدَعُوكَ فَإِنَّ حَسۡبَكَ ٱللَّهُۚ هُوَ ٱلَّذِيٓ أَيَّدَكَ بِنَصۡرِهِۦ وَبِٱلۡمُؤۡمِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "deceive you",
+      "translations": {
+        "saheeh": "But if they intend to deceive you - then sufficient for you is Allah. It is He who supported you with His help and with the believers",
+        "pickthall": "And if they would deceive thee, then lo! Allah is Sufficient for thee. He it is Who supporteth thee with His help and with the believers,",
+        "khattab": "But if their intention is only to deceive you, then Allah is certainly sufficient for you. He is the One Who has supported you with His help and with the believers",
+        "arberry": "And if they desire to trick thee, God is sufficient for thee; He has confirmed thee with His help, and with the believers,"
+      }
+    }
+  ]
+}

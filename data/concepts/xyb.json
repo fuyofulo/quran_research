@@ -1,0 +1,461 @@
+{
+  "root": "xyb",
+  "root_arabic": "خيب",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 2,
+    "ayahs": 5,
+    "surahs": 4,
+    "pos_distribution": {
+      "V": 4,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "xaAba",
+      "lemma_arabic": "خَابَ",
+      "count": 4,
+      "pos_distribution": {
+        "V": 4
+      },
+      "first_occurrence": [
+        14,
+        15,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            14,
+            15,
+            2
+          ],
+          "form_arabic": "وَخَابَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            20,
+            61,
+            13
+          ],
+          "form_arabic": "خَابَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            20,
+            111,
+            6
+          ],
+          "form_arabic": "خَابَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            91,
+            10,
+            2
+          ],
+          "form_arabic": "خَابَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "xaA^}ibiyn",
+      "lemma_arabic": "خَا^ئِبِين",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        3,
+        127,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            127,
+            9
+          ],
+          "form_arabic": "خَا^ئِبِينَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        14,
+        15
+      ]
+    },
+    {
+      "root": "jbr",
+      "root_arabic": "جبر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        14,
+        15
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        14,
+        15
+      ]
+    },
+    {
+      "root": "ftH",
+      "root_arabic": "فتح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        14,
+        15
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        61
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        61
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        61
+      ]
+    },
+    {
+      "root": "fry",
+      "root_arabic": "فري",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        61
+      ]
+    },
+    {
+      "root": "sHt",
+      "root_arabic": "سحت",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        61
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        61
+      ]
+    },
+    {
+      "root": "dsw",
+      "root_arabic": "دسو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        91,
+        10
+      ]
+    },
+    {
+      "root": "Trf",
+      "root_arabic": "طرف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        127
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        127
+      ]
+    },
+    {
+      "root": "qTE",
+      "root_arabic": "قطع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        127
+      ]
+    },
+    {
+      "root": "kbt",
+      "root_arabic": "كبت",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        127
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        3,
+        127
+      ]
+    },
+    {
+      "root": "Hml",
+      "root_arabic": "حمل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        111
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        111
+      ]
+    },
+    {
+      "root": "Enw",
+      "root_arabic": "عنو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        111
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        111
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        111
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        20,
+        111
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 20,
+        "name_english": "Taa-Haa",
+        "name_arabic": "سُورَةُ طه",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 14,
+        "name_english": "Ibrahim",
+        "name_arabic": "سُورَةُ إِبۡرَاهِيمَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 91,
+        "name_english": "Ash-Shams",
+        "name_arabic": "سُورَةُ الشَّمۡسِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        127,
+        9
+      ],
+      "form_arabic": "خَا^ئِبِينَ",
+      "lemma": "xaA^}ibiyn",
+      "lemma_arabic": "خَا^ئِبِين",
+      "pos": "N",
+      "ayah_id": "3:127",
+      "ayah_arabic": "لِيَقۡطَعَ طَرَفࣰ ا مِّنَ ٱلَّذِينَ كَفَرُوٓاْ أَوۡ يَكۡبِتَهُمۡ فَيَنقَلِبُواْ خَآئِبِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "disappointed",
+      "translations": {
+        "saheeh": "That He might cut down a section of the disbelievers or suppress them so that they turn back disappointed.",
+        "pickthall": "That He may cut off a part of those who disbelieve, or overwhelm them so that they retire, frustrated.",
+        "khattab": "to destroy a group of the disbelievers and humble the rest, causing them to withdraw in disappointment",
+        "arberry": "and that He might cut off a part of the unbelievers or frustrate them, so that they turned in their tracks, disappointed."
+      }
+    },
+    {
+      "location": [
+        14,
+        15,
+        2
+      ],
+      "form_arabic": "وَخَابَ",
+      "lemma": "xaAba",
+      "lemma_arabic": "خَابَ",
+      "pos": "V",
+      "ayah_id": "14:15",
+      "ayah_arabic": "وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ibrahim",
+      "literal_gloss": "and disappointed",
+      "translations": {
+        "saheeh": "And they requested victory from Allah, and disappointed, [therefore], was every obstinate tyrant.",
+        "pickthall": "And they sought help (from their Lord) and every froward potentate was bought to naught;",
+        "khattab": "And both sides called for judgment, so every stubborn tyrant was doomed",
+        "arberry": "They sought a judgment; then was disappointed every froward tyrant --"
+      }
+    },
+    {
+      "location": [
+        20,
+        61,
+        13
+      ],
+      "form_arabic": "خَابَ",
+      "lemma": "xaAba",
+      "lemma_arabic": "خَابَ",
+      "pos": "V",
+      "ayah_id": "20:61",
+      "ayah_arabic": "قَالَ لَهُم مُّوسَىٰ وَيۡلَكُمۡ لَا تَفۡتَرُواْ عَلَى ٱللَّهِ كَذِبࣰ ا فَيُسۡحِتَكُم بِعَذَابࣲۖ وَقَدۡ خَابَ مَنِ ٱفۡتَرَىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "he failed",
+      "translations": {
+        "saheeh": "Moses said to the magicians summoned by Pharaoh, \"Woe to you! Do not invent a lie against Allah or He will exterminate you with a punishment; and he has failed who invents [such falsehood].\"",
+        "pickthall": "Moses said unto them: Woe unto you! Invent not a lie against Allah, lest He extirpate you by some punishment. He who lieth faileth miserably.",
+        "khattab": "Moses warned the magicians, “Woe to you! Do not fabricate a lie against Allah, or He will wipe you out with a torment. Whoever fabricates ˹lies˺ is bound to fail.”",
+        "arberry": "and Moses said to them, 'O beware! Forge not a lie against God, lest He destroy you with a chastisement. Whoso forges has ever failed.'"
+      }
+    },
+    {
+      "location": [
+        20,
+        111,
+        6
+      ],
+      "form_arabic": "خَابَ",
+      "lemma": "xaAba",
+      "lemma_arabic": "خَابَ",
+      "pos": "V",
+      "ayah_id": "20:111",
+      "ayah_arabic": "۞وَعَنَتِ ٱلۡوُجُوهُ لِلۡحَيِّ ٱلۡقَيُّومِۖ وَقَدۡ خَابَ مَنۡ حَمَلَ ظُلۡمࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "will have failed",
+      "translations": {
+        "saheeh": "And [all] faces will be humbled before the Ever-Living, the Sustainer of existence. And he will have failed who carries injustice.",
+        "pickthall": "And faces humble themselves before the Living, the Eternal. And he who beareth (a burden of) wrongdoing is indeed a failure (on that day).",
+        "khattab": "And all faces will be humbled before the Ever-Living, All-Sustaining. And those burdened with wrongdoing will be in loss",
+        "arberry": "And faces shall be humbled unto the Living, the Eternal. He will have failed whose burden is of evildoing;"
+      }
+    },
+    {
+      "location": [
+        91,
+        10,
+        2
+      ],
+      "form_arabic": "خَابَ",
+      "lemma": "xaAba",
+      "lemma_arabic": "خَابَ",
+      "pos": "V",
+      "ayah_id": "91:10",
+      "ayah_arabic": "وَقَدۡ خَابَ مَن دَسَّىٰهَا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shams",
+      "literal_gloss": "he fails",
+      "translations": {
+        "saheeh": "And he has failed who instills it [with corruption].",
+        "pickthall": "And he is indeed a failure who stunteth it.",
+        "khattab": "and doomed is the one who corrupts it",
+        "arberry": "and failed has he who seduces it."
+      }
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "root": "xSS",
+  "root_arabic": "خصص",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 3,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "V": 2,
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yaxotaS~u",
+      "lemma_arabic": "يَخْتَصُّ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        2,
+        105,
+        18
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            105,
+            18
+          ],
+          "form_arabic": "يَخْتَصُّ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            3,
+            74,
+            1
+          ],
+          "form_arabic": "يَخْتَصُّ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "xaA^S~ap",
+      "lemma_arabic": "خَا^صَّة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        8,
+        25,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            8,
+            25,
+            8
+          ],
+          "form_arabic": "خَا^صَّةً",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "xaSaASap",
+      "lemma_arabic": "خَصَاصَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        59,
+        9,
+        24
+      ],
+      "occurrences": [
+        {
+          "location": [
+            59,
+            9,
+            24
+          ],
+          "form_arabic": "خَصَاصَةٌ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.75,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        8,
+        25
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "wdd",
+      "root_arabic": "ودد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        2,
+        105
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "hjr",
+      "root_arabic": "هجر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Sdr",
+      "root_arabic": "صدر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Avr",
+      "root_arabic": "اثر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "dwr",
+      "root_arabic": "دور",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "$HH",
+      "root_arabic": "شحح",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Hwj",
+      "root_arabic": "حوج",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "flH",
+      "root_arabic": "فلح",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "bwA",
+      "root_arabic": "بوا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        59,
+        9
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        8,
+        25
+      ]
+    },
+    {
+      "root": "Eqb",
+      "root_arabic": "عقب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        8,
+        25
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        8,
+        25
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        8,
+        25
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        8,
+        25
+      ]
+    },
+    {
+      "root": "ftn",
+      "root_arabic": "فتن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        8,
+        25
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 8,
+        "name_english": "Al-Anfaal",
+        "name_arabic": "سُورَةُ الأَنفَالِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 59,
+        "name_english": "Al-Hashr",
+        "name_arabic": "سُورَةُ الحَشۡرِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        105,
+        18
+      ],
+      "form_arabic": "يَخْتَصُّ",
+      "lemma": "yaxotaS~u",
+      "lemma_arabic": "يَخْتَصُّ",
+      "pos": "V",
+      "ayah_id": "2:105",
+      "ayah_arabic": "مَّا يَوَدُّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَلَا ٱلۡمُشۡرِكِينَ أَن يُنَزَّلَ عَلَيۡكُم مِّنۡ خَيۡرࣲ مِّن رَّبِّكُمۡۚ وَٱللَّهُ يَخۡتَصُّ بِرَحۡمَتِهِۦ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "chooses",
+      "translations": {
+        "saheeh": "Neither those who disbelieve from the People of the Scripture nor the polytheists wish that any good should be sent down to you from your Lord. But Allah selects for His mercy whom He wills, and Allah is the possessor of great bounty.",
+        "pickthall": "Neither those who disbelieve among the people of the Scripture nor the idolaters love that there should be sent down unto you any good thing from your Lord. But Allah chooseth for His mercy whom He will, and Allah is of Infinite Bounty.",
+        "khattab": "The disbelievers from the People of the Book and the polytheists would not want you to receive any blessing from your Lord, but Allah selects whoever He wills for His mercy. And Allah is the Lord of infinite bounty",
+        "arberry": "Those unbelievers of the People of the Book and the idolaters wish not that any good should be sent down upon you from your Lord; but God singles out for His mercy whom He will; God is of bounty abounding."
+      }
+    },
+    {
+      "location": [
+        3,
+        74,
+        1
+      ],
+      "form_arabic": "يَخْتَصُّ",
+      "lemma": "yaxotaS~u",
+      "lemma_arabic": "يَخْتَصُّ",
+      "pos": "V",
+      "ayah_id": "3:74",
+      "ayah_arabic": "يَخۡتَصُّ بِرَحۡمَتِهِۦ مَن يَشَآءُۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "He chooses",
+      "translations": {
+        "saheeh": "He selects for His mercy whom He wills. And Allah is the possessor of great bounty.",
+        "pickthall": "He selecteth for His mercy whom He will. Allah is of Infinite Bounty.",
+        "khattab": "He chooses whoever He wills to receive His mercy. And Allah is the Lord of infinite bounty",
+        "arberry": "He singles out for His mercy whom He will; God is of bounty abounding.'"
+      }
+    },
+    {
+      "location": [
+        8,
+        25,
+        8
+      ],
+      "form_arabic": "خَا^صَّةً",
+      "lemma": "xaA^S~ap",
+      "lemma_arabic": "خَا^صَّة",
+      "pos": "N",
+      "ayah_id": "8:25",
+      "ayah_arabic": "وَٱتَّقُواْ فِتۡنَةࣰ لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُواْ مِنكُمۡ خَآصَّةࣰۖ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "exclusively",
+      "translations": {
+        "saheeh": "And fear a trial which will not strike those who have wronged among you exclusively, and know that Allah is severe in penalty.",
+        "pickthall": "And guard yourselves against a chastisement which cannot fall exclusively on those of you who are wrong-doers, and know that Allah is severe in punishment.",
+        "khattab": "Beware of a trial that will not only affect the wrongdoers among you. And know that Allah is severe in punishment",
+        "arberry": "And fear a trial which shall surely not smite in particular the evildoers among you; and know that God is terrible in retribution."
+      }
+    },
+    {
+      "location": [
+        59,
+        9,
+        24
+      ],
+      "form_arabic": "خَصَاصَةٌ",
+      "lemma": "xaSaASap",
+      "lemma_arabic": "خَصَاصَة",
+      "pos": "N",
+      "ayah_id": "59:9",
+      "ayah_arabic": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلۡإِيمَٰنَ مِن قَبۡلِهِمۡ يُحِبُّونَ مَنۡ هَاجَرَ إِلَيۡهِمۡ وَلَا يَجِدُونَ فِي صُدُورِهِمۡ حَاجَةࣰ مِّمَّآ أُوتُواْ وَيُؤۡثِرُونَ عَلَىٰٓ أَنفُسِهِمۡ وَلَوۡ كَانَ بِهِمۡ خَصَاصَةࣱۚ وَمَن يُوقَ شُحَّ نَفۡسِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hashr",
+      "literal_gloss": "poverty",
+      "translations": {
+        "saheeh": "And [also for] those who were settled in al-Madinah and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what the emigrants were given but give [them] preference over themselves, even though they are in privation. And whoever is protected from the stinginess of his soul - it is those who will be the successful.",
+        "pickthall": "Those who entered the city and the faith before them love those who flee unto them for refuge, and find in their breasts no need for that which hath been given them, but prefer (the fugitives) above themselves though poverty become their lot. And whoso is saved from his own avarice - such are they who are successful.",
+        "khattab": "As for those who had settled in the city and ˹embraced˺ the faith before ˹the arrival of˺ the emigrants, they love whoever immigrates to them, never having a desire in their hearts for whatever ˹of the gains˺ is given to the emigrants. They give ˹the emigrants˺ preference over themselves even though they may be in need. And whoever is saved from the selfishness of their own souls, it is they who are ˹truly˺ successful",
+        "arberry": "And those who made their dwelling in the abode, and in belief, before them; love whosoever has emigrated to them, not finding in their breasts any need for what they have been given, and preferring others above themselves, even though poverty be their portion. And whoso is guarded against the avarice of his own soul, those -- they are the prosperers."
+      }
+    }
+  ]
+}

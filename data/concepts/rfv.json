@@ -1,0 +1,510 @@
+{
+  "root": "rfv",
+  "root_arabic": "رفث",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 1,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "rafav",
+      "lemma_arabic": "رَفَث",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        2,
+        187,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            187,
+            5
+          ],
+          "form_arabic": "ٱلرَّفَثُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            197,
+            9
+          ],
+          "form_arabic": "رَفَثَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "fEl",
+      "root_arabic": "فعل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "Hjj",
+      "root_arabic": "حجج",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "jdl",
+      "root_arabic": "جدل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "fsq",
+      "root_arabic": "فسق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "lbb",
+      "root_arabic": "لبب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "zwd",
+      "root_arabic": "زود",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "frD",
+      "root_arabic": "فرض",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "$hr",
+      "root_arabic": "شهر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        197
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "lbs",
+      "root_arabic": "لبس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Swm",
+      "root_arabic": "صوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "swd",
+      "root_arabic": "سود",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Efw",
+      "root_arabic": "عفو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Hdd",
+      "root_arabic": "حدد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "fjr",
+      "root_arabic": "فجر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "tmm",
+      "root_arabic": "تمم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "xwn",
+      "root_arabic": "خون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Ekf",
+      "root_arabic": "عكف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "byD",
+      "root_arabic": "بيض",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "b$r",
+      "root_arabic": "بشر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "xyT",
+      "root_arabic": "خيط",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        187,
+        5
+      ],
+      "form_arabic": "ٱلرَّفَثُ",
+      "lemma": "rafav",
+      "lemma_arabic": "رَفَث",
+      "pos": "N",
+      "ayah_id": "2:187",
+      "ayah_arabic": "أُحِلَّ لَكُمۡ لَيۡلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمۡۚ هُنَّ لِبَاسࣱ لَّكُمۡ وَأَنتُمۡ لِبَاسࣱ لَّهُنَّۗ عَلِمَ ٱللَّهُ أَنَّكُمۡ كُنتُمۡ تَخۡتَانُونَ أَنفُسَكُمۡ فَتَابَ عَلَيۡكُمۡ وَعَفَا عَنكُمۡۖ فَٱلۡـَٰٔنَ بَٰشِرُوهُنَّ وَٱبۡتَغُواْ مَا كَتَبَ ٱللَّهُ لَكُمۡۚ وَكُلُواْ وَٱشۡرَبُواْ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلۡخَيۡطُ ٱلۡأَبۡيَضُ مِنَ ٱلۡخَيۡطِ ٱلۡأَسۡوَدِ مِنَ ٱلۡفَجۡرِۖ ثُمَّ أَتِمُّواْ ٱلصِّيَامَ إِلَى ٱلَّيۡلِۚ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمۡ عَٰكِفُونَ فِي ٱلۡمَسَٰجِدِۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَقۡرَبُوهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمۡ يَتَّقُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(is) the approach",
+      "translations": {
+        "saheeh": "It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are clothing for you and you are clothing for them. Allah knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allah has decreed for you. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the sunset. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allah, so do not approach them. Thus does Allah make clear His ordinances to the people that they may become righteous.",
+        "pickthall": "It is made lawful for you to go in unto your wives on the night of the fast. They are raiment for you and ye are raiment for them. Allah is Aware that ye were deceiving yourselves in this respect and He hath turned in mercy toward you and relieved you. So hold intercourse with them and seek that which Allah hath ordained for you, and eat and drink until the white thread becometh distinct to you from the black thread of the dawn. Then strictly observe the fast till nightfall and touch them not, but be at your devotions in the mosques. These are the limits imposed by Allah, so approach them not. Thus Allah expoundeth His revelation to mankind that they may ward off (evil).",
+        "khattab": "It has been made permissible for you to be intimate with your wives during the nights preceding the fast. Your spouses are a garment for you as you are for them. Allah knows that you were deceiving yourselves. So He has accepted your repentance and pardoned you. So now you may be intimate with them and seek what Allah has prescribed for you. ˹You may˺ eat and drink until you see the light of dawn breaking the darkness of night, then complete the fast until nightfall. Do not be intimate with your spouses while you are meditating in the mosques. These are the limits set by Allah, so do not exceed them. This is how Allah makes His revelations clear to people, so they may become mindful ˹of Him˺",
+        "arberry": "Permitted to you, upon the night of the Fast, is to go in to your wives; -- they are a vestment for you, and you are a vestment for them. God knows that you have been betraying yourselves, and has turned to you and pardoned you. So now lie with them, and seek what God has prescribed for you. And eat and drink, until the white thread shows clearly to you from the black thread at the dawn; then complete the Fast unto the night, and do not lie with them while you cleave to the mosques. Those are God's bounds; keep well within them. So God makes clear His signs to men; haply they will be godfearing."
+      }
+    },
+    {
+      "location": [
+        2,
+        197,
+        9
+      ],
+      "form_arabic": "رَفَثَ",
+      "lemma": "rafav",
+      "lemma_arabic": "رَفَث",
+      "pos": "N",
+      "ayah_id": "2:197",
+      "ayah_arabic": "ٱلۡحَجُّ أَشۡهُرࣱ مَّعۡلُومَٰتࣱۚ فَمَن فَرَضَ فِيهِنَّ ٱلۡحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي ٱلۡحَجِّۗ وَمَا تَفۡعَلُواْ مِنۡ خَيۡرࣲ يَعۡلَمۡهُ ٱللَّهُۗ وَتَزَوَّدُواْ فَإِنَّ خَيۡرَ ٱلزَّادِ ٱلتَّقۡوَىٰۖ وَٱتَّقُونِ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "sexual relations",
+      "translations": {
+        "saheeh": "Hajj is [during] well-known months, so whoever has made Hajj obligatory upon himself therein [by entering the state of ihram], there is [to be for him] no sexual relations and no disobedience and no disputing during Hajj. And whatever good you do - Allah knows it. And take provisions, but indeed, the best provision is fear of Allah. And fear Me, O you of understanding.",
+        "pickthall": "The pilgrimage is (in) the well-known months, and whoever is minded to perform the pilgrimage therein (let him remember that) there is (to be) no lewdness nor abuse nor angry conversation on the pilgrimage. And whatsoever good ye do Allah knoweth it. So make provision for yourselves (Hereafter); for the best provision is to ward off evil. Therefore keep your duty unto Me, O men of understanding.",
+        "khattab": "˹Commitment to˺ pilgrimage is made in appointed months. Whoever commits to ˹performing˺ pilgrimage, let them stay away from intimate relations, foul language, and arguments during pilgrimage. Whatever good you do, Allah ˹fully˺ knows of it. Take ˹necessary˺ provisions ˹for the journey˺—surely the best provision is righteousness. And be mindful of Me, O people of reason",
+        "arberry": "The Pilgrimage is in months well-known; whoso undertakes the duty of Pilgrimage in them shall not go in to his womenfolk nor indulge in ungodliness and disputing in the Pilgrimage. Whatever good you do, God knows it. And take provision; but the best provision is godfearing, so fear you Me, men possessed of minds!"
+      }
+    }
+  ]
+}

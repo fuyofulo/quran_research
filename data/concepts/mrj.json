@@ -1,0 +1,476 @@
+{
+  "root": "mrj",
+  "root_arabic": "مرج",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 4,
+    "ayahs": 6,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 3,
+      "V": 2,
+      "ADJ": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "maraja",
+      "lemma_arabic": "مَرَجَ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        25,
+        53,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            25,
+            53,
+            3
+          ],
+          "form_arabic": "مَرَجَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            55,
+            19,
+            1
+          ],
+          "form_arabic": "مَرَجَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "marojaAn",
+      "lemma_arabic": "مَرْجَان",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        55,
+        22,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            55,
+            22,
+            4
+          ],
+          "form_arabic": "وَٱلْمَرْجَانُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            55,
+            58,
+            3
+          ],
+          "form_arabic": "وَٱلْمَرْجَانُ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "m~ariyj",
+      "lemma_arabic": "مَّرِيج",
+      "count": 1,
+      "pos_distribution": {
+        "ADJ": 1
+      },
+      "first_occurrence": [
+        50,
+        5,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            50,
+            5,
+            9
+          ],
+          "form_arabic": "مَّرِيجٍ",
+          "pos": "ADJ"
+        }
+      ]
+    },
+    {
+      "lemma": "m~aArij",
+      "lemma_arabic": "مَّارِج",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        55,
+        15,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            55,
+            15,
+            4
+          ],
+          "form_arabic": "مَّارِجٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "bHr",
+      "root_arabic": "بحر",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        25,
+        53
+      ]
+    },
+    {
+      "root": "Ajj",
+      "root_arabic": "اجج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        53
+      ]
+    },
+    {
+      "root": "Hjr",
+      "root_arabic": "حجر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        53
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        53
+      ]
+    },
+    {
+      "root": "mlH",
+      "root_arabic": "ملح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        53
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        53
+      ]
+    },
+    {
+      "root": "frt",
+      "root_arabic": "فرت",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        53
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        53
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        22
+      ]
+    },
+    {
+      "root": "lAlA",
+      "root_arabic": "لالا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        22
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        50,
+        5
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        50,
+        5
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        50,
+        5
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        50,
+        5
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        19
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        15
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        15
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        15
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 55,
+        "name_english": "Ar-Rahmaan",
+        "name_arabic": "سُورَةُ الرَّحۡمَٰن",
+        "revelation": "Medinan",
+        "occurrences": 4
+      },
+      {
+        "surah": 25,
+        "name_english": "Al-Furqaan",
+        "name_arabic": "سُورَةُ الفُرۡقَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 50,
+        "name_english": "Qaaf",
+        "name_arabic": "سُورَةُ قٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2,
+      "Medinan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        25,
+        53,
+        3
+      ],
+      "form_arabic": "مَرَجَ",
+      "lemma": "maraja",
+      "lemma_arabic": "مَرَجَ",
+      "pos": "V",
+      "ayah_id": "25:53",
+      "ayah_arabic": "۞وَهُوَ ٱلَّذِي مَرَجَ ٱلۡبَحۡرَيۡنِ هَٰذَا عَذۡبࣱ فُرَاتࣱ وَهَٰذَا مِلۡحٌ أُجَاجࣱ وَجَعَلَ بَيۡنَهُمَا بَرۡزَخࣰ ا وَحِجۡرࣰ ا مَّحۡجُورࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "(has) released",
+      "translations": {
+        "saheeh": "And it is He who has released [simultaneously] the two seas, one fresh and sweet and one salty and bitter, and He placed between them a barrier and prohibiting partition.",
+        "pickthall": "And He it is Who hath given independence to the two seas (though they meet); one palatable, sweet, and the other saltish, bitter; and hath set a bar and a forbidding ban between them.",
+        "khattab": "And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross",
+        "arberry": "And it is He who let forth the two seas, this one Sweet, grateful to taste, and this salt, bitter to the tongue, and He set between them a barrier, and a ban forbidden."
+      }
+    },
+    {
+      "location": [
+        50,
+        5,
+        9
+      ],
+      "form_arabic": "مَّرِيجٍ",
+      "lemma": "m~ariyj",
+      "lemma_arabic": "مَّرِيج",
+      "pos": "ADJ",
+      "ayah_id": "50:5",
+      "ayah_arabic": "بَلۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَهُمۡ فِيٓ أَمۡرࣲ مَّرِيجٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Qaaf",
+      "literal_gloss": "confused",
+      "translations": {
+        "saheeh": "But they denied the truth when it came to them, so they are in a confused condition.",
+        "pickthall": "Nay, but they have denied the truth when it came unto them, therefor they are now in troubled case.",
+        "khattab": "In fact, they reject the truth when it has come to them, so they are in a confused state",
+        "arberry": "Nay, but they cried lies to the truth when it came to them, and so they are in a case confused."
+      }
+    },
+    {
+      "location": [
+        55,
+        15,
+        4
+      ],
+      "form_arabic": "مَّارِجٍ",
+      "lemma": "m~aArij",
+      "lemma_arabic": "مَّارِج",
+      "pos": "N",
+      "ayah_id": "55:15",
+      "ayah_arabic": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجࣲ مِّن نَّارࣲ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "a smokeless flame",
+      "translations": {
+        "saheeh": "And He created the jinn from a smokeless flame of fire.",
+        "pickthall": "And the jinn did He create of smokeless fire.",
+        "khattab": "and created jinn from a ˹smokeless˺ flame of fire",
+        "arberry": "and He created the jinn of a smokeless fire."
+      }
+    },
+    {
+      "location": [
+        55,
+        19,
+        1
+      ],
+      "form_arabic": "مَرَجَ",
+      "lemma": "maraja",
+      "lemma_arabic": "مَرَجَ",
+      "pos": "V",
+      "ayah_id": "55:19",
+      "ayah_arabic": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "He released",
+      "translations": {
+        "saheeh": "He released the two seas, meeting [side by side];",
+        "pickthall": "He hath loosed the two seas. They meet.",
+        "khattab": "He merges the two bodies of ˹fresh and salt˺ water",
+        "arberry": "He let forth the two seas that meet together,"
+      }
+    },
+    {
+      "location": [
+        55,
+        22,
+        4
+      ],
+      "form_arabic": "وَٱلْمَرْجَانُ",
+      "lemma": "marojaAn",
+      "lemma_arabic": "مَرْجَان",
+      "pos": "N",
+      "ayah_id": "55:22",
+      "ayah_arabic": "يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "and the coral",
+      "translations": {
+        "saheeh": "From both of them emerge pearl and coral.",
+        "pickthall": "There cometh forth from both of them the pearl and coral-stone.",
+        "khattab": "Out of both ˹waters˺ come forth pearls and coral",
+        "arberry": "From them come forth the pearl and the coral."
+      }
+    },
+    {
+      "location": [
+        55,
+        58,
+        3
+      ],
+      "form_arabic": "وَٱلْمَرْجَانُ",
+      "lemma": "marojaAn",
+      "lemma_arabic": "مَرْجَان",
+      "pos": "N",
+      "ayah_id": "55:58",
+      "ayah_arabic": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "and coral",
+      "translations": {
+        "saheeh": "As if they were rubies and coral.",
+        "pickthall": "(In beauty) like the jacynth and the coral-stone.",
+        "khattab": "Those ˹maidens˺ will be ˹as elegant˺ as rubies and coral",
+        "arberry": "lovely as rubies, beautiful as coral --"
+      }
+    }
+  ]
+}

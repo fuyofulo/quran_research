@@ -1,0 +1,288 @@
+{
+  "root": "kbt",
+  "root_arabic": "كبت",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "V": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "kubita",
+      "lemma_arabic": "كُبِتَ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        3,
+        127,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            127,
+            7
+          ],
+          "form_arabic": "يَكْبِتَهُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            58,
+            5,
+            6
+          ],
+          "form_arabic": "كُبِتُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            58,
+            5,
+            8
+          ],
+          "form_arabic": "كُبِتَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        3,
+        127
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        5
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        5
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        5
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        5
+      ]
+    },
+    {
+      "root": "Hdd",
+      "root_arabic": "حدد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        5
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        5
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        5
+      ]
+    },
+    {
+      "root": "hwn",
+      "root_arabic": "هون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        5
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        58,
+        5
+      ]
+    },
+    {
+      "root": "Trf",
+      "root_arabic": "طرف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        127
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        127
+      ]
+    },
+    {
+      "root": "qTE",
+      "root_arabic": "قطع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        127
+      ]
+    },
+    {
+      "root": "xyb",
+      "root_arabic": "خيب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        3,
+        127
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 58,
+        "name_english": "Al-Mujaadila",
+        "name_arabic": "سُورَةُ المُجَادلَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        127,
+        7
+      ],
+      "form_arabic": "يَكْبِتَهُمْ",
+      "lemma": "kubita",
+      "lemma_arabic": "كُبِتَ",
+      "pos": "V",
+      "ayah_id": "3:127",
+      "ayah_arabic": "لِيَقۡطَعَ طَرَفࣰ ا مِّنَ ٱلَّذِينَ كَفَرُوٓاْ أَوۡ يَكۡبِتَهُمۡ فَيَنقَلِبُواْ خَآئِبِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "suppress them",
+      "translations": {
+        "saheeh": "That He might cut down a section of the disbelievers or suppress them so that they turn back disappointed.",
+        "pickthall": "That He may cut off a part of those who disbelieve, or overwhelm them so that they retire, frustrated.",
+        "khattab": "to destroy a group of the disbelievers and humble the rest, causing them to withdraw in disappointment",
+        "arberry": "and that He might cut off a part of the unbelievers or frustrate them, so that they turned in their tracks, disappointed."
+      }
+    },
+    {
+      "location": [
+        58,
+        5,
+        6
+      ],
+      "form_arabic": "كُبِتُوا@",
+      "lemma": "kubita",
+      "lemma_arabic": "كُبِتَ",
+      "pos": "V",
+      "ayah_id": "58:5",
+      "ayah_arabic": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥ كُبِتُواْ كَمَا كُبِتَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ وَقَدۡ أَنزَلۡنَآ ءَايَٰتِۭ بَيِّنَٰتࣲۚ وَلِلۡكَٰفِرِينَ عَذَابࣱ مُّهِينࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Mujaadila",
+      "literal_gloss": "(will) be disgraced",
+      "translations": {
+        "saheeh": "Indeed, those who oppose Allah and His Messenger are abased as those before them were abased. And We have certainly sent down verses of clear evidence. And for the disbelievers is a humiliating punishment.",
+        "pickthall": "Lo! those who oppose Allah and His messenger will be abased even as those before them were abased; and We have sent down clear tokens, and for disbelievers is a shameful doom",
+        "khattab": "Indeed, those who defy Allah and His Messenger will be debased, just like those before them. We have certainly sent down clear revelations. And the disbelievers will suffer a humiliating punishment",
+        "arberry": "Surely those who oppose God and His Messenger shall be frustrated as those before them were frustrated. Now We have sent down signs, clear signs; and for the unbelievers awaits a humbling chastisement,"
+      }
+    },
+    {
+      "location": [
+        58,
+        5,
+        8
+      ],
+      "form_arabic": "كُبِتَ",
+      "lemma": "kubita",
+      "lemma_arabic": "كُبِتَ",
+      "pos": "V",
+      "ayah_id": "58:5",
+      "ayah_arabic": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥ كُبِتُواْ كَمَا كُبِتَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ وَقَدۡ أَنزَلۡنَآ ءَايَٰتِۭ بَيِّنَٰتࣲۚ وَلِلۡكَٰفِرِينَ عَذَابࣱ مُّهِينࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Mujaadila",
+      "literal_gloss": "were disgraced",
+      "translations": {
+        "saheeh": "Indeed, those who oppose Allah and His Messenger are abased as those before them were abased. And We have certainly sent down verses of clear evidence. And for the disbelievers is a humiliating punishment.",
+        "pickthall": "Lo! those who oppose Allah and His messenger will be abased even as those before them were abased; and We have sent down clear tokens, and for disbelievers is a shameful doom",
+        "khattab": "Indeed, those who defy Allah and His Messenger will be debased, just like those before them. We have certainly sent down clear revelations. And the disbelievers will suffer a humiliating punishment",
+        "arberry": "Surely those who oppose God and His Messenger shall be frustrated as those before them were frustrated. Now We have sent down signs, clear signs; and for the unbelievers awaits a humbling chastisement,"
+      }
+    }
+  ]
+}

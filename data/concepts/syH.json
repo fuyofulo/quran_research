@@ -1,0 +1,500 @@
+{
+  "root": "syH",
+  "root_arabic": "سيح",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 3,
+    "ayahs": 3,
+    "surahs": 2,
+    "pos_distribution": {
+      "V": 1,
+      "N": 1,
+      "ADJ": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "siyHu",
+      "lemma_arabic": "سِيحُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        9,
+        2,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            9,
+            2,
+            1
+          ],
+          "form_arabic": "فَسِيحُوا@",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "s~a`^}iHuwn",
+      "lemma_arabic": "سَّٰ^ئِحُون",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        9,
+        112,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            9,
+            112,
+            4
+          ],
+          "form_arabic": "ٱلسَّٰ^ئِحُونَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "sa`^}iHa`t",
+      "lemma_arabic": "سَٰ^ئِحَٰت",
+      "count": 1,
+      "pos_distribution": {
+        "ADJ": 1
+      },
+      "first_occurrence": [
+        66,
+        5,
+        15
+      ],
+      "occurrences": [
+        {
+          "location": [
+            66,
+            5,
+            15
+          ],
+          "form_arabic": "سَٰ^ئِحَٰتٍ",
+          "pos": "ADJ"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        9,
+        2
+      ]
+    },
+    {
+      "root": "bdl",
+      "root_arabic": "بدل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "vyb",
+      "root_arabic": "ثيب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "Esy",
+      "root_arabic": "عسي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "qnt",
+      "root_arabic": "قنت",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "bkr",
+      "root_arabic": "بكر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "Tlq",
+      "root_arabic": "طلق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "rkE",
+      "root_arabic": "ركع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "Hdd",
+      "root_arabic": "حدد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "b$r",
+      "root_arabic": "بشر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "Hmd",
+      "root_arabic": "حمد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "nhy",
+      "root_arabic": "نهي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "nkr",
+      "root_arabic": "نكر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "HfZ",
+      "root_arabic": "حفظ",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        112
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        2
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        2
+      ]
+    },
+    {
+      "root": "Ejz",
+      "root_arabic": "عجز",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        2
+      ]
+    },
+    {
+      "root": "rbE",
+      "root_arabic": "ربع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        2
+      ]
+    },
+    {
+      "root": "$hr",
+      "root_arabic": "شهر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        2
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        2
+      ]
+    },
+    {
+      "root": "xzy",
+      "root_arabic": "خزي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        2
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        9,
+        2
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 66,
+        "name_english": "At-Tahrim",
+        "name_arabic": "سُورَةُ التَّحۡرِيمِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        9,
+        2,
+        1
+      ],
+      "form_arabic": "فَسِيحُوا@",
+      "lemma": "siyHu",
+      "lemma_arabic": "سِيحُ",
+      "pos": "V",
+      "ayah_id": "9:2",
+      "ayah_arabic": "فَسِيحُواْ فِي ٱلۡأَرۡضِ أَرۡبَعَةَ أَشۡهُرࣲ وَٱعۡلَمُوٓاْ أَنَّكُمۡ غَيۡرُ مُعۡجِزِي ٱللَّهِ وَأَنَّ ٱللَّهَ مُخۡزِي ٱلۡكَٰفِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "So move about",
+      "translations": {
+        "saheeh": "So travel freely, [O disbelievers], throughout the land [during] four months but know that you cannot cause failure to Allah and that Allah will disgrace the disbelievers.",
+        "pickthall": "Travel freely in the land four months, and know that ye cannot escape Allah and that Allah will confound the disbelievers (in His Guidance).",
+        "khattab": "“You ˹polytheists˺ may travel freely through the land for four months, but know that you will have no escape from Allah, and that Allah will disgrace the disbelievers.”",
+        "arberry": "'Journey freely in the land for four months; and know that you cannot frustrate the will of God, and that God degrades the unbelievers.'"
+      }
+    },
+    {
+      "location": [
+        9,
+        112,
+        4
+      ],
+      "form_arabic": "ٱلسَّٰ^ئِحُونَ",
+      "lemma": "s~a`^}iHuwn",
+      "lemma_arabic": "سَّٰ^ئِحُون",
+      "pos": "N",
+      "ayah_id": "9:112",
+      "ayah_arabic": "ٱلتَّٰٓئِبُونَ ٱلۡعَٰبِدُونَ ٱلۡحَٰمِدُونَ ٱلسَّٰٓئِحُونَ ٱلرَّٰكِعُونَ ٱلسَّٰجِدُونَ ٱلۡأٓمِرُونَ بِٱلۡمَعۡرُوفِ وَٱلنَّاهُونَ عَنِ ٱلۡمُنكَرِ وَٱلۡحَٰفِظُونَ لِحُدُودِ ٱللَّهِۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "those who go out",
+      "translations": {
+        "saheeh": "[Such believers are] the repentant, the worshippers, the praisers [of Allah], the travelers [for His cause], those who bow and prostrate [in prayer], those who enjoin what is right and forbid what is wrong, and those who observe the limits [set by] Allah. And give good tidings to the believers.",
+        "pickthall": "(Triumphant) are those who turn repentant (to Allah), those who serve (Him), those who praise (Him), those who fast, those who bow down, those who fall prostrate (in worship), those who enjoin the right and who forbid the wrong and those who keep the limits (ordained) of Allah - And give glad tidings to believers!",
+        "khattab": "˹It is the believers˺ who repent, who are devoted to worship, who praise ˹their Lord˺, who fast, who bow down and prostrate themselves, who encourage good and forbid evil, and who observe the limits set by Allah. And give good news to the believers",
+        "arberry": "Those who repent, those who serve, those who pray, those whojourney, those who bow, those who prostrate themselves, those who bid to honour and forbid dishonour, those who keep God's hounds -- and give thou good tidings to the believers."
+      }
+    },
+    {
+      "location": [
+        66,
+        5,
+        15
+      ],
+      "form_arabic": "سَٰ^ئِحَٰتٍ",
+      "lemma": "sa`^}iHa`t",
+      "lemma_arabic": "سَٰ^ئِحَٰت",
+      "pos": "ADJ",
+      "ayah_id": "66:5",
+      "ayah_arabic": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرࣰ ا مِّنكُنَّ مُسۡلِمَٰتࣲ مُّؤۡمِنَٰتࣲ قَٰنِتَٰتࣲ تَٰٓئِبَٰتٍ عَٰبِدَٰتࣲ سَٰٓئِحَٰتࣲ ثَيِّبَٰتࣲ وَأَبۡكَارࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tahrim",
+      "literal_gloss": "who fast",
+      "translations": {
+        "saheeh": "Perhaps his Lord, if he divorced you [all], would substitute for him wives better than you - submitting [to Allah], believing, devoutly obedient, repentant, worshipping, and traveling - [ones] previously married and virgins.",
+        "pickthall": "It may happen that his Lord, if he divorce you, will give him in your stead wives better than you, submissive (to Allah), believing, pious, penitent, devout, inclined to fasting, widows and maids.",
+        "khattab": "Perhaps, if he were to divorce you ˹all˺, his Lord would replace you with better wives who are submissive ˹to Allah˺, faithful ˹to Him˺, devout, repentant, dedicated to worship and fasting—previously married or virgins",
+        "arberry": "It is possible that, if he divorces you, his Lord will give him in exchange wives better than you, women who have surrendered, believing, obedient, penitent, devout, given to fasting, who have been married and virgins too."
+      }
+    }
+  ]
+}

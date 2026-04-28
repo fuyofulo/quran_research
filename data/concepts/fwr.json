@@ -1,0 +1,520 @@
+{
+  "root": "fwr",
+  "root_arabic": "فور",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "V": 3,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "faAra",
+      "lemma_arabic": "فَارَ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        11,
+        40,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            40,
+            5
+          ],
+          "form_arabic": "وَفَارَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            23,
+            27,
+            11
+          ],
+          "form_arabic": "وَفَارَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            67,
+            7,
+            8
+          ],
+          "form_arabic": "تَفُورُ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "fawor",
+      "lemma_arabic": "فَوْر",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        3,
+        125,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            125,
+            7
+          ],
+          "form_arabic": "فَوْرِهِمْ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "sbq",
+      "root_arabic": "سبق",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "vny",
+      "root_arabic": "ثني",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "Hml",
+      "root_arabic": "حمل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        11,
+        40
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "mdd",
+      "root_arabic": "مدد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "swm",
+      "root_arabic": "سوم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "mlk",
+      "root_arabic": "ملك",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "xms",
+      "root_arabic": "خمس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "Alf",
+      "root_arabic": "الف",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        3,
+        125
+      ]
+    },
+    {
+      "root": "slk",
+      "root_arabic": "سلك",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        23,
+        27
+      ]
+    },
+    {
+      "root": "xTb",
+      "root_arabic": "خطب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        23,
+        27
+      ]
+    },
+    {
+      "root": "grq",
+      "root_arabic": "غرق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        23,
+        27
+      ]
+    },
+    {
+      "root": "SnE",
+      "root_arabic": "صنع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        23,
+        27
+      ]
+    },
+    {
+      "root": "wHy",
+      "root_arabic": "وحي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        23,
+        27
+      ]
+    },
+    {
+      "root": "flk",
+      "root_arabic": "فلك",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        23,
+        27
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        23,
+        27
+      ]
+    },
+    {
+      "root": "Eyn",
+      "root_arabic": "عين",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        23,
+        27
+      ]
+    },
+    {
+      "root": "$hq",
+      "root_arabic": "شهق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        67,
+        7
+      ]
+    },
+    {
+      "root": "lqy",
+      "root_arabic": "لقي",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        67,
+        7
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        67,
+        7
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 23,
+        "name_english": "Al-Muminoon",
+        "name_arabic": "سُورَةُ المُؤۡمِنُونَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 67,
+        "name_english": "Al-Mulk",
+        "name_arabic": "سُورَةُ المُلۡكِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        125,
+        7
+      ],
+      "form_arabic": "فَوْرِهِمْ",
+      "lemma": "fawor",
+      "lemma_arabic": "فَوْر",
+      "pos": "N",
+      "ayah_id": "3:125",
+      "ayah_arabic": "بَلَىٰٓۚ إِن تَصۡبِرُواْ وَتَتَّقُواْ وَيَأۡتُوكُم مِّن فَوۡرِهِمۡ هَٰذَا يُمۡدِدۡكُمۡ رَبُّكُم بِخَمۡسَةِ ءَالَٰفࣲ مِّنَ ٱلۡمَلَٰٓئِكَةِ مُسَوِّمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "suddenly",
+      "translations": {
+        "saheeh": "Yes, if you remain patient and conscious of Allah and the enemy come upon you [attacking] in rage, your Lord will reinforce you with five thousand angels having marks [of distinction]",
+        "pickthall": "Nay, but if ye persevere, and keep from evil, and (the enemy) attack you suddenly, your Lord will help you with five thousand angels sweeping on.",
+        "khattab": "Most certainly, if you ˹believers˺ are firm and mindful ˹of Allah˺ and the enemy launches a sudden attack on you, Allah will reinforce you with five thousand angels designated ˹for battle˺",
+        "arberry": "Yea; if you are patient and godfearing, and the foe come against you instantly, your Lord will reinforce you with five thousand swooping angels.'"
+      }
+    },
+    {
+      "location": [
+        11,
+        40,
+        5
+      ],
+      "form_arabic": "وَفَارَ",
+      "lemma": "faAra",
+      "lemma_arabic": "فَارَ",
+      "pos": "V",
+      "ayah_id": "11:40",
+      "ayah_arabic": "حَتَّىٰٓ إِذَا جَآءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ قُلۡنَا ٱحۡمِلۡ فِيهَا مِن كُلࣲّ زَوۡجَيۡنِ ٱثۡنَيۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ وَمَنۡ ءَامَنَۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "and overflowed",
+      "translations": {
+        "saheeh": "[So it was], until when Our command came and the oven overflowed, We said, \"Load upon the ship of each [creature] two mates and your family, except those about whom the word has preceded, and [include] whoever has believed.\" But none had believed with him, except a few.",
+        "pickthall": "(Thus it was) till, when Our commandment came to pass and the oven gushed forth water, We said: Load therein two of every kind, a pair (the male and female), and thy household, save him against whom the word hath gone forth already, and those who believe. And but a few were they who believed with him.",
+        "khattab": "And when Our command came and the oven burst ˹with water˺, We said ˹to Noah˺, “Take into the Ark a pair from every species along with your family—except those against whom the decree ˹to drown˺ has already been passed—and those who believe.” But none believed with him except for a few",
+        "arberry": "Until, when Our command came, and the Oven boiled, We said, 'Embark in it two of every kind, and thy family -- except for him against whom the word has already been spoken and whosoever believes.' And there believed not with him except a few."
+      }
+    },
+    {
+      "location": [
+        23,
+        27,
+        11
+      ],
+      "form_arabic": "وَفَارَ",
+      "lemma": "faAra",
+      "lemma_arabic": "فَارَ",
+      "pos": "V",
+      "ayah_id": "23:27",
+      "ayah_arabic": "فَأَوۡحَيۡنَآ إِلَيۡهِ أَنِ ٱصۡنَعِ ٱلۡفُلۡكَ بِأَعۡيُنِنَا وَوَحۡيِنَا فَإِذَا جَآءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ فَٱسۡلُكۡ فِيهَا مِن كُلࣲّ زَوۡجَيۡنِ ٱثۡنَيۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ مِنۡهُمۡۖ وَلَا تُخَٰطِبۡنِي فِي ٱلَّذِينَ ظَلَمُوٓاْ إِنَّهُم مُّغۡرَقُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muminoon",
+      "literal_gloss": "and gushes forth",
+      "translations": {
+        "saheeh": "So We inspired to him, \"Construct the ship under Our observation, and Our inspiration, and when Our command comes and the oven overflows, put into the ship from each [creature] two mates and your family, except those for whom the decree [of destruction] has proceeded. And do not address Me concerning those who have wronged; indeed, they are to be drowned.",
+        "pickthall": "Then We inspired in him, saying: Make the ship under Our eyes and Our inspiration. Then, when Our command cometh and the oven gusheth water, introduce therein of every (kind) two spouses, and thy household save him thereof against whom the Word hath already gone forth. And plead not with Me on behalf of those who have done wrong. Lo! they will be drowned.",
+        "khattab": "So We inspired him: “Build the Ark under Our ˹watchful˺ Eyes and directions. Then when Our command comes and the oven bursts ˹with water˺, take on board a pair from every species along with your family—except those against whom the decree ˹to drown˺ has already been passed. And do not plead with Me for those who have done wrong, for they will surely be drowned.”",
+        "arberry": "Then We said to him, 'Make thou the Ark under Our eyes and as We reveal, and then, when Our command comes and the Oven boils, insert in it two of every kind and thy, family -- except for him against whom the word already has been spoken; and address Me not concerning those who have done evil; they shall be drowned."
+      }
+    },
+    {
+      "location": [
+        67,
+        7,
+        8
+      ],
+      "form_arabic": "تَفُورُ",
+      "lemma": "faAra",
+      "lemma_arabic": "فَارَ",
+      "pos": "V",
+      "ayah_id": "67:7",
+      "ayah_arabic": "إِذَآ أُلۡقُواْ فِيهَا سَمِعُواْ لَهَا شَهِيقࣰ ا وَهِيَ تَفُورُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mulk",
+      "literal_gloss": "boils up",
+      "translations": {
+        "saheeh": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up.",
+        "pickthall": "When they are flung therein they hear its roaring as it boileth up,",
+        "khattab": "When they are tossed into it, they will hear its roaring as it boils over",
+        "arberry": "When they are cast into it they will hear it sighing, the while it boils"
+      }
+    }
+  ]
+}

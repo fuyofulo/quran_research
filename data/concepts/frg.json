@@ -1,0 +1,661 @@
+{
+  "root": "frg",
+  "root_arabic": "فرغ",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 3,
+    "ayahs": 6,
+    "surahs": 6,
+    "pos_distribution": {
+      "V": 5,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">aforigo",
+      "lemma_arabic": "أَفْرِغْ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        2,
+        250,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            250,
+            7
+          ],
+          "form_arabic": "أَفْرِغْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            7,
+            126,
+            12
+          ],
+          "form_arabic": "أَفْرِغْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            18,
+            96,
+            17
+          ],
+          "form_arabic": "أُفْرِغْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "farago",
+      "lemma_arabic": "فَرَغْ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        55,
+        31,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            55,
+            31,
+            1
+          ],
+          "form_arabic": "سَنَفْرُغُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            94,
+            7,
+            2
+          ],
+          "form_arabic": "فَرَغْتَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "fa`rig",
+      "lemma_arabic": "فَٰرِغ",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        28,
+        10,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            28,
+            10,
+            5
+          ],
+          "form_arabic": "فَٰرِغًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        250
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        250
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        7,
+        126
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        250
+      ]
+    },
+    {
+      "root": "vql",
+      "root_arabic": "ثقل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        55,
+        31
+      ]
+    },
+    {
+      "root": "nSb",
+      "root_arabic": "نصب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        94,
+        7
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        7,
+        126
+      ]
+    },
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        7,
+        126
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        7,
+        126
+      ]
+    },
+    {
+      "root": "nqm",
+      "root_arabic": "نقم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        7,
+        126
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        7,
+        126
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        10
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        10
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        10
+      ]
+    },
+    {
+      "root": "fAd",
+      "root_arabic": "فاد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        10
+      ]
+    },
+    {
+      "root": "rbT",
+      "root_arabic": "ربط",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        10
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        10
+      ]
+    },
+    {
+      "root": "bdw",
+      "root_arabic": "بدو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        10
+      ]
+    },
+    {
+      "root": "SbH",
+      "root_arabic": "صبح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        28,
+        10
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        96
+      ]
+    },
+    {
+      "root": "swy",
+      "root_arabic": "سوي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        96
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        96
+      ]
+    },
+    {
+      "root": "Sdf",
+      "root_arabic": "صدف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        96
+      ]
+    },
+    {
+      "root": "nfx",
+      "root_arabic": "نفخ",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        96
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        96
+      ]
+    },
+    {
+      "root": "Hdd",
+      "root_arabic": "حدد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        96
+      ]
+    },
+    {
+      "root": "qTr",
+      "root_arabic": "قطر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        96
+      ]
+    },
+    {
+      "root": "zbr",
+      "root_arabic": "زبر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        96
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        96
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        250
+      ]
+    },
+    {
+      "root": "brz",
+      "root_arabic": "برز",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        250
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        250
+      ]
+    },
+    {
+      "root": "jnd",
+      "root_arabic": "جند",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        250
+      ]
+    },
+    {
+      "root": "vbt",
+      "root_arabic": "ثبت",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        250
+      ]
+    },
+    {
+      "root": "qdm",
+      "root_arabic": "قدم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        250
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        2,
+        250
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 28,
+        "name_english": "Al-Qasas",
+        "name_arabic": "سُورَةُ القَصَصِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 55,
+        "name_english": "Ar-Rahmaan",
+        "name_arabic": "سُورَةُ الرَّحۡمَٰن",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 94,
+        "name_english": "Ash-Sharh",
+        "name_arabic": "سُورَةُ الشَّرۡحِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        250,
+        7
+      ],
+      "form_arabic": "أَفْرِغْ",
+      "lemma": ">aforigo",
+      "lemma_arabic": "أَفْرِغْ",
+      "pos": "V",
+      "ayah_id": "2:250",
+      "ayah_arabic": "وَلَمَّا بَرَزُواْ لِجَالُوتَ وَجُنُودِهِۦ قَالُواْ رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرࣰ ا وَثَبِّتۡ أَقۡدَامَنَا وَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "Pour",
+      "translations": {
+        "saheeh": "And when they went forth to [face] Goliath and his soldiers, they said, \"Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.\"",
+        "pickthall": "And when they went into the field against Goliath and his hosts they said: Our Lord! Bestow on us endurance, make our foothold sure, and give us help against the disbelieving folk.",
+        "khattab": "When they advanced to face Goliath and his warriors, they prayed, “Our Lord! Shower us with perseverance, make our steps firm, and give us victory over the disbelieving people.”",
+        "arberry": "So, when they went forth against Goliath and his hosts, they said, 'Our Lord, pour out upon us patience, and make firm our feet, and give us aid against the people of the unbelievers!'"
+      }
+    },
+    {
+      "location": [
+        7,
+        126,
+        12
+      ],
+      "form_arabic": "أَفْرِغْ",
+      "lemma": ">aforigo",
+      "lemma_arabic": "أَفْرِغْ",
+      "pos": "V",
+      "ayah_id": "7:126",
+      "ayah_arabic": "وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنۡ ءَامَنَّا بِـَٔايَٰتِ رَبِّنَا لَمَّا جَآءَتۡنَاۚ رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرࣰ ا وَتَوَفَّنَا مُسۡلِمِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "Pour",
+      "translations": {
+        "saheeh": "And you do not resent us except because we believed in the signs of our Lord when they came to us. Our Lord, pour upon us patience and let us die as Muslims [in submission to You].\"",
+        "pickthall": "Thou takest vengeance on us only forasmuch as we believed the tokens of our Lord when they came unto us. Our Lord! Vouchsafe unto us steadfastness and make us die as men who have surrendered (unto Thee).",
+        "khattab": "Your rage towards us is only because we believed in the signs of our Lord when they came to us. Our Lord! Shower us with perseverance, and let us die while submitting ˹to You˺.”",
+        "arberry": "Thou takest vengeance upon us only because we have believed in the signs of our Lord when they came to us. Our Lord, pour out upon us patience, and gather us unto Thee surrendering.'"
+      }
+    },
+    {
+      "location": [
+        18,
+        96,
+        17
+      ],
+      "form_arabic": "أُفْرِغْ",
+      "lemma": ">aforigo",
+      "lemma_arabic": "أَفْرِغْ",
+      "pos": "V",
+      "ayah_id": "18:96",
+      "ayah_arabic": "ءَاتُونِي زُبَرَ ٱلۡحَدِيدِۖ حَتَّىٰٓ إِذَا سَاوَىٰ بَيۡنَ ٱلصَّدَفَيۡنِ قَالَ ٱنفُخُواْۖ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارࣰ ا قَالَ ءَاتُونِيٓ أُفۡرِغۡ عَلَيۡهِ قِطۡرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "I pour",
+      "translations": {
+        "saheeh": "Bring me sheets of iron\" - until, when he had leveled [them] between the two mountain walls, he said, \"Blow [with bellows],\" until when he had made it [like] fire, he said, \"Bring me, that I may pour over it molten copper.\"",
+        "pickthall": "Give me pieces of iron - till, when he had levelled up (the gap) between the cliffs, he said: Blow! - till, when he had made it a fire, he said: Bring me molten copper to pour thereon.",
+        "khattab": "Bring me blocks of iron!” Then, when he had filled up ˹the gap˺ between the two mountains, he ordered, “Blow!” When the iron became red hot, he said, “Bring me molten copper to pour over it.”",
+        "arberry": "Bring me ingots of iron!' Until, when he had made all level between the two cliffs, he said, 'Blow!' Until, when he had made it a fire, he said, 'Bring me, that I may pour molten brass on it.'"
+      }
+    },
+    {
+      "location": [
+        28,
+        10,
+        5
+      ],
+      "form_arabic": "فَٰرِغًا",
+      "lemma": "fa`rig",
+      "lemma_arabic": "فَٰرِغ",
+      "pos": "N",
+      "ayah_id": "28:10",
+      "ayah_arabic": "وَأَصۡبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَٰرِغًاۖ إِن كَادَتۡ لَتُبۡدِي بِهِۦ لَوۡلَآ أَن رَّبَطۡنَا عَلَىٰ قَلۡبِهَا لِتَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qasas",
+      "literal_gloss": "empty",
+      "translations": {
+        "saheeh": "And the heart of Moses' mother became empty [of all else]. She was about to disclose [the matter concerning] him had We not bound fast her heart that she would be of the believers.",
+        "pickthall": "And the heart of the mother of Moses became void, and she would have betrayed him if We had not fortified her heart, that she might be of the believers.",
+        "khattab": "And the heart of Moses’ mother ached so much that she almost gave away his identity, had We not reassured her heart in order for her to have faith ˹in Allah’s promise˺",
+        "arberry": "On the morrow the heart of Moses\" mother became empty, and she wellnigh disclosed him had We not strengthened her heart, that she might be among the believers;"
+      }
+    },
+    {
+      "location": [
+        55,
+        31,
+        1
+      ],
+      "form_arabic": "سَنَفْرُغُ",
+      "lemma": "farago",
+      "lemma_arabic": "فَرَغْ",
+      "pos": "V",
+      "ayah_id": "55:31",
+      "ayah_arabic": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "Soon We will attend",
+      "translations": {
+        "saheeh": "We will attend to you, O prominent beings.",
+        "pickthall": "We shall dispose of you, O ye two dependents (man and jinn).",
+        "khattab": "We will soon attend to you ˹for judgment˺, O two multitudes ˹of jinn and humans˺",
+        "arberry": "We shall surely attend to you at leisure, you weight and you weight!"
+      }
+    },
+    {
+      "location": [
+        94,
+        7,
+        2
+      ],
+      "form_arabic": "فَرَغْتَ",
+      "lemma": "farago",
+      "lemma_arabic": "فَرَغْ",
+      "pos": "V",
+      "ayah_id": "94:7",
+      "ayah_arabic": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Sharh",
+      "literal_gloss": "you have finished",
+      "translations": {
+        "saheeh": "So when you have finished [your duties], then stand up [for worship].",
+        "pickthall": "So when thou art relieved, still toil",
+        "khattab": "So once you have fulfilled ˹your duty˺, strive ˹in devotion˺",
+        "arberry": "So when thou art empty, labour,"
+      }
+    }
+  ]
+}

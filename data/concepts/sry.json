@@ -1,0 +1,806 @@
+{
+  "root": "sry",
+  "root_arabic": "سري",
+  "stats": {
+    "occurrences": 8,
+    "lemmas": 3,
+    "ayahs": 8,
+    "surahs": 8,
+    "pos_distribution": {
+      "V": 7,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">asoraY`",
+      "lemma_arabic": "أَسْرَىٰ",
+      "count": 6,
+      "pos_distribution": {
+        "V": 6
+      },
+      "first_occurrence": [
+        11,
+        81,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            81,
+            9
+          ],
+          "form_arabic": "فَأَسْرِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            15,
+            65,
+            1
+          ],
+          "form_arabic": "فَأَسْرِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            17,
+            1,
+            3
+          ],
+          "form_arabic": "أَسْرَىٰ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            20,
+            77,
+            6
+          ],
+          "form_arabic": "أَسْرِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            26,
+            52,
+            5
+          ],
+          "form_arabic": "أَسْرِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            44,
+            23,
+            1
+          ],
+          "form_arabic": "فَأَسْرِ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "sariy~",
+      "lemma_arabic": "سَرِيّ",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        19,
+        24,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            19,
+            24,
+            10
+          ],
+          "form_arabic": "سَرِيًّا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "yasori",
+      "lemma_arabic": "يَسْرِ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        89,
+        4,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            89,
+            4,
+            3
+          ],
+          "form_arabic": "يَسْرِ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 5,
+      "share": 0.625,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 4,
+      "share": 0.5,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "qTE",
+      "root_arabic": "قطع",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "lft",
+      "root_arabic": "لفت",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "wHy",
+      "root_arabic": "وحي",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "tHt",
+      "root_arabic": "تحت",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        19,
+        24
+      ]
+    },
+    {
+      "root": "Hzn",
+      "root_arabic": "حزن",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        19,
+        24
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        19,
+        24
+      ]
+    },
+    {
+      "root": "ndw",
+      "root_arabic": "ندو",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        19,
+        24
+      ]
+    },
+    {
+      "root": "qSw",
+      "root_arabic": "قصو",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "brk",
+      "root_arabic": "برك",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "sbH",
+      "root_arabic": "سبح",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "Hwl",
+      "root_arabic": "حول",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        17,
+        1
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "SbH",
+      "root_arabic": "صبح",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "lys",
+      "root_arabic": "ليس",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "wSl",
+      "root_arabic": "وصل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "mrA",
+      "root_arabic": "مرا",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        11,
+        81
+      ]
+    },
+    {
+      "root": "mDy",
+      "root_arabic": "مضي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "dbr",
+      "root_arabic": "دبر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "Hyv",
+      "root_arabic": "حيث",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        15,
+        65
+      ]
+    },
+    {
+      "root": "ybs",
+      "root_arabic": "يبس",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "Trq",
+      "root_arabic": "طرق",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "drk",
+      "root_arabic": "درك",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "x$y",
+      "root_arabic": "خشي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        20,
+        77
+      ]
+    },
+    {
+      "root": "bHr",
+      "root_arabic": "بحر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        20,
+        77
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 15,
+        "name_english": "Al-Hijr",
+        "name_arabic": "سُورَةُ الحِجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 19,
+        "name_english": "Maryam",
+        "name_arabic": "سُورَةُ مَرۡيَمَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 20,
+        "name_english": "Taa-Haa",
+        "name_arabic": "سُورَةُ طه",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 26,
+        "name_english": "Ash-Shu'araa",
+        "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 44,
+        "name_english": "Ad-Dukhaan",
+        "name_arabic": "سُورَةُ الدُّخَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 89,
+        "name_english": "Al-Fajr",
+        "name_arabic": "سُورَةُ الفَجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 8
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        11,
+        81,
+        9
+      ],
+      "form_arabic": "فَأَسْرِ",
+      "lemma": ">asoraY`",
+      "lemma_arabic": "أَسْرَىٰ",
+      "pos": "V",
+      "ayah_id": "11:81",
+      "ayah_arabic": "قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعࣲ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ بِقَرِيبࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "So travel",
+      "translations": {
+        "saheeh": "The angels said, \"O Lot, indeed we are messengers of your Lord; [therefore], they will never reach you. So set out with your family during a portion of the night and let not any among you look back - except your wife; indeed, she will be struck by that which strikes them. Indeed, their appointment is [for] the morning. Is not the morning near?\"",
+        "pickthall": "(The messengers) said: O Lot! Lo! we are messengers of thy Lord; they shall not reach thee. So travel with thy people in a part of the night, and let not one of you turn round - (all) save thy wife. Lo! that which smiteth them will smite her (also). Lo! their tryst is (for) the morning. Is not the morning nigh?",
+        "khattab": "The angels said, “O Lot! We are the messengers of your Lord. They will never reach you. So travel with your family in the dark of night, and do not let any of you look back, except your wife. She will certainly suffer the fate of the others. Their appointed time is the morning. Is the morning not near?”",
+        "arberry": "They said, 'Lot, we are messengers of thy Lord. They shall not reach thee; so set forth, thou with thy family, in a watch of the night, and let not any one of you turn round, excepting thy wife; surely she shall be smitten by that which smites them. Their promised time is the morning; is the morning not nigh?'"
+      }
+    },
+    {
+      "location": [
+        15,
+        65,
+        1
+      ],
+      "form_arabic": "فَأَسْرِ",
+      "lemma": ">asoraY`",
+      "lemma_arabic": "أَسْرَىٰ",
+      "pos": "V",
+      "ayah_id": "15:65",
+      "ayah_arabic": "فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعࣲ مِّنَ ٱلَّيۡلِ وَٱتَّبِعۡ أَدۡبَٰرَهُمۡ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدࣱ وَٱمۡضُواْ حَيۡثُ تُؤۡمَرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Hijr",
+      "literal_gloss": "So travel",
+      "translations": {
+        "saheeh": "So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded.\"",
+        "pickthall": "So travel with thy household in a portion of the night, and follow thou their backs. Let none of you turn round, but go whither ye are commanded.",
+        "khattab": "So travel with your family in the dark of night, and follow ˹closely˺ behind them. Do not let any of you look back, and go where you are commanded.”",
+        "arberry": "So set forth, thou with thy family, in a watch of the night, and follow after the backs of them, and let not any one of you turn round; and depart unto the place you are commanded.'"
+      }
+    },
+    {
+      "location": [
+        17,
+        1,
+        3
+      ],
+      "form_arabic": "أَسْرَىٰ",
+      "lemma": ">asoraY`",
+      "lemma_arabic": "أَسْرَىٰ",
+      "pos": "V",
+      "ayah_id": "17:1",
+      "ayah_arabic": "سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلࣰ ا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِي بَٰرَكۡنَا حَوۡلَهُۥ لِنُرِيَهُۥ مِنۡ ءَايَٰتِنَآۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "took",
+      "translations": {
+        "saheeh": "Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing.",
+        "pickthall": "Glorified be He Who carried His servant by night from the Inviolable Place of Worship to the Far distant place of worship the neighbourhood whereof We have blessed, that We might show him of Our tokens! Lo! He, only He, is the Hearer, the Seer.",
+        "khattab": "Glory be to the One Who took His servant ˹Muḥammad˺ by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs. Indeed, He alone is the All-Hearing, All-Seeing",
+        "arberry": "Glory be to Him, who carried His servant by night from the Holy Mosque to the Further Mosque the precincts of which We have blessed, that We might show him some of Our signs. He is the All-hearing, the All-seeing."
+      }
+    },
+    {
+      "location": [
+        19,
+        24,
+        10
+      ],
+      "form_arabic": "سَرِيًّا",
+      "lemma": "sariy~",
+      "lemma_arabic": "سَرِيّ",
+      "pos": "N",
+      "ayah_id": "19:24",
+      "ayah_arabic": "فَنَادَىٰهَا مِن تَحۡتِهَآ أَلَّا تَحۡزَنِي قَدۡ جَعَلَ رَبُّكِ تَحۡتَكِ سَرِيࣰّ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Maryam",
+      "literal_gloss": "a stream",
+      "translations": {
+        "saheeh": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream.",
+        "pickthall": "Then (one) cried unto her from below her, saying: Grieve not! Thy Lord hath placed a rivulet beneath thee,",
+        "khattab": "So a voice reassured her from below her, “Do not grieve! Your Lord has provided a stream at your feet",
+        "arberry": "But the one that was below her called to her, 'Nay, do not sorrow; see, thy Lord has set below thee a rivulet."
+      }
+    },
+    {
+      "location": [
+        20,
+        77,
+        6
+      ],
+      "form_arabic": "أَسْرِ",
+      "lemma": ">asoraY`",
+      "lemma_arabic": "أَسْرَىٰ",
+      "pos": "V",
+      "ayah_id": "20:77",
+      "ayah_arabic": "وَلَقَدۡ أَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَسۡرِ بِعِبَادِي فَٱضۡرِبۡ لَهُمۡ طَرِيقࣰ ا فِي ٱلۡبَحۡرِ يَبَسࣰ ا لَّا تَخَٰفُ دَرَكࣰ ا وَلَا تَخۡشَىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Taa-Haa",
+      "literal_gloss": "Travel by night",
+      "translations": {
+        "saheeh": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\"",
+        "pickthall": "And verily We inspired Moses, saying: Take away My slaves by night and strike for them a dry path in the sea, fearing not to be overtaken, neither being afraid (of the sea).",
+        "khattab": "And We surely inspired Moses, ˹saying,˺ “Leave with My servants ˹at night˺ and strike a dry passage for them across the sea. Have no fear of being overtaken, nor be concerned ˹of drowning˺.”",
+        "arberry": "Also We revealed unto Moses, 'Go with My servants by night; strike for them a dry path in the sea, fearing not overtaking, neither afraid.'"
+      }
+    },
+    {
+      "location": [
+        26,
+        52,
+        5
+      ],
+      "form_arabic": "أَسْرِ",
+      "lemma": ">asoraY`",
+      "lemma_arabic": "أَسْرَىٰ",
+      "pos": "V",
+      "ayah_id": "26:52",
+      "ayah_arabic": "۞وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَسۡرِ بِعِبَادِيٓ إِنَّكُم مُّتَّبَعُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "Travel by night",
+      "translations": {
+        "saheeh": "And We inspired to Moses, \"Travel by night with My servants; indeed, you will be pursued.\"",
+        "pickthall": "And We inspired Moses, saying: Take away My slaves by night, for ye will be pursued.",
+        "khattab": "And We inspired Moses, ˹saying,˺ “Leave with My servants at night, for you will surely be pursued.”",
+        "arberry": "Also We revealed unto Moses, 'Go with My servants by night; surely you will be followed.'"
+      }
+    },
+    {
+      "location": [
+        44,
+        23,
+        1
+      ],
+      "form_arabic": "فَأَسْرِ",
+      "lemma": ">asoraY`",
+      "lemma_arabic": "أَسْرَىٰ",
+      "pos": "V",
+      "ayah_id": "44:23",
+      "ayah_arabic": "فَأَسۡرِ بِعِبَادِي لَيۡلًا إِنَّكُم مُّتَّبَعُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ad-Dukhaan",
+      "literal_gloss": "Then \"Set out",
+      "translations": {
+        "saheeh": "[Allah said], \"Then set out with My servants by night. Indeed, you are to be pursued.",
+        "pickthall": "Then (his Lord commanded): Take away My slaves by night. Lo! ye will be followed,",
+        "khattab": "˹Allah responded,˺ “Leave with My servants at night, for you will surely be pursued",
+        "arberry": "'Then set thou forth with My servants in a watch of the night; surely you will be followed."
+      }
+    },
+    {
+      "location": [
+        89,
+        4,
+        3
+      ],
+      "form_arabic": "يَسْرِ",
+      "lemma": "yasori",
+      "lemma_arabic": "يَسْرِ",
+      "pos": "V",
+      "ayah_id": "89:4",
+      "ayah_arabic": "وَٱلَّيۡلِ إِذَا يَسۡرِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Fajr",
+      "literal_gloss": "it passes",
+      "translations": {
+        "saheeh": "And [by] the night when it passes,",
+        "pickthall": "And the night when it departeth,",
+        "khattab": "and the night when it passes",
+        "arberry": "by the night when it journeys on!"
+      }
+    }
+  ]
+}

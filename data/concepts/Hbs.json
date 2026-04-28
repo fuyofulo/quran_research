@@ -1,0 +1,478 @@
+{
+  "root": "Hbs",
+  "root_arabic": "حبس",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 1,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yaHobisu",
+      "lemma_arabic": "يَحْبِسُ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        5,
+        106,
+        28
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            106,
+            28
+          ],
+          "form_arabic": "تَحْبِسُونَهُمَا",
+          "pos": "V"
+        },
+        {
+          "location": [
+            11,
+            8,
+            10
+          ],
+          "form_arabic": "يَحْبِسُهُ,^",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "lys",
+      "root_arabic": "ليس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        11,
+        8
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        11,
+        8
+      ]
+    },
+    {
+      "root": "Hyq",
+      "root_arabic": "حيق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        11,
+        8
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        11,
+        8
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        11,
+        8
+      ]
+    },
+    {
+      "root": "hzA",
+      "root_arabic": "هزا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        11,
+        8
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        11,
+        8
+      ]
+    },
+    {
+      "root": "Edd",
+      "root_arabic": "عدد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        11,
+        8
+      ]
+    },
+    {
+      "root": "Srf",
+      "root_arabic": "صرف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        11,
+        8
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        11,
+        8
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Hyn",
+      "root_arabic": "حين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "vny",
+      "root_arabic": "ثني",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Edl",
+      "root_arabic": "عدل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "ktm",
+      "root_arabic": "كتم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "qsm",
+      "root_arabic": "قسم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "wSy",
+      "root_arabic": "وصي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "vmn",
+      "root_arabic": "ثمن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Avm",
+      "root_arabic": "اثم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "ryb",
+      "root_arabic": "ريب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "HDr",
+      "root_arabic": "حضر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "$ry",
+      "root_arabic": "شري",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        106
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        5,
+        106,
+        28
+      ],
+      "form_arabic": "تَحْبِسُونَهُمَا",
+      "lemma": "yaHobisu",
+      "lemma_arabic": "يَحْبِسُ",
+      "pos": "V",
+      "ayah_id": "5:106",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ شَهَٰدَةُ بَيۡنِكُمۡ إِذَا حَضَرَ أَحَدَكُمُ ٱلۡمَوۡتُ حِينَ ٱلۡوَصِيَّةِ ٱثۡنَانِ ذَوَا عَدۡلࣲ مِّنكُمۡ أَوۡ ءَاخَرَانِ مِنۡ غَيۡرِكُمۡ إِنۡ أَنتُمۡ ضَرَبۡتُمۡ فِي ٱلۡأَرۡضِ فَأَصَٰبَتۡكُم مُّصِيبَةُ ٱلۡمَوۡتِۚ تَحۡبِسُونَهُمَا مِنۢ بَعۡدِ ٱلصَّلَوٰةِ فَيُقۡسِمَانِ بِٱللَّهِ إِنِ ٱرۡتَبۡتُمۡ لَا نَشۡتَرِي بِهِۦ ثَمَنࣰ ا وَلَوۡ كَانَ ذَا قُرۡبَىٰ وَلَا نَكۡتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذࣰ ا لَّمِنَ ٱلۡأٓثِمِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "Detain both of them",
+      "translations": {
+        "saheeh": "O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allah if you doubt [their testimony, saying], \"We will not exchange our oath for a price, even if he should be a near relative, and we will not withhold the testimony of Allah. Indeed, we would then be of the sinful.\"",
+        "pickthall": "O ye who believe! Let there be witnesses between you when death draweth nigh unto one of you, at the time of bequest - two witnesses, just men from among you, or two others from another tribe, in case ye are campaigning in the land and the calamity of death befall you. Ye shall empanel them both after the prayer, and, if ye doubt, they shall be made to swear by Allah (saying): We will not take a bribe, even though it were (on behalf of) a near kinsman nor will we hide the testimony of Allah, for then indeed we should be of the sinful.",
+        "khattab": "O believers! When death approaches any of you, call upon two just Muslim men to witness as you make a bequest; otherwise, two non-Muslims if you are afflicted with death while on a journey. If you doubt ˹their testimony˺, keep them after prayer and let them testify under oath ˹saying˺, “By Allah! We would never sell our testimony for any price, even in favour of a close relative, nor withhold the testimony of Allah. Otherwise, we would surely be sinful.”",
+        "arberry": "O believers, the testimony between you when any of you is visited by death, at the bequeathing, shall be two men of equity among you; or two others from another folk, if you are journeying in the land and the affliction of death befalls you. Them you shall detain after the prayer, and they shall swear by God, if you are doubtful, 'We will not sell it for a price, even though it were a near kinsman, nor will we hide the testimony of God, for then we would surely be among the sinful'"
+      }
+    },
+    {
+      "location": [
+        11,
+        8,
+        10
+      ],
+      "form_arabic": "يَحْبِسُهُ,^",
+      "lemma": "yaHobisu",
+      "lemma_arabic": "يَحْبِسُ",
+      "pos": "V",
+      "ayah_id": "11:8",
+      "ayah_arabic": "وَلَئِنۡ أَخَّرۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِلَىٰٓ أُمَّةࣲ مَّعۡدُودَةࣲ لَّيَقُولُنَّ مَا يَحۡبِسُهُۥٓۗ أَلَا يَوۡمَ يَأۡتِيهِمۡ لَيۡسَ مَصۡرُوفًا عَنۡهُمۡ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "detains it",
+      "translations": {
+        "saheeh": "And if We hold back from them the punishment for a limited time, they will surely say, \"What detains it?\" Unquestionably, on the Day it comes to them, it will not be averted from them, and they will be enveloped by what they used to ridicule.",
+        "pickthall": "And if We delay for them the doom until a reckoned time, they will surely say: What withholdeth it? Verily on the day when it cometh unto them, it cannot be averted from them, and that which they derided will surround them.",
+        "khattab": "And if We delay their punishment until an appointed time, they will definitely say, “What is holding it back?” Indeed, on the Day it overtakes them, it will not be averted from them, and they will be overwhelmed by what they used to ridicule",
+        "arberry": "And if We postpone the chastisement from them till a reckoned moment they will say 'What is detaining it?' Surely, the day it shall come to them, it shall not be turned aside from them, and they shall be encompassed by that they mocked at."
+      }
+    }
+  ]
+}

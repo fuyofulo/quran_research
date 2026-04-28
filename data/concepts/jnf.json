@@ -1,0 +1,522 @@
+{
+  "root": "jnf",
+  "root_arabic": "جنف",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "janaf",
+      "lemma_arabic": "جَنَف",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        2,
+        182,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            182,
+            5
+          ],
+          "form_arabic": "جَنَفًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "mutajaAnif",
+      "lemma_arabic": "مُتَجَانِف",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        5,
+        3,
+        56
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            3,
+            56
+          ],
+          "form_arabic": "مُتَجَانِفٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Avm",
+      "root_arabic": "اثم",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        182
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        182
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        182
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        182
+      ]
+    },
+    {
+      "root": "x$y",
+      "root_arabic": "خشي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "*kw",
+      "root_arabic": "ذكو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "kml",
+      "root_arabic": "كمل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "nSb",
+      "root_arabic": "نصب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "xnq",
+      "root_arabic": "خنق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "wq*",
+      "root_arabic": "وقذ",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "zlm",
+      "root_arabic": "زلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "lHm",
+      "root_arabic": "لحم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "hll",
+      "root_arabic": "هلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "xnzr",
+      "root_arabic": "خنزر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "Drr",
+      "root_arabic": "ضرر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "dmw",
+      "root_arabic": "دمو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "nTH",
+      "root_arabic": "نطح",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "fsq",
+      "root_arabic": "فسق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "*bH",
+      "root_arabic": "ذبح",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "tmm",
+      "root_arabic": "تمم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "sbE",
+      "root_arabic": "سبع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "rdy",
+      "root_arabic": "ردي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "yAs",
+      "root_arabic": "ياس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "xmS",
+      "root_arabic": "خمص",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "qsm",
+      "root_arabic": "قسم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        5,
+        3
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        182
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        182
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        182
+      ]
+    },
+    {
+      "root": "wSy",
+      "root_arabic": "وصي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        182
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        182,
+        5
+      ],
+      "form_arabic": "جَنَفًا",
+      "lemma": "janaf",
+      "lemma_arabic": "جَنَف",
+      "pos": "N",
+      "ayah_id": "2:182",
+      "ayah_arabic": "فَمَنۡ خَافَ مِن مُّوصࣲ جَنَفًا أَوۡ إِثۡمࣰ ا فَأَصۡلَحَ بَيۡنَهُمۡ فَلَآ إِثۡمَ عَلَيۡهِۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(any) error",
+      "translations": {
+        "saheeh": "But if one fears from the bequeather [some] error or sin and corrects that which is between them, there is no sin upon him. Indeed, Allah is Forgiving and Merciful.",
+        "pickthall": "But he who feareth from a testator some unjust or sinful clause, and maketh peace between the parties, (it shall be) no sin for him. Lo! Allah is Forgiving, Merciful.",
+        "khattab": "Whoever suspects an error or an injustice in the will and brings about a ˹fair˺ settlement among the parties will not be sinful. Surely Allah is All-Forgiving, Most Merciful",
+        "arberry": "But if any man fears injustice or sin from one making testament, and so makes things right between them, then sin shall not rest upon him; surely God is All-forgiving, All-compassionate."
+      }
+    },
+    {
+      "location": [
+        5,
+        3,
+        56
+      ],
+      "form_arabic": "مُتَجَانِفٍ",
+      "lemma": "mutajaAnif",
+      "lemma_arabic": "مُتَجَانِف",
+      "pos": "N",
+      "ayah_id": "5:3",
+      "ayah_arabic": "حُرِّمَتۡ عَلَيۡكُمُ ٱلۡمَيۡتَةُ وَٱلدَّمُ وَلَحۡمُ ٱلۡخِنزِيرِ وَمَآ أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦ وَٱلۡمُنۡخَنِقَةُ وَٱلۡمَوۡقُوذَةُ وَٱلۡمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيۡتُمۡ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسۡتَقۡسِمُواْ بِٱلۡأَزۡلَٰمِۚ ذَٰلِكُمۡ فِسۡقٌۗ ٱلۡيَوۡمَ يَئِسَ ٱلَّذِينَ كَفَرُواْ مِن دِينِكُمۡ فَلَا تَخۡشَوۡهُمۡ وَٱخۡشَوۡنِۚ ٱلۡيَوۡمَ أَكۡمَلۡتُ لَكُمۡ دِينَكُمۡ وَأَتۡمَمۡتُ عَلَيۡكُمۡ نِعۡمَتِي وَرَضِيتُ لَكُمُ ٱلۡإِسۡلَٰمَ دِينࣰ اۚ فَمَنِ ٱضۡطُرَّ فِي مَخۡمَصَةٍ غَيۡرَ مُتَجَانِفࣲ لِّإِثۡمࣲ فَإِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "inclining",
+      "translations": {
+        "saheeh": "Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allah is Forgiving and Merciful.",
+        "pickthall": "Forbidden unto you (for food) are carrion and blood and swineflesh, and that which hath been dedicated unto any other than Allah, and the strangled, and the dead through beating, and the dead through falling from a height, and that which hath been killed by (the goring of) horns, and the devoured of wild beasts, saving that which ye make lawful (by the death-stroke), and that which hath been immolated unto idols. And (forbidden is it) that ye swear by the divining arrows. This is an abomination. This day are those who disbelieve in despair of (ever harming) your religion; so fear them not, fear Me! This day have I perfected your religion for you and completed My favour unto you, and have chosen for you as religion al-Islam. Whoso is forced by hunger, not by will, to sin: (for him) lo! Allah is Forgiving, Merciful.",
+        "khattab": "Forbidden to you are carrion, blood, and swine; what is slaughtered in the name of any other than Allah; what is killed by strangling, beating, a fall, or by being gored to death; what is partly eaten by a predator unless you slaughter it; and what is sacrificed on altars. You are also forbidden to draw lots for decisions. This is all evil. Today the disbelievers have given up all hope of ˹undermining˺ your faith. So do not fear them; fear Me! Today I have perfected your faith for you, completed My favour upon you, and chosen Islam as your way. But whoever is compelled by extreme hunger—not intending to sin—then surely Allah is All-Forgiving, Most Merciful",
+        "arberry": "Forbidden to you are carrion, blood, the flesh of swine, what has been hallowed to other than God, the beast strangled; the beast beaten down, the beast fallen to death, the beast gored, and that devoured by beasts of prey - excepting that you have sacrificed duly -- as also things sacrificed to idols, and partition by the divining arrows; that is ungodliness. Today the unbelievers have despaired of your religion; therefore fear them not, but fear you Me. Today I have perfected your religion for you, and I have completed My blessing upon you, and I have approved Islam for your religion. But whosoever is constrained in emptiness and not inclining purposely to sin -- God is All-forgiving, All-compassionate."
+      }
+    }
+  ]
+}

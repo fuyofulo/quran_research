@@ -1,0 +1,216 @@
+{
+  "root": "sjr",
+  "root_arabic": "سجر",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 3,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "V": 2,
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yusojaru",
+      "lemma_arabic": "يُسْجَرُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        40,
+        72,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            40,
+            72,
+            6
+          ],
+          "form_arabic": "يُسْجَرُونَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "masojuwr",
+      "lemma_arabic": "مَسْجُور",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        52,
+        6,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            52,
+            6,
+            2
+          ],
+          "form_arabic": "ٱلْمَسْجُورِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "suj~irato",
+      "lemma_arabic": "سُجِّرَتْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        81,
+        6,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            81,
+            6,
+            3
+          ],
+          "form_arabic": "سُجِّرَتْ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "bHr",
+      "root_arabic": "بحر",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        52,
+        6
+      ]
+    },
+    {
+      "root": "Hmm",
+      "root_arabic": "حمم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        72
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        40,
+        72
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 40,
+        "name_english": "Ghafir",
+        "name_arabic": "سُورَةُ غَافِرٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 52,
+        "name_english": "At-Tur",
+        "name_arabic": "سُورَةُ الطُّورِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 81,
+        "name_english": "At-Takwir",
+        "name_arabic": "سُورَةُ التَّكۡوِيرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        40,
+        72,
+        6
+      ],
+      "form_arabic": "يُسْجَرُونَ",
+      "lemma": "yusojaru",
+      "lemma_arabic": "يُسْجَرُ",
+      "pos": "V",
+      "ayah_id": "40:72",
+      "ayah_arabic": "فِي ٱلۡحَمِيمِ ثُمَّ فِي ٱلنَّارِ يُسۡجَرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ghafir",
+      "literal_gloss": "they will be burned",
+      "translations": {
+        "saheeh": "In boiling water; then in the Fire they will be filled [with flame].",
+        "pickthall": "Through boiling waters; then they are thrust into the Fire.",
+        "khattab": "through boiling water, then burned in the Fire ˹as fuel˺",
+        "arberry": "into the boiling water, then into the Fire they are poured;"
+      }
+    },
+    {
+      "location": [
+        52,
+        6,
+        2
+      ],
+      "form_arabic": "ٱلْمَسْجُورِ",
+      "lemma": "masojuwr",
+      "lemma_arabic": "مَسْجُور",
+      "pos": "N",
+      "ayah_id": "52:6",
+      "ayah_arabic": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "filled",
+      "translations": {
+        "saheeh": "And [by] the sea filled [with fire],",
+        "pickthall": "And the sea kept filled,",
+        "khattab": "And by the seas set on fire",
+        "arberry": "and the sea swarming,"
+      }
+    },
+    {
+      "location": [
+        81,
+        6,
+        3
+      ],
+      "form_arabic": "سُجِّرَتْ",
+      "lemma": "suj~irato",
+      "lemma_arabic": "سُجِّرَتْ",
+      "pos": "V",
+      "ayah_id": "81:6",
+      "ayah_arabic": "وَإِذَا ٱلۡبِحَارُ سُجِّرَتۡ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Takwir",
+      "literal_gloss": "are made to overflow",
+      "translations": {
+        "saheeh": "And when the seas are filled with flame",
+        "pickthall": "And when the seas rise,",
+        "khattab": "and when the seas are set on fire",
+        "arberry": "when the seas shall be set boiling,"
+      }
+    }
+  ]
+}

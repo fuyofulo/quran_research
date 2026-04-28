@@ -1,0 +1,445 @@
+{
+  "root": "HyD",
+  "root_arabic": "حيض",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 3,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "maHiyD",
+      "lemma_arabic": "مَحِيض",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        2,
+        222,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            222,
+            3
+          ],
+          "form_arabic": "ٱلْمَحِيضِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            222,
+            10
+          ],
+          "form_arabic": "ٱلْمَحِيضِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            65,
+            4,
+            4
+          ],
+          "form_arabic": "ٱلْمَحِيضِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "yaHiDo",
+      "lemma_arabic": "يَحِضْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        65,
+        4,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            65,
+            4,
+            14
+          ],
+          "form_arabic": "يَحِضْنَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "Thr",
+      "root_arabic": "طهر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "Hyv",
+      "root_arabic": "حيث",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "Ezl",
+      "root_arabic": "عزل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "Hbb",
+      "root_arabic": "حبب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "A*y",
+      "root_arabic": "اذي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        222
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "ysr",
+      "root_arabic": "يسر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "$hr",
+      "root_arabic": "شهر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "ryb",
+      "root_arabic": "ريب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "Ajl",
+      "root_arabic": "اجل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "yAs",
+      "root_arabic": "ياس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "Edd",
+      "root_arabic": "عدد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "Hml",
+      "root_arabic": "حمل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    },
+    {
+      "root": "wDE",
+      "root_arabic": "وضع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        65,
+        4
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 65,
+        "name_english": "At-Talaaq",
+        "name_arabic": "سُورَةُ الطَّلَاقِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        222,
+        3
+      ],
+      "form_arabic": "ٱلْمَحِيضِ",
+      "lemma": "maHiyD",
+      "lemma_arabic": "مَحِيض",
+      "pos": "N",
+      "ayah_id": "2:222",
+      "ayah_arabic": "وَيَسۡـَٔلُونَكَ عَنِ ٱلۡمَحِيضِۖ قُلۡ هُوَ أَذࣰ ى فَٱعۡتَزِلُواْ ٱلنِّسَآءَ فِي ٱلۡمَحِيضِ وَلَا تَقۡرَبُوهُنَّ حَتَّىٰ يَطۡهُرۡنَۖ فَإِذَا تَطَهَّرۡنَ فَأۡتُوهُنَّ مِنۡ حَيۡثُ أَمَرَكُمُ ٱللَّهُۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلۡمُتَطَهِّرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "[the] menstruation",
+      "translations": {
+        "saheeh": "And they ask you about menstruation. Say, \"It is harm, so keep away from wives during menstruation. And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allah has ordained for you. Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.\"",
+        "pickthall": "They question thee (O Muhammad) concerning menstruation. Say: It is an illness, so let women alone at such times and go not in unto them till they are cleansed. And when they have purified themselves, then go in unto them as Allah hath enjoined upon you. Truly Allah loveth those who turn unto Him, and loveth those who have a care for cleanness.",
+        "khattab": "They ask you ˹O Prophet˺ about menstruation. Say, “Beware of its harm! So keep away, and do not have intercourse with your wives during their monthly cycles until they are purified. When they purify themselves, then you may approach them in the manner specified by Allah. Surely Allah loves those who always turn to Him in repentance and those who purify themselves.”",
+        "arberry": "They will question thee concerning the monthly course. Say: 'It is hurt; so go apart from women during the monthly course, and do not approach them till they are clean. When they have cleansed themselves, then come unto them as God has commanded you.' Truly, God loves those who repent, and He loves those who cleanse themselves."
+      }
+    },
+    {
+      "location": [
+        2,
+        222,
+        10
+      ],
+      "form_arabic": "ٱلْمَحِيضِ",
+      "lemma": "maHiyD",
+      "lemma_arabic": "مَحِيض",
+      "pos": "N",
+      "ayah_id": "2:222",
+      "ayah_arabic": "وَيَسۡـَٔلُونَكَ عَنِ ٱلۡمَحِيضِۖ قُلۡ هُوَ أَذࣰ ى فَٱعۡتَزِلُواْ ٱلنِّسَآءَ فِي ٱلۡمَحِيضِ وَلَا تَقۡرَبُوهُنَّ حَتَّىٰ يَطۡهُرۡنَۖ فَإِذَا تَطَهَّرۡنَ فَأۡتُوهُنَّ مِنۡ حَيۡثُ أَمَرَكُمُ ٱللَّهُۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلۡمُتَطَهِّرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(their) [the] menstruation",
+      "translations": {
+        "saheeh": "And they ask you about menstruation. Say, \"It is harm, so keep away from wives during menstruation. And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allah has ordained for you. Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.\"",
+        "pickthall": "They question thee (O Muhammad) concerning menstruation. Say: It is an illness, so let women alone at such times and go not in unto them till they are cleansed. And when they have purified themselves, then go in unto them as Allah hath enjoined upon you. Truly Allah loveth those who turn unto Him, and loveth those who have a care for cleanness.",
+        "khattab": "They ask you ˹O Prophet˺ about menstruation. Say, “Beware of its harm! So keep away, and do not have intercourse with your wives during their monthly cycles until they are purified. When they purify themselves, then you may approach them in the manner specified by Allah. Surely Allah loves those who always turn to Him in repentance and those who purify themselves.”",
+        "arberry": "They will question thee concerning the monthly course. Say: 'It is hurt; so go apart from women during the monthly course, and do not approach them till they are clean. When they have cleansed themselves, then come unto them as God has commanded you.' Truly, God loves those who repent, and He loves those who cleanse themselves."
+      }
+    },
+    {
+      "location": [
+        65,
+        4,
+        4
+      ],
+      "form_arabic": "ٱلْمَحِيضِ",
+      "lemma": "maHiyD",
+      "lemma_arabic": "مَحِيض",
+      "pos": "N",
+      "ayah_id": "65:4",
+      "ayah_arabic": "وَٱلَّٰٓـِٔي يَئِسۡنَ مِنَ ٱلۡمَحِيضِ مِن نِّسَآئِكُمۡ إِنِ ٱرۡتَبۡتُمۡ فَعِدَّتُهُنَّ ثَلَٰثَةُ أَشۡهُرࣲ وَٱلَّٰٓـِٔي لَمۡ يَحِضۡنَۚ وَأُوْلَٰتُ ٱلۡأَحۡمَالِ أَجَلُهُنَّ أَن يَضَعۡنَ حَمۡلَهُنَّۚ وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مِنۡ أَمۡرِهِۦ يُسۡرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Talaaq",
+      "literal_gloss": "the menstruation",
+      "translations": {
+        "saheeh": "And those who no longer expect menstruation among your women - if you doubt, then their period is three months, and [also for] those who have not menstruated. And for those who are pregnant, their term is until they give birth. And whoever fears Allah - He will make for him of his matter ease.",
+        "pickthall": "And for such of your women as despair of menstruation, if ye doubt, their period (of waiting) shall be three months, along with those who have it not. And for those with child, their period shall be till they bring forth their burden. And whosoever keepeth his duty to Allah, He maketh his course easy for him.",
+        "khattab": "As for your women past the age of menstruation, in case you do not know, their waiting period is three months, and those who have not menstruated as well. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them",
+        "arberry": "As for your women who have despaired of further menstruating, if you are in doubt, their period shall be three months; and those who have not menstruated as yet. And those who are with child, their term is when they bring forth their burden. Whoso fears God, God will appoint for him, of His command, easiness."
+      }
+    },
+    {
+      "location": [
+        65,
+        4,
+        14
+      ],
+      "form_arabic": "يَحِضْنَ",
+      "lemma": "yaHiDo",
+      "lemma_arabic": "يَحِضْ",
+      "pos": "V",
+      "ayah_id": "65:4",
+      "ayah_arabic": "وَٱلَّٰٓـِٔي يَئِسۡنَ مِنَ ٱلۡمَحِيضِ مِن نِّسَآئِكُمۡ إِنِ ٱرۡتَبۡتُمۡ فَعِدَّتُهُنَّ ثَلَٰثَةُ أَشۡهُرࣲ وَٱلَّٰٓـِٔي لَمۡ يَحِضۡنَۚ وَأُوْلَٰتُ ٱلۡأَحۡمَالِ أَجَلُهُنَّ أَن يَضَعۡنَ حَمۡلَهُنَّۚ وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مِنۡ أَمۡرِهِۦ يُسۡرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Talaaq",
+      "literal_gloss": "[they] menstruated",
+      "translations": {
+        "saheeh": "And those who no longer expect menstruation among your women - if you doubt, then their period is three months, and [also for] those who have not menstruated. And for those who are pregnant, their term is until they give birth. And whoever fears Allah - He will make for him of his matter ease.",
+        "pickthall": "And for such of your women as despair of menstruation, if ye doubt, their period (of waiting) shall be three months, along with those who have it not. And for those with child, their period shall be till they bring forth their burden. And whosoever keepeth his duty to Allah, He maketh his course easy for him.",
+        "khattab": "As for your women past the age of menstruation, in case you do not know, their waiting period is three months, and those who have not menstruated as well. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them",
+        "arberry": "As for your women who have despaired of further menstruating, if you are in doubt, their period shall be three months; and those who have not menstruated as yet. And those who are with child, their term is when they bring forth their burden. Whoso fears God, God will appoint for him, of His command, easiness."
+      }
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "root": "mzq",
+  "root_arabic": "مزق",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 2,
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "muz~iqo",
+      "lemma_arabic": "مُزِّقْ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        34,
+        7,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            34,
+            7,
+            10
+          ],
+          "form_arabic": "مُزِّقْتُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            34,
+            19,
+            10
+          ],
+          "form_arabic": "وَمَزَّقْنَٰهُمْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "mumaz~aq",
+      "lemma_arabic": "مُمَزَّق",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        34,
+        7,
+        12
+      ],
+      "occurrences": [
+        {
+          "location": [
+            34,
+            7,
+            12
+          ],
+          "form_arabic": "مُمَزَّقٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            34,
+            19,
+            12
+          ],
+          "form_arabic": "مُمَزَّقٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        34,
+        7
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        34,
+        7
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        7
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        7
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        7
+      ]
+    },
+    {
+      "root": "dll",
+      "root_arabic": "دلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        7
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        7
+      ]
+    },
+    {
+      "root": "jdd",
+      "root_arabic": "جدد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        7
+      ]
+    },
+    {
+      "root": "Hdv",
+      "root_arabic": "حدث",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    },
+    {
+      "root": "sfr",
+      "root_arabic": "سفر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        34,
+        19
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 34,
+        "name_english": "Saba",
+        "name_arabic": "سُورَةُ سَبَإٍ",
+        "revelation": "Meccan",
+        "occurrences": 4
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        34,
+        7,
+        10
+      ],
+      "form_arabic": "مُزِّقْتُمْ",
+      "lemma": "muz~iqo",
+      "lemma_arabic": "مُزِّقْ",
+      "pos": "V",
+      "ayah_id": "34:7",
+      "ayah_arabic": "وَقَالَ ٱلَّذِينَ كَفَرُواْ هَلۡ نَدُلُّكُمۡ عَلَىٰ رَجُلࣲ يُنَبِّئُكُمۡ إِذَا مُزِّقۡتُمۡ كُلَّ مُمَزَّقٍ إِنَّكُمۡ لَفِي خَلۡقࣲ جَدِيدٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saba",
+      "literal_gloss": "you have disintegrated",
+      "translations": {
+        "saheeh": "But those who disbelieve say, \"Shall we direct you to a man who will inform you [that] when you have disintegrated in complete disintegration, you will [then] be [recreated] in a new creation?",
+        "pickthall": "Those who disbelieve say: Shall we show you a man who will tell you (that) when ye have become dispersed in dust with most complete dispersal still, even then, ye will be created anew?",
+        "khattab": "The disbelievers say ˹mockingly to one another˺, “Shall we show you a man who claims that when you have been utterly disintegrated you will be raised as a new creation",
+        "arberry": "The unbelievers say, 'Shall we point you to a man who will tell you, when you have been utterly torn to pieces, then you shall be in a new creation?'"
+      }
+    },
+    {
+      "location": [
+        34,
+        7,
+        12
+      ],
+      "form_arabic": "مُمَزَّقٍ",
+      "lemma": "mumaz~aq",
+      "lemma_arabic": "مُمَزَّق",
+      "pos": "N",
+      "ayah_id": "34:7",
+      "ayah_arabic": "وَقَالَ ٱلَّذِينَ كَفَرُواْ هَلۡ نَدُلُّكُمۡ عَلَىٰ رَجُلࣲ يُنَبِّئُكُمۡ إِذَا مُزِّقۡتُمۡ كُلَّ مُمَزَّقٍ إِنَّكُمۡ لَفِي خَلۡقࣲ جَدِيدٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saba",
+      "literal_gloss": "disintegration",
+      "translations": {
+        "saheeh": "But those who disbelieve say, \"Shall we direct you to a man who will inform you [that] when you have disintegrated in complete disintegration, you will [then] be [recreated] in a new creation?",
+        "pickthall": "Those who disbelieve say: Shall we show you a man who will tell you (that) when ye have become dispersed in dust with most complete dispersal still, even then, ye will be created anew?",
+        "khattab": "The disbelievers say ˹mockingly to one another˺, “Shall we show you a man who claims that when you have been utterly disintegrated you will be raised as a new creation",
+        "arberry": "The unbelievers say, 'Shall we point you to a man who will tell you, when you have been utterly torn to pieces, then you shall be in a new creation?'"
+      }
+    },
+    {
+      "location": [
+        34,
+        19,
+        10
+      ],
+      "form_arabic": "وَمَزَّقْنَٰهُمْ",
+      "lemma": "muz~iqo",
+      "lemma_arabic": "مُزِّقْ",
+      "pos": "V",
+      "ayah_id": "34:19",
+      "ayah_arabic": "فَقَالُواْ رَبَّنَا بَٰعِدۡ بَيۡنَ أَسۡفَارِنَا وَظَلَمُوٓاْ أَنفُسَهُمۡ فَجَعَلۡنَٰهُمۡ أَحَادِيثَ وَمَزَّقۡنَٰهُمۡ كُلَّ مُمَزَّقٍۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتࣲ لِّكُلِّ صَبَّارࣲ شَكُورࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saba",
+      "literal_gloss": "and We dispersed them",
+      "translations": {
+        "saheeh": "But [insolently] they said, \"Our Lord, lengthen the distance between our journeys,\" and wronged themselves, so We made them narrations and dispersed them in total dispersion. Indeed in that are signs for everyone patient and grateful.",
+        "pickthall": "But they said: Our Lord! Make the stage between our journeys longer. And they wronged themselves, therefore We made them bywords (in the land) and scattered them abroad, a total scattering. Lo! herein verily are portents for each steadfast, grateful (heart).",
+        "khattab": "But they said, “Our Lord! Make ˹the distances of˺ our journeys longer,” wronging themselves. So We reduced them to ˹cautionary˺ tales, and scattered them utterly. Surely in this are lessons for whoever is steadfast, grateful",
+        "arberry": "But they said, 'Our Lord, prolong the stages of our travel'; and they wronged themselves, so We made them as but tales, and We tore them utterly to pieces. Surely in that are signs for every man enduring, thankful."
+      }
+    },
+    {
+      "location": [
+        34,
+        19,
+        12
+      ],
+      "form_arabic": "مُمَزَّقٍ",
+      "lemma": "mumaz~aq",
+      "lemma_arabic": "مُمَزَّق",
+      "pos": "N",
+      "ayah_id": "34:19",
+      "ayah_arabic": "فَقَالُواْ رَبَّنَا بَٰعِدۡ بَيۡنَ أَسۡفَارِنَا وَظَلَمُوٓاْ أَنفُسَهُمۡ فَجَعَلۡنَٰهُمۡ أَحَادِيثَ وَمَزَّقۡنَٰهُمۡ كُلَّ مُمَزَّقٍۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتࣲ لِّكُلِّ صَبَّارࣲ شَكُورࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saba",
+      "literal_gloss": "dispersion",
+      "translations": {
+        "saheeh": "But [insolently] they said, \"Our Lord, lengthen the distance between our journeys,\" and wronged themselves, so We made them narrations and dispersed them in total dispersion. Indeed in that are signs for everyone patient and grateful.",
+        "pickthall": "But they said: Our Lord! Make the stage between our journeys longer. And they wronged themselves, therefore We made them bywords (in the land) and scattered them abroad, a total scattering. Lo! herein verily are portents for each steadfast, grateful (heart).",
+        "khattab": "But they said, “Our Lord! Make ˹the distances of˺ our journeys longer,” wronging themselves. So We reduced them to ˹cautionary˺ tales, and scattered them utterly. Surely in this are lessons for whoever is steadfast, grateful",
+        "arberry": "But they said, 'Our Lord, prolong the stages of our travel'; and they wronged themselves, so We made them as but tales, and We tore them utterly to pieces. Surely in that are signs for every man enduring, thankful."
+      }
+    }
+  ]
+}

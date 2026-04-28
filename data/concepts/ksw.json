@@ -1,0 +1,1081 @@
+{
+  "root": "ksw",
+  "root_arabic": "كسو",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 2,
+    "ayahs": 5,
+    "surahs": 4,
+    "pos_distribution": {
+      "V": 3,
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "kasawo",
+      "lemma_arabic": "كَسَوْ",
+      "count": 3,
+      "pos_distribution": {
+        "V": 3
+      },
+      "first_occurrence": [
+        2,
+        259,
+        55
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            259,
+            55
+          ],
+          "form_arabic": "نَكْسُوهَا",
+          "pos": "V"
+        },
+        {
+          "location": [
+            4,
+            5,
+            12
+          ],
+          "form_arabic": "وَٱكْسُوهُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            23,
+            14,
+            11
+          ],
+          "form_arabic": "فَكَسَوْنَا",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "kisowat",
+      "lemma_arabic": "كِسْوَت",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        2,
+        233,
+        15
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            233,
+            15
+          ],
+          "form_arabic": "وَكِسْوَتُهُنَّ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            5,
+            89,
+            22
+          ],
+          "form_arabic": "كِسْوَتُهُمْ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 5,
+      "share": 1.0,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "TEm",
+      "root_arabic": "طعم",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "lHm",
+      "root_arabic": "لحم",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        5
+      ]
+    },
+    {
+      "root": "sfh",
+      "root_arabic": "سفه",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        5
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        4,
+        5
+      ]
+    },
+    {
+      "root": "lgw",
+      "root_arabic": "لغو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "Hlf",
+      "root_arabic": "حلف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "Hrr",
+      "root_arabic": "حرر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "wsT",
+      "root_arabic": "وسط",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "E$r",
+      "root_arabic": "عشر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "Eqd",
+      "root_arabic": "عقد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "ymn",
+      "root_arabic": "يمن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "Swm",
+      "root_arabic": "صوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "rqb",
+      "root_arabic": "رقب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "HfZ",
+      "root_arabic": "حفظ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "skn",
+      "root_arabic": "سكن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "Er$",
+      "root_arabic": "عرش",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "qry",
+      "root_arabic": "قري",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "mrr",
+      "root_arabic": "مرر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "xwy",
+      "root_arabic": "خوي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "mAy",
+      "root_arabic": "ماي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "snh",
+      "root_arabic": "سنه",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "n$z",
+      "root_arabic": "نشز",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Ewm",
+      "root_arabic": "عوم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "qdr",
+      "root_arabic": "قدر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Hmr",
+      "root_arabic": "حمر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "kyf",
+      "root_arabic": "كيف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "lbv",
+      "root_arabic": "لبث",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Any",
+      "root_arabic": "اني",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        259
+      ]
+    },
+    {
+      "root": "Elq",
+      "root_arabic": "علق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "mDg",
+      "root_arabic": "مضغ",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "nTf",
+      "root_arabic": "نطف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "n$A",
+      "root_arabic": "نشا",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "brk",
+      "root_arabic": "برك",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        23,
+        14
+      ]
+    },
+    {
+      "root": "Drr",
+      "root_arabic": "ضرر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "wrv",
+      "root_arabic": "ورث",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "fSl",
+      "root_arabic": "فصل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "Hwl",
+      "root_arabic": "حول",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "$wr",
+      "root_arabic": "شور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "rDw",
+      "root_arabic": "رضو",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "kml",
+      "root_arabic": "كمل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "klf",
+      "root_arabic": "كلف",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "rDE",
+      "root_arabic": "رضع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "tmm",
+      "root_arabic": "تمم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "wsE",
+      "root_arabic": "وسع",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        2,
+        233
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 23,
+        "name_english": "Al-Muminoon",
+        "name_arabic": "سُورَةُ المُؤۡمِنُونَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 4,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        233,
+        15
+      ],
+      "form_arabic": "وَكِسْوَتُهُنَّ",
+      "lemma": "kisowat",
+      "lemma_arabic": "كِسْوَت",
+      "pos": "N",
+      "ayah_id": "2:233",
+      "ayah_arabic": "۞وَٱلۡوَٰلِدَٰتُ يُرۡضِعۡنَ أَوۡلَٰدَهُنَّ حَوۡلَيۡنِ كَامِلَيۡنِۖ لِمَنۡ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَۚ وَعَلَى ٱلۡمَوۡلُودِ لَهُۥ رِزۡقُهُنَّ وَكِسۡوَتُهُنَّ بِٱلۡمَعۡرُوفِۚ لَا تُكَلَّفُ نَفۡسٌ إِلَّا وُسۡعَهَاۚ لَا تُضَآرَّ وَٰلِدَةُۢ بِوَلَدِهَا وَلَا مَوۡلُودࣱ لَّهُۥ بِوَلَدِهِۦۚ وَعَلَى ٱلۡوَارِثِ مِثۡلُ ذَٰلِكَۗ فَإِنۡ أَرَادَا فِصَالًا عَن تَرَاضࣲ مِّنۡهُمَا وَتَشَاوُرࣲ فَلَا جُنَاحَ عَلَيۡهِمَاۗ وَإِنۡ أَرَدتُّمۡ أَن تَسۡتَرۡضِعُوٓاْ أَوۡلَٰدَكُمۡ فَلَا جُنَاحَ عَلَيۡكُمۡ إِذَا سَلَّمۡتُم مَّآ ءَاتَيۡتُم بِٱلۡمَعۡرُوفِۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ بَصِيرࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "and their clothing",
+      "translations": {
+        "saheeh": "Mothers may breastfeed their children two complete years for whoever wishes to complete the nursing [period]. Upon the father is the mothers' provision and their clothing according to what is acceptable. No person is charged with more than his capacity. No mother should be harmed through her child, and no father through his child. And upon the [father's] heir is [a duty] like that [of the father]. And if they both desire weaning through mutual consent from both of them and consultation, there is no blame upon either of them. And if you wish to have your children nursed by a substitute, there is no blame upon you as long as you give payment according to what is acceptable. And fear Allah and know that Allah is Seeing of what you do.",
+        "pickthall": "Mothers shall suckle their children for two whole years; (that is) for those who wish to complete the suckling. The duty of feeding and clothing nursing mothers in a seemly manner is upon the father of the child. No-one should be charged beyond his capacity. A mother should not be made to suffer because of her child, nor should he to whom the child is born (be made to suffer) because of his child. And on the (father's) heir is incumbent the like of that (which was incumbent on the father). If they desire to wean the child by mutual consent and (after) consultation, it is no sin for them; and if ye wish to give your children out to nurse, it is no sin for you, provide that ye pay what is due from you in kindness. Observe your duty to Allah, and know that Allah is Seer of what ye do.",
+        "khattab": "˹Divorced˺ mothers will breastfeed their offspring for two whole years, for those who wish to complete the nursing ˹of their child˺. The child’s father will provide reasonable maintenance and clothing for the mother ˹during that period˺. No one will be charged with more than they can bear. No mother or father should be made to suffer for their child. The ˹father’s˺ heirs are under the same obligation. But if both sides decide—after mutual consultation and consent—to wean a child, then there is no blame on them. If you decide to have your children nursed by a wet-nurse, it is permissible as long as you pay fairly. Be mindful of Allah, and know that Allah is All-Seeing of what you do",
+        "arberry": "Mothers shall suckle their children two years completely, for such as desire to fulfil the suckling. It is for the father to provide them and clothe them honourably. No soul is charged save to its capacity; a mother shall not be pressed for her child, neither a father for his child. The heir has a like duty. But if the couple desire by mutual consent and consultation to wean, then it is no fault in them. And if you desire to seek nursing for your children, it is no fault in you provide you hand over what you have given honourably; and fear God, and know that God sees the things you do."
+      }
+    },
+    {
+      "location": [
+        2,
+        259,
+        55
+      ],
+      "form_arabic": "نَكْسُوهَا",
+      "lemma": "kasawo",
+      "lemma_arabic": "كَسَوْ",
+      "pos": "V",
+      "ayah_id": "2:259",
+      "ayah_arabic": "أَوۡ كَٱلَّذِي مَرَّ عَلَىٰ قَرۡيَةࣲ وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحۡيِۦ هَٰذِهِ ٱللَّهُ بَعۡدَ مَوۡتِهَاۖ فَأَمَاتَهُ ٱللَّهُ مِاْئَةَ عَامࣲ ثُمَّ بَعَثَهُۥۖ قَالَ كَمۡ لَبِثۡتَۖ قَالَ لَبِثۡتُ يَوۡمًا أَوۡ بَعۡضَ يَوۡمࣲۖ قَالَ بَل لَّبِثۡتَ مِاْئَةَ عَامࣲ فَٱنظُرۡ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمۡ يَتَسَنَّهۡۖ وَٱنظُرۡ إِلَىٰ حِمَارِكَ وَلِنَجۡعَلَكَ ءَايَةࣰ لِّلنَّاسِۖ وَٱنظُرۡ إِلَى ٱلۡعِظَامِ كَيۡفَ نُنشِزُهَا ثُمَّ نَكۡسُوهَا لَحۡمࣰ اۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعۡلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "We cover them",
+      "translations": {
+        "saheeh": "Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, \"How will Allah bring this to life after its death?\" So Allah caused him to die for a hundred years; then He revived him. He said, \"How long have you remained?\" The man said, \"I have remained a day or part of a day.\" He said, \"Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh.\" And when it became clear to him, he said, \"I know that Allah is over all things competent.\"",
+        "pickthall": "Or (bethink thee of) the like of him who, passing by a township which had fallen into utter ruin, exclaimed: How shall Allah give this township life after its death? And Allah made him die a hundred years, then brought him back to life. He said: How long hast thou tarried? (The man) said: I have tarried a day or part of a day. (He) said: Nay, but thou hast tarried for a hundred years. Just look at thy food and drink which have not rotted! Look at thine ass! And, that We may make thee a token unto mankind, look at the bones, how We adjust them and then cover them with flesh! And when (the matter) became clear unto him, he said: I know now that Allah is Able to do all things.",
+        "khattab": "Or ˹are you not aware of˺ the one who passed by a city which was in ruins. He wondered, “How could Allah bring this back to life after its destruction?” So Allah caused him to die for a hundred years then brought him back to life. Allah asked, “How long have you remained ˹in this state˺?” He replied, “Perhaps a day or part of a day.” Allah said, “No! You have remained here for a hundred years! Just look at your food and drink—they have not spoiled. ˹But now˺ look at ˹the remains of˺ your donkey! And ˹so˺ We have made you into a sign for humanity. And look at the bones ˹of the donkey˺, how We bring them together then clothe them with flesh!” When this was made clear to him, he declared, “˹Now˺ I know that Allah is Most Capable of everything.”",
+        "arberry": "Or such as he who passed by a city that was fallen down upon its turrets; he said, 'How shall God give life to this now it is dead?' So God made him die a hundred years, then He raised him up, saying, 'How long hast thou tarried?' He said, 'I have tarried a day, or part of a day.' Said He, 'Nay; thou hast tarried a hundred years. Look at thy food and drink -- it has not spoiled; and look at thy ass. So We would make thee a sign for the people. And look at the bones; how We shall set them up, and then clothe them with flesh.' So, when it was made clear to him, he said, 'I know that God is powerful over everything.'"
+      }
+    },
+    {
+      "location": [
+        4,
+        5,
+        12
+      ],
+      "form_arabic": "وَٱكْسُوهُمْ",
+      "lemma": "kasawo",
+      "lemma_arabic": "كَسَوْ",
+      "pos": "V",
+      "ayah_id": "4:5",
+      "ayah_arabic": "وَلَا تُؤۡتُواْ ٱلسُّفَهَآءَ أَمۡوَٰلَكُمُ ٱلَّتِي جَعَلَ ٱللَّهُ لَكُمۡ قِيَٰمࣰ ا وَٱرۡزُقُوهُمۡ فِيهَا وَٱكۡسُوهُمۡ وَقُولُواْ لَهُمۡ قَوۡلࣰ ا مَّعۡرُوفࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "and clothe them",
+      "translations": {
+        "saheeh": "And do not give the weak-minded your property, which Allah has made a means of sustenance for you, but provide for them with it and clothe them and speak to them words of appropriate kindness.",
+        "pickthall": "Give not unto the foolish (what is in) your (keeping of their) wealth, which Allah hath given you to maintain; but feed and clothe them from it, and speak kindly unto them.",
+        "khattab": "Do not entrust the incapable ˹among your dependants˺ with your wealth which Allah has made a means of support for you—but feed and clothe them from it, and speak to them kindly",
+        "arberry": "But do not give to fools their property that God has assigned to you to manage; provide for them and clothe them out of it, and speak to them honourable words."
+      }
+    },
+    {
+      "location": [
+        5,
+        89,
+        22
+      ],
+      "form_arabic": "كِسْوَتُهُمْ",
+      "lemma": "kisowat",
+      "lemma_arabic": "كِسْوَت",
+      "pos": "N",
+      "ayah_id": "5:89",
+      "ayah_arabic": "لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغۡوِ فِيٓ أَيۡمَٰنِكُمۡ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ ٱلۡأَيۡمَٰنَۖ فَكَفَّٰرَتُهُۥٓ إِطۡعَامُ عَشَرَةِ مَسَٰكِينَ مِنۡ أَوۡسَطِ مَا تُطۡعِمُونَ أَهۡلِيكُمۡ أَوۡ كِسۡوَتُهُمۡ أَوۡ تَحۡرِيرُ رَقَبَةࣲۖ فَمَن لَّمۡ يَجِدۡ فَصِيَامُ ثَلَٰثَةِ أَيَّامࣲۚ ذَٰلِكَ كَفَّٰرَةُ أَيۡمَٰنِكُمۡ إِذَا حَلَفۡتُمۡۚ وَٱحۡفَظُوٓاْ أَيۡمَٰنَكُمۡۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَشۡكُرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "clothing them",
+      "translations": {
+        "saheeh": "Allah will not impose blame upon you for what is meaningless in your oaths, but He will impose blame upon you for [breaking] what you intended of oaths. So its expiation is the feeding of ten needy people from the average of that which you feed your [own] families or clothing them or the freeing of a slave. But whoever cannot find [or afford it] - then a fast of three days [is required]. That is the expiation for oaths when you have sworn. But guard your oaths. Thus does Allah make clear to you His verses that you may be grateful.",
+        "pickthall": "Allah will not take you to task for that which is unintentional in your oaths, but He will take you to task for the oaths which ye swear in earnest. The expiation thereof is the feeding of ten of the needy with the average of that wherewith ye feed your own folk, or the clothing of them, or the liberation of a slave, and for him who findeth not (the wherewithal to do so) then a three days' fast. This is the expiation of your oaths when ye have sworn; and keep your oaths. Thus Allah expoundeth unto you His revelations in order that ye may give thanks.",
+        "khattab": "Allah will not call you to account for your thoughtless oaths, but He will hold you accountable for deliberate oaths. The penalty for a broken oath is to feed ten poor people from what you normally feed your own family, or to clothe them, or to free a bondsperson. But if none of this is affordable, then you must fast three days. This is the penalty for breaking your oaths. So be mindful of your oaths. This is how Allah makes things clear to you, so perhaps you will be grateful",
+        "arberry": "God will not take you to task for a slip in your oaths; but He will take you to task for such bonds as you have made by oaths, whereof the expiation is to feed ten poor persons with the average of the food you serve to your families, or to clothe them, or to set free a slave; or if any finds not the means, let him fast for three days. That is the expiation of your oaths when you have sworn; but keep your oaths. So God makes clear to you His signs; haply you will be thankful."
+      }
+    },
+    {
+      "location": [
+        23,
+        14,
+        11
+      ],
+      "form_arabic": "فَكَسَوْنَا",
+      "lemma": "kasawo",
+      "lemma_arabic": "كَسَوْ",
+      "pos": "V",
+      "ayah_id": "23:14",
+      "ayah_arabic": "ثُمَّ خَلَقۡنَا ٱلنُّطۡفَةَ عَلَقَةࣰ فَخَلَقۡنَا ٱلۡعَلَقَةَ مُضۡغَةࣰ فَخَلَقۡنَا ٱلۡمُضۡغَةَ عِظَٰمࣰ ا فَكَسَوۡنَا ٱلۡعِظَٰمَ لَحۡمࣰ ا ثُمَّ أَنشَأۡنَٰهُ خَلۡقًا ءَاخَرَۚ فَتَبَارَكَ ٱللَّهُ أَحۡسَنُ ٱلۡخَٰلِقِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muminoon",
+      "literal_gloss": "then We clothed",
+      "translations": {
+        "saheeh": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.",
+        "pickthall": "Then fashioned We the drop a clot, then fashioned We the clot a little lump, then fashioned We the little lump bones, then clothed the bones with flesh, and then produced it as another creation. So blessed be Allah, the Best of creators!",
+        "khattab": "then We developed the drop into a clinging clot ˹of blood˺, then developed the clot into a lump ˹of flesh˺, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation. So Blessed is Allah, the Best of Creators",
+        "arberry": "then We created of the drop a clot then We created of the clot a tissue then We created of the tissue bones then We garmented the bones in flesh; thereafter We produced him as another creature. So blessed be God, the fairest of creators!"
+      }
+    }
+  ]
+}

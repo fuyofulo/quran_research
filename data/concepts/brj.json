@@ -1,0 +1,847 @@
+{
+  "root": "brj",
+  "root_arabic": "برج",
+  "stats": {
+    "occurrences": 7,
+    "lemmas": 4,
+    "ayahs": 6,
+    "surahs": 6,
+    "pos_distribution": {
+      "N": 6,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "buruwj",
+      "lemma_arabic": "بُرُوج",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        4,
+        78,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            4,
+            78,
+            8
+          ],
+          "form_arabic": "بُرُوجٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            15,
+            16,
+            5
+          ],
+          "form_arabic": "بُرُوجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            25,
+            61,
+            6
+          ],
+          "form_arabic": "بُرُوجًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            85,
+            1,
+            3
+          ],
+          "form_arabic": "ٱلْبُرُوجِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "mutabar~ija`t",
+      "lemma_arabic": "مُتَبَرِّجَٰت",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        24,
+        60,
+        15
+      ],
+      "occurrences": [
+        {
+          "location": [
+            24,
+            60,
+            15
+          ],
+          "form_arabic": "مُتَبَرِّجَٰتٍ]",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "tabar~ajo",
+      "lemma_arabic": "تَبَرَّجْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        33,
+        33,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            33,
+            33,
+            5
+          ],
+          "form_arabic": "تَبَرَّجْنَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "tabar~uj",
+      "lemma_arabic": "تَبَرُّج",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        33,
+        33,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            33,
+            33,
+            6
+          ],
+          "form_arabic": "تَبَرُّجَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        15,
+        16
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 3,
+      "share": 0.5,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        15,
+        16
+      ]
+    },
+    {
+      "root": "zyn",
+      "root_arabic": "زين",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        15,
+        16
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "qmr",
+      "root_arabic": "قمر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        61
+      ]
+    },
+    {
+      "root": "srj",
+      "root_arabic": "سرج",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        61
+      ]
+    },
+    {
+      "root": "brk",
+      "root_arabic": "برك",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        61
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        25,
+        61
+      ]
+    },
+    {
+      "root": "lys",
+      "root_arabic": "ليس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "wDE",
+      "root_arabic": "وضع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "jnH",
+      "root_arabic": "جنح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "rjw",
+      "root_arabic": "رجو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "qEd",
+      "root_arabic": "قعد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "nkH",
+      "root_arabic": "نكح",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "Eff",
+      "root_arabic": "عفف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "vwb",
+      "root_arabic": "ثوب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        24,
+        60
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        15,
+        16
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "Swb",
+      "root_arabic": "صوب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "drk",
+      "root_arabic": "درك",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "fqh",
+      "root_arabic": "فقه",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "Hdv",
+      "root_arabic": "حدث",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "kwd",
+      "root_arabic": "كود",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "$yd",
+      "root_arabic": "شيد",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        4,
+        78
+      ]
+    },
+    {
+      "root": "qrr",
+      "root_arabic": "قرر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "zkw",
+      "root_arabic": "زكو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "byt",
+      "root_arabic": "بيت",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "rjs",
+      "root_arabic": "رجس",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "Thr",
+      "root_arabic": "طهر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    },
+    {
+      "root": "jhl",
+      "root_arabic": "جهل",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        33,
+        33
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 33,
+        "name_english": "Al-Ahzaab",
+        "name_arabic": "سُورَةُ الأَحۡزَابِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 15,
+        "name_english": "Al-Hijr",
+        "name_arabic": "سُورَةُ الحِجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 24,
+        "name_english": "An-Noor",
+        "name_arabic": "سُورَةُ النُّورِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 25,
+        "name_english": "Al-Furqaan",
+        "name_arabic": "سُورَةُ الفُرۡقَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 85,
+        "name_english": "Al-Burooj",
+        "name_arabic": "سُورَةُ البُرُوجِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 4,
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        4,
+        78,
+        8
+      ],
+      "form_arabic": "بُرُوجٍ",
+      "lemma": "buruwj",
+      "lemma_arabic": "بُرُوج",
+      "pos": "N",
+      "ayah_id": "4:78",
+      "ayah_arabic": "أَيۡنَمَا تَكُونُواْ يُدۡرِككُّمُ ٱلۡمَوۡتُ وَلَوۡ كُنتُمۡ فِي بُرُوجࣲ مُّشَيَّدَةࣲۗ وَإِن تُصِبۡهُمۡ حَسَنَةࣱ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِ ٱللَّهِۖ وَإِن تُصِبۡهُمۡ سَيِّئَةࣱ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِكَۚ قُلۡ كُلࣱّ مِّنۡ عِندِ ٱللَّهِۖ فَمَالِ هَٰٓؤُلَآءِ ٱلۡقَوۡمِ لَا يَكَادُونَ يَفۡقَهُونَ حَدِيثࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "towers",
+      "translations": {
+        "saheeh": "Wherever you may be, death will overtake you, even if you should be within towers of lofty construction. But if good comes to them, they say, \"This is from Allah \"; and if evil befalls them, they say, \"This is from you.\" Say, \"All [things] are from Allah.\" So what is [the matter] with those people that they can hardly understand any statement?",
+        "pickthall": "Wheresoever ye may be, death will overtake you, even though ye were in lofty towers. Yet if a happy thing befalleth them they say: This is from Allah; and if an evil thing befalleth them they say: This is of thy doing (O Muhammad). Say (unto them): All is from Allah. What is amiss with these people that they come not nigh to understand a happening?",
+        "khattab": "Wherever you may be, death will overcome you—even if you were in fortified towers.” When something good befalls them, they say, “This is from Allah,” but when something evil befalls them, they say, “This is from you.” Say, ˹O Prophet,˺ “Both have been destined by Allah.” So what is the matter with these people? They can hardly comprehend anything",
+        "arberry": "Wherever you may be, death will overtake you, though you should be in raised-up towers. And if a good thing visits them, they say, 'This is from God'; but if an evil thing visits them, they say, 'This is from thee.' Say: 'Everything is from God.' How is it with this people? They scarcely understand any tiding."
+      }
+    },
+    {
+      "location": [
+        15,
+        16,
+        5
+      ],
+      "form_arabic": "بُرُوجًا",
+      "lemma": "buruwj",
+      "lemma_arabic": "بُرُوج",
+      "pos": "N",
+      "ayah_id": "15:16",
+      "ayah_arabic": "وَلَقَدۡ جَعَلۡنَا فِي ٱلسَّمَآءِ بُرُوجࣰ ا وَزَيَّنَّٰهَا لِلنَّٰظِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Hijr",
+      "literal_gloss": "constellations",
+      "translations": {
+        "saheeh": "And We have placed within the heaven great stars and have beautified it for the observers.",
+        "pickthall": "And verily in the heaven we have set mansions of the stars, and We have beautified it for beholders.",
+        "khattab": "Indeed, We have placed constellations in the sky, and adorned it for all to see",
+        "arberry": "We have set in heaven constellations and decked them out fair to the beholders,"
+      }
+    },
+    {
+      "location": [
+        24,
+        60,
+        15
+      ],
+      "form_arabic": "مُتَبَرِّجَٰتٍ]",
+      "lemma": "mutabar~ija`t",
+      "lemma_arabic": "مُتَبَرِّجَٰت",
+      "pos": "N",
+      "ayah_id": "24:60",
+      "ayah_arabic": "وَٱلۡقَوَٰعِدُ مِنَ ٱلنِّسَآءِ ٱلَّٰتِي لَا يَرۡجُونَ نِكَاحࣰ ا فَلَيۡسَ عَلَيۡهِنَّ جُنَاحٌ أَن يَضَعۡنَ ثِيَابَهُنَّ غَيۡرَ مُتَبَرِّجَٰتِۭ بِزِينَةࣲۖ وَأَن يَسۡتَعۡفِفۡنَ خَيۡرࣱ لَّهُنَّۗ وَٱللَّهُ سَمِيعٌ عَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Noor",
+      "literal_gloss": "displaying",
+      "translations": {
+        "saheeh": "And women of post-menstrual age who have no desire for marriage - there is no blame upon them for putting aside their outer garments [but] not displaying adornment. But to modestly refrain [from that] is better for them. And Allah is Hearing and Knowing.",
+        "pickthall": "As for women past child-bearing, who have no hope of marriage, it is no sin for them if they discard their (outer) clothing in such a way as not to show adornment. But to refrain is better for them. Allah is Hearer, Knower.",
+        "khattab": "As for elderly women past the age of marriage, there is no blame on them if they take off their ˹outer˺ garments, without revealing their adornments. But it is better for them if they avoid this ˹altogether˺. And Allah is All-Hearing, All-Knowing",
+        "arberry": "Such women as are past child- bearing and have no hope of marriage -- there is no fault in them that they put off their clothes, so be it that they flaunt no ornament; but to abstain is better for them; and God is All-hearing, All-knowing."
+      }
+    },
+    {
+      "location": [
+        25,
+        61,
+        6
+      ],
+      "form_arabic": "بُرُوجًا",
+      "lemma": "buruwj",
+      "lemma_arabic": "بُرُوج",
+      "pos": "N",
+      "ayah_id": "25:61",
+      "ayah_arabic": "تَبَارَكَ ٱلَّذِي جَعَلَ فِي ٱلسَّمَآءِ بُرُوجࣰ ا وَجَعَلَ فِيهَا سِرَٰجࣰ ا وَقَمَرࣰ ا مُّنِيرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "constellations",
+      "translations": {
+        "saheeh": "Blessed is He who has placed in the sky great stars and placed therein a [burning] lamp and luminous moon.",
+        "pickthall": "Blessed be He Who hath placed in the heaven mansions of the stars, and hath placed therein a great lamp and a moon giving light!",
+        "khattab": "Blessed is the One Who has placed constellations in the sky, as well as a ˹radiant˺ lamp and a luminous moon",
+        "arberry": "Blessed be He who has set in heaven constellations, and has set among them a lamp, and an illuminating moon."
+      }
+    },
+    {
+      "location": [
+        33,
+        33,
+        5
+      ],
+      "form_arabic": "تَبَرَّجْنَ",
+      "lemma": "tabar~ajo",
+      "lemma_arabic": "تَبَرَّجْ",
+      "pos": "V",
+      "ayah_id": "33:33",
+      "ayah_arabic": "وَقَرۡنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجۡنَ تَبَرُّجَ ٱلۡجَٰهِلِيَّةِ ٱلۡأُولَىٰۖ وَأَقِمۡنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعۡنَ ٱللَّهَ وَرَسُولَهُۥٓۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذۡهِبَ عَنكُمُ ٱلرِّجۡسَ أَهۡلَ ٱلۡبَيۡتِ وَيُطَهِّرَكُمۡ تَطۡهِيرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "display yourselves",
+      "translations": {
+        "saheeh": "And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakah and obey Allah and His Messenger. Allah intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification.",
+        "pickthall": "And stay in your houses. Bedizen not yourselves with the bedizenment of the Time of Ignorance. Be regular in prayer, and pay the poor-due, and obey Allah and His messenger. Allah's wish is but to remove uncleanness far from you, O Folk of the Household, and cleanse you with a thorough cleansing.",
+        "khattab": "Settle in your homes, and do not display yourselves as women did in the days of ˹pre-Islamic˺ ignorance. Establish prayer, pay alms-tax, and obey Allah and His Messenger. Allah only intends to keep ˹the causes of˺ evil away from you and purify you completely, O members of the ˹Prophet’s˺ family",
+        "arberry": "Remain in your houses; and display not your finery, as did the pagans of old. And perform the prayer, and pay the alms, and obey God and His Messenger. People of the House, God only desires to put away from you abomination and to cleanse you."
+      }
+    },
+    {
+      "location": [
+        33,
+        33,
+        6
+      ],
+      "form_arabic": "تَبَرُّجَ",
+      "lemma": "tabar~uj",
+      "lemma_arabic": "تَبَرُّج",
+      "pos": "N",
+      "ayah_id": "33:33",
+      "ayah_arabic": "وَقَرۡنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجۡنَ تَبَرُّجَ ٱلۡجَٰهِلِيَّةِ ٱلۡأُولَىٰۖ وَأَقِمۡنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعۡنَ ٱللَّهَ وَرَسُولَهُۥٓۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذۡهِبَ عَنكُمُ ٱلرِّجۡسَ أَهۡلَ ٱلۡبَيۡتِ وَيُطَهِّرَكُمۡ تَطۡهِيرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "(as was the) display",
+      "translations": {
+        "saheeh": "And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakah and obey Allah and His Messenger. Allah intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification.",
+        "pickthall": "And stay in your houses. Bedizen not yourselves with the bedizenment of the Time of Ignorance. Be regular in prayer, and pay the poor-due, and obey Allah and His messenger. Allah's wish is but to remove uncleanness far from you, O Folk of the Household, and cleanse you with a thorough cleansing.",
+        "khattab": "Settle in your homes, and do not display yourselves as women did in the days of ˹pre-Islamic˺ ignorance. Establish prayer, pay alms-tax, and obey Allah and His Messenger. Allah only intends to keep ˹the causes of˺ evil away from you and purify you completely, O members of the ˹Prophet’s˺ family",
+        "arberry": "Remain in your houses; and display not your finery, as did the pagans of old. And perform the prayer, and pay the alms, and obey God and His Messenger. People of the House, God only desires to put away from you abomination and to cleanse you."
+      }
+    },
+    {
+      "location": [
+        85,
+        1,
+        3
+      ],
+      "form_arabic": "ٱلْبُرُوجِ",
+      "lemma": "buruwj",
+      "lemma_arabic": "بُرُوج",
+      "pos": "N",
+      "ayah_id": "85:1",
+      "ayah_arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Burooj",
+      "literal_gloss": "the constellations",
+      "translations": {
+        "saheeh": "By the sky containing great stars",
+        "pickthall": "By the heaven, holding mansions of the stars,",
+        "khattab": "By the sky full of constellations",
+        "arberry": "By heaven of the constellations,"
+      }
+    }
+  ]
+}
