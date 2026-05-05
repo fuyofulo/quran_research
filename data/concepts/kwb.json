@@ -1,0 +1,334 @@
+{
+  "root": "kwb",
+  "root_arabic": "كوب",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 1,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "N": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">akowaAb",
+      "lemma_arabic": "أَكْوَاب",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        43,
+        71,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            43,
+            71,
+            6
+          ],
+          "form_arabic": "وَأَكْوَابٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            56,
+            18,
+            1
+          ],
+          "form_arabic": "بِأَكْوَابٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            76,
+            15,
+            6
+          ],
+          "form_arabic": "وَأَكْوَابٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            88,
+            14,
+            1
+          ],
+          "form_arabic": "وَأَكْوَابٌ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Eyn",
+      "root_arabic": "عين",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        43,
+        71
+      ]
+    },
+    {
+      "root": "Twf",
+      "root_arabic": "طوف",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        43,
+        71
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        43,
+        71
+      ]
+    },
+    {
+      "root": "$hw",
+      "root_arabic": "شهو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        43,
+        71
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        43,
+        71
+      ]
+    },
+    {
+      "root": "l**",
+      "root_arabic": "لذذ",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        43,
+        71
+      ]
+    },
+    {
+      "root": "xld",
+      "root_arabic": "خلد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        43,
+        71
+      ]
+    },
+    {
+      "root": "SHf",
+      "root_arabic": "صحف",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        43,
+        71
+      ]
+    },
+    {
+      "root": "Any",
+      "root_arabic": "اني",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        76,
+        15
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        76,
+        15
+      ]
+    },
+    {
+      "root": "fDD",
+      "root_arabic": "فضض",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        76,
+        15
+      ]
+    },
+    {
+      "root": "qrr",
+      "root_arabic": "قرر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        76,
+        15
+      ]
+    },
+    {
+      "root": "kAs",
+      "root_arabic": "كاس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        56,
+        18
+      ]
+    },
+    {
+      "root": "wDE",
+      "root_arabic": "وضع",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        88,
+        14
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 43,
+        "name_english": "Az-Zukhruf",
+        "name_arabic": "سُورَةُ الزُّخۡرُفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 76,
+        "name_english": "Al-Insaan",
+        "name_arabic": "سُورَةُ الإِنسَانِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 88,
+        "name_english": "Al-Ghaashiya",
+        "name_arabic": "سُورَةُ الغَاشِيَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        43,
+        71,
+        6
+      ],
+      "form_arabic": "وَأَكْوَابٍ",
+      "lemma": ">akowaAb",
+      "lemma_arabic": "أَكْوَاب",
+      "pos": "N",
+      "ayah_id": "43:71",
+      "ayah_arabic": "يُطَافُ عَلَيۡهِم بِصِحَافࣲ مِّن ذَهَبࣲ وَأَكۡوَابࣲۖ وَفِيهَا مَا تَشۡتَهِيهِ ٱلۡأَنفُسُ وَتَلَذُّ ٱلۡأَعۡيُنُۖ وَأَنتُمۡ فِيهَا خَٰلِدُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zukhruf",
+      "literal_gloss": "and cups",
+      "translations": {
+        "saheeh": "Circulated among them will be plates and vessels of gold. And therein is whatever the souls desire and [what] delights the eyes, and you will abide therein eternally.",
+        "pickthall": "Therein are brought round for them trays of gold and goblets, and therein is all that souls desire and eyes find sweet. And ye are immortal therein.",
+        "khattab": "Golden trays and cups will be passed around to them. There will be whatever the souls desire and the eyes delight in. And you will be there forever",
+        "arberry": "There shall be passed around them platters of gold, and cups, therein being whatever the souls desire, and the eyes delight in. 'And therein, you shall dwell forever."
+      }
+    },
+    {
+      "location": [
+        56,
+        18,
+        1
+      ],
+      "form_arabic": "بِأَكْوَابٍ",
+      "lemma": ">akowaAb",
+      "lemma_arabic": "أَكْوَاب",
+      "pos": "N",
+      "ayah_id": "56:18",
+      "ayah_arabic": "بِأَكۡوَابࣲ وَأَبَارِيقَ وَكَأۡسࣲ مِّن مَّعِينࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "With vessels",
+      "translations": {
+        "saheeh": "With vessels, pitchers and a cup [of wine] from a flowing spring -",
+        "pickthall": "With bowls and ewers and a cup from a pure spring",
+        "khattab": "with cups, pitchers, and a drink ˹of pure wine˺ from a flowing stream",
+        "arberry": "with goblets, and ewers, and a cup from a spring"
+      }
+    },
+    {
+      "location": [
+        76,
+        15,
+        6
+      ],
+      "form_arabic": "وَأَكْوَابٍ",
+      "lemma": ">akowaAb",
+      "lemma_arabic": "أَكْوَاب",
+      "pos": "N",
+      "ayah_id": "76:15",
+      "ayah_arabic": "وَيُطَافُ عَلَيۡهِم بِـَٔانِيَةࣲ مِّن فِضَّةࣲ وَأَكۡوَابࣲ كَانَتۡ قَوَارِيرَا۠",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Insaan",
+      "literal_gloss": "and cups",
+      "translations": {
+        "saheeh": "And there will be circulated among them vessels of silver and cups having been [created] clear [as glass],",
+        "pickthall": "Goblets of silver are brought round for them, and beakers (as) of glass",
+        "khattab": "They will be waited on with silver vessels and cups of crystal—",
+        "arberry": "and there shall be passed around them vessels of silver, and goblets of crystal,"
+      }
+    },
+    {
+      "location": [
+        88,
+        14,
+        1
+      ],
+      "form_arabic": "وَأَكْوَابٌ",
+      "lemma": ">akowaAb",
+      "lemma_arabic": "أَكْوَاب",
+      "pos": "N",
+      "ayah_id": "88:14",
+      "ayah_arabic": "وَأَكۡوَابࣱ مَّوۡضُوعَةࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Ghaashiya",
+      "literal_gloss": "And cups",
+      "translations": {
+        "saheeh": "And cups put in place",
+        "pickthall": "And goblets set at hand",
+        "khattab": "and cups set at hand",
+        "arberry": "and goblets set forth"
+      }
+    }
+  ]
+}

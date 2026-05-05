@@ -1,0 +1,209 @@
+{
+  "root": "glq",
+  "root_arabic": "غلق",
+  "stats": {
+    "occurrences": 1,
+    "lemmas": 1,
+    "ayahs": 1,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "gal~aqati",
+      "lemma_arabic": "غَلَّقَتِ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        12,
+        23,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            23,
+            8
+          ],
+          "form_arabic": "وَغَلَّقَتِ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "Zlm",
+      "root_arabic": "ظلم",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "flH",
+      "root_arabic": "فلح",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "bwb",
+      "root_arabic": "بوب",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "Ew*",
+      "root_arabic": "عوذ",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "vwy",
+      "root_arabic": "ثوي",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "byt",
+      "root_arabic": "بيت",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    },
+    {
+      "root": "hyt",
+      "root_arabic": "هيت",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        12,
+        23
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        12,
+        23,
+        8
+      ],
+      "form_arabic": "وَغَلَّقَتِ",
+      "lemma": "gal~aqati",
+      "lemma_arabic": "غَلَّقَتِ",
+      "pos": "V",
+      "ayah_id": "12:23",
+      "ayah_arabic": "وَرَٰوَدَتۡهُ ٱلَّتِي هُوَ فِي بَيۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَٰبَ وَقَالَتۡ هَيۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّيٓ أَحۡسَنَ مَثۡوَايَۖ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "And she closed",
+      "translations": {
+        "saheeh": "And she, in whose house he was, sought to seduce him. She closed the doors and said, \"Come, you.\" He said, \"[I seek] the refuge of Allah. Indeed, he is my master, who has made good my residence. Indeed, wrongdoers will not succeed.\"",
+        "pickthall": "And she, in whose house he was, asked of him an evil act. She bolted the doors and said: Come! He said: I seek refuge in Allah! Lo! he is my lord, who hath treated me honourably. Lo! wrong-doers never prosper.",
+        "khattab": "And the lady, in whose house he lived, tried to seduce him. She locked the doors ˹firmly˺ and said, “Come to me!” He replied, “Allah is my refuge! It is ˹not right to betray˺ my master, who has taken good care of me. Indeed, the wrongdoers never succeed.”",
+        "arberry": "Now the woman in whose house he was solicited him, and closed the doors on them. 'Come,' she said, 'take me!' 'God be my refuge,' he said. 'Surely my lord has given me a goodly lodging. Surely the evildoers do not prosper."
+      }
+    }
+  ]
+}

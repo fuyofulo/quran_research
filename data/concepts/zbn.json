@@ -1,0 +1,89 @@
+{
+  "root": "zbn",
+  "root_arabic": "زبن",
+  "stats": {
+    "occurrences": 1,
+    "lemmas": 1,
+    "ayahs": 1,
+    "surahs": 1,
+    "pos_distribution": {
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "z~abaAniyap",
+      "lemma_arabic": "زَّبَانِيَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        96,
+        18,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            96,
+            18,
+            2
+          ],
+          "form_arabic": "ٱلزَّبَانِيَةَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        96,
+        18
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 96,
+        "name_english": "Al-Alaq",
+        "name_arabic": "سُورَةُ العَلَقِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        96,
+        18,
+        2
+      ],
+      "form_arabic": "ٱلزَّبَانِيَةَ",
+      "lemma": "z~abaAniyap",
+      "lemma_arabic": "زَّبَانِيَة",
+      "pos": "N",
+      "ayah_id": "96:18",
+      "ayah_arabic": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Alaq",
+      "literal_gloss": "the Angels of Hell",
+      "translations": {
+        "saheeh": "We will call the angels of Hell.",
+        "pickthall": "We will call the guards of hell.",
+        "khattab": "We will call the wardens of Hell",
+        "arberry": "We shall call on the guards of Hell."
+      }
+    }
+  ]
+}

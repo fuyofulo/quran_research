@@ -1,0 +1,99 @@
+{
+  "root": "lZy",
+  "root_arabic": "لظي",
+  "stats": {
+    "occurrences": 1,
+    "lemmas": 1,
+    "ayahs": 1,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "talaZ~aY`",
+      "lemma_arabic": "تَلَظَّىٰ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        92,
+        14,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            92,
+            14,
+            3
+          ],
+          "form_arabic": "تَلَظَّىٰ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "n*r",
+      "root_arabic": "نذر",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        92,
+        14
+      ]
+    },
+    {
+      "root": "nwr",
+      "root_arabic": "نور",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        92,
+        14
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 92,
+        "name_english": "Al-Lail",
+        "name_arabic": "سُورَةُ اللَّيۡلِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        92,
+        14,
+        3
+      ],
+      "form_arabic": "تَلَظَّىٰ",
+      "lemma": "talaZ~aY`",
+      "lemma_arabic": "تَلَظَّىٰ",
+      "pos": "V",
+      "ayah_id": "92:14",
+      "ayah_arabic": "فَأَنذَرۡتُكُمۡ نَارࣰ ا تَلَظَّىٰ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Lail",
+      "literal_gloss": "blazing",
+      "translations": {
+        "saheeh": "So I have warned you of a Fire which is blazing.",
+        "pickthall": "Therefor have I warned you of the flaming Fire",
+        "khattab": "And so I have warned you of a raging Fire",
+        "arberry": "Now I have warned you of a Fire that flames,"
+      }
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "root": "zqm",
+  "root_arabic": "زقم",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 1,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "PN": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "zaq~uwm",
+      "lemma_arabic": "زَقُّوم",
+      "count": 3,
+      "pos_distribution": {
+        "PN": 3
+      },
+      "first_occurrence": [
+        37,
+        62,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            37,
+            62,
+            6
+          ],
+          "form_arabic": "ٱلزَّقُّومِ",
+          "pos": "PN"
+        },
+        {
+          "location": [
+            44,
+            43,
+            3
+          ],
+          "form_arabic": "ٱلزَّقُّومِ",
+          "pos": "PN"
+        },
+        {
+          "location": [
+            56,
+            52,
+            5
+          ],
+          "form_arabic": "زَقُّومٍ",
+          "pos": "PN"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "$jr",
+      "root_arabic": "شجر",
+      "ayahs_together": 3,
+      "share": 1.0,
+      "first_together": [
+        37,
+        62
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        56,
+        52
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        37,
+        62
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        37,
+        62
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 44,
+        "name_english": "Ad-Dukhaan",
+        "name_arabic": "سُورَةُ الدُّخَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 3
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        37,
+        62,
+        6
+      ],
+      "form_arabic": "ٱلزَّقُّومِ",
+      "lemma": "zaq~uwm",
+      "lemma_arabic": "زَقُّوم",
+      "pos": "PN",
+      "ayah_id": "37:62",
+      "ayah_arabic": "أَذَٰلِكَ خَيۡرࣱ نُّزُلًا أَمۡ شَجَرَةُ ٱلزَّقُّومِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "(of) Zaqqum",
+      "translations": {
+        "saheeh": "Is Paradise a better accommodation or the tree of zaqqum?",
+        "pickthall": "Is this better as a welcome, or the tree of Zaqqum?",
+        "khattab": "Is this ˹bliss˺ a better accommodation or the tree of Zaqqûm",
+        "arberry": "Is that better as a hospitality, or the Tree of Ez-Zakkoum?"
+      }
+    },
+    {
+      "location": [
+        44,
+        43,
+        3
+      ],
+      "form_arabic": "ٱلزَّقُّومِ",
+      "lemma": "zaq~uwm",
+      "lemma_arabic": "زَقُّوم",
+      "pos": "PN",
+      "ayah_id": "44:43",
+      "ayah_arabic": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ad-Dukhaan",
+      "literal_gloss": "(of) Zaqqum",
+      "translations": {
+        "saheeh": "Indeed, the tree of zaqqum",
+        "pickthall": "Lo! the tree of Zaqqum,",
+        "khattab": "Surely ˹the fruit of˺ the tree of Zaqqûm",
+        "arberry": "Lo, the Tree of Ez-Zakkoum"
+      }
+    },
+    {
+      "location": [
+        56,
+        52,
+        5
+      ],
+      "form_arabic": "زَقُّومٍ",
+      "lemma": "zaq~uwm",
+      "lemma_arabic": "زَقُّوم",
+      "pos": "PN",
+      "ayah_id": "56:52",
+      "ayah_arabic": "لَأٓكِلُونَ مِن شَجَرࣲ مِّن زَقُّومࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "Zaqqum",
+      "translations": {
+        "saheeh": "Will be eating from trees of zaqqum",
+        "pickthall": "Ye verily will eat of a tree called Zaqqum",
+        "khattab": "will certainly eat from ˹the fruit of˺ the trees of Zaqqûm",
+        "arberry": "you shall eat of a tree called Zakkoum,"
+      }
+    }
+  ]
+}

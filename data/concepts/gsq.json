@@ -1,0 +1,353 @@
+{
+  "root": "gsq",
+  "root_arabic": "غسق",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 3,
+    "ayahs": 4,
+    "surahs": 4,
+    "pos_distribution": {
+      "N": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "gas~aAq",
+      "lemma_arabic": "غَسَّاق",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        38,
+        57,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            38,
+            57,
+            4
+          ],
+          "form_arabic": "وَغَسَّاقٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            78,
+            25,
+            3
+          ],
+          "form_arabic": "وَغَسَّاقًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "gasaq",
+      "lemma_arabic": "غَسَق",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        17,
+        78,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            17,
+            78,
+            6
+          ],
+          "form_arabic": "غَسَقِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "gaAsiq",
+      "lemma_arabic": "غَاسِق",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        113,
+        3,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            113,
+            3,
+            3
+          ],
+          "form_arabic": "غَاسِقٍ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Hmm",
+      "root_arabic": "حمم",
+      "ayahs_together": 2,
+      "share": 0.5,
+      "first_together": [
+        38,
+        57
+      ]
+    },
+    {
+      "root": "$ms",
+      "root_arabic": "شمس",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "dlk",
+      "root_arabic": "دلك",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "fjr",
+      "root_arabic": "فجر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "$rr",
+      "root_arabic": "شرر",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        113,
+        3
+      ]
+    },
+    {
+      "root": "wqb",
+      "root_arabic": "وقب",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        113,
+        3
+      ]
+    },
+    {
+      "root": "*wq",
+      "root_arabic": "ذوق",
+      "ayahs_together": 1,
+      "share": 0.25,
+      "first_together": [
+        38,
+        57
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 38,
+        "name_english": "Saad",
+        "name_arabic": "سُورَةُ صٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 78,
+        "name_english": "An-Naba",
+        "name_arabic": "سُورَةُ النَّبَإِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 113,
+        "name_english": "Al-Falaq",
+        "name_arabic": "سُورَةُ الفَلَقِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        17,
+        78,
+        6
+      ],
+      "form_arabic": "غَسَقِ",
+      "lemma": "gasaq",
+      "lemma_arabic": "غَسَق",
+      "pos": "N",
+      "ayah_id": "17:78",
+      "ayah_arabic": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمۡسِ إِلَىٰ غَسَقِ ٱلَّيۡلِ وَقُرۡءَانَ ٱلۡفَجۡرِۖ إِنَّ قُرۡءَانَ ٱلۡفَجۡرِ كَانَ مَشۡهُودࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "(the) darkness",
+      "translations": {
+        "saheeh": "Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur'an of dawn. Indeed, the recitation of dawn is ever witnessed.",
+        "pickthall": "Establish worship at the going down of the sun until the dark of night, and (the recital of) the Qur'an at dawn. Lo! (the recital of) the Qur'an at dawn is ever witnessed.",
+        "khattab": "Observe the prayer from the decline of the sun until the darkness of the night and the dawn prayer, for certainly the dawn prayer is witnessed ˹by angels˺",
+        "arberry": "Perform the prayer at the sinking of the sun to the darkening of the night and the recital of dawn; surely the recital of dawn is witnessed."
+      }
+    },
+    {
+      "location": [
+        38,
+        57,
+        4
+      ],
+      "form_arabic": "وَغَسَّاقٌ",
+      "lemma": "gas~aAq",
+      "lemma_arabic": "غَسَّاق",
+      "pos": "N",
+      "ayah_id": "38:57",
+      "ayah_arabic": "هَٰذَا فَلۡيَذُوقُوهُ حَمِيمࣱ وَغَسَّاقࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "and purulence",
+      "translations": {
+        "saheeh": "This - so let them taste it - is scalding water and [foul] purulence.",
+        "pickthall": "Here is a boiling and an ice-cold draught, so let them taste it,",
+        "khattab": "Let them then taste this: boiling water and ˹oozing˺ pus",
+        "arberry": "All this; so let them taste it - boiling water and pus,"
+      }
+    },
+    {
+      "location": [
+        78,
+        25,
+        3
+      ],
+      "form_arabic": "وَغَسَّاقًا",
+      "lemma": "gas~aAq",
+      "lemma_arabic": "غَسَّاق",
+      "pos": "N",
+      "ayah_id": "78:25",
+      "ayah_arabic": "إِلَّا حَمِيمࣰ ا وَغَسَّاقࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naba",
+      "literal_gloss": "and purulence",
+      "translations": {
+        "saheeh": "Except scalding water and [foul] purulence -",
+        "pickthall": "Save boiling water and a paralysing cold:",
+        "khattab": "except boiling water and ˹oozing˺ pus—",
+        "arberry": "save boiling water and pus"
+      }
+    },
+    {
+      "location": [
+        113,
+        3,
+        3
+      ],
+      "form_arabic": "غَاسِقٍ",
+      "lemma": "gaAsiq",
+      "lemma_arabic": "غَاسِق",
+      "pos": "N",
+      "ayah_id": "113:3",
+      "ayah_arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Falaq",
+      "literal_gloss": "(of) darkness",
+      "translations": {
+        "saheeh": "And from the evil of darkness when it settles",
+        "pickthall": "From the evil of the darkness when it is intense,",
+        "khattab": "and from the evil of the night when it grows dark",
+        "arberry": "from the evil of darkness when it gathers,"
+      }
+    }
+  ]
+}

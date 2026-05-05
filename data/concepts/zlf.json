@@ -1,0 +1,878 @@
+{
+  "root": "zlf",
+  "root_arabic": "زلف",
+  "stats": {
+    "occurrences": 10,
+    "lemmas": 3,
+    "ayahs": 10,
+    "surahs": 8,
+    "pos_distribution": {
+      "N": 6,
+      "V": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">uzolifato",
+      "lemma_arabic": "أُزْلِفَتْ",
+      "count": 4,
+      "pos_distribution": {
+        "V": 4
+      },
+      "first_occurrence": [
+        26,
+        64,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            26,
+            64,
+            1
+          ],
+          "form_arabic": "وَأَزْلَفْنَا",
+          "pos": "V"
+        },
+        {
+          "location": [
+            26,
+            90,
+            1
+          ],
+          "form_arabic": "وَأُزْلِفَتِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            50,
+            31,
+            1
+          ],
+          "form_arabic": "وَأُزْلِفَتِ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            81,
+            13,
+            3
+          ],
+          "form_arabic": "أُزْلِفَتْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "zulofaY`^",
+      "lemma_arabic": "زُلْفَىٰ^",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        34,
+        37,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            34,
+            37,
+            8
+          ],
+          "form_arabic": "زُلْفَىٰ^",
+          "pos": "N"
+        },
+        {
+          "location": [
+            38,
+            25,
+            7
+          ],
+          "form_arabic": "لَزُلْفَىٰ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            38,
+            40,
+            4
+          ],
+          "form_arabic": "لَزُلْفَىٰ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            39,
+            3,
+            16
+          ],
+          "form_arabic": "زُلْفَىٰ^",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "zulofap",
+      "lemma_arabic": "زُلْفَة",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        11,
+        114,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            114,
+            5
+          ],
+          "form_arabic": "وَزُلَفًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            67,
+            27,
+            3
+          ],
+          "form_arabic": "زُلْفَةً",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 3,
+      "share": 0.3,
+      "first_together": [
+        26,
+        90
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 3,
+      "share": 0.3,
+      "first_together": [
+        11,
+        114
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 3,
+      "share": 0.3,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 0.2,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "swA",
+      "root_arabic": "سوا",
+      "ayahs_together": 2,
+      "share": 0.2,
+      "first_together": [
+        11,
+        114
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 2,
+      "share": 0.2,
+      "first_together": [
+        26,
+        90
+      ]
+    },
+    {
+      "root": "Awb",
+      "root_arabic": "اوب",
+      "ayahs_together": 2,
+      "share": 0.2,
+      "first_together": [
+        38,
+        25
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 2,
+      "share": 0.2,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        67,
+        27
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        67,
+        27
+      ]
+    },
+    {
+      "root": "wjh",
+      "root_arabic": "وجه",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        67,
+        27
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        67,
+        27
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        67,
+        27
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        38,
+        25
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        26,
+        64
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        50,
+        31
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        50,
+        31
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "jzy",
+      "root_arabic": "جزي",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "DEf",
+      "root_arabic": "ضعف",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "grf",
+      "root_arabic": "غرف",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        34,
+        37
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        11,
+        114
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        11,
+        114
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        11,
+        114
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        11,
+        114
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        11,
+        114
+      ]
+    },
+    {
+      "root": "Trf",
+      "root_arabic": "طرف",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        11,
+        114
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        11,
+        114
+      ]
+    },
+    {
+      "root": "dwn",
+      "root_arabic": "دون",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "dyn",
+      "root_arabic": "دين",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    },
+    {
+      "root": "xlS",
+      "root_arabic": "خلص",
+      "ayahs_together": 1,
+      "share": 0.1,
+      "first_together": [
+        39,
+        3
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 26,
+        "name_english": "Ash-Shu'araa",
+        "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 38,
+        "name_english": "Saad",
+        "name_arabic": "سُورَةُ صٓ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 34,
+        "name_english": "Saba",
+        "name_arabic": "سُورَةُ سَبَإٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 50,
+        "name_english": "Qaaf",
+        "name_arabic": "سُورَةُ قٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 67,
+        "name_english": "Al-Mulk",
+        "name_arabic": "سُورَةُ المُلۡكِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 81,
+        "name_english": "At-Takwir",
+        "name_arabic": "سُورَةُ التَّكۡوِيرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 10
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        11,
+        114,
+        5
+      ],
+      "form_arabic": "وَزُلَفًا",
+      "lemma": "zulofap",
+      "lemma_arabic": "زُلْفَة",
+      "pos": "N",
+      "ayah_id": "11:114",
+      "ayah_arabic": "وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَيِ ٱلنَّهَارِ وَزُلَفࣰ ا مِّنَ ٱلَّيۡلِۚ إِنَّ ٱلۡحَسَنَٰتِ يُذۡهِبۡنَ ٱلسَّيِّـَٔاتِۚ ذَٰلِكَ ذِكۡرَىٰ لِلذَّٰكِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "and (at) the approach",
+      "translations": {
+        "saheeh": "And establish prayer at the two ends of the day and at the approach of the night. Indeed, good deeds do away with misdeeds. That is a reminder for those who remember.",
+        "pickthall": "Establish worship at the two ends of the day and in some watches of the night. Lo! good deeds annul ill-deeds. This is reminder for the mindful.",
+        "khattab": "Establish prayer ˹O Prophet˺ at both ends of the day and in the early part of the night. Surely good deeds wipe out evil deeds. That is a reminder for the mindful",
+        "arberry": "And perform the prayer at the two ends of the day and nigh of the night; surely the good deeds will drive away the evil deeds. That is a remembrance unto the mindful."
+      }
+    },
+    {
+      "location": [
+        26,
+        64,
+        1
+      ],
+      "form_arabic": "وَأَزْلَفْنَا",
+      "lemma": ">uzolifato",
+      "lemma_arabic": "أُزْلِفَتْ",
+      "pos": "V",
+      "ayah_id": "26:64",
+      "ayah_arabic": "وَأَزۡلَفۡنَا ثَمَّ ٱلۡأٓخَرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "And We brought near",
+      "translations": {
+        "saheeh": "And We advanced thereto the pursuers.",
+        "pickthall": "Then brought We near the others to that place.",
+        "khattab": "We drew the pursuers to that place",
+        "arberry": "And there We brought the others on,"
+      }
+    },
+    {
+      "location": [
+        26,
+        90,
+        1
+      ],
+      "form_arabic": "وَأُزْلِفَتِ",
+      "lemma": ">uzolifato",
+      "lemma_arabic": "أُزْلِفَتْ",
+      "pos": "V",
+      "ayah_id": "26:90",
+      "ayah_arabic": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "And (will be) brought near",
+      "translations": {
+        "saheeh": "And Paradise will be brought near [that Day] to the righteous.",
+        "pickthall": "And the Garden will be brought nigh for those who ward off (evil).",
+        "khattab": "˹On that Day˺ Paradise will be brought near to the God-fearing",
+        "arberry": "And Paradise shall be brought forward for the godfearing,"
+      }
+    },
+    {
+      "location": [
+        34,
+        37,
+        8
+      ],
+      "form_arabic": "زُلْفَىٰ^",
+      "lemma": "zulofaY`^",
+      "lemma_arabic": "زُلْفَىٰ^",
+      "pos": "N",
+      "ayah_id": "34:37",
+      "ayah_arabic": "وَمَآ أَمۡوَٰلُكُمۡ وَلَآ أَوۡلَٰدُكُم بِٱلَّتِي تُقَرِّبُكُمۡ عِندَنَا زُلۡفَىٰٓ إِلَّا مَنۡ ءَامَنَ وَعَمِلَ صَٰلِحࣰ ا فَأُوْلَٰٓئِكَ لَهُمۡ جَزَآءُ ٱلضِّعۡفِ بِمَا عَمِلُواْ وَهُمۡ فِي ٱلۡغُرُفَٰتِ ءَامِنُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saba",
+      "literal_gloss": "(in) position",
+      "translations": {
+        "saheeh": "And it is not your wealth or your children that bring you nearer to Us in position, but it is [by being] one who has believed and done righteousness. For them there will be the double reward for what they did, and they will be in the upper chambers [of Paradise], safe [and secure].",
+        "pickthall": "And it is not your wealth nor your children that will bring you near unto Us, but he who believeth and doeth good (he draweth near). As for such, theirs will be twofold reward for what they did and they will dwell secure in lofty halls.",
+        "khattab": "It is not your wealth or children that bring you closer to Us. But those who believe and do good—it is they who will have a multiplied reward for what they did, and they will be secure in ˹elevated˺ mansions",
+        "arberry": "It is not your wealth nor your children that shall bring you nigh in nearness to Us, except for him who believes, and does righteousness; those -- there awaits them the double recompense for that they did, and they shall be in the lofty chambers in security."
+      }
+    },
+    {
+      "location": [
+        38,
+        25,
+        7
+      ],
+      "form_arabic": "لَزُلْفَىٰ",
+      "lemma": "zulofaY`^",
+      "lemma_arabic": "زُلْفَىٰ^",
+      "pos": "N",
+      "ayah_id": "38:25",
+      "ayah_arabic": "فَغَفَرۡنَا لَهُۥ ذَٰلِكَۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَـَٔابࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "surely is a near access",
+      "translations": {
+        "saheeh": "So We forgave him that; and indeed, for him is nearness to Us and a good place of return.",
+        "pickthall": "So We forgave him that; and lo! he had access to Our presence and a happy journey's end.",
+        "khattab": "So We forgave that for him. And he will indeed have ˹a status of˺ closeness to Us and an honourable destination",
+        "arberry": "Accordingly We forgave him that, and he has a near place in Our presence and a fair resort."
+      }
+    },
+    {
+      "location": [
+        38,
+        40,
+        4
+      ],
+      "form_arabic": "لَزُلْفَىٰ",
+      "lemma": "zulofaY`^",
+      "lemma_arabic": "زُلْفَىٰ^",
+      "pos": "N",
+      "ayah_id": "38:40",
+      "ayah_arabic": "وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَـَٔابࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Saad",
+      "literal_gloss": "surely is a near access",
+      "translations": {
+        "saheeh": "And indeed, for him is nearness to Us and a good place of return.",
+        "pickthall": "And lo! he hath favour with Us, and a happy journey's end.",
+        "khattab": "And he will indeed have ˹a status of˺ closeness to Us and an honourable destination",
+        "arberry": "And he had a near place in Our presence and a fair resort."
+      }
+    },
+    {
+      "location": [
+        39,
+        3,
+        16
+      ],
+      "form_arabic": "زُلْفَىٰ^",
+      "lemma": "zulofaY`^",
+      "lemma_arabic": "زُلْفَىٰ^",
+      "pos": "N",
+      "ayah_id": "39:3",
+      "ayah_arabic": "أَلَا لِلَّهِ ٱلدِّينُ ٱلۡخَالِصُۚ وَٱلَّذِينَ ٱتَّخَذُواْ مِن دُونِهِۦٓ أَوۡلِيَآءَ مَا نَعۡبُدُهُمۡ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلۡفَىٰٓ إِنَّ ٱللَّهَ يَحۡكُمُ بَيۡنَهُمۡ فِي مَا هُمۡ فِيهِ يَخۡتَلِفُونَۗ إِنَّ ٱللَّهَ لَا يَهۡدِي مَنۡ هُوَ كَٰذِبࣱ كَفَّارࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "(in) nearness",
+      "translations": {
+        "saheeh": "Unquestionably, for Allah is the pure religion. And those who take protectors besides Him [say], \"We only worship them that they may bring us nearer to Allah in position.\" Indeed, Allah will judge between them concerning that over which they differ. Indeed, Allah does not guide he who is a liar and [confirmed] disbeliever.",
+        "pickthall": "Surely pure religion is for Allah only. And those who choose protecting friends beside Him (say): We worship them only that they may bring us near unto Allah. Lo! Allah will judge between them concerning that wherein they differ. Lo! Allah guideth not him who is a liar, an ingrate.",
+        "khattab": "Indeed, sincere devotion is due ˹only˺ to Allah. As for those who take other lords besides Him, ˹saying,˺ “We worship them only so they may bring us closer to Allah,” surely Allah will judge between all regarding what they differed about. Allah certainly does not guide whoever persists in lying and disbelief",
+        "arberry": "Belongs not sincere religion to God? And those who take protectors, apart from Him -- 'We only serve them that they may bring us nigh in nearness to God' -- surely God shall judge between them touching that whereon they are at variance. Surely God guides not him who is a liar, unthankful."
+      }
+    },
+    {
+      "location": [
+        50,
+        31,
+        1
+      ],
+      "form_arabic": "وَأُزْلِفَتِ",
+      "lemma": ">uzolifato",
+      "lemma_arabic": "أُزْلِفَتْ",
+      "pos": "V",
+      "ayah_id": "50:31",
+      "ayah_arabic": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ غَيۡرَ بَعِيدٍ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Qaaf",
+      "literal_gloss": "And will be brought near",
+      "translations": {
+        "saheeh": "And Paradise will be brought near to the righteous, not far,",
+        "pickthall": "And the Garden is brought nigh for those who kept from evil, no longer distant.",
+        "khattab": "And Paradise will be brought near to the righteous, not far off",
+        "arberry": "And Paradise shall be brought forward to the godfearing, not afar:"
+      }
+    },
+    {
+      "location": [
+        67,
+        27,
+        3
+      ],
+      "form_arabic": "زُلْفَةً",
+      "lemma": "zulofap",
+      "lemma_arabic": "زُلْفَة",
+      "pos": "N",
+      "ayah_id": "67:27",
+      "ayah_arabic": "فَلَمَّا رَأَوۡهُ زُلۡفَةࣰ سِيٓـَٔتۡ وُجُوهُ ٱلَّذِينَ كَفَرُواْ وَقِيلَ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَدَّعُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mulk",
+      "literal_gloss": "approaching",
+      "translations": {
+        "saheeh": "But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, \"This is that for which you used to call.\"",
+        "pickthall": "But when they see it nigh, the faces of those who disbelieve will be awry, and it will be said (unto them): This is that for which ye used to call.",
+        "khattab": "Then when they see the torment drawing near, the faces of the disbelievers will become gloomy, and it will be said ˹to them˺, “This is what you claimed would never come.”",
+        "arberry": "Then, when they see it nigh at hand, the faces of the unbelievers will be vexed, and it will be said, 'This is what you were promised.'"
+      }
+    },
+    {
+      "location": [
+        81,
+        13,
+        3
+      ],
+      "form_arabic": "أُزْلِفَتْ",
+      "lemma": ">uzolifato",
+      "lemma_arabic": "أُزْلِفَتْ",
+      "pos": "V",
+      "ayah_id": "81:13",
+      "ayah_arabic": "وَإِذَا ٱلۡجَنَّةُ أُزۡلِفَتۡ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Takwir",
+      "literal_gloss": "is brought near",
+      "translations": {
+        "saheeh": "And when Paradise is brought near,",
+        "pickthall": "And when the Garden is brought nigh,",
+        "khattab": "and when Paradise is brought near—",
+        "arberry": "when Paradise shall be brought nigh,"
+      }
+    }
+  ]
+}

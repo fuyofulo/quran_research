@@ -1,0 +1,637 @@
+{
+  "root": "qbr",
+  "root_arabic": "قبر",
+  "stats": {
+    "occurrences": 8,
+    "lemmas": 3,
+    "ayahs": 8,
+    "surahs": 8,
+    "pos_distribution": {
+      "N": 7,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "qabor",
+      "lemma_arabic": "قَبْر",
+      "count": 6,
+      "pos_distribution": {
+        "N": 6
+      },
+      "first_occurrence": [
+        9,
+        84,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            9,
+            84,
+            11
+          ],
+          "form_arabic": "قَبْرِهِ.^",
+          "pos": "N"
+        },
+        {
+          "location": [
+            22,
+            7,
+            12
+          ],
+          "form_arabic": "ٱلْقُبُورِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            35,
+            22,
+            16
+          ],
+          "form_arabic": "ٱلْقُبُورِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            60,
+            13,
+            19
+          ],
+          "form_arabic": "ٱلْقُبُورِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            82,
+            4,
+            2
+          ],
+          "form_arabic": "ٱلْقُبُورُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            100,
+            9,
+            7
+          ],
+          "form_arabic": "ٱلْقُبُورِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": ">aqobara",
+      "lemma_arabic": "أَقْبَرَ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        80,
+        21,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            80,
+            21,
+            3
+          ],
+          "form_arabic": "فَأَقْبَرَهُ,",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "maqaAbir",
+      "lemma_arabic": "مَقَابِر",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        102,
+        2,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            102,
+            2,
+            3
+          ],
+          "form_arabic": "ٱلْمَقَابِرَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 4,
+      "share": 0.5,
+      "first_together": [
+        9,
+        84
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 3,
+      "share": 0.375,
+      "first_together": [
+        9,
+        84
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        9,
+        84
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        9,
+        84
+      ]
+    },
+    {
+      "root": "bEvr",
+      "root_arabic": "بعثر",
+      "ayahs_together": 2,
+      "share": 0.25,
+      "first_together": [
+        82,
+        4
+      ]
+    },
+    {
+      "root": "Abd",
+      "root_arabic": "ابد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        9,
+        84
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        9,
+        84
+      ]
+    },
+    {
+      "root": "fsq",
+      "root_arabic": "فسق",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        9,
+        84
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        9,
+        84
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        9,
+        84
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        22,
+        7
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        22,
+        7
+      ]
+    },
+    {
+      "root": "ryb",
+      "root_arabic": "ريب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        22,
+        7
+      ]
+    },
+    {
+      "root": "swE",
+      "root_arabic": "سوع",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        22,
+        7
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        13
+      ]
+    },
+    {
+      "root": "yAs",
+      "root_arabic": "ياس",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        13
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        13
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        13
+      ]
+    },
+    {
+      "root": "SHb",
+      "root_arabic": "صحب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        13
+      ]
+    },
+    {
+      "root": "gDb",
+      "root_arabic": "غضب",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        60,
+        13
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        100,
+        9
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        35,
+        22
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        35,
+        22
+      ]
+    },
+    {
+      "root": "swy",
+      "root_arabic": "سوي",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        35,
+        22
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        35,
+        22
+      ]
+    },
+    {
+      "root": "zwr",
+      "root_arabic": "زور",
+      "ayahs_together": 1,
+      "share": 0.125,
+      "first_together": [
+        102,
+        2
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 9,
+        "name_english": "At-Tawba",
+        "name_arabic": "سُورَةُ التَّوۡبَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 22,
+        "name_english": "Al-Hajj",
+        "name_arabic": "سُورَةُ الحَجِّ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 35,
+        "name_english": "Faatir",
+        "name_arabic": "سُورَةُ فَاطِرٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 60,
+        "name_english": "Al-Mumtahana",
+        "name_arabic": "سُورَةُ المُمۡتَحنَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 80,
+        "name_english": "Abasa",
+        "name_arabic": "سُورَةُ عَبَسَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 82,
+        "name_english": "Al-Infitaar",
+        "name_arabic": "سُورَةُ الانفِطَارِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 100,
+        "name_english": "Al-Aadiyaat",
+        "name_arabic": "سُورَةُ العَادِيَاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 102,
+        "name_english": "At-Takaathur",
+        "name_arabic": "سُورَةُ التَّكَاثُرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 3,
+      "Meccan": 5
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        9,
+        84,
+        11
+      ],
+      "form_arabic": "قَبْرِهِ.^",
+      "lemma": "qabor",
+      "lemma_arabic": "قَبْر",
+      "pos": "N",
+      "ayah_id": "9:84",
+      "ayah_arabic": "وَلَا تُصَلِّ عَلَىٰٓ أَحَدࣲ مِّنۡهُم مَّاتَ أَبَدࣰ ا وَلَا تَقُمۡ عَلَىٰ قَبۡرِهِۦٓۖ إِنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِۦ وَمَاتُواْ وَهُمۡ فَٰسِقُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tawba",
+      "literal_gloss": "his grave",
+      "translations": {
+        "saheeh": "And do not pray [the funeral prayer, O Muhammad], over any of them who has died - ever - or stand at his grave. Indeed, they disbelieved in Allah and His Messenger and died while they were defiantly disobedient.",
+        "pickthall": "And never (O Muhammad) pray for one of them who dieth, nor stand by his grave. Lo! they disbelieved in Allah and His messenger, and they died while they were evil-doers.",
+        "khattab": "And do not ever offer ˹funeral˺ prayers for any of their dead, nor stand by their grave ˹at burial˺, for they have lost faith in Allah and His Messenger and died rebellious",
+        "arberry": "And pray thou never over any one of them when he is dead, nor stand over his grave; they disbelieved in God and His Messenger, and died while they were ungodly."
+      }
+    },
+    {
+      "location": [
+        22,
+        7,
+        12
+      ],
+      "form_arabic": "ٱلْقُبُورِ",
+      "lemma": "qabor",
+      "lemma_arabic": "قَبْر",
+      "pos": "N",
+      "ayah_id": "22:7",
+      "ayah_arabic": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةࣱ لَّا رَيۡبَ فِيهَا وَأَنَّ ٱللَّهَ يَبۡعَثُ مَن فِي ٱلۡقُبُورِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Hajj",
+      "literal_gloss": "the graves",
+      "translations": {
+        "saheeh": "And [that they may know] that the Hour is coming - no doubt about it - and that Allah will resurrect those in the graves.",
+        "pickthall": "And because the Hour will come, there is no doubt thereof; and because Allah will raise those who are in the graves.",
+        "khattab": "And certainly the Hour is coming, there is no doubt about it. And Allah will surely resurrect those in the graves",
+        "arberry": "and because the Hour is coming, no doubt of it, and God shall raise up whosoever is within the tombs."
+      }
+    },
+    {
+      "location": [
+        35,
+        22,
+        16
+      ],
+      "form_arabic": "ٱلْقُبُورِ",
+      "lemma": "qabor",
+      "lemma_arabic": "قَبْر",
+      "pos": "N",
+      "ayah_id": "35:22",
+      "ayah_arabic": "وَمَا يَسۡتَوِي ٱلۡأَحۡيَآءُ وَلَا ٱلۡأَمۡوَٰتُۚ إِنَّ ٱللَّهَ يُسۡمِعُ مَن يَشَآءُۖ وَمَآ أَنتَ بِمُسۡمِعࣲ مَّن فِي ٱلۡقُبُورِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Faatir",
+      "literal_gloss": "the graves",
+      "translations": {
+        "saheeh": "And not equal are the living and the dead. Indeed, Allah causes to hear whom He wills, but you cannot make hear those in the graves.",
+        "pickthall": "Nor are the living equal with the dead. Lo! Allah maketh whom He will to hear. Thou canst not reach those who are in the graves.",
+        "khattab": "Nor are the dead and the living equal. Indeed, Allah ˹alone˺ makes whoever He wills hear, but you ˹O Prophet˺ can never make those in the graves hear ˹your call˺",
+        "arberry": "not equal are the living and the dead. God makes to hear whomsoever He will; thou canst not make those in their tombs to hear -"
+      }
+    },
+    {
+      "location": [
+        60,
+        13,
+        19
+      ],
+      "form_arabic": "ٱلْقُبُورِ",
+      "lemma": "qabor",
+      "lemma_arabic": "قَبْر",
+      "pos": "N",
+      "ayah_id": "60:13",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَوَلَّوۡاْ قَوۡمًا غَضِبَ ٱللَّهُ عَلَيۡهِمۡ قَدۡ يَئِسُواْ مِنَ ٱلۡأٓخِرَةِ كَمَا يَئِسَ ٱلۡكُفَّارُ مِنۡ أَصۡحَٰبِ ٱلۡقُبُورِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Mumtahana",
+      "literal_gloss": "(of) the graves",
+      "translations": {
+        "saheeh": "O you who have believed, do not make allies of a people with whom Allah has become angry. They have despaired of [reward in] the Hereafter just as the disbelievers have despaired of [meeting] the inhabitants of the graves.",
+        "pickthall": "O ye who believe! Be not friendly with a folk with whom Allah is wroth, (a folk) who have despaired of the Hereafter as the disbelievers despair of those who are in the graves.",
+        "khattab": "O believers! Do not ally yourselves with a people Allah is displeased with. They already have no hope for the Hereafter, just like the disbelievers lying in ˹their˺ graves",
+        "arberry": "O believers, take not for friends a people against whom God is wrathful, and who have despaired of the world to come, even as the unbelievers have despaired of the inhabitants of the tombs."
+      }
+    },
+    {
+      "location": [
+        80,
+        21,
+        3
+      ],
+      "form_arabic": "فَأَقْبَرَهُ,",
+      "lemma": ">aqobara",
+      "lemma_arabic": "أَقْبَرَ",
+      "pos": "V",
+      "ayah_id": "80:21",
+      "ayah_arabic": "ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Abasa",
+      "literal_gloss": "and provides a grave for him",
+      "translations": {
+        "saheeh": "Then He causes his death and provides a grave for him.",
+        "pickthall": "Then causeth him to die, and burieth him;",
+        "khattab": "then causes them to die and be buried",
+        "arberry": "then makes him to die, and buries him,"
+      }
+    },
+    {
+      "location": [
+        82,
+        4,
+        2
+      ],
+      "form_arabic": "ٱلْقُبُورُ",
+      "lemma": "qabor",
+      "lemma_arabic": "قَبْر",
+      "pos": "N",
+      "ayah_id": "82:4",
+      "ayah_arabic": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Infitaar",
+      "literal_gloss": "the graves",
+      "translations": {
+        "saheeh": "And when the [contents of] graves are scattered,",
+        "pickthall": "And the sepulchres are overturned,",
+        "khattab": "and when the graves spill out",
+        "arberry": "when the tombs are overthrown,"
+      }
+    },
+    {
+      "location": [
+        100,
+        9,
+        7
+      ],
+      "form_arabic": "ٱلْقُبُورِ",
+      "lemma": "qabor",
+      "lemma_arabic": "قَبْر",
+      "pos": "N",
+      "ayah_id": "100:9",
+      "ayah_arabic": "۞أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Aadiyaat",
+      "literal_gloss": "the graves",
+      "translations": {
+        "saheeh": "But does he not know that when the contents of the graves are scattered",
+        "pickthall": "Knoweth he not that, when the contents of the graves are poured forth",
+        "khattab": "Do they not know that when the contents of the graves will be spilled out",
+        "arberry": "Knows he not that when that which is in the tombs is over-thrown,"
+      }
+    },
+    {
+      "location": [
+        102,
+        2,
+        3
+      ],
+      "form_arabic": "ٱلْمَقَابِرَ",
+      "lemma": "maqaAbir",
+      "lemma_arabic": "مَقَابِر",
+      "pos": "N",
+      "ayah_id": "102:2",
+      "ayah_arabic": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Takaathur",
+      "literal_gloss": "the graves",
+      "translations": {
+        "saheeh": "Until you visit the graveyards.",
+        "pickthall": "Until ye come to the graves.",
+        "khattab": "until you end up in ˹your˺ graves",
+        "arberry": "even till you visit the tombs."
+      }
+    }
+  ]
+}

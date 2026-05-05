@@ -1,0 +1,1036 @@
+{
+  "root": "Hwr",
+  "root_arabic": "حور",
+  "stats": {
+    "occurrences": 13,
+    "lemmas": 5,
+    "ayahs": 12,
+    "surahs": 10,
+    "pos_distribution": {
+      "N": 10,
+      "V": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "HawaAriy~uwn",
+      "lemma_arabic": "حَوَارِيُّون",
+      "count": 5,
+      "pos_distribution": {
+        "N": 5
+      },
+      "first_occurrence": [
+        3,
+        52,
+        12
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            52,
+            12
+          ],
+          "form_arabic": "ٱلْحَوَارِيُّونَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            5,
+            111,
+            4
+          ],
+          "form_arabic": "ٱلْحَوَارِيِّ.نَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            5,
+            112,
+            3
+          ],
+          "form_arabic": "ٱلْحَوَارِيُّونَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            61,
+            14,
+            12
+          ],
+          "form_arabic": "لِلْحَوَارِيِّ.نَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            61,
+            14,
+            18
+          ],
+          "form_arabic": "ٱلْحَوَارِيُّونَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "Huwr",
+      "lemma_arabic": "حُور",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        44,
+        54,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            44,
+            54,
+            3
+          ],
+          "form_arabic": "بِحُورٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            52,
+            20,
+            6
+          ],
+          "form_arabic": "بِحُورٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            55,
+            72,
+            1
+          ],
+          "form_arabic": "حُورٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            56,
+            22,
+            1
+          ],
+          "form_arabic": "وَحُورٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "yuHaAwiru",
+      "lemma_arabic": "يُحَاوِرُ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        18,
+        34,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            18,
+            34,
+            7
+          ],
+          "form_arabic": "يُحَاوِرُهُ,^",
+          "pos": "V"
+        },
+        {
+          "location": [
+            18,
+            37,
+            5
+          ],
+          "form_arabic": "يُحَاوِرُهُ,^",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "taHaAwur",
+      "lemma_arabic": "تَحَاوُر",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        58,
+        1,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            58,
+            1,
+            14
+          ],
+          "form_arabic": "تَحَاوُرَكُمَا^",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "yaHuwra",
+      "lemma_arabic": "يَحُورَ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        84,
+        14,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            84,
+            14,
+            5
+          ],
+          "form_arabic": "يَحُورَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 7,
+      "share": 0.5833,
+      "first_together": [
+        3,
+        52
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        52
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        52
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.25,
+      "first_together": [
+        5,
+        112
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 3,
+      "share": 0.25,
+      "first_together": [
+        44,
+        54
+      ]
+    },
+    {
+      "root": "Eyn",
+      "root_arabic": "عين",
+      "ayahs_together": 3,
+      "share": 0.25,
+      "first_together": [
+        44,
+        54
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 3,
+      "share": 0.25,
+      "first_together": [
+        3,
+        52
+      ]
+    },
+    {
+      "root": "SHb",
+      "root_arabic": "صحب",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        18,
+        34
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        3,
+        52
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        3,
+        52
+      ]
+    },
+    {
+      "root": "nSr",
+      "root_arabic": "نصر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        3,
+        52
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        5,
+        112
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        18,
+        34
+      ]
+    },
+    {
+      "root": "nfr",
+      "root_arabic": "نفر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        18,
+        34
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        18,
+        34
+      ]
+    },
+    {
+      "root": "Ezz",
+      "root_arabic": "عزز",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        18,
+        34
+      ]
+    },
+    {
+      "root": "vmr",
+      "root_arabic": "ثمر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        18,
+        34
+      ]
+    },
+    {
+      "root": "wHy",
+      "root_arabic": "وحي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        111
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        111
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        58,
+        1
+      ]
+    },
+    {
+      "root": "jdl",
+      "root_arabic": "جدل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        58,
+        1
+      ]
+    },
+    {
+      "root": "$kw",
+      "root_arabic": "شكو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        58,
+        1
+      ]
+    },
+    {
+      "root": "bSr",
+      "root_arabic": "بصر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        58,
+        1
+      ]
+    },
+    {
+      "root": "srr",
+      "root_arabic": "سرر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        52,
+        20
+      ]
+    },
+    {
+      "root": "Sff",
+      "root_arabic": "صفف",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        52,
+        20
+      ]
+    },
+    {
+      "root": "wkA",
+      "root_arabic": "وكا",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        52,
+        20
+      ]
+    },
+    {
+      "root": "Znn",
+      "root_arabic": "ظنن",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        84,
+        14
+      ]
+    },
+    {
+      "root": "qSr",
+      "root_arabic": "قصر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        55,
+        72
+      ]
+    },
+    {
+      "root": "xym",
+      "root_arabic": "خيم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        55,
+        72
+      ]
+    },
+    {
+      "root": "Hss",
+      "root_arabic": "حسس",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        3,
+        52
+      ]
+    },
+    {
+      "root": "nTf",
+      "root_arabic": "نطف",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        18,
+        37
+      ]
+    },
+    {
+      "root": "xlq",
+      "root_arabic": "خلق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        18,
+        37
+      ]
+    },
+    {
+      "root": "trb",
+      "root_arabic": "ترب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        18,
+        37
+      ]
+    },
+    {
+      "root": "swy",
+      "root_arabic": "سوي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        18,
+        37
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        18,
+        37
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        112
+      ]
+    },
+    {
+      "root": "myd",
+      "root_arabic": "ميد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        112
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        112
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        112
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        112
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        5,
+        112
+      ]
+    },
+    {
+      "root": "Ayd",
+      "root_arabic": "ايد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        61,
+        14
+      ]
+    },
+    {
+      "root": "SbH",
+      "root_arabic": "صبح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        61,
+        14
+      ]
+    },
+    {
+      "root": "Edw",
+      "root_arabic": "عدو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        61,
+        14
+      ]
+    },
+    {
+      "root": "Twf",
+      "root_arabic": "طوف",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        61,
+        14
+      ]
+    },
+    {
+      "root": "Zhr",
+      "root_arabic": "ظهر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        61,
+        14
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 61,
+        "name_english": "As-Saff",
+        "name_arabic": "سُورَةُ الصَّفِّ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 44,
+        "name_english": "Ad-Dukhaan",
+        "name_arabic": "سُورَةُ الدُّخَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 52,
+        "name_english": "At-Tur",
+        "name_arabic": "سُورَةُ الطُّورِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 55,
+        "name_english": "Ar-Rahmaan",
+        "name_arabic": "سُورَةُ الرَّحۡمَٰن",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 58,
+        "name_english": "Al-Mujaadila",
+        "name_arabic": "سُورَةُ المُجَادلَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 84,
+        "name_english": "Al-Inshiqaaq",
+        "name_arabic": "سُورَةُ الانشِقَاقِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 7,
+      "Meccan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        3,
+        52,
+        12
+      ],
+      "form_arabic": "ٱلْحَوَارِيُّونَ",
+      "lemma": "HawaAriy~uwn",
+      "lemma_arabic": "حَوَارِيُّون",
+      "pos": "N",
+      "ayah_id": "3:52",
+      "ayah_arabic": "۞فَلَمَّآ أَحَسَّ عِيسَىٰ مِنۡهُمُ ٱلۡكُفۡرَ قَالَ مَنۡ أَنصَارِيٓ إِلَى ٱللَّهِۖ قَالَ ٱلۡحَوَارِيُّونَ نَحۡنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشۡهَدۡ بِأَنَّا مُسۡلِمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "the disciples",
+      "translations": {
+        "saheeh": "But when Jesus felt [persistence in] disbelief from them, he said, \"Who are my supporters for [the cause of] Allah?\" The disciples said, \"We are supporters for Allah. We have believed in Allah and testify that we are Muslims [submitting to Him].",
+        "pickthall": "But when Jesus became conscious of their disbelief, he cried: Who will be my helpers in the cause of Allah? The disciples said: We will be Allah's helpers. We believe in Allah, and bear thou witness that we have surrendered (unto Him).",
+        "khattab": "When Jesus sensed disbelief from his people, he asked, “Who will stand up with me for Allah?” The disciples replied, “We will stand up for Allah. We believe in Allah, so bear witness that we have submitted.”",
+        "arberry": "And when Jesus perceived their unbelief, he said, 'Who will be my helpers unto God?' The Apostles said, 'We will be helpers of God; we believe in God; witness thou our submission."
+      }
+    },
+    {
+      "location": [
+        5,
+        111,
+        4
+      ],
+      "form_arabic": "ٱلْحَوَارِيِّ.نَ",
+      "lemma": "HawaAriy~uwn",
+      "lemma_arabic": "حَوَارِيُّون",
+      "pos": "N",
+      "ayah_id": "5:111",
+      "ayah_arabic": "وَإِذۡ أَوۡحَيۡتُ إِلَى ٱلۡحَوَارِيِّـۧنَ أَنۡ ءَامِنُواْ بِي وَبِرَسُولِي قَالُوٓاْ ءَامَنَّا وَٱشۡهَدۡ بِأَنَّنَا مُسۡلِمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "the disciples",
+      "translations": {
+        "saheeh": "And [remember] when I inspired to the disciples, \"Believe in Me and in My messenger Jesus.\" They said, \"We have believed, so bear witness that indeed we are Muslims [in submission to Allah].\"",
+        "pickthall": "And when I inspired the disciples, (saying): Believe in Me and in My messenger, they said: We believe. Bear witness that we have surrendered (unto Thee) \"we are muslims\".",
+        "khattab": "And how I inspired the disciples, “Believe in Me and My messenger!” They declared, “We believe and bear witness that we fully submit ˹to Allah˺.”",
+        "arberry": "And when I inspired the Apostles: \"Believe in Me and My Messenger\"; they said, \"We believe; witness Thou our submission.\"'"
+      }
+    },
+    {
+      "location": [
+        5,
+        112,
+        3
+      ],
+      "form_arabic": "ٱلْحَوَارِيُّونَ",
+      "lemma": "HawaAriy~uwn",
+      "lemma_arabic": "حَوَارِيُّون",
+      "pos": "N",
+      "ayah_id": "5:112",
+      "ayah_arabic": "إِذۡ قَالَ ٱلۡحَوَارِيُّونَ يَٰعِيسَى ٱبۡنَ مَرۡيَمَ هَلۡ يَسۡتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيۡنَا مَآئِدَةࣰ مِّنَ ٱلسَّمَآءِۖ قَالَ ٱتَّقُواْ ٱللَّهَ إِن كُنتُم مُّؤۡمِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "the disciples",
+      "translations": {
+        "saheeh": "[And remember] when the disciples said, \"O Jesus, Son of Mary, can your Lord send down to us a table [spread with food] from the heaven? [Jesus] said,\" Fear Allah, if you should be believers.\"",
+        "pickthall": "When the disciples said: O Jesus, son of Mary! Is thy Lord able to send down for us a table spread with food from heaven? He said: Observe your duty to Allah, if ye are true believers.",
+        "khattab": "˹Remember˺ when the disciples asked, “O Jesus, son of Mary! Would your Lord be willing to send down to us a table spread with food from heaven?” Jesus answered, “Fear Allah if you are ˹truly˺ believers.”",
+        "arberry": "And when the Apostles said, 'O Jesus son of Mary, is thy Lord able to send down on us a Table out of heaven?' He said, 'Fear you God, if you are believers."
+      }
+    },
+    {
+      "location": [
+        18,
+        34,
+        7
+      ],
+      "form_arabic": "يُحَاوِرُهُ,^",
+      "lemma": "yuHaAwiru",
+      "lemma_arabic": "يُحَاوِرُ",
+      "pos": "V",
+      "ayah_id": "18:34",
+      "ayah_arabic": "وَكَانَ لَهُۥ ثَمَرࣱ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكۡثَرُ مِنكَ مَالࣰ ا وَأَعَزُّ نَفَرࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "(was) talking with him",
+      "translations": {
+        "saheeh": "And he had fruit, so he said to his companion while he was conversing with him, \"I am greater than you in wealth and mightier in [numbers of] men.\"",
+        "pickthall": "And he had fruit. And he said unto his comrade, when he spake with him: I am more than thee in wealth, and stronger in respect of men.",
+        "khattab": "And he had other resources ˹as well˺. So he boasted to a ˹poor˺ companion of his, while conversing with him, “I am greater than you in wealth and superior in manpower.”",
+        "arberry": "So he had fruit; and he said to his fellow, as he was conversing with him, 'I have more abundance of wealth than thou and am mightier in respect of men."
+      }
+    },
+    {
+      "location": [
+        18,
+        37,
+        5
+      ],
+      "form_arabic": "يُحَاوِرُهُ,^",
+      "lemma": "yuHaAwiru",
+      "lemma_arabic": "يُحَاوِرُ",
+      "pos": "V",
+      "ayah_id": "18:37",
+      "ayah_arabic": "قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرۡتَ بِٱلَّذِي خَلَقَكَ مِن تُرَابࣲ ثُمَّ مِن نُّطۡفَةࣲ ثُمَّ سَوَّىٰكَ رَجُلࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "was talking to him",
+      "translations": {
+        "saheeh": "His companion said to him while he was conversing with him, \"Have you disbelieved in He who created you from dust and then from a sperm-drop and then proportioned you [as] a man?",
+        "pickthall": "His comrade, when he (thus) spake with him, exclaimed: Disbelievest thou in Him Who created thee of dust, then of a drop (of seed), and then fashioned thee a man?",
+        "khattab": "His ˹believing˺ companion replied, while conversing with him, “Do you disbelieve in the One Who created you from dust, then ˹developed you˺ from a sperm-drop, then formed you into a man",
+        "arberry": "Said his fellow, as he was conversing with him, 'What, disbelievest thou in Him who created thee of dust, then of a sperm-drop, then shaped thee as a man?"
+      }
+    },
+    {
+      "location": [
+        44,
+        54,
+        3
+      ],
+      "form_arabic": "بِحُورٍ",
+      "lemma": "Huwr",
+      "lemma_arabic": "حُور",
+      "pos": "N",
+      "ayah_id": "44:54",
+      "ayah_arabic": "كَذَٰلِكَ وَزَوَّجۡنَٰهُم بِحُورٍ عِينࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ad-Dukhaan",
+      "literal_gloss": "(to) companions with beautiful eyes",
+      "translations": {
+        "saheeh": "Thus. And We will marry them to fair women with large, [beautiful] eyes.",
+        "pickthall": "Even so (it will be). And We shall wed them unto fair ones with wide, lovely eyes.",
+        "khattab": "So it will be. And We will pair them to maidens with gorgeous eyes",
+        "arberry": "Even so; and We shall espouse them to wide-eyed houris,"
+      }
+    },
+    {
+      "location": [
+        52,
+        20,
+        6
+      ],
+      "form_arabic": "بِحُورٍ",
+      "lemma": "Huwr",
+      "lemma_arabic": "حُور",
+      "pos": "N",
+      "ayah_id": "52:20",
+      "ayah_arabic": "مُتَّكِـِٔينَ عَلَىٰ سُرُرࣲ مَّصۡفُوفَةࣲۖ وَزَوَّجۡنَٰهُم بِحُورٍ عِينࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "to fair ones",
+      "translations": {
+        "saheeh": "They will be reclining on thrones lined up, and We will marry them to fair women with large, [beautiful] eyes.",
+        "pickthall": "Reclining on ranged couches. And we wed them unto fair ones with wide, lovely eyes.",
+        "khattab": "They will be reclining on thrones, ˹neatly˺ lined up ˹facing each other˺. And We will pair them to maidens with gorgeous eyes",
+        "arberry": "Reclining upon couches ranged in rows; and We shall espouse them to wide-eyed houris."
+      }
+    },
+    {
+      "location": [
+        55,
+        72,
+        1
+      ],
+      "form_arabic": "حُورٌ",
+      "lemma": "Huwr",
+      "lemma_arabic": "حُور",
+      "pos": "N",
+      "ayah_id": "55:72",
+      "ayah_arabic": "حُورࣱ مَّقۡصُورَٰتࣱ فِي ٱلۡخِيَامِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Ar-Rahmaan",
+      "literal_gloss": "Fair ones",
+      "translations": {
+        "saheeh": "Fair ones reserved in pavilions -",
+        "pickthall": "Fair ones, close-guarded in pavilions -",
+        "khattab": "˹They will be˺ maidens with gorgeous eyes, reserved in pavilions",
+        "arberry": "houris, cloistered in cool pavilions --"
+      }
+    },
+    {
+      "location": [
+        56,
+        22,
+        1
+      ],
+      "form_arabic": "وَحُورٌ",
+      "lemma": "Huwr",
+      "lemma_arabic": "حُور",
+      "pos": "N",
+      "ayah_id": "56:22",
+      "ayah_arabic": "وَحُورٌ عِينࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "And fair ones",
+      "translations": {
+        "saheeh": "And [for them are] fair women with large, [beautiful] eyes,",
+        "pickthall": "And (there are) fair ones with wide, lovely eyes,",
+        "khattab": "And ˹they will have˺ maidens with gorgeous eyes",
+        "arberry": "and wide-eyed houris"
+      }
+    },
+    {
+      "location": [
+        58,
+        1,
+        14
+      ],
+      "form_arabic": "تَحَاوُرَكُمَا^",
+      "lemma": "taHaAwur",
+      "lemma_arabic": "تَحَاوُر",
+      "pos": "N",
+      "ayah_id": "58:1",
+      "ayah_arabic": "قَدۡ سَمِعَ ٱللَّهُ قَوۡلَ ٱلَّتِي تُجَٰدِلُكَ فِي زَوۡجِهَا وَتَشۡتَكِيٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسۡمَعُ تَحَاوُرَكُمَآۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Mujaadila",
+      "literal_gloss": "(the) dialogue of both of you",
+      "translations": {
+        "saheeh": "Certainly has Allah heard the speech of the one who argues with you, [O Muhammad], concerning her husband and directs her complaint to Allah. And Allah hears your dialogue; indeed, Allah is Hearing and Seeing.",
+        "pickthall": "Allah hath heard the saying of her that disputeth with thee (Muhammad) concerning her husband, and complaineth unto Allah. And Allah heareth your colloquy. Lo! Allah is Hearer, Knower.",
+        "khattab": "Indeed, Allah has heard the argument of the woman who pleaded with you ˹O Prophet˺ concerning her husband, and appealed to Allah. Allah has heard your exchange. Surely Allah is All-Hearing, All-Seeing",
+        "arberry": "God has heard the words of her that disputes with thee concerning her husband, and makes complaint unto God. God hears the two of you conversing together; surely God is All-hearing, All-seeing."
+      }
+    },
+    {
+      "location": [
+        61,
+        14,
+        12
+      ],
+      "form_arabic": "لِلْحَوَارِيِّ.نَ",
+      "lemma": "HawaAriy~uwn",
+      "lemma_arabic": "حَوَارِيُّون",
+      "pos": "N",
+      "ayah_id": "61:14",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُوٓاْ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ لِلۡحَوَارِيِّـۧنَ مَنۡ أَنصَارِيٓ إِلَى ٱللَّهِۖ قَالَ ٱلۡحَوَارِيُّونَ نَحۡنُ أَنصَارُ ٱللَّهِۖ فَـَٔامَنَت طَّآئِفَةࣱ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةࣱۖ فَأَيَّدۡنَا ٱلَّذِينَ ءَامَنُواْ عَلَىٰ عَدُوِّهِمۡ فَأَصۡبَحُواْ ظَٰهِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "As-Saff",
+      "literal_gloss": "to the disciples",
+      "translations": {
+        "saheeh": "O you who have believed, be supporters of Allah, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allah?\" The disciples said, \"We are supporters of Allah.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant.",
+        "pickthall": "O ye who believe! Be Allah's helpers, even as Jesus son of Mary said unto the disciples: Who are my helpers for Allah? They said: We are Allah's helpers. And a party of the Children of Israel believed, while a party disbelieved. Then We strengthened those who believed against their foe, and they became the uppermost.",
+        "khattab": "O believers! Stand up for Allah, as Jesus, son of Mary, asked the disciples, “Who will stand up with me for Allah?” The disciples replied, “We will stand up for Allah.” Then a group from the Children of Israel believed while another disbelieved. We then supported the believers against their enemies, so they prevailed",
+        "arberry": "O believers, be you God's helpers, as Jesus, Mary's son, said to the Apostles. 'Who will be my helpers unto God?' The Apostles said, 'We will be helpers of God.' And a party of the Children of Israel believed, and a party disbelieved. So We confirmed those who believed against their enemy, and they became masters."
+      }
+    },
+    {
+      "location": [
+        61,
+        14,
+        18
+      ],
+      "form_arabic": "ٱلْحَوَارِيُّونَ",
+      "lemma": "HawaAriy~uwn",
+      "lemma_arabic": "حَوَارِيُّون",
+      "pos": "N",
+      "ayah_id": "61:14",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُوٓاْ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ لِلۡحَوَارِيِّـۧنَ مَنۡ أَنصَارِيٓ إِلَى ٱللَّهِۖ قَالَ ٱلۡحَوَارِيُّونَ نَحۡنُ أَنصَارُ ٱللَّهِۖ فَـَٔامَنَت طَّآئِفَةࣱ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةࣱۖ فَأَيَّدۡنَا ٱلَّذِينَ ءَامَنُواْ عَلَىٰ عَدُوِّهِمۡ فَأَصۡبَحُواْ ظَٰهِرِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "As-Saff",
+      "literal_gloss": "the disciples",
+      "translations": {
+        "saheeh": "O you who have believed, be supporters of Allah, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allah?\" The disciples said, \"We are supporters of Allah.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant.",
+        "pickthall": "O ye who believe! Be Allah's helpers, even as Jesus son of Mary said unto the disciples: Who are my helpers for Allah? They said: We are Allah's helpers. And a party of the Children of Israel believed, while a party disbelieved. Then We strengthened those who believed against their foe, and they became the uppermost.",
+        "khattab": "O believers! Stand up for Allah, as Jesus, son of Mary, asked the disciples, “Who will stand up with me for Allah?” The disciples replied, “We will stand up for Allah.” Then a group from the Children of Israel believed while another disbelieved. We then supported the believers against their enemies, so they prevailed",
+        "arberry": "O believers, be you God's helpers, as Jesus, Mary's son, said to the Apostles. 'Who will be my helpers unto God?' The Apostles said, 'We will be helpers of God.' And a party of the Children of Israel believed, and a party disbelieved. So We confirmed those who believed against their enemy, and they became masters."
+      }
+    },
+    {
+      "location": [
+        84,
+        14,
+        5
+      ],
+      "form_arabic": "يَحُورَ",
+      "lemma": "yaHuwra",
+      "lemma_arabic": "يَحُورَ",
+      "pos": "V",
+      "ayah_id": "84:14",
+      "ayah_arabic": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Inshiqaaq",
+      "literal_gloss": "he would return",
+      "translations": {
+        "saheeh": "Indeed, he had thought he would never return [to Allah].",
+        "pickthall": "He verily deemed that he would never return (unto Allah).",
+        "khattab": "thinking they would never return ˹to Allah˺",
+        "arberry": "he surely thought he would never revert."
+      }
+    }
+  ]
+}

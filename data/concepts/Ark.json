@@ -1,0 +1,425 @@
+{
+  "root": "Ark",
+  "root_arabic": "ارك",
+  "stats": {
+    "occurrences": 5,
+    "lemmas": 1,
+    "ayahs": 5,
+    "surahs": 4,
+    "pos_distribution": {
+      "N": 5
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">araA^}ik",
+      "lemma_arabic": "أَرَا^ئِك",
+      "count": 5,
+      "pos_distribution": {
+        "N": 5
+      },
+      "first_occurrence": [
+        18,
+        31,
+        24
+      ],
+      "occurrences": [
+        {
+          "location": [
+            18,
+            31,
+            24
+          ],
+          "form_arabic": "ٱلْأَرَا^ئِكِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            36,
+            56,
+            6
+          ],
+          "form_arabic": "ٱلْأَرَا^ئِكِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            76,
+            13,
+            4
+          ],
+          "form_arabic": "ٱلْأَرَا^ئِكِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            83,
+            23,
+            2
+          ],
+          "form_arabic": "ٱلْأَرَا^ئِكِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            83,
+            35,
+            2
+          ],
+          "form_arabic": "ٱلْأَرَا^ئِكِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "wkA",
+      "root_arabic": "وكا",
+      "ayahs_together": 3,
+      "share": 0.6,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 2,
+      "share": 0.4,
+      "first_together": [
+        83,
+        23
+      ]
+    },
+    {
+      "root": "Zll",
+      "root_arabic": "ظلل",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        56
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        36,
+        56
+      ]
+    },
+    {
+      "root": "$ms",
+      "root_arabic": "شمس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        76,
+        13
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        76,
+        13
+      ]
+    },
+    {
+      "root": "zmhr",
+      "root_arabic": "زمهر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        76,
+        13
+      ]
+    },
+    {
+      "root": "jry",
+      "root_arabic": "جري",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "lbs",
+      "root_arabic": "لبس",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "tHt",
+      "root_arabic": "تحت",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "swr",
+      "root_arabic": "سور",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "*hb",
+      "root_arabic": "ذهب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "xDr",
+      "root_arabic": "خضر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "rfq",
+      "root_arabic": "رفق",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "Hly",
+      "root_arabic": "حلي",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    },
+    {
+      "root": "vwb",
+      "root_arabic": "ثوب",
+      "ayahs_together": 1,
+      "share": 0.2,
+      "first_together": [
+        18,
+        31
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 83,
+        "name_english": "Al-Mutaffifin",
+        "name_arabic": "سُورَةُ المُطَفِّفِينَ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 76,
+        "name_english": "Al-Insaan",
+        "name_arabic": "سُورَةُ الإِنسَانِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        18,
+        31,
+        24
+      ],
+      "form_arabic": "ٱلْأَرَا^ئِكِ",
+      "lemma": ">araA^}ik",
+      "lemma_arabic": "أَرَا^ئِك",
+      "pos": "N",
+      "ayah_id": "18:31",
+      "ayah_arabic": "أُوْلَٰٓئِكَ لَهُمۡ جَنَّٰتُ عَدۡنࣲ تَجۡرِي مِن تَحۡتِهِمُ ٱلۡأَنۡهَٰرُ يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبࣲ وَيَلۡبَسُونَ ثِيَابًا خُضۡرࣰ ا مِّن سُندُسࣲ وَإِسۡتَبۡرَقࣲ مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۚ نِعۡمَ ٱلثَّوَابُ وَحَسُنَتۡ مُرۡتَفَقࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "adorned couches",
+      "translations": {
+        "saheeh": "Those will have gardens of perpetual residence; beneath them rivers will flow. They will be adorned therein with bracelets of gold and will wear green garments of fine silk and brocade, reclining therein on adorned couches. Excellent is the reward, and good is the resting place.",
+        "pickthall": "As for such, theirs will be Gardens of Eden, wherein rivers flow beneath them; therein they will be given armlets of gold and will wear green robes of finest silk and gold embroidery, reclining upon throne therein. Blest the reward, and fair the resting-place!",
+        "khattab": "It is they who will have the Gardens of Eternity, with rivers flowing under their feet. There they will be adorned with bracelets of gold, and wear green garments of fine silk and rich brocade, reclining there on ˹canopied˺ couches. What a marvellous reward! And what a fabulous place to rest",
+        "arberry": "those -- theirs shall be Gardens of Eden, underneath which rivers flow; therein they shall be adorned with bracelets of gold, and they shall be robed in green garments of silk and brocade, therein reclining upon couches -- O, how excellent a reward! And O, how fair a resting-place!"
+      }
+    },
+    {
+      "location": [
+        36,
+        56,
+        6
+      ],
+      "form_arabic": "ٱلْأَرَا^ئِكِ",
+      "lemma": ">araA^}ik",
+      "lemma_arabic": "أَرَا^ئِك",
+      "pos": "N",
+      "ayah_id": "36:56",
+      "ayah_arabic": "هُمۡ وَأَزۡوَٰجُهُمۡ فِي ظِلَٰلٍ عَلَى ٱلۡأَرَآئِكِ مُتَّكِـُٔونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "[the] couches",
+      "translations": {
+        "saheeh": "They and their spouses - in shade, reclining on adorned couches.",
+        "pickthall": "They and their wives, in pleasant shade, on thrones reclining;",
+        "khattab": "They and their spouses will be in ˹cool˺ shade, reclining on ˹canopied˺ couches",
+        "arberry": "they and their spouses, reclining upon couches in the shade;"
+      }
+    },
+    {
+      "location": [
+        76,
+        13,
+        4
+      ],
+      "form_arabic": "ٱلْأَرَا^ئِكِ",
+      "lemma": ">araA^}ik",
+      "lemma_arabic": "أَرَا^ئِك",
+      "pos": "N",
+      "ayah_id": "76:13",
+      "ayah_arabic": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۖ لَا يَرَوۡنَ فِيهَا شَمۡسࣰ ا وَلَا زَمۡهَرِيرࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Insaan",
+      "literal_gloss": "couches",
+      "translations": {
+        "saheeh": "[They will be] reclining therein on adorned couches. They will not see therein any [burning] sun or [freezing] cold.",
+        "pickthall": "Reclining therein upon couches, they will find there neither (heat of) a sun nor bitter cold.",
+        "khattab": "There they will be reclining on ˹canopied˺ couches, never seeing scorching heat or bitter cold",
+        "arberry": "therein they shall recline upon couches, therein they shall see neither sun nor bitter cold;"
+      }
+    },
+    {
+      "location": [
+        83,
+        23,
+        2
+      ],
+      "form_arabic": "ٱلْأَرَا^ئِكِ",
+      "lemma": ">araA^}ik",
+      "lemma_arabic": "أَرَا^ئِك",
+      "pos": "N",
+      "ayah_id": "83:23",
+      "ayah_arabic": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mutaffifin",
+      "literal_gloss": "thrones",
+      "translations": {
+        "saheeh": "On adorned couches, observing.",
+        "pickthall": "On couches, gazing,",
+        "khattab": "˹seated˺ on ˹canopied˺ couches, gazing around",
+        "arberry": "upon couches gazing;"
+      }
+    },
+    {
+      "location": [
+        83,
+        35,
+        2
+      ],
+      "form_arabic": "ٱلْأَرَا^ئِكِ",
+      "lemma": ">araA^}ik",
+      "lemma_arabic": "أَرَا^ئِك",
+      "pos": "N",
+      "ayah_id": "83:35",
+      "ayah_arabic": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mutaffifin",
+      "literal_gloss": "the thrones",
+      "translations": {
+        "saheeh": "On adorned couches, observing.",
+        "pickthall": "On high couches, gazing.",
+        "khattab": "as they sit on ˹canopied˺ couches, looking on",
+        "arberry": "upon couches gazing."
+      }
+    }
+  ]
+}

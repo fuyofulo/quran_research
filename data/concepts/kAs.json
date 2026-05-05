@@ -1,0 +1,393 @@
+{
+  "root": "kAs",
+  "root_arabic": "كاس",
+  "stats": {
+    "occurrences": 6,
+    "lemmas": 1,
+    "ayahs": 6,
+    "surahs": 5,
+    "pos_distribution": {
+      "N": 6
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "ka>os",
+      "lemma_arabic": "كَأْس",
+      "count": 6,
+      "pos_distribution": {
+        "N": 6
+      },
+      "first_occurrence": [
+        37,
+        45,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            37,
+            45,
+            3
+          ],
+          "form_arabic": "بِكَأْسٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            52,
+            23,
+            3
+          ],
+          "form_arabic": "كَأْسًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            56,
+            18,
+            3
+          ],
+          "form_arabic": "وَكَأْسٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            76,
+            5,
+            5
+          ],
+          "form_arabic": "كَأْسٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            76,
+            17,
+            3
+          ],
+          "form_arabic": "كَأْسًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            78,
+            34,
+            1
+          ],
+          "form_arabic": "وَكَأْسًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Eyn",
+      "root_arabic": "عين",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        37,
+        45
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        76,
+        5
+      ]
+    },
+    {
+      "root": "mzj",
+      "root_arabic": "مزج",
+      "ayahs_together": 2,
+      "share": 0.3333,
+      "first_together": [
+        76,
+        5
+      ]
+    },
+    {
+      "root": "Twf",
+      "root_arabic": "طوف",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        37,
+        45
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        76,
+        5
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        76,
+        5
+      ]
+    },
+    {
+      "root": "brr",
+      "root_arabic": "برر",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        76,
+        5
+      ]
+    },
+    {
+      "root": "nzE",
+      "root_arabic": "نزع",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        52,
+        23
+      ]
+    },
+    {
+      "root": "lgw",
+      "root_arabic": "لغو",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        52,
+        23
+      ]
+    },
+    {
+      "root": "Avm",
+      "root_arabic": "اثم",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        52,
+        23
+      ]
+    },
+    {
+      "root": "sqy",
+      "root_arabic": "سقي",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        76,
+        17
+      ]
+    },
+    {
+      "root": "kwb",
+      "root_arabic": "كوب",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        56,
+        18
+      ]
+    },
+    {
+      "root": "dhq",
+      "root_arabic": "دهق",
+      "ayahs_together": 1,
+      "share": 0.1667,
+      "first_together": [
+        78,
+        34
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 76,
+        "name_english": "Al-Insaan",
+        "name_arabic": "سُورَةُ الإِنسَانِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 52,
+        "name_english": "At-Tur",
+        "name_arabic": "سُورَةُ الطُّورِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 78,
+        "name_english": "An-Naba",
+        "name_arabic": "سُورَةُ النَّبَإِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4,
+      "Medinan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        37,
+        45,
+        3
+      ],
+      "form_arabic": "بِكَأْسٍ",
+      "lemma": "ka>os",
+      "lemma_arabic": "كَأْس",
+      "pos": "N",
+      "ayah_id": "37:45",
+      "ayah_arabic": "يُطَافُ عَلَيۡهِم بِكَأۡسࣲ مِّن مَّعِينِۭ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "a cup",
+      "translations": {
+        "saheeh": "There will be circulated among them a cup [of wine] from a flowing spring,",
+        "pickthall": "A cup from a gushing spring is brought round for them,",
+        "khattab": "A drink ˹of pure wine˺ will be passed around to them from a flowing stream",
+        "arberry": "a cup from a spring being passed round to them,"
+      }
+    },
+    {
+      "location": [
+        52,
+        23,
+        3
+      ],
+      "form_arabic": "كَأْسًا",
+      "lemma": "ka>os",
+      "lemma_arabic": "كَأْس",
+      "pos": "N",
+      "ayah_id": "52:23",
+      "ayah_arabic": "يَتَنَٰزَعُونَ فِيهَا كَأۡسࣰ ا لَّا لَغۡوࣱ فِيهَا وَلَا تَأۡثِيمࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "a cup",
+      "translations": {
+        "saheeh": "They will exchange with one another a cup [of wine] wherein [results] no ill speech or commission of sin.",
+        "pickthall": "There they pass from hand to hand a cup wherein is neither vanity nor cause of sin.",
+        "khattab": "They will pass around to each other a drink ˹of pure wine,˺ which leads to no idle talk or sinfulness",
+        "arberry": "while they pass therein a cup one to another wherein is no idle talk, no cause of sin,"
+      }
+    },
+    {
+      "location": [
+        56,
+        18,
+        3
+      ],
+      "form_arabic": "وَكَأْسٍ",
+      "lemma": "ka>os",
+      "lemma_arabic": "كَأْس",
+      "pos": "N",
+      "ayah_id": "56:18",
+      "ayah_arabic": "بِأَكۡوَابࣲ وَأَبَارِيقَ وَكَأۡسࣲ مِّن مَّعِينࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "and a cup",
+      "translations": {
+        "saheeh": "With vessels, pitchers and a cup [of wine] from a flowing spring -",
+        "pickthall": "With bowls and ewers and a cup from a pure spring",
+        "khattab": "with cups, pitchers, and a drink ˹of pure wine˺ from a flowing stream",
+        "arberry": "with goblets, and ewers, and a cup from a spring"
+      }
+    },
+    {
+      "location": [
+        76,
+        5,
+        5
+      ],
+      "form_arabic": "كَأْسٍ",
+      "lemma": "ka>os",
+      "lemma_arabic": "كَأْس",
+      "pos": "N",
+      "ayah_id": "76:5",
+      "ayah_arabic": "إِنَّ ٱلۡأَبۡرَارَ يَشۡرَبُونَ مِن كَأۡسࣲ كَانَ مِزَاجُهَا كَافُورًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Insaan",
+      "literal_gloss": "a cup",
+      "translations": {
+        "saheeh": "Indeed, the righteous will drink from a cup [of wine] whose mixture is of Kafur,",
+        "pickthall": "Lo! the righteous shall drink of a cup whereof the mixture is of Kafur,",
+        "khattab": "Indeed, the virtuous will have a drink ˹of pure wine˺—flavoured with camphor—",
+        "arberry": "Surely the pious shall drink of a cup whose mixture is camphor,"
+      }
+    },
+    {
+      "location": [
+        76,
+        17,
+        3
+      ],
+      "form_arabic": "كَأْسًا",
+      "lemma": "ka>os",
+      "lemma_arabic": "كَأْس",
+      "pos": "N",
+      "ayah_id": "76:17",
+      "ayah_arabic": "وَيُسۡقَوۡنَ فِيهَا كَأۡسࣰ ا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Insaan",
+      "literal_gloss": "a cup ",
+      "translations": {
+        "saheeh": "And they will be given to drink a cup [of wine] whose mixture is of ginger",
+        "pickthall": "There are they watered with a cup whereof the mixture is of Zanjabil,",
+        "khattab": "And they will be given a drink ˹of pure wine˺ flavoured with ginger",
+        "arberry": "And therein they shall be given to drink a cup whose mixture is ginger,"
+      }
+    },
+    {
+      "location": [
+        78,
+        34,
+        1
+      ],
+      "form_arabic": "وَكَأْسًا",
+      "lemma": "ka>os",
+      "lemma_arabic": "كَأْس",
+      "pos": "N",
+      "ayah_id": "78:34",
+      "ayah_arabic": "وَكَأۡسࣰ ا دِهَاقࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naba",
+      "literal_gloss": "And a cup",
+      "translations": {
+        "saheeh": "And a full cup.",
+        "pickthall": "And a full cup.",
+        "khattab": "and full cups ˹of pure wine˺",
+        "arberry": "and a cup overflowing."
+      }
+    }
+  ]
+}
