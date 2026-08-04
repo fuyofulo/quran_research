@@ -1,0 +1,129 @@
+{
+  "root": "rbH",
+  "root_arabic": "ربح",
+  "stats": {
+    "occurrences": 1,
+    "lemmas": 1,
+    "ayahs": 1,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "rabiHat",
+      "lemma_arabic": "رَبِحَت",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        2,
+        16,
+        7
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            16,
+            7
+          ],
+          "form_arabic": "رَبِحَت",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        2,
+        16
+      ]
+    },
+    {
+      "root": "tjr",
+      "root_arabic": "تجر",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        2,
+        16
+      ]
+    },
+    {
+      "root": "$ry",
+      "root_arabic": "شري",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        2,
+        16
+      ]
+    },
+    {
+      "root": "Dll",
+      "root_arabic": "ضلل",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        2,
+        16
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        2,
+        16
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        16,
+        7
+      ],
+      "form_arabic": "رَبِحَت",
+      "lemma": "rabiHat",
+      "lemma_arabic": "رَبِحَت",
+      "pos": "V",
+      "ayah_id": "2:16",
+      "ayah_arabic": "أُوْلَٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلضَّلَٰلَةَ بِٱلۡهُدَىٰ فَمَا رَبِحَت تِّجَٰرَتُهُمۡ وَمَا كَانُواْ مُهۡتَدِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "profited",
+      "translations": {
+        "saheeh": "Those are the ones who have purchased error [in exchange] for guidance, so their transaction has brought no profit, nor were they guided.",
+        "pickthall": "These are they who purchase error at the price of guidance, so their commerce doth not prosper, neither are they guided.",
+        "khattab": "They are the ones who trade guidance for misguidance. But this trade is profitless, and they are not ˹rightly˺ guided",
+        "arberry": "Those are they that have bought error at the price of guidance, and their commerce has not profited them, and they are not right-guided."
+      }
+    }
+  ]
+}

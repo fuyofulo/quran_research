@@ -1,0 +1,446 @@
+{
+  "root": "rhn",
+  "root_arabic": "رهن",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 3,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "riha`n",
+      "lemma_arabic": "رِهَٰن",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        2,
+        283,
+        8
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            283,
+            8
+          ],
+          "form_arabic": "فَرِهَٰنٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "rahiyn",
+      "lemma_arabic": "رَهِين",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        52,
+        21,
+        19
+      ],
+      "occurrences": [
+        {
+          "location": [
+            52,
+            21,
+            19
+          ],
+          "form_arabic": "رَهِينٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "rahiynap",
+      "lemma_arabic": "رَهِينَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        74,
+        38,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            74,
+            38,
+            5
+          ],
+          "form_arabic": "رَهِينَةٌ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        52,
+        21
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        52,
+        21
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        74,
+        38
+      ]
+    },
+    {
+      "root": "*rr",
+      "root_arabic": "ذرر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        52,
+        21
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        52,
+        21
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        52,
+        21
+      ]
+    },
+    {
+      "root": "lHq",
+      "root_arabic": "لحق",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        52,
+        21
+      ]
+    },
+    {
+      "root": "Alt",
+      "root_arabic": "الت",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        52,
+        21
+      ]
+    },
+    {
+      "root": "mrA",
+      "root_arabic": "مرا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        52,
+        21
+      ]
+    },
+    {
+      "root": "sfr",
+      "root_arabic": "سفر",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "Ady",
+      "root_arabic": "ادي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "qbD",
+      "root_arabic": "قبض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "Avm",
+      "root_arabic": "اثم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    },
+    {
+      "root": "ktm",
+      "root_arabic": "كتم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        283
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 52,
+        "name_english": "At-Tur",
+        "name_arabic": "سُورَةُ الطُّورِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 74,
+        "name_english": "Al-Muddaththir",
+        "name_arabic": "سُورَةُ المُدَّثِّرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 1,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        283,
+        8
+      ],
+      "form_arabic": "فَرِهَٰنٌ",
+      "lemma": "riha`n",
+      "lemma_arabic": "رِهَٰن",
+      "pos": "N",
+      "ayah_id": "2:283",
+      "ayah_arabic": "۞وَإِن كُنتُمۡ عَلَىٰ سَفَرࣲ وَلَمۡ تَجِدُواْ كَاتِبࣰ ا فَرِهَٰنࣱ مَّقۡبُوضَةࣱۖ فَإِنۡ أَمِنَ بَعۡضُكُم بَعۡضࣰ ا فَلۡيُؤَدِّ ٱلَّذِي ٱؤۡتُمِنَ أَمَٰنَتَهُۥ وَلۡيَتَّقِ ٱللَّهَ رَبَّهُۥۗ وَلَا تَكۡتُمُواْ ٱلشَّهَٰدَةَۚ وَمَن يَكۡتُمۡهَا فَإِنَّهُۥٓ ءَاثِمࣱ قَلۡبُهُۥۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ عَلِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "then pledge",
+      "translations": {
+        "saheeh": "And if you are on a journey and cannot find a scribe, then a security deposit [should be] taken. And if one of you entrusts another, then let him who is entrusted discharge his trust [faithfully] and let him fear Allah, his Lord. And do not conceal testimony, for whoever conceals it - his heart is indeed sinful, and Allah is Knowing of what you do.",
+        "pickthall": "If ye be on a journey and cannot find a scribe, then a pledge in hand (shall suffice). And if one of you entrusteth to another let him who is trusted deliver up that which is entrusted to him (according to the pact between them) and let him observe his duty to Allah his Lord. Hide not testimony. He who hideth it, verily his heart is sinful. Allah is Aware of what ye do.",
+        "khattab": "If you are on a journey and a scribe cannot be found, then a security can be taken. If you trust one another, then ˹there is no need for a security, but˺ the debtor should honour this trust ˹by repaying the debt˺—and let them fear Allah, their Lord. And do not conceal the testimony, for whoever conceals it, their hearts are indeed sinful. And Allah ˹fully˺ knows what you do",
+        "arberry": "And if you are upon a journey, and you do not find a writer, then a pledge in hand. But if one of you trusts another, let him who is trusted deliver his trust, and let him fear God his Lord. And do not conceal the testimony; whoso conceals it, his heart is sinful; and God has knowledge of the things you do."
+      }
+    },
+    {
+      "location": [
+        52,
+        21,
+        19
+      ],
+      "form_arabic": "رَهِينٌ",
+      "lemma": "rahiyn",
+      "lemma_arabic": "رَهِين",
+      "pos": "N",
+      "ayah_id": "52:21",
+      "ayah_arabic": "وَٱلَّذِينَ ءَامَنُواْ وَٱتَّبَعَتۡهُمۡ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلۡحَقۡنَا بِهِمۡ ذُرِّيَّتَهُمۡ وَمَآ أَلَتۡنَٰهُم مِّنۡ عَمَلِهِم مِّن شَيۡءࣲۚ كُلُّ ٱمۡرِيِٕۭ بِمَا كَسَبَ رَهِينࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "At-Tur",
+      "literal_gloss": "(is) pledged",
+      "translations": {
+        "saheeh": "And those who believed and whose descendants followed them in faith - We will join with them their descendants, and We will not deprive them of anything of their deeds. Every person, for what he earned, is retained.",
+        "pickthall": "And they who believe and whose seed follow them in faith, We cause their seed to join them (there), and We deprive them of nought of their (life's) work. Every man is a pledge for that which he hath earned.",
+        "khattab": "As for those who believe and whose descendants follow them in faith, We will elevate their descendants to their rank, never discounting anything ˹of the reward˺ of their deeds. Every person will reap only what they sowed",
+        "arberry": "And those who believed, and their seed followed them in belief, We shall join their seed with them, and We shall not defraud them of aught of their work; every man shall be pledged for what he earned."
+      }
+    },
+    {
+      "location": [
+        74,
+        38,
+        5
+      ],
+      "form_arabic": "رَهِينَةٌ",
+      "lemma": "rahiynap",
+      "lemma_arabic": "رَهِينَة",
+      "pos": "N",
+      "ayah_id": "74:38",
+      "ayah_arabic": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muddaththir",
+      "literal_gloss": "(is) pledged",
+      "translations": {
+        "saheeh": "Every soul, for what it has earned, will be retained",
+        "pickthall": "Every soul is a pledge for its own deeds;",
+        "khattab": "Every soul will be detained for what it has done",
+        "arberry": "Every soul shall be pledged for what it has earned,"
+      }
+    }
+  ]
+}

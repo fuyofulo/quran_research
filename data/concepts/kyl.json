@@ -1,0 +1,1352 @@
+{
+  "root": "kyl",
+  "root_arabic": "كيل",
+  "stats": {
+    "occurrences": 16,
+    "lemmas": 4,
+    "ayahs": 13,
+    "surahs": 7,
+    "pos_distribution": {
+      "N": 12,
+      "V": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "count": 10,
+      "pos_distribution": {
+        "N": 10
+      },
+      "first_occurrence": [
+        6,
+        152,
+        13
+      ],
+      "occurrences": [
+        {
+          "location": [
+            6,
+            152,
+            13
+          ],
+          "form_arabic": "ٱلْكَيْلَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            7,
+            85,
+            20
+          ],
+          "form_arabic": "ٱلْكَيْلَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            59,
+            14
+          ],
+          "form_arabic": "ٱلْكَيْلَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            60,
+            6
+          ],
+          "form_arabic": "كَيْلَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            63,
+            9
+          ],
+          "form_arabic": "ٱلْكَيْلُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            65,
+            21
+          ],
+          "form_arabic": "كَيْلَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            65,
+            24
+          ],
+          "form_arabic": "كَيْلٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            88,
+            15
+          ],
+          "form_arabic": "ٱلْكَيْلَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            17,
+            35,
+            2
+          ],
+          "form_arabic": "ٱلْكَيْلَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            26,
+            181,
+            2
+          ],
+          "form_arabic": "ٱلْكَيْلَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "mikoyaAl",
+      "lemma_arabic": "مِكْيَال",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        11,
+        84,
+        16
+      ],
+      "occurrences": [
+        {
+          "location": [
+            11,
+            84,
+            16
+          ],
+          "form_arabic": "ٱلْمِكْيَالَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            11,
+            85,
+            3
+          ],
+          "form_arabic": "ٱلْمِكْيَالَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "{kotaAlu",
+      "lemma_arabic": "ٱكْتَالُ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        12,
+        63,
+        13
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            63,
+            13
+          ],
+          "form_arabic": "نَكْتَلْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            83,
+            2,
+            3
+          ],
+          "form_arabic": "ٱكْتَالُوا@",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "kaAlu",
+      "lemma_arabic": "كَالُ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        17,
+        35,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            17,
+            35,
+            4
+          ],
+          "form_arabic": "كِلْتُمْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            83,
+            3,
+            2
+          ],
+          "form_arabic": "كَالُوهُمْ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 8,
+      "share": 0.6154,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 7,
+      "share": 0.5385,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "wzn",
+      "root_arabic": "وزن",
+      "ayahs_together": 6,
+      "share": 0.4615,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 5,
+      "share": 0.3846,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 4,
+      "share": 0.3077,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 4,
+      "share": 0.3077,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 4,
+      "share": 0.3077,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 3,
+      "share": 0.2308,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        11,
+        84
+      ]
+    },
+    {
+      "root": "gyr",
+      "root_arabic": "غير",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "HfZ",
+      "root_arabic": "حفظ",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        12,
+        63
+      ]
+    },
+    {
+      "root": "bDE",
+      "root_arabic": "بضع",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "Hsn",
+      "root_arabic": "حسن",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "xsr",
+      "root_arabic": "خسر",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        26,
+        181
+      ]
+    },
+    {
+      "root": "qsT",
+      "root_arabic": "قسط",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "bxs",
+      "root_arabic": "بخس",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "fsd",
+      "root_arabic": "فسد",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 2,
+      "share": 0.1538,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "nqS",
+      "root_arabic": "نقص",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        11,
+        84
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        11,
+        84
+      ]
+    },
+    {
+      "root": "HwT",
+      "root_arabic": "حوط",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        11,
+        84
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        11,
+        84
+      ]
+    },
+    {
+      "root": "xwf",
+      "root_arabic": "خوف",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        11,
+        84
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "bEr",
+      "root_arabic": "بعر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "myr",
+      "root_arabic": "مير",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "ysr",
+      "root_arabic": "يسر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "zyd",
+      "root_arabic": "زيد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "rdd",
+      "root_arabic": "ردد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "ftH",
+      "root_arabic": "فتح",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        65
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        17,
+        35
+      ]
+    },
+    {
+      "root": "qsTs",
+      "root_arabic": "قسطس",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        17,
+        35
+      ]
+    },
+    {
+      "root": "Ehd",
+      "root_arabic": "عهد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "wSy",
+      "root_arabic": "وصي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "klf",
+      "root_arabic": "كلف",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "Edl",
+      "root_arabic": "عدل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "ytm",
+      "root_arabic": "يتم",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "wsE",
+      "root_arabic": "وسع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        60
+      ]
+    },
+    {
+      "root": "Evw",
+      "root_arabic": "عثو",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        11,
+        85
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        63
+      ]
+    },
+    {
+      "root": "mnE",
+      "root_arabic": "منع",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        63
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        63
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        7,
+        85
+      ]
+    },
+    {
+      "root": "jhz",
+      "root_arabic": "جهز",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        59
+      ]
+    },
+    {
+      "root": "zjw",
+      "root_arabic": "زجو",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "jzy",
+      "root_arabic": "جزي",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "mss",
+      "root_arabic": "مسس",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "Ezz",
+      "root_arabic": "عزز",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        88
+      ]
+    },
+    {
+      "root": "Drr",
+      "root_arabic": "ضرر",
+      "ayahs_together": 1,
+      "share": 0.0769,
+      "first_together": [
+        12,
+        88
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 7
+      },
+      {
+        "surah": 11,
+        "name_english": "Hud",
+        "name_arabic": "سُورَةُ هُودٍ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 83,
+        "name_english": "Al-Mutaffifin",
+        "name_arabic": "سُورَةُ المُطَفِّفِينَ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 6,
+        "name_english": "Al-An'aam",
+        "name_arabic": "سُورَةُ الأَنۡعَامِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 26,
+        "name_english": "Ash-Shu'araa",
+        "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 16
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        6,
+        152,
+        13
+      ],
+      "form_arabic": "ٱلْكَيْلَ",
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "pos": "N",
+      "ayah_id": "6:152",
+      "ayah_arabic": "وَلَا تَقۡرَبُواْ مَالَ ٱلۡيَتِيمِ إِلَّا بِٱلَّتِي هِيَ أَحۡسَنُ حَتَّىٰ يَبۡلُغَ أَشُدَّهُۥۚ وَأَوۡفُواْ ٱلۡكَيۡلَ وَٱلۡمِيزَانَ بِٱلۡقِسۡطِۖ لَا نُكَلِّفُ نَفۡسًا إِلَّا وُسۡعَهَاۖ وَإِذَا قُلۡتُمۡ فَٱعۡدِلُواْ وَلَوۡ كَانَ ذَا قُرۡبَىٰۖ وَبِعَهۡدِ ٱللَّهِ أَوۡفُواْۚ ذَٰلِكُمۡ وَصَّىٰكُم بِهِۦ لَعَلَّكُمۡ تَذَكَّرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-An'aam",
+      "literal_gloss": "[the] measure",
+      "translations": {
+        "saheeh": "And do not approach the orphan's property except in a way that is best until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you testify, be just, even if [it concerns] a near relative. And the covenant of Allah fulfill. This has He instructed you that you may remember.",
+        "pickthall": "And approach not the wealth of the orphan save with that which is better, till he reach maturity. Give full measure and full weight, in justice. We task not any soul beyond its scope. And if ye give your word, do justice thereunto, even though it be (against) a kinsman; and fulfil the covenant of Allah. This He commandeth you that haply ye may remember.",
+        "khattab": "And do not come near the wealth of the orphan—unless intending to enhance it—until they attain maturity. Give full measure and weigh with justice. We never require of any soul more than what it can afford. Whenever you speak, maintain justice—even regarding a close relative. And fulfil your covenant with Allah. This is what He has commanded you, so perhaps you will be mindful",
+        "arberry": "And that you approach not the property of the orphan, save in the fairer manner, until he is of age. And fill up the measure and the balance with justice. We charge not any soul save to its capacity. And when you speak, be just, even if it should be to a near kinsman. And fulfil God's covenant. That then He has charged you with; haply you will remember."
+      }
+    },
+    {
+      "location": [
+        7,
+        85,
+        20
+      ],
+      "form_arabic": "ٱلْكَيْلَ",
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "pos": "N",
+      "ayah_id": "7:85",
+      "ayah_arabic": "وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبࣰ اۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥۖ قَدۡ جَآءَتۡكُم بَيِّنَةࣱ مِّن رَّبِّكُمۡۖ فَأَوۡفُواْ ٱلۡكَيۡلَ وَٱلۡمِيزَانَ وَلَا تَبۡخَسُواْ ٱلنَّاسَ أَشۡيَآءَهُمۡ وَلَا تُفۡسِدُواْ فِي ٱلۡأَرۡضِ بَعۡدَ إِصۡلَٰحِهَاۚ ذَٰلِكُمۡ خَيۡرࣱ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "[the] measure",
+      "translations": {
+        "saheeh": "And to [the people of] Madyan [We sent] their brother Shu'ayb. He said, \"O my people, worship Allah; you have no deity other than Him. There has come to you clear evidence from your Lord. So fulfill the measure and weight and do not deprive people of their due and cause not corruption upon the earth after its reformation. That is better for you, if you should be believers.",
+        "pickthall": "And unto Midian (We sent) their brother, Shu'eyb. He said: O my people! Serve Allah. Ye have no other Allah save Him. Lo! a clear proof hath come unto you from your Lord; so give full measure and full weight and wrong not mankind in their goods, and work not confusion in the earth after the fair ordering thereof. That will be better for you, if ye are believers.",
+        "khattab": "And to the people of Midian We sent their brother Shu’aib. He said, “O my people! Worship Allah—you have no other god except Him. A clear proof has already come to you from your Lord. So give just measure and weight, do not defraud people of their property, nor spread corruption in the land after it has been set in order. This is for your own good, if you are ˹truly˺ believers",
+        "arberry": "And to Midian their brother Shuaib; he said, 'O my people, serve God! You have no god other than He; there has now come to you a clear sign from your Lord. So fill up the measure and the balance, and diminish not the goods of the people; and do not corruption in the land, after it has been set right; that is better for you, if you are believers."
+      }
+    },
+    {
+      "location": [
+        11,
+        84,
+        16
+      ],
+      "form_arabic": "ٱلْمِكْيَالَ",
+      "lemma": "mikoyaAl",
+      "lemma_arabic": "مِكْيَال",
+      "pos": "N",
+      "ayah_id": "11:84",
+      "ayah_arabic": "۞وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبࣰ اۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥۖ وَلَا تَنقُصُواْ ٱلۡمِكۡيَالَ وَٱلۡمِيزَانَۖ إِنِّيٓ أَرَىٰكُم بِخَيۡرࣲ وَإِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمࣲ مُّحِيطࣲ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "(from) the measure",
+      "translations": {
+        "saheeh": "And to Madyan [We sent] their brother Shu'ayb. He said, \"O my people, worship Allah; you have no deity other than Him. And do not decrease from the measure and the scale. Indeed, I see you in prosperity, but indeed, I fear for you the punishment of an all-encompassing Day.",
+        "pickthall": "And unto Midian (We sent) their brother Shu'eyb. He said: O my people! Serve Allah. Ye have no other Allah save Him! And give not short measure and short weight. Lo! I see you well-to-do, and lo! I fear for you the doom of a besetting Day.",
+        "khattab": "And to the people of Midian We sent their brother Shu’aib. He said, “O my people! Worship Allah. You have no god other than Him. And do not give short measure and weight. I do see you in prosperity now, but I truly fear for you the torment of an overwhelming Day",
+        "arberry": "And to Midian their brother Shuaib; he said, 'O my people, serve God! You have no god other than He. And diminish not the measure and the balance. I see you are prospering; and I fear for you the chastisement of an encompassing day."
+      }
+    },
+    {
+      "location": [
+        11,
+        85,
+        3
+      ],
+      "form_arabic": "ٱلْمِكْيَالَ",
+      "lemma": "mikoyaAl",
+      "lemma_arabic": "مِكْيَال",
+      "pos": "N",
+      "ayah_id": "11:85",
+      "ayah_arabic": "وَيَٰقَوۡمِ أَوۡفُواْ ٱلۡمِكۡيَالَ وَٱلۡمِيزَانَ بِٱلۡقِسۡطِۖ وَلَا تَبۡخَسُواْ ٱلنَّاسَ أَشۡيَآءَهُمۡ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Hud",
+      "literal_gloss": "measure",
+      "translations": {
+        "saheeh": "And O my people, give full measure and weight in justice and do not deprive the people of their due and do not commit abuse on the earth, spreading corruption.",
+        "pickthall": "O my people! Give full measure and full weight in justice, and wrong not people in respect of their goods. And do not evil in the earth, causing corruption.",
+        "khattab": "O my people! Give full measure and weigh with justice. Do not defraud people of their property, nor go about spreading corruption in the land",
+        "arberry": "O my people, fill up the measure and the balance justly, and do not diminish the goods of the people, and do not mischief in the land, working corruption."
+      }
+    },
+    {
+      "location": [
+        12,
+        59,
+        14
+      ],
+      "form_arabic": "ٱلْكَيْلَ",
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "pos": "N",
+      "ayah_id": "12:59",
+      "ayah_arabic": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ قَالَ ٱئۡتُونِي بِأَخࣲ لَّكُم مِّنۡ أَبِيكُمۡۚ أَلَا تَرَوۡنَ أَنِّيٓ أُوفِي ٱلۡكَيۡلَ وَأَنَا۠ خَيۡرُ ٱلۡمُنزِلِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "[the] measure",
+      "translations": {
+        "saheeh": "And when he had furnished them with their supplies, he said, \"Bring me a brother of yours from your father. Do not you see that I give full measure and that I am the best of accommodators?",
+        "pickthall": "And when he provided them with their provision he said: Bring unto me a brother of yours from your father. See ye not that I fill up the measure and I am the best of hosts?",
+        "khattab": "When he had provided them with their supplies, he demanded, “Bring me your brother on your father’s side. Do you not see that I give full measure and I am the best of hosts",
+        "arberry": "When he had equipped them with their equipment be said, 'Bring me a certain brother of yours from your father. Do you not see that I fill up the measure, and am the best of hosts?"
+      }
+    },
+    {
+      "location": [
+        12,
+        60,
+        6
+      ],
+      "form_arabic": "كَيْلَ",
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "pos": "N",
+      "ayah_id": "12:60",
+      "ayah_arabic": "فَإِن لَّمۡ تَأۡتُونِي بِهِۦ فَلَا كَيۡلَ لَكُمۡ عِندِي وَلَا تَقۡرَبُونِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "measure",
+      "translations": {
+        "saheeh": "But if you do not bring him to me, no measure will there be [hereafter] for you from me, nor will you approach me.\"",
+        "pickthall": "And if ye bring him not unto me, then there shall be no measure for you with me, nor shall ye draw near.",
+        "khattab": "But if you do not bring him to me ˹next time˺, I will have no grain for you, nor will you ever come close to me again.”",
+        "arberry": "But if you bring him not to me, there shall be no measure for you with me, neither shall you come nigh me.'"
+      }
+    },
+    {
+      "location": [
+        12,
+        63,
+        9
+      ],
+      "form_arabic": "ٱلْكَيْلُ",
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "pos": "N",
+      "ayah_id": "12:63",
+      "ayah_arabic": "فَلَمَّا رَجَعُوٓاْ إِلَىٰٓ أَبِيهِمۡ قَالُواْ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلۡكَيۡلُ فَأَرۡسِلۡ مَعَنَآ أَخَانَا نَكۡتَلۡ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "the measure",
+      "translations": {
+        "saheeh": "So when they returned to their father, they said, \"O our father, [further] measure has been denied to us, so send with us our brother [that] we will be given measure. And indeed, we will be his guardians.\"",
+        "pickthall": "So when they went back to their father they said: O our father! The measure is denied us, so send with us our brother that we may obtain the measure, surely we will guard him well.",
+        "khattab": "When Joseph’s brothers returned to their father, they pleaded, “O our father! We have been denied ˹further˺ supplies. So send our brother with us so that we may receive our measure, and we will definitely watch over him.”",
+        "arberry": "So, when they had returned to their father, they said, 'Father, the measure was denied to us; so send with us our brother, that we may obtain the measure; surely we shall be watching over him.'"
+      }
+    },
+    {
+      "location": [
+        12,
+        63,
+        13
+      ],
+      "form_arabic": "نَكْتَلْ",
+      "lemma": "{kotaAlu",
+      "lemma_arabic": "ٱكْتَالُ",
+      "pos": "V",
+      "ayah_id": "12:63",
+      "ayah_arabic": "فَلَمَّا رَجَعُوٓاْ إِلَىٰٓ أَبِيهِمۡ قَالُواْ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلۡكَيۡلُ فَأَرۡسِلۡ مَعَنَآ أَخَانَا نَكۡتَلۡ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "(that) we will get measure",
+      "translations": {
+        "saheeh": "So when they returned to their father, they said, \"O our father, [further] measure has been denied to us, so send with us our brother [that] we will be given measure. And indeed, we will be his guardians.\"",
+        "pickthall": "So when they went back to their father they said: O our father! The measure is denied us, so send with us our brother that we may obtain the measure, surely we will guard him well.",
+        "khattab": "When Joseph’s brothers returned to their father, they pleaded, “O our father! We have been denied ˹further˺ supplies. So send our brother with us so that we may receive our measure, and we will definitely watch over him.”",
+        "arberry": "So, when they had returned to their father, they said, 'Father, the measure was denied to us; so send with us our brother, that we may obtain the measure; surely we shall be watching over him.'"
+      }
+    },
+    {
+      "location": [
+        12,
+        65,
+        21
+      ],
+      "form_arabic": "كَيْلَ",
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "pos": "N",
+      "ayah_id": "12:65",
+      "ayah_arabic": "وَلَمَّا فَتَحُواْ مَتَٰعَهُمۡ وَجَدُواْ بِضَٰعَتَهُمۡ رُدَّتۡ إِلَيۡهِمۡۖ قَالُواْ يَٰٓأَبَانَا مَا نَبۡغِيۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتۡ إِلَيۡنَاۖ وَنَمِيرُ أَهۡلَنَا وَنَحۡفَظُ أَخَانَا وَنَزۡدَادُ كَيۡلَ بَعِيرࣲۖ ذَٰلِكَ كَيۡلࣱ يَسِيرࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "measure",
+      "translations": {
+        "saheeh": "And when they opened their baggage, they found their merchandise returned to them. They said, \"O our father, what [more] could we desire? This is our merchandise returned to us. And we will obtain supplies for our family and protect our brother and obtain an increase of a camel's load; that is an easy measurement.\"",
+        "pickthall": "And when they opened their belongings they discovered that their merchandise had been returned to them. They said: O our father! What (more) can we ask? Here is our merchandise returned to us. We shall get provision for our folk and guard our brother, and we shall have the extra measure of a camel (load). This (that we bring now) is a light measure.",
+        "khattab": "When they opened their bags, they discovered that their money had been returned to them. They argued, “O our father! What more can we ask for? Here is our money, fully returned to us. Now we can buy more food for our family. We will watch over our brother, and obtain an extra camel-load of grain. That load can be easily secured.”",
+        "arberry": "And when they opened their things, they found their merchandise, restored to them. 'Father,' they said, 'what more should we desire? See, our merchandise here is restored to us. We shall get provision for our family, and we shall be watching over our brother; we shall obtain an extra camel's load -- that is an easy measure."
+      }
+    },
+    {
+      "location": [
+        12,
+        65,
+        24
+      ],
+      "form_arabic": "كَيْلٌ",
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "pos": "N",
+      "ayah_id": "12:65",
+      "ayah_arabic": "وَلَمَّا فَتَحُواْ مَتَٰعَهُمۡ وَجَدُواْ بِضَٰعَتَهُمۡ رُدَّتۡ إِلَيۡهِمۡۖ قَالُواْ يَٰٓأَبَانَا مَا نَبۡغِيۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتۡ إِلَيۡنَاۖ وَنَمِيرُ أَهۡلَنَا وَنَحۡفَظُ أَخَانَا وَنَزۡدَادُ كَيۡلَ بَعِيرࣲۖ ذَٰلِكَ كَيۡلࣱ يَسِيرࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "(is) a measurement",
+      "translations": {
+        "saheeh": "And when they opened their baggage, they found their merchandise returned to them. They said, \"O our father, what [more] could we desire? This is our merchandise returned to us. And we will obtain supplies for our family and protect our brother and obtain an increase of a camel's load; that is an easy measurement.\"",
+        "pickthall": "And when they opened their belongings they discovered that their merchandise had been returned to them. They said: O our father! What (more) can we ask? Here is our merchandise returned to us. We shall get provision for our folk and guard our brother, and we shall have the extra measure of a camel (load). This (that we bring now) is a light measure.",
+        "khattab": "When they opened their bags, they discovered that their money had been returned to them. They argued, “O our father! What more can we ask for? Here is our money, fully returned to us. Now we can buy more food for our family. We will watch over our brother, and obtain an extra camel-load of grain. That load can be easily secured.”",
+        "arberry": "And when they opened their things, they found their merchandise, restored to them. 'Father,' they said, 'what more should we desire? See, our merchandise here is restored to us. We shall get provision for our family, and we shall be watching over our brother; we shall obtain an extra camel's load -- that is an easy measure."
+      }
+    },
+    {
+      "location": [
+        12,
+        88,
+        15
+      ],
+      "form_arabic": "ٱلْكَيْلَ",
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "pos": "N",
+      "ayah_id": "12:88",
+      "ayah_arabic": "فَلَمَّا دَخَلُواْ عَلَيۡهِ قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ مَسَّنَا وَأَهۡلَنَا ٱلضُّرُّ وَجِئۡنَا بِبِضَٰعَةࣲ مُّزۡجَىٰةࣲ فَأَوۡفِ لَنَا ٱلۡكَيۡلَ وَتَصَدَّقۡ عَلَيۡنَآۖ إِنَّ ٱللَّهَ يَجۡزِي ٱلۡمُتَصَدِّقِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "the measure",
+      "translations": {
+        "saheeh": "So when they entered upon Joseph, they said, \"O 'Azeez, adversity has touched us and our family, and we have come with goods poor in quality, but give us full measure and be charitable to us. Indeed, Allah rewards the charitable.\"",
+        "pickthall": "And when they came (again) before him (Joseph) they said: O ruler! Misfortune hath touched us and our folk, and we bring but poor merchandise, so fill for us the measure and be charitable unto us. Lo! Allah will requite the charitable,",
+        "khattab": "When they entered Joseph’s presence, they pleaded, “O Chief Minister! We and our family have been touched with hardship, and we have brought only a few worthless coins, but ˹please˺ give us our supplies in full and be charitable to us. Indeed, Allah rewards the charitable.”",
+        "arberry": "So, when they entered unto him, they said, 'O mighty prince, affliction has visited us and our people. We come with merchandise of scant worth. Fill up to us the measure, and be charitable to us; surely God recompenses the charitable.'"
+      }
+    },
+    {
+      "location": [
+        17,
+        35,
+        2
+      ],
+      "form_arabic": "ٱلْكَيْلَ",
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "pos": "N",
+      "ayah_id": "17:35",
+      "ayah_arabic": "وَأَوۡفُواْ ٱلۡكَيۡلَ إِذَا كِلۡتُمۡ وَزِنُواْ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِيمِۚ ذَٰلِكَ خَيۡرࣱ وَأَحۡسَنُ تَأۡوِيلࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "[the] measure",
+      "translations": {
+        "saheeh": "And give full measure when you measure, and weigh with an even balance. That is the best [way] and best in result.",
+        "pickthall": "Fill the measure when ye measure, and weigh with a right balance; that is meet, and better in the end.",
+        "khattab": "Give in full when you measure, and weigh with an even balance. That is fairest and best in the end",
+        "arberry": "And fill up the measure when you measure, and weigh with the straight balance; that is better and fairer in the issue."
+      }
+    },
+    {
+      "location": [
+        17,
+        35,
+        4
+      ],
+      "form_arabic": "كِلْتُمْ",
+      "lemma": "kaAlu",
+      "lemma_arabic": "كَالُ",
+      "pos": "V",
+      "ayah_id": "17:35",
+      "ayah_arabic": "وَأَوۡفُواْ ٱلۡكَيۡلَ إِذَا كِلۡتُمۡ وَزِنُواْ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِيمِۚ ذَٰلِكَ خَيۡرࣱ وَأَحۡسَنُ تَأۡوِيلࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "you measure",
+      "translations": {
+        "saheeh": "And give full measure when you measure, and weigh with an even balance. That is the best [way] and best in result.",
+        "pickthall": "Fill the measure when ye measure, and weigh with a right balance; that is meet, and better in the end.",
+        "khattab": "Give in full when you measure, and weigh with an even balance. That is fairest and best in the end",
+        "arberry": "And fill up the measure when you measure, and weigh with the straight balance; that is better and fairer in the issue."
+      }
+    },
+    {
+      "location": [
+        26,
+        181,
+        2
+      ],
+      "form_arabic": "ٱلْكَيْلَ",
+      "lemma": "kayol",
+      "lemma_arabic": "كَيْل",
+      "pos": "N",
+      "ayah_id": "26:181",
+      "ayah_arabic": "۞أَوۡفُواْ ٱلۡكَيۡلَ وَلَا تَكُونُواْ مِنَ ٱلۡمُخۡسِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ash-Shu'araa",
+      "literal_gloss": "measure",
+      "translations": {
+        "saheeh": "Give full measure and do not be of those who cause loss.",
+        "pickthall": "Give full measure, and be not of those who give less (than the due).",
+        "khattab": "Give full measure, and cause no loss ˹to others˺",
+        "arberry": "Fill up the measure, and be not cheaters,"
+      }
+    },
+    {
+      "location": [
+        83,
+        2,
+        3
+      ],
+      "form_arabic": "ٱكْتَالُوا@",
+      "lemma": "{kotaAlu",
+      "lemma_arabic": "ٱكْتَالُ",
+      "pos": "V",
+      "ayah_id": "83:2",
+      "ayah_arabic": "ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mutaffifin",
+      "literal_gloss": "they take a measure",
+      "translations": {
+        "saheeh": "Who, when they take a measure from people, take in full.",
+        "pickthall": "Those who when they take the measure from mankind demand it full,",
+        "khattab": "Those who take full measure ˹when they buy˺ from people",
+        "arberry": "when they measure against the people, take full measure"
+      }
+    },
+    {
+      "location": [
+        83,
+        3,
+        2
+      ],
+      "form_arabic": "كَالُوهُمْ",
+      "lemma": "kaAlu",
+      "lemma_arabic": "كَالُ",
+      "pos": "V",
+      "ayah_id": "83:3",
+      "ayah_arabic": "وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mutaffifin",
+      "literal_gloss": "they give by measure (to) them",
+      "translations": {
+        "saheeh": "But if they give by measure or by weight to them, they cause loss.",
+        "pickthall": "But if they measure unto them or weight for them, they cause them loss.",
+        "khattab": "but give less when they measure or weigh for buyers",
+        "arberry": "but, when they measure for them or weigh for them, do skimp."
+      }
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "root": "srq",
+  "root_arabic": "سرق",
+  "stats": {
+    "occurrences": 9,
+    "lemmas": 4,
+    "ayahs": 7,
+    "surahs": 4,
+    "pos_distribution": {
+      "V": 5,
+      "N": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "saraqa",
+      "lemma_arabic": "سَرَقَ",
+      "count": 4,
+      "pos_distribution": {
+        "V": 4
+      },
+      "first_occurrence": [
+        12,
+        77,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            12,
+            77,
+            3
+          ],
+          "form_arabic": "يَسْرِقْ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            12,
+            77,
+            5
+          ],
+          "form_arabic": "سَرَقَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            12,
+            81,
+            8
+          ],
+          "form_arabic": "سَرَقَ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            60,
+            12,
+            14
+          ],
+          "form_arabic": "يَسْرِقْنَ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "s~aAriq",
+      "lemma_arabic": "سَّارِق",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        5,
+        38,
+        1
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            38,
+            1
+          ],
+          "form_arabic": "وَٱلسَّارِقُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            70,
+            15
+          ],
+          "form_arabic": "لَسَٰرِقُونَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            12,
+            73,
+            12
+          ],
+          "form_arabic": "سَٰرِقِينَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "s~aAriqap",
+      "lemma_arabic": "سَّارِقَة",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        5,
+        38,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            5,
+            38,
+            2
+          ],
+          "form_arabic": "وَٱلسَّارِقَةُ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "{sotaraqa",
+      "lemma_arabic": "ٱسْتَرَقَ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        15,
+        18,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            15,
+            18,
+            3
+          ],
+          "form_arabic": "ٱسْتَرَقَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 4,
+      "share": 0.5714,
+      "first_together": [
+        5,
+        38
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 3,
+      "share": 0.4286,
+      "first_together": [
+        12,
+        73
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 3,
+      "share": 0.4286,
+      "first_together": [
+        12,
+        73
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 3,
+      "share": 0.4286,
+      "first_together": [
+        12,
+        73
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        12,
+        73
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        5,
+        38
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 2,
+      "share": 0.2857,
+      "first_together": [
+        15,
+        18
+      ]
+    },
+    {
+      "root": "gyb",
+      "root_arabic": "غيب",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        81
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        81
+      ]
+    },
+    {
+      "root": "HfZ",
+      "root_arabic": "حفظ",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        81
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        81
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        81
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        81
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        77
+      ]
+    },
+    {
+      "root": "bdw",
+      "root_arabic": "بدو",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        77
+      ]
+    },
+    {
+      "root": "wSf",
+      "root_arabic": "وصف",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        77
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        77
+      ]
+    },
+    {
+      "root": "srr",
+      "root_arabic": "سرر",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        77
+      ]
+    },
+    {
+      "root": "$rr",
+      "root_arabic": "شرر",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        77
+      ]
+    },
+    {
+      "root": "fsd",
+      "root_arabic": "فسد",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        73
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        73
+      ]
+    },
+    {
+      "root": "Eyr",
+      "root_arabic": "عير",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "rHl",
+      "root_arabic": "رحل",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "jhz",
+      "root_arabic": "جهز",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "sqy",
+      "root_arabic": "سقي",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        12,
+        70
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        5,
+        38
+      ]
+    },
+    {
+      "root": "jzy",
+      "root_arabic": "جزي",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        5,
+        38
+      ]
+    },
+    {
+      "root": "ksb",
+      "root_arabic": "كسب",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        5,
+        38
+      ]
+    },
+    {
+      "root": "nkl",
+      "root_arabic": "نكل",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        5,
+        38
+      ]
+    },
+    {
+      "root": "Ezz",
+      "root_arabic": "عزز",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        5,
+        38
+      ]
+    },
+    {
+      "root": "qTE",
+      "root_arabic": "قطع",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        5,
+        38
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        15,
+        18
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        15,
+        18
+      ]
+    },
+    {
+      "root": "$hb",
+      "root_arabic": "شهب",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        15,
+        18
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "fry",
+      "root_arabic": "فري",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "Erf",
+      "root_arabic": "عرف",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "bht",
+      "root_arabic": "بهت",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "ESy",
+      "root_arabic": "عصي",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "rjl",
+      "root_arabic": "رجل",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "zny",
+      "root_arabic": "زني",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "byE",
+      "root_arabic": "بيع",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "wld",
+      "root_arabic": "ولد",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    },
+    {
+      "root": "nbA",
+      "root_arabic": "نبا",
+      "ayahs_together": 1,
+      "share": 0.1429,
+      "first_together": [
+        60,
+        12
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 12,
+        "name_english": "Yusuf",
+        "name_arabic": "سُورَةُ يُوسُفَ",
+        "revelation": "Meccan",
+        "occurrences": 5
+      },
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 15,
+        "name_english": "Al-Hijr",
+        "name_arabic": "سُورَةُ الحِجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 60,
+        "name_english": "Al-Mumtahana",
+        "name_arabic": "سُورَةُ المُمۡتَحنَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 3,
+      "Meccan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        5,
+        38,
+        1
+      ],
+      "form_arabic": "وَٱلسَّارِقُ",
+      "lemma": "s~aAriq",
+      "lemma_arabic": "سَّارِق",
+      "pos": "N",
+      "ayah_id": "5:38",
+      "ayah_arabic": "وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقۡطَعُوٓاْ أَيۡدِيَهُمَا جَزَآءَۢ بِمَا كَسَبَا نَكَٰلࣰ ا مِّنَ ٱللَّهِۗ وَٱللَّهُ عَزِيزٌ حَكِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "And (for) the male thief",
+      "translations": {
+        "saheeh": "[As for] the thief, the male and the female, amputate their hands in recompense for what they committed as a deterrent [punishment] from Allah. And Allah is Exalted in Might and Wise.",
+        "pickthall": "As for the thief, both male and female, cut off their hands. It is the reward of their own deeds, an exemplary punishment from Allah. Allah is Mighty, Wise.",
+        "khattab": "As for male and female thieves, cut off their hands for what they have done—a deterrent from Allah. And Allah is Almighty, All-Wise",
+        "arberry": "And the thief, male and female: cut off the hands of both, as a recompense for what they have earned, and a punishment exemplary from God; God is All-mighty, All-wise."
+      }
+    },
+    {
+      "location": [
+        5,
+        38,
+        2
+      ],
+      "form_arabic": "وَٱلسَّارِقَةُ",
+      "lemma": "s~aAriqap",
+      "lemma_arabic": "سَّارِقَة",
+      "pos": "N",
+      "ayah_id": "5:38",
+      "ayah_arabic": "وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقۡطَعُوٓاْ أَيۡدِيَهُمَا جَزَآءَۢ بِمَا كَسَبَا نَكَٰلࣰ ا مِّنَ ٱللَّهِۗ وَٱللَّهُ عَزِيزٌ حَكِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "and the female thief ",
+      "translations": {
+        "saheeh": "[As for] the thief, the male and the female, amputate their hands in recompense for what they committed as a deterrent [punishment] from Allah. And Allah is Exalted in Might and Wise.",
+        "pickthall": "As for the thief, both male and female, cut off their hands. It is the reward of their own deeds, an exemplary punishment from Allah. Allah is Mighty, Wise.",
+        "khattab": "As for male and female thieves, cut off their hands for what they have done—a deterrent from Allah. And Allah is Almighty, All-Wise",
+        "arberry": "And the thief, male and female: cut off the hands of both, as a recompense for what they have earned, and a punishment exemplary from God; God is All-mighty, All-wise."
+      }
+    },
+    {
+      "location": [
+        12,
+        70,
+        15
+      ],
+      "form_arabic": "لَسَٰرِقُونَ",
+      "lemma": "s~aAriq",
+      "lemma_arabic": "سَّارِق",
+      "pos": "N",
+      "ayah_id": "12:70",
+      "ayah_arabic": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ جَعَلَ ٱلسِّقَايَةَ فِي رَحۡلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلۡعِيرُ إِنَّكُمۡ لَسَٰرِقُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "surely (are) thieves",
+      "translations": {
+        "saheeh": "So when he had furnished them with their supplies, he put the [gold measuring] bowl into the bag of his brother. Then an announcer called out, \"O caravan, indeed you are thieves.\"",
+        "pickthall": "And when he provided them with their provision, he put the drinking-cup in his brother's saddlebag, and then a crier cried: O camel-riders! Lo! ye are surely thieves!",
+        "khattab": "When Joseph had provided them with supplies, he slipped the royal cup into his brother’s bag. Then a herald cried, “O people of the caravan! You must be thieves!”",
+        "arberry": "Then, when he had equipped them with their equipment, he put his drinking-cup into the saddlebag of his brother. Then a herald proclaimed, 'Ho, cameleers, you are robbers!'"
+      }
+    },
+    {
+      "location": [
+        12,
+        73,
+        12
+      ],
+      "form_arabic": "سَٰرِقِينَ",
+      "lemma": "s~aAriq",
+      "lemma_arabic": "سَّارِق",
+      "pos": "N",
+      "ayah_id": "12:73",
+      "ayah_arabic": "قَالُواْ تَٱللَّهِ لَقَدۡ عَلِمۡتُم مَّا جِئۡنَا لِنُفۡسِدَ فِي ٱلۡأَرۡضِ وَمَا كُنَّا سَٰرِقِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "thieves",
+      "translations": {
+        "saheeh": "They said, \"By Allah, you have certainly known that we did not come to cause corruption in the land, and we have not been thieves.\"",
+        "pickthall": "They said: By Allah, well ye know we came not to do evil in the land, and are no thieves.",
+        "khattab": "Joseph’s brothers replied, “By Allah! You know well that we did not come to cause trouble in the land, nor are we thieves.”",
+        "arberry": "'By God,' they said, 'you know well that we came not to work corruption in the land. We are not robbers.'"
+      }
+    },
+    {
+      "location": [
+        12,
+        77,
+        3
+      ],
+      "form_arabic": "يَسْرِقْ",
+      "lemma": "saraqa",
+      "lemma_arabic": "سَرَقَ",
+      "pos": "V",
+      "ayah_id": "12:77",
+      "ayah_arabic": "۞قَالُوٓاْ إِن يَسۡرِقۡ فَقَدۡ سَرَقَ أَخࣱ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا يُوسُفُ فِي نَفۡسِهِۦ وَلَمۡ يُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرࣱّ مَّكَانࣰ اۖ وَٱللَّهُ أَعۡلَمُ بِمَا تَصِفُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "he steals ",
+      "translations": {
+        "saheeh": "They said, \"If he steals - a brother of his has stolen before.\" But Joseph kept it within himself and did not reveal it to them. He said, \"You are worse in position, and Allah is most knowing of what you describe.\"",
+        "pickthall": "They said: If he stealeth, a brother of his stole before. But Joseph kept it secret in his soul and revealed it not unto them. He said (within himself): Ye are in worse case, and Allah knoweth best (the truth of) that which ye allege.",
+        "khattab": "˹To distance themselves,˺ Joseph’s brothers argued, “If he has stolen, so did his ˹full˺ brother before.” But Joseph suppressed his outrage—revealing nothing to them—and said ˹to himself˺, “You are in such an evil position, and Allah knows best ˹the truth of˺ what you claim.”",
+        "arberry": "They said, 'If he is a thief, a brother of his was a thief before.' But Joseph secreted it in his soul and disclosed it not to them, saying, 'You are in a worse case; God knows very well what you are describing.'"
+      }
+    },
+    {
+      "location": [
+        12,
+        77,
+        5
+      ],
+      "form_arabic": "سَرَقَ",
+      "lemma": "saraqa",
+      "lemma_arabic": "سَرَقَ",
+      "pos": "V",
+      "ayah_id": "12:77",
+      "ayah_arabic": "۞قَالُوٓاْ إِن يَسۡرِقۡ فَقَدۡ سَرَقَ أَخࣱ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا يُوسُفُ فِي نَفۡسِهِۦ وَلَمۡ يُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرࣱّ مَّكَانࣰ اۖ وَٱللَّهُ أَعۡلَمُ بِمَا تَصِفُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "stole",
+      "translations": {
+        "saheeh": "They said, \"If he steals - a brother of his has stolen before.\" But Joseph kept it within himself and did not reveal it to them. He said, \"You are worse in position, and Allah is most knowing of what you describe.\"",
+        "pickthall": "They said: If he stealeth, a brother of his stole before. But Joseph kept it secret in his soul and revealed it not unto them. He said (within himself): Ye are in worse case, and Allah knoweth best (the truth of) that which ye allege.",
+        "khattab": "˹To distance themselves,˺ Joseph’s brothers argued, “If he has stolen, so did his ˹full˺ brother before.” But Joseph suppressed his outrage—revealing nothing to them—and said ˹to himself˺, “You are in such an evil position, and Allah knows best ˹the truth of˺ what you claim.”",
+        "arberry": "They said, 'If he is a thief, a brother of his was a thief before.' But Joseph secreted it in his soul and disclosed it not to them, saying, 'You are in a worse case; God knows very well what you are describing.'"
+      }
+    },
+    {
+      "location": [
+        12,
+        81,
+        8
+      ],
+      "form_arabic": "سَرَقَ",
+      "lemma": "saraqa",
+      "lemma_arabic": "سَرَقَ",
+      "pos": "V",
+      "ayah_id": "12:81",
+      "ayah_arabic": "ٱرۡجِعُوٓاْ إِلَىٰٓ أَبِيكُمۡ فَقُولُواْ يَٰٓأَبَانَآ إِنَّ ٱبۡنَكَ سَرَقَ وَمَا شَهِدۡنَآ إِلَّا بِمَا عَلِمۡنَا وَمَا كُنَّا لِلۡغَيۡبِ حَٰفِظِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yusuf",
+      "literal_gloss": "has stolen",
+      "translations": {
+        "saheeh": "Return to your father and say, \"O our father, indeed your son has stolen, and we did not testify except to what we knew. And we were not witnesses of the unseen,",
+        "pickthall": "Return unto your father and say: O our father! Lo! thy son hath stolen. We testify only to that which we know; we are not guardians of the Unseen.",
+        "khattab": "Return to your father and say, ‘O our father! Your son committed theft. We testify only to what we know. We could not guard against the unforeseen",
+        "arberry": "Return you all to your father, and say, \"Father, thy son stole; we do not testify except that we know; we were no guardians of the Unseen."
+      }
+    },
+    {
+      "location": [
+        15,
+        18,
+        3
+      ],
+      "form_arabic": "ٱسْتَرَقَ",
+      "lemma": "{sotaraqa",
+      "lemma_arabic": "ٱسْتَرَقَ",
+      "pos": "V",
+      "ayah_id": "15:18",
+      "ayah_arabic": "إِلَّا مَنِ ٱسۡتَرَقَ ٱلسَّمۡعَ فَأَتۡبَعَهُۥ شِهَابࣱ مُّبِينࣱ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Hijr",
+      "literal_gloss": "steals",
+      "translations": {
+        "saheeh": "Except one who steals a hearing and is pursued by a clear burning flame.",
+        "pickthall": "Save him who stealeth the hearing, and them doth a clear flame pursue.",
+        "khattab": "except the one eavesdropping, who is then pursued by a visible flare",
+        "arberry": "excepting such as listens by stealth -- and he is pursued by a manifest flame."
+      }
+    },
+    {
+      "location": [
+        60,
+        12,
+        14
+      ],
+      "form_arabic": "يَسْرِقْنَ",
+      "lemma": "saraqa",
+      "lemma_arabic": "سَرَقَ",
+      "pos": "V",
+      "ayah_id": "60:12",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا جَآءَكَ ٱلۡمُؤۡمِنَٰتُ يُبَايِعۡنَكَ عَلَىٰٓ أَن لَّا يُشۡرِكۡنَ بِٱللَّهِ شَيۡـࣰٔ ا وَلَا يَسۡرِقۡنَ وَلَا يَزۡنِينَ وَلَا يَقۡتُلۡنَ أَوۡلَٰدَهُنَّ وَلَا يَأۡتِينَ بِبُهۡتَٰنࣲ يَفۡتَرِينَهُۥ بَيۡنَ أَيۡدِيهِنَّ وَأَرۡجُلِهِنَّ وَلَا يَعۡصِينَكَ فِي مَعۡرُوفࣲ فَبَايِعۡهُنَّ وَٱسۡتَغۡفِرۡ لَهُنَّ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمࣱ‏",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Mumtahana",
+      "literal_gloss": "they will steal",
+      "translations": {
+        "saheeh": "O Prophet, when the believing women come to you pledging to you that they will not associate anything with Allah, nor will they steal, nor will they commit unlawful sexual intercourse, nor will they kill their children, nor will they bring forth a slander they have invented between their arms and legs, nor will they disobey you in what is right - then accept their pledge and ask forgiveness for them of Allah. Indeed, Allah is Forgiving and Merciful.",
+        "pickthall": "O Prophet! If believing women come unto thee, taking oath of allegiance unto thee that they will ascribe no thing as partner unto Allah, and will neither steal nor commit adultery nor kill their children, nor produce any lie that they have devised between their hands and feet, nor disobey thee in what is right, then accept their allegiance and ask Allah to forgive them. Lo! Allah is Forgiving, Merciful.",
+        "khattab": "O Prophet! When the believing women come to you, pledging to you that they will neither associate anything with Allah ˹in worship˺, nor steal, nor fornicate, nor kill their children, nor falsely attribute ˹illegitimate˺ children to their husbands, nor disobey you in what is right, then accept their pledge, and ask Allah to forgive them. Surely Allah is All-Forgiving, Most Merciful",
+        "arberry": "O Prophet, when believing women come to thee, swearing fealty to thee upon the terms that they will not associate with God anything, and will not steal, neither commit adultery, nor slay their children, nor bring a calumny they forge between their hands and their feet, nor disobey thee in aught honourable, ask God's forgiveness for them; God is All-forgiving, All-compassionate."
+      }
+    }
+  ]
+}

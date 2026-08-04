@@ -2215,3 +2215,100 @@ The methodology has reached production maturity. We have run THREE consecutive c
 The eventual goal — a stable system prompt for autonomous Quran research — is now operationally CLOSE. The agent-context doc IS the system prompt for sub-agents. The orchestrator-side equivalent is the 4-phase pipeline + multi-root clustering + Phase 2 sizing + the Phase 3 conditional + cross-investigation citation. All of these are now PROJECT BASELINE.
 
 The Quran-research project has now produced ~480,000 words of deep textual analysis across 8 thematic investigations + 5 corpus-wide structural reports + 1 interactive graph + 1 web app — using the methodology that this log has documented across 9 entries.
+
+---
+
+## Entry 10 — Finance: money, wealth, and economic ethics (2026-05-17)
+
+The fourth optimized investigation, second consecutive at MAX scope with Phase 3 executed. Topic: the Quran's full financial doctrine — riba, zakat, sadaqah, infaq, inheritance, debt contracts, fair-measure, ownership, hoarding, spoils, theft, and the broader ethics that frame these.
+
+### Pipeline as executed
+
+- **Phase 0** — survey + missing concept profiles. 37 finance roots verified across 8 clusters; 22 new concept JSONs built (mwl, knz, xzn, rbw, rbH, ksb, tjr, byE, $ry, rhn, Sdq, zkw, bxl, kyl, Tff, bxs, wSy, fqr, skn, nfl, gnm, fyA, srq). Folder structure set up with 0-structural/, 1-roots/, 1-narratives/, 2-cross-cutting/, 3-rabbit-holes/.
+
+  **Buckwalter pitfall encountered:** the literal codes `zky`, `waS`, `mhr` did NOT exist in QAC roots. Corrected: `zky → zkw` (zakat root has the wāw, not yāʾ), `waS → wSy` (waṣiyya/bequest). `mhr` (dowry) does not exist as a QAC root — the dowry concept is expressed via Ajr (wage), saduqāt (4:4), and other surface forms but lacks a dedicated root. Always verify root codes against `data/morphology/roots.json` before launching concept-build scripts.
+
+- **Phase 1a** — 8 multi-root cluster agents (Sonnet), 2 parallel batches of 4. Clusters: wealth-core (mwl/rzq/knz/xzn), riba-gain (rbw/rbH/ksb), trade-loan (tjr/byE/$ry/qrD), contracts-debt (dyn/ktb/$hd/rhn), charity-spending (Sdq/zkw/nfq/Hbb/bxl/sAl), measures-justice (kyl/wzn/qsT/Tff/bxs), inheritance-vulnerable (wrv/wSy/ytm/fqr/skn), spoils-state-theft (nfl/gnm/fyA/jzy/xms/srq). ~270k tokens total. Output: 8 files in 1-roots/.
+
+- **Phase 1b** — 7 narrative agents (Sonnet), 2 parallel batches (4+3). Narratives: riba prohibition arc (30:39→4:161→3:130→2:275-281), Baqarah 282 debt contract, inheritance verses (4:7-14, 4:33, 4:176), Qarun (28:76-82), Madyan/Shu'ayb (7:85-93, 11:84-95, 26:176-191), Solomon's wealth (27/34/38), spoils chapters (al-Anfāl 8:1, 8:41 + al-Ḥashr 59:6-10). ~210k tokens total. Output: 7 files in 1-narratives/.
+
+- **Structural pre-cut** (Haiku, parallel with narratives batch 2). Built finance-cooccurrence.json (37×37 root pair counts) and finance-divergence-verses.md (top-divergence finance verses). Key structural finding: `rbw` and `zkw` show ZERO co-occurrence despite their theological mirror-positioning at 30:39 — the Quran HOLDS them lexically apart even when conceptually opposing them. The riba-charity opposition is realized through Sdq, not zkw, in 2:276. ~30k tokens.
+
+- **Phase 2** — 4 Opus cross-cutting agents launched in single parallel batch. Topics: riba-vs-trade (what the disputants got right vs what the Quran asserts), ownership-theology (the mwl/rzq stewardship doctrine), zakat-sadaqa-infaq (the nested give-vocabulary + 9:60 eight categories), justice-transactions (qisṭ/mīzān/witnessing/writing/orphan-bellwether/conscience-not-enforcement). ~290k tokens. Output: 4 files in 2-cross-cutting/.
+
+- **Phase 3** — 4 Sonnet rabbit holes, single parallel batch. Topics: riba-war-from-Allah (why uniquely escalated), love-of-wealth (hubb al-mal + cure formula), dūla-principle (59:7 as positive economic vision), Qarun-Solomon dialectic (the wealth-as-test pair). ~140k tokens. Output: 4 files in 3-rabbit-holes/.
+
+- **Phase 4** — Opus synthesis + folder README. Read 25 headlines (first pass), drilled into cross-cutting + rabbit-hole files (second pass), wrote 6,304-word concept-finance-deep.md and 607-word README.md. ~155k tokens.
+
+**Total: ~1.1M tokens across 25 agents.** Significantly under afterlife's ~2M despite similar scope — the finance pipeline benefited from cleaner cluster boundaries (the 8 root-clusters mapped to actual conceptual domains with minimal overlap), reducing redundant cross-confirmation work in Phase 2.
+
+### Decisive moves
+
+1. **The 8-cluster partition was load-bearing.** Each cluster mapped to a distinct domain of financial action (wealth-as-object, increase-vocabulary, exchange-acts, formal-obligation, give-acts, fair-measure, transfer-at-death, state-revenue). This made Phase 2 cross-cutting much cleaner — each Opus essay could pull from 3-4 root files plus 2-3 narratives without overlapping the others. The clusters were derived from semantic-field grouping, NOT alphabetical or frequency-sorted ordering.
+
+2. **The mwl/rzq distinction as the keystone of the entire ownership doctrine** emerged from the wealth-core root agent's lemma-table analysis — 82% of rizq verbs have a DIVINE grammatical subject vs amwāl always having human possessive pronouns. This single observation became the keystone for the ownership-theology cross-cutting essay AND the Qarun-Solomon rabbit hole AND the synthesis's framing thesis. **Pattern reinforced (now ×9 investigations): the lemma table is where the decisive insight lives.**
+
+3. **The rbw polysemy (60% natural growth / 40% interest)** was the riba-gain agent's central finding. 30:39 deploys BOTH senses in a single ayah — the theological argument IS the wordplay. This shaped the Phase 2 riba-vs-trade essay (riba is a "cosmological forgery" that claims divine increase but runs it backwards) and the Phase 3 war-from-Allah rabbit hole.
+
+4. **The negative-space convergence** held with unusual force here. The Quran specifies:
+   - NO zakāt rate
+   - NO interest threshold (the riba ban is categorical, not quantified)
+   - NO wealth ceiling
+   - NO market enforcement apparatus
+   - NO court system in 2:282
+   - NO standard measurement units (the muṭaffifīn ban is about asymmetric application, not specified standards)
+   - NO 1/3 bequest cap (inferred from the priority queue, not stated)
+   - NO jizya rate
+   - NO khums spending mechanism beyond the recipient list
+   This SYSTEMATIC silence is the design — architecture of principle, not regulation. The system requires belief in divine accounting to function. The negative-space pattern, which has appeared in every investigation, was strongest here.
+
+5. **The conscience-not-enforcement diagnosis** in the justice-transactions cross-cutting essay names the architecture: peer documentation + witnesses + conscience + divine accounting = full enforcement stack, with ZERO institutional apparatus. This is the most concise statement of the Quran's regulatory philosophy yet produced.
+
+6. **The dūla principle as the supreme distributive intent** (59:7) was given full treatment in the rabbit hole. 5 mechanisms (zakāt, inheritance, riba-ban, kanz-ban, orphan-protections) all read as applications of this single sentence. The Arabic root d-w-l yields both "rotation" and "state" (dawla) — the WORD FOR STATE in Arabic comes from "circulation that must not pool."
+
+7. **The Qarun-Solomon paradigm** is the single most pedagogically powerful pair the project has surfaced. Same wealth condition, opposite orientations, opposite ends. The grammatical contrast (active self-attribution vs passive divine bestowal) is the deciding axis. 8-axis contrast table built in rabbit-qarun-solomon.md.
+
+### Patterns observed
+
+- **The lemma table remains where the insight lives** — ×9 investigations now. Every Phase-1 root cluster surfaced its key finding from the lemma table.
+
+- **Polysemy is theological** — across this investigation: rbw (growth/interest), Sdq (truth/charity), nfq (spending/hypocrisy), dyn (religion/debt), knz (treasure/hoard). The Quran USES the polysemy. The double-meaning is the argument.
+
+- **Narrative as legislation** — the Qarun, Madyan, and Solomon narratives carry as much financial-ethics weight as the explicit legal verses (2:275-282, 4:11-12, 9:60). The Quran teaches doctrine through paradigm, not just statute.
+
+- **Eschatological binding of every legal passage** — 2:281 sits between the riba ban and the debt-contract verse; 83:7-21 follows the muṭaffifīn condemnation; 4:10's fire-in-bellies closes the orphan-property passage. Every financial command is anchored to the Day of Reckoning. The cross-investigation thread to afterlife is unusually direct here.
+
+- **The "from what you love" cure formula** (3:92, 76:8, 2:177) appeared as a coherent set across multiple Phase-1 + Phase-3 agents. The Quran's therapy for ḥubb al-mal is NOT renunciation — it is SUFFICIENT GIVING that touches the attachment. Connects to the success investigation's "orientation-not-capability" finding.
+
+### Cross-investigation citations
+
+- **Success** — orientation-not-capability theology directly informs the Qarun-Solomon distinction (the wealth ≠ the test; the orientation IS the test).
+- **Failure** — the Iblīs-Adam refusal binary parallels the Qarun (self-attribution) vs Solomon (gratitude) binary. Same refusal-vs-acceptance pattern at the wealth level.
+- **Afterlife** — every legal-financial passage is anchored to the Day of Reckoning. The "war from Allah" of 2:279 is matched by the books-balanced of 2:281. The orphan-eating becomes literal fire-in-bellies at 4:10.
+- **Time** — the Quran has no annual finance schedule. No fiscal year. No periodic accounting interval. Connects to the time investigation's "no during, no middle" finding — the Quran's temporal grammar lacks the middle-frame that periodic finance would require.
+- **Teleportation** — wealth-transfer at the cosmic scale (8:1 anfāl belong to Allah; 59:7 dūla mandate) operates by the same "juxtaposition not trajectory" pattern — wealth IS REDISTRIBUTED with no mechanism specified.
+
+### Cost report
+
+- ~1.1M tokens total across 25 agents.
+- ~50% off the pre-optimization baseline (~3-5M for an investigation of this scope).
+- Quality held — every Phase 1+2+3 file under hard cap; every file with headline block; cross-confirmation rate maintained.
+- Faster than afterlife at similar scope due to cleaner cluster boundaries.
+
+### Open questions raised
+
+1. **The 2:1 male/female inheritance asymmetry** — the verse states it (lil-dhakari mithlu ḥaẓẓi al-unthayayn) without explicit rationale. The classical mahr/nafaqa argument is reasoned from elsewhere. The text-internal question of WHY the ratio is 2:1 remains open.
+
+2. **Modern fiat / inflation** — qarḍ ḥasan in the Quran is interest-free reciprocal lending. Does this accommodate inflation-adjusted return? The text doesn't address it; jurists differ.
+
+3. **Dūla in global economy** — the principle is GENERAL (wealth must not become closed circulation among the rich). Applied to modern globalized wealth concentration, the diagnosis is sharper than most contemporary economic frames. Whether/how this is operationalized is an open question.
+
+4. **Riba's scope** — silent on rate, the Quran's text supports both maximalist (any interest) and minimalist (only exploitative compounding) readings. The post-Quranic jurisprudence settled this in different ways; the text itself does not.
+
+5. **The conscience-not-enforcement architecture requires belief in divine accounting to function.** In societies where this belief is absent or weak, the architecture cannot operate. The Quran's economic ethics may not be portable to a secular regulatory context without substantial transformation.
+
+### What changed in the methodology after this investigation
+
+Nothing structurally — the pipeline is stable. This was the 4th run on the optimized methodology and the 2nd at MAX scope with Phase 3. The token cost continues to track lower than prior investigations at similar scope due to incremental cluster-boundary refinement.
+
+The Quran-research project now stands at ~535,000 words across 9 thematic investigations.

@@ -458,16 +458,6 @@
       ]
     },
     {
-      "root": "$rk",
-      "root_arabic": "شرك",
-      "ayahs_together": 4,
-      "share": 0.1905,
-      "first_together": [
-        4,
-        12
-      ]
-    },
-    {
       "root": "gyr",
       "root_arabic": "غير",
       "ayahs_together": 4,
@@ -488,6 +478,16 @@
       ]
     },
     {
+      "root": "$rk",
+      "root_arabic": "شرك",
+      "ayahs_together": 4,
+      "share": 0.1905,
+      "first_together": [
+        4,
+        12
+      ]
+    },
+    {
       "root": "Elm",
       "root_arabic": "علم",
       "ayahs_together": 4,
@@ -495,16 +495,6 @@
       "first_together": [
         4,
         11
-      ]
-    },
-    {
-      "root": "qwl",
-      "root_arabic": "قول",
-      "ayahs_together": 4,
-      "share": 0.1905,
-      "first_together": [
-        6,
-        144
       ]
     },
     {
@@ -518,13 +508,13 @@
       ]
     },
     {
-      "root": "Ans",
-      "root_arabic": "انس",
-      "ayahs_together": 3,
-      "share": 0.1429,
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 4,
+      "share": 0.1905,
       "first_together": [
-        29,
-        8
+        6,
+        144
       ]
     },
     {
@@ -538,18 +528,18 @@
       ]
     },
     {
-      "root": "bEd",
-      "root_arabic": "بعد",
+      "root": "Ans",
+      "root_arabic": "انس",
       "ayahs_together": 3,
       "share": 0.1429,
       "first_together": [
-        4,
-        11
+        29,
+        8
       ]
     },
     {
-      "root": "vlv",
-      "root_arabic": "ثلث",
+      "root": "bEd",
+      "root_arabic": "بعد",
       "ayahs_together": 3,
       "share": 0.1429,
       "first_together": [
@@ -565,6 +555,16 @@
       "first_together": [
         2,
         180
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 3,
+      "share": 0.1429,
+      "first_together": [
+        4,
+        11
       ]
     },
     {
@@ -668,16 +668,6 @@
       ]
     },
     {
-      "root": "Hml",
-      "root_arabic": "حمل",
-      "ayahs_together": 2,
-      "share": 0.0952,
-      "first_together": [
-        31,
-        14
-      ]
-    },
-    {
       "root": "$kr",
       "root_arabic": "شكر",
       "ayahs_together": 2,
@@ -698,68 +688,18 @@
       ]
     },
     {
-      "root": "zwj",
-      "root_arabic": "زوج",
+      "root": "Hml",
+      "root_arabic": "حمل",
       "ayahs_together": 2,
       "share": 0.0952,
       "first_together": [
-        2,
-        240
-      ]
-    },
-    {
-      "root": "nSf",
-      "root_arabic": "نصف",
-      "ayahs_together": 2,
-      "share": 0.0952,
-      "first_together": [
-        4,
-        11
+        31,
+        14
       ]
     },
     {
       "root": "sds",
       "root_arabic": "سدس",
-      "ayahs_together": 2,
-      "share": 0.0952,
-      "first_together": [
-        4,
-        11
-      ]
-    },
-    {
-      "root": "Axw",
-      "root_arabic": "اخو",
-      "ayahs_together": 2,
-      "share": 0.0952,
-      "first_together": [
-        4,
-        11
-      ]
-    },
-    {
-      "root": "wHd",
-      "root_arabic": "وحد",
-      "ayahs_together": 2,
-      "share": 0.0952,
-      "first_together": [
-        4,
-        11
-      ]
-    },
-    {
-      "root": "rbE",
-      "root_arabic": "ربع",
-      "ayahs_together": 2,
-      "share": 0.0952,
-      "first_together": [
-        4,
-        12
-      ]
-    },
-    {
-      "root": "kll",
-      "root_arabic": "كلل",
       "ayahs_together": 2,
       "share": 0.0952,
       "first_together": [
@@ -778,6 +718,46 @@
       ]
     },
     {
+      "root": "rbE",
+      "root_arabic": "ربع",
+      "ayahs_together": 2,
+      "share": 0.0952,
+      "first_together": [
+        4,
+        12
+      ]
+    },
+    {
+      "root": "Axw",
+      "root_arabic": "اخو",
+      "ayahs_together": 2,
+      "share": 0.0952,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 2,
+      "share": 0.0952,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "nSf",
+      "root_arabic": "نصف",
+      "ayahs_together": 2,
+      "share": 0.0952,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
       "root": "vmn",
       "root_arabic": "ثمن",
       "ayahs_together": 2,
@@ -788,13 +768,23 @@
       ]
     },
     {
-      "root": "ktb",
-      "root_arabic": "كتب",
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 2,
+      "share": 0.0952,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
       "ayahs_together": 2,
       "share": 0.0952,
       "first_together": [
         2,
-        180
+        240
       ]
     },
     {
@@ -808,13 +798,23 @@
       ]
     },
     {
-      "root": "blg",
-      "root_arabic": "بلغ",
+      "root": "ktb",
+      "root_arabic": "كتب",
       "ayahs_together": 2,
       "share": 0.0952,
       "first_together": [
-        6,
-        152
+        2,
+        180
+      ]
+    },
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 2,
+      "share": 0.0952,
+      "first_together": [
+        2,
+        240
       ]
     },
     {
@@ -838,13 +838,13 @@
       ]
     },
     {
-      "root": "wfy",
-      "root_arabic": "وفي",
+      "root": "blg",
+      "root_arabic": "بلغ",
       "ayahs_together": 2,
       "share": 0.0952,
       "first_together": [
-        2,
-        240
+        6,
+        152
       ]
     },
     {
@@ -948,8 +948,8 @@
       ]
     },
     {
-      "root": "rjE",
-      "root_arabic": "رجع",
+      "root": "TwE",
+      "root_arabic": "طوع",
       "ayahs_together": 2,
       "share": 0.0952,
       "first_together": [
@@ -958,8 +958,8 @@
       ]
     },
     {
-      "root": "TwE",
-      "root_arabic": "طوع",
+      "root": "rjE",
+      "root_arabic": "رجع",
       "ayahs_together": 2,
       "share": 0.0952,
       "first_together": [
@@ -998,8 +998,8 @@
       ]
     },
     {
-      "root": "Slw",
-      "root_arabic": "صلو",
+      "root": "$hd",
+      "root_arabic": "شهد",
       "ayahs_together": 2,
       "share": 0.0952,
       "first_together": [
@@ -1018,6 +1018,16 @@
       ]
     },
     {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 2,
+      "share": 0.0952,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
       "root": "AHd",
       "root_arabic": "احد",
       "ayahs_together": 2,
@@ -1028,28 +1038,8 @@
       ]
     },
     {
-      "root": "$hd",
-      "root_arabic": "شهد",
-      "ayahs_together": 2,
-      "share": 0.0952,
-      "first_together": [
-        5,
-        106
-      ]
-    },
-    {
       "root": "Ewm",
       "root_arabic": "عوم",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        31,
-        14
-      ]
-    },
-    {
-      "root": "Syr",
-      "root_arabic": "صير",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1068,6 +1058,16 @@
       ]
     },
     {
+      "root": "Syr",
+      "root_arabic": "صير",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        31,
+        14
+      ]
+    },
+    {
       "root": "Tgy",
       "root_arabic": "طغي",
       "ayahs_together": 1,
@@ -1078,18 +1078,8 @@
       ]
     },
     {
-      "root": "Drr",
-      "root_arabic": "ضرر",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        4,
-        12
-      ]
-    },
-    {
-      "root": "kvr",
-      "root_arabic": "كثر",
+      "root": "mrA",
+      "root_arabic": "مرا",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1118,8 +1108,8 @@
       ]
     },
     {
-      "root": "mrA",
-      "root_arabic": "مرا",
+      "root": "Drr",
+      "root_arabic": "ضرر",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1128,8 +1118,18 @@
       ]
     },
     {
-      "root": "kfr",
-      "root_arabic": "كفر",
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        4,
+        12
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1138,8 +1138,18 @@
       ]
     },
     {
-      "root": "Hmd",
-      "root_arabic": "حمد",
+      "root": "gny",
+      "root_arabic": "غني",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        4,
+        131
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1168,88 +1178,18 @@
       ]
     },
     {
-      "root": "qbl",
-      "root_arabic": "قبل",
+      "root": "Hmd",
+      "root_arabic": "حمد",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
         4,
         131
-      ]
-    },
-    {
-      "root": "gny",
-      "root_arabic": "غني",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        4,
-        131
-      ]
-    },
-    {
-      "root": "ytm",
-      "root_arabic": "يتم",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        152
-      ]
-    },
-    {
-      "root": "wsE",
-      "root_arabic": "وسع",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        152
       ]
     },
     {
       "root": "Ehd",
       "root_arabic": "عهد",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        152
-      ]
-    },
-    {
-      "root": "klf",
-      "root_arabic": "كلف",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        152
-      ]
-    },
-    {
-      "root": "mwl",
-      "root_arabic": "مول",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        152
-      ]
-    },
-    {
-      "root": "qsT",
-      "root_arabic": "قسط",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        152
-      ]
-    },
-    {
-      "root": "wzn",
-      "root_arabic": "وزن",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1268,8 +1208,68 @@
       ]
     },
     {
-      "root": "xwf",
-      "root_arabic": "خوف",
+      "root": "ytm",
+      "root_arabic": "يتم",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "qsT",
+      "root_arabic": "قسط",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "wsE",
+      "root_arabic": "وسع",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "wzn",
+      "root_arabic": "وزن",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "mwl",
+      "root_arabic": "مول",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "klf",
+      "root_arabic": "كلف",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        152
+      ]
+    },
+    {
+      "root": "jnf",
+      "root_arabic": "جنف",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1288,8 +1288,8 @@
       ]
     },
     {
-      "root": "jnf",
-      "root_arabic": "جنف",
+      "root": "xwf",
+      "root_arabic": "خوف",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1300,16 +1300,6 @@
     {
       "root": "Ezz",
       "root_arabic": "عزز",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        2,
-        240
-      ]
-    },
-    {
-      "root": "mtE",
-      "root_arabic": "متع",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1338,8 +1328,18 @@
       ]
     },
     {
-      "root": "xrj",
-      "root_arabic": "خرج",
+      "root": "fEl",
+      "root_arabic": "فعل",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        2,
+        240
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1358,8 +1358,8 @@
       ]
     },
     {
-      "root": "fEl",
-      "root_arabic": "فعل",
+      "root": "xrj",
+      "root_arabic": "خرج",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1368,28 +1368,38 @@
       ]
     },
     {
-      "root": "mlq",
-      "root_arabic": "ملق",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        151
-      ]
-    },
-    {
-      "root": "Zhr",
-      "root_arabic": "ظهر",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        151
-      ]
-    },
-    {
       "root": "rzq",
       "root_arabic": "رزق",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "tlw",
+      "root_arabic": "تلو",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "Elw",
+      "root_arabic": "علو",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1418,28 +1428,8 @@
       ]
     },
     {
-      "root": "qtl",
-      "root_arabic": "قتل",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        151
-      ]
-    },
-    {
-      "root": "Elw",
-      "root_arabic": "علو",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        151
-      ]
-    },
-    {
-      "root": "tlw",
-      "root_arabic": "تلو",
+      "root": "Zhr",
+      "root_arabic": "ظهر",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1455,6 +1445,36 @@
       "first_together": [
         6,
         151
+      ]
+    },
+    {
+      "root": "mlq",
+      "root_arabic": "ملق",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        151
+      ]
+    },
+    {
+      "root": "fwq",
+      "root_arabic": "فوق",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        4,
+        11
       ]
     },
     {
@@ -1478,28 +1498,18 @@
       ]
     },
     {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        4,
+        11
+      ]
+    },
+    {
       "root": "frD",
       "root_arabic": "فرض",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        4,
-        11
-      ]
-    },
-    {
-      "root": "fwq",
-      "root_arabic": "فوق",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        4,
-        11
-      ]
-    },
-    {
-      "root": "mvl",
-      "root_arabic": "مثل",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1528,26 +1538,6 @@
       ]
     },
     {
-      "root": "nsw",
-      "root_arabic": "نسو",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        4,
-        11
-      ]
-    },
-    {
-      "root": "jhd",
-      "root_arabic": "جهد",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        29,
-        8
-      ]
-    },
-    {
       "root": "lys",
       "root_arabic": "ليس",
       "ayahs_together": 1,
@@ -1568,13 +1558,13 @@
       ]
     },
     {
-      "root": "wHy",
-      "root_arabic": "وحي",
+      "root": "jhd",
+      "root_arabic": "جهد",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
-        42,
-        13
+        29,
+        8
       ]
     },
     {
@@ -1588,8 +1578,8 @@
       ]
     },
     {
-      "root": "jby",
-      "root_arabic": "جبي",
+      "root": "wHy",
+      "root_arabic": "وحي",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1628,6 +1618,16 @@
       ]
     },
     {
+      "root": "jby",
+      "root_arabic": "جبي",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        42,
+        13
+      ]
+    },
+    {
       "root": "Sfw",
       "root_arabic": "صفو",
       "ayahs_together": 1,
@@ -1638,8 +1638,48 @@
       ]
     },
     {
+      "root": "Drb",
+      "root_arabic": "ضرب",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Hbs",
+      "root_arabic": "حبس",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "ryb",
+      "root_arabic": "ريب",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
       "root": "$ry",
       "root_arabic": "شري",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        5,
+        106
+      ]
+    },
+    {
+      "root": "Hyn",
+      "root_arabic": "حين",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1668,18 +1708,8 @@
       ]
     },
     {
-      "root": "Hyn",
-      "root_arabic": "حين",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        5,
-        106
-      ]
-    },
-    {
-      "root": "ryb",
-      "root_arabic": "ريب",
+      "root": "ktm",
+      "root_arabic": "كتم",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1698,48 +1728,8 @@
       ]
     },
     {
-      "root": "ktm",
-      "root_arabic": "كتم",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        5,
-        106
-      ]
-    },
-    {
-      "root": "Drb",
-      "root_arabic": "ضرب",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        5,
-        106
-      ]
-    },
-    {
-      "root": "Hbs",
-      "root_arabic": "حبس",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        5,
-        106
-      ]
-    },
-    {
-      "root": "bqr",
-      "root_arabic": "بقر",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        144
-      ]
-    },
-    {
-      "root": "nws",
-      "root_arabic": "نوس",
+      "root": "$ml",
+      "root_arabic": "شمل",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1758,8 +1748,38 @@
       ]
     },
     {
-      "root": "$ml",
-      "root_arabic": "شمل",
+      "root": "Abl",
+      "root_arabic": "ابل",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        144
+      ]
+    },
+    {
+      "root": "fry",
+      "root_arabic": "فري",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        144
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        6,
+        144
+      ]
+    },
+    {
+      "root": "bqr",
+      "root_arabic": "بقر",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1788,28 +1808,8 @@
       ]
     },
     {
-      "root": "fry",
-      "root_arabic": "فري",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        144
-      ]
-    },
-    {
-      "root": "Abl",
-      "root_arabic": "ابل",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        6,
-        144
-      ]
-    },
-    {
-      "root": "sbl",
-      "root_arabic": "سبل",
+      "root": "tbE",
+      "root_arabic": "تبع",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1828,8 +1828,8 @@
       ]
     },
     {
-      "root": "tbE",
-      "root_arabic": "تبع",
+      "root": "sbl",
+      "root_arabic": "سبل",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1848,8 +1848,8 @@
       ]
     },
     {
-      "root": "jEl",
-      "root_arabic": "جعل",
+      "root": "brk",
+      "root_arabic": "برك",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1868,8 +1868,18 @@
       ]
     },
     {
-      "root": "brk",
-      "root_arabic": "برك",
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        19,
+        31
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1888,38 +1898,8 @@
       ]
     },
     {
-      "root": "Hyy",
-      "root_arabic": "حيي",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        19,
-        31
-      ]
-    },
-    {
       "root": "$hr",
       "root_arabic": "شهر",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        46,
-        15
-      ]
-    },
-    {
-      "root": "snw",
-      "root_arabic": "سنو",
-      "ayahs_together": 1,
-      "share": 0.0476,
-      "first_together": [
-        46,
-        15
-      ]
-    },
-    {
-      "root": "nEm",
-      "root_arabic": "نعم",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1938,8 +1918,8 @@
       ]
     },
     {
-      "root": "wDE",
-      "root_arabic": "وضع",
+      "root": "wzE",
+      "root_arabic": "وزع",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1948,8 +1928,28 @@
       ]
     },
     {
-      "root": "wzE",
-      "root_arabic": "وزع",
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        46,
+        15
+      ]
+    },
+    {
+      "root": "snw",
+      "root_arabic": "سنو",
+      "ayahs_together": 1,
+      "share": 0.0476,
+      "first_together": [
+        46,
+        15
+      ]
+    },
+    {
+      "root": "*rr",
+      "root_arabic": "ذرر",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1968,8 +1968,8 @@
       ]
     },
     {
-      "root": "twb",
-      "root_arabic": "توب",
+      "root": "wDE",
+      "root_arabic": "وضع",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [
@@ -1978,8 +1978,8 @@
       ]
     },
     {
-      "root": "*rr",
-      "root_arabic": "ذرر",
+      "root": "twb",
+      "root_arabic": "توب",
       "ayahs_together": 1,
       "share": 0.0476,
       "first_together": [

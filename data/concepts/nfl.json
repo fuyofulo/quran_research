@@ -1,0 +1,402 @@
+{
+  "root": "nfl",
+  "root_arabic": "نفل",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 4
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": ">anfaAl",
+      "lemma_arabic": "أَنفَال",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        8,
+        1,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            8,
+            1,
+            3
+          ],
+          "form_arabic": "ٱلْأَنفَالِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            8,
+            1,
+            5
+          ],
+          "form_arabic": "ٱلْأَنفَالُ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "naAfilap",
+      "lemma_arabic": "نَافِلَة",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        17,
+        79,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            17,
+            79,
+            5
+          ],
+          "form_arabic": "نَافِلَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            21,
+            72,
+            5
+          ],
+          "form_arabic": "نَافِلَةً",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "SlH",
+      "root_arabic": "صلح",
+      "ayahs_together": 2,
+      "share": 0.6667,
+      "first_together": [
+        8,
+        1
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "Esy",
+      "root_arabic": "عسي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "Hmd",
+      "root_arabic": "حمد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "hjd",
+      "root_arabic": "هجد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        72
+      ]
+    },
+    {
+      "root": "whb",
+      "root_arabic": "وهب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        72
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        21,
+        72
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        1
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        1
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        1
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        1
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        1
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        1
+      ]
+    },
+    {
+      "root": "sAl",
+      "root_arabic": "سال",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        1
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        1
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        8,
+        1
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 8,
+        "name_english": "Al-Anfaal",
+        "name_arabic": "سُورَةُ الأَنفَالِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 21,
+        "name_english": "Al-Anbiyaa",
+        "name_arabic": "سُورَةُ الأَنبِيَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        8,
+        1,
+        3
+      ],
+      "form_arabic": "ٱلْأَنفَالِ",
+      "lemma": ">anfaAl",
+      "lemma_arabic": "أَنفَال",
+      "pos": "N",
+      "ayah_id": "8:1",
+      "ayah_arabic": "يَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُواْ ٱللَّهَ وَأَصۡلِحُواْ ذَاتَ بَيۡنِكُمۡۖ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤۡمِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "the spoils of war",
+      "translations": {
+        "saheeh": "They ask you, [O Muhammad], about the bounties [of war]. Say, \"The [decision concerning] bounties is for Allah and the Messenger.\" So fear Allah and amend that which is between you and obey Allah and His Messenger, if you should be believers.",
+        "pickthall": "They ask thee (O Muhammad) of the spoils of war. Say: The spoils of war belong to Allah and the messenger, so keep your duty to Allah, and adjust the matter of your difference, and obey Allah and His messenger, if ye are (true) believers.",
+        "khattab": "They ask you ˹O Prophet˺ regarding the spoils of war. Say, “Their distribution is decided by Allah and His Messenger. So be mindful of Allah, settle your affairs, and obey Allah and His Messenger if you are ˹true˺ believers.”",
+        "arberry": "They will question thee concerning the spoils. Say: 'The spoils belong to God and the Messenger; so fear you God, and set things right between you, and obey you God and His Messenger, if you are believers.'"
+      }
+    },
+    {
+      "location": [
+        8,
+        1,
+        5
+      ],
+      "form_arabic": "ٱلْأَنفَالُ",
+      "lemma": ">anfaAl",
+      "lemma_arabic": "أَنفَال",
+      "pos": "N",
+      "ayah_id": "8:1",
+      "ayah_arabic": "يَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُواْ ٱللَّهَ وَأَصۡلِحُواْ ذَاتَ بَيۡنِكُمۡۖ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤۡمِنِينَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "The spoils of war",
+      "translations": {
+        "saheeh": "They ask you, [O Muhammad], about the bounties [of war]. Say, \"The [decision concerning] bounties is for Allah and the Messenger.\" So fear Allah and amend that which is between you and obey Allah and His Messenger, if you should be believers.",
+        "pickthall": "They ask thee (O Muhammad) of the spoils of war. Say: The spoils of war belong to Allah and the messenger, so keep your duty to Allah, and adjust the matter of your difference, and obey Allah and His messenger, if ye are (true) believers.",
+        "khattab": "They ask you ˹O Prophet˺ regarding the spoils of war. Say, “Their distribution is decided by Allah and His Messenger. So be mindful of Allah, settle your affairs, and obey Allah and His Messenger if you are ˹true˺ believers.”",
+        "arberry": "They will question thee concerning the spoils. Say: 'The spoils belong to God and the Messenger; so fear you God, and set things right between you, and obey you God and His Messenger, if you are believers.'"
+      }
+    },
+    {
+      "location": [
+        17,
+        79,
+        5
+      ],
+      "form_arabic": "نَافِلَةً",
+      "lemma": "naAfilap",
+      "lemma_arabic": "نَافِلَة",
+      "pos": "N",
+      "ayah_id": "17:79",
+      "ayah_arabic": "وَمِنَ ٱلَّيۡلِ فَتَهَجَّدۡ بِهِۦ نَافِلَةࣰ لَّكَ عَسَىٰٓ أَن يَبۡعَثَكَ رَبُّكَ مَقَامࣰ ا مَّحۡمُودࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "(as) additional",
+      "translations": {
+        "saheeh": "And from [part of] the night, pray with it as additional [worship] for you; it is expected that your Lord will resurrect you to a praised station.",
+        "pickthall": "And some part of the night awake for it, a largess for thee. It may be that thy Lord will raise thee to a praised estate.",
+        "khattab": "And rise at ˹the last˺ part of the night, offering additional prayers, so your Lord may raise you to a station of praise",
+        "arberry": "And as for the night, keep vigil a part of it, as a work of supererogation for thee; it may be that thy Lord will raise thee up to a laudable station."
+      }
+    },
+    {
+      "location": [
+        21,
+        72,
+        5
+      ],
+      "form_arabic": "نَافِلَةً",
+      "lemma": "naAfilap",
+      "lemma_arabic": "نَافِلَة",
+      "pos": "N",
+      "ayah_id": "21:72",
+      "ayah_arabic": "وَوَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَ نَافِلَةࣰۖ وَكُلࣰّ ا جَعَلۡنَا صَٰلِحِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Anbiyaa",
+      "literal_gloss": "(in) addition",
+      "translations": {
+        "saheeh": "And We gave him Isaac and Jacob in addition, and all [of them] We made righteous.",
+        "pickthall": "And We bestowed upon him Isaac, and Jacob as a grandson. Each of them We made righteous.",
+        "khattab": "And We blessed him with Isaac ˹as a son˺ and Jacob ˹as a grandson˺, as an additional favour—making all of them righteous",
+        "arberry": "And We gave him Isaac and Jacob in superfluity, and every one made We righteous"
+      }
+    }
+  ]
+}

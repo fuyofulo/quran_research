@@ -1,0 +1,78 @@
+{
+  "root": "Tff",
+  "root_arabic": "طفف",
+  "stats": {
+    "occurrences": 1,
+    "lemmas": 1,
+    "ayahs": 1,
+    "surahs": 1,
+    "pos_distribution": {
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "muTaf~ifiyn",
+      "lemma_arabic": "مُطَفِّفِين",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        83,
+        1,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            83,
+            1,
+            2
+          ],
+          "form_arabic": "لِّلْمُطَفِّفِينَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 83,
+        "name_english": "Al-Mutaffifin",
+        "name_arabic": "سُورَةُ المُطَفِّفِينَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        83,
+        1,
+        2
+      ],
+      "form_arabic": "لِّلْمُطَفِّفِينَ",
+      "lemma": "muTaf~ifiyn",
+      "lemma_arabic": "مُطَفِّفِين",
+      "pos": "N",
+      "ayah_id": "83:1",
+      "ayah_arabic": "وَيۡلࣱ لِّلۡمُطَفِّفِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Mutaffifin",
+      "literal_gloss": "to those who give less",
+      "translations": {
+        "saheeh": "Woe to those who give less [than due],",
+        "pickthall": "Woe unto the defrauders:",
+        "khattab": "Woe to the defrauders",
+        "arberry": "Woe to the stinters who,"
+      }
+    }
+  ]
+}
