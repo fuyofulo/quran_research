@@ -1,0 +1,740 @@
+<title>The Fast Planner</title>
+
+<style>
+  /* ── Design tokens ─────────────────────────────────────────────────────────
+     Subject: the threshold in 2:187 — the fast begins when you can tell a white
+     thread from a black one. Palette is pre-dawn: cool plaster ground, indigo
+     shadow, one ochre of first light. Divider rule is literally two threads.
+     Type: old-style serif for the reasoning, mono for the instrument. No
+     webfonts — the CSP blocks font CDNs, so the stacks are chosen, not risked. */
+  :root {
+    --paper:        #EDEEE9;
+    --paper-sunk:   #E4E6E0;
+    --ink:          #191D25;
+    --ink-soft:     #3B424E;
+    --muted:        #6E7480;
+    --accent:       #A9762F;
+    --accent-soft:  #C79A55;
+    --thread-light: #FCFCF9;
+    --thread-dark:  #C3C6BE;
+    --rule:         #D3D6CE;
+    --field:        #C0C4BB;
+    --ok:           #4F6B4A;
+
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", Georgia, serif;
+    --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+
+    --measure: 68ch;
+    --step: clamp(0.75rem, 0.6rem + 0.4vw, 1rem);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper:        #12151B;
+      --paper-sunk:   #1A1E26;
+      --ink:          #DEE0DB;
+      --ink-soft:     #B4B8B4;
+      --muted:        #838A94;
+      --accent:       #D2A059;
+      --accent-soft:  #9A7539;
+      --thread-light: #565D69;
+      --thread-dark:  #0B0D12;
+      --rule:         #2A2F39;
+      --field:        #3A404B;
+      --ok:           #86A87E;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper:        #12151B;
+    --paper-sunk:   #1A1E26;
+    --ink:          #DEE0DB;
+    --ink-soft:     #B4B8B4;
+    --muted:        #838A94;
+    --accent:       #D2A059;
+    --accent-soft:  #9A7539;
+    --thread-light: #565D69;
+    --thread-dark:  #0B0D12;
+    --rule:         #2A2F39;
+    --field:        #3A404B;
+    --ok:           #86A87E;
+  }
+  :root[data-theme="light"] {
+    --paper:        #EDEEE9;
+    --paper-sunk:   #E4E6E0;
+    --ink:          #191D25;
+    --ink-soft:     #3B424E;
+    --muted:        #6E7480;
+    --accent:       #A9762F;
+    --accent-soft:  #C79A55;
+    --thread-light: #FCFCF9;
+    --thread-dark:  #C3C6BE;
+    --rule:         #D3D6CE;
+    --field:        #C0C4BB;
+    --ok:           #4F6B4A;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--serif);
+    font-size: clamp(16px, 15px + 0.15vw, 17.5px);
+    line-height: 1.62;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: var(--measure);
+    margin: 0 auto;
+    padding: 0 clamp(1.1rem, 4vw, 2.5rem) 6rem;
+  }
+
+  /* ── The two threads: one light, one dark, indistinguishable until dawn ──── */
+  .threads {
+    height: 2px;
+    border: 0;
+    margin: 0;
+    background: linear-gradient(
+      to bottom,
+      var(--thread-light) 0 1px,
+      var(--thread-dark) 1px 2px
+    );
+  }
+  .threads--section { margin: 3.25rem 0 1.75rem; }
+
+  /* ── Toolbar ──────────────────────────────────────────────────────────────── */
+  .bar {
+    position: sticky; top: 0; z-index: 20;
+    background: color-mix(in srgb, var(--paper) 92%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--rule);
+  }
+  .bar__in {
+    max-width: var(--measure);
+    margin: 0 auto;
+    padding: 0.6rem clamp(1.1rem, 4vw, 2.5rem);
+    display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;
+  }
+  .furnish {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: flex; align-items: center; gap: 0.55rem;
+    margin-right: auto;
+  }
+  .furnish b {
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+  }
+  .pips { display: flex; gap: 3px; }
+  .pip {
+    width: 9px; height: 9px;
+    border: 1px solid var(--field);
+    background: transparent;
+    transition: background 160ms ease, border-color 160ms ease;
+  }
+  .pip.on { background: var(--accent); border-color: var(--accent); }
+
+  button {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    background: transparent;
+    border: 1px solid var(--field);
+    padding: 0.34rem 0.7rem;
+    cursor: pointer;
+    transition: border-color 140ms ease, color 140ms ease;
+  }
+  button:hover { border-color: var(--accent); color: var(--accent); }
+  button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  .saved {
+    font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.05em;
+    color: var(--ok); opacity: 0; transition: opacity 300ms ease;
+  }
+  .saved.show { opacity: 1; }
+
+  /* ── Masthead ─────────────────────────────────────────────────────────────── */
+  header.mast { padding: 3.5rem 0 0; }
+  .eyebrow {
+    font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.16em;
+    text-transform: uppercase; color: var(--accent); margin: 0 0 1.1rem;
+  }
+  h1 {
+    font-size: clamp(2.1rem, 1.6rem + 2.2vw, 3.1rem);
+    line-height: 1.08; margin: 0 0 1rem; font-weight: 400;
+    letter-spacing: -0.015em; text-wrap: balance;
+  }
+  .standfirst { font-size: 1.08em; color: var(--ink-soft); margin: 0 0 1.6rem; text-wrap: pretty; }
+
+  .thesis {
+    background: var(--paper-sunk);
+    border-left: 2px solid var(--accent);
+    padding: 1.1rem 1.3rem;
+    margin: 0 0 1rem;
+  }
+  .thesis p { margin: 0 0 0.7rem; }
+  .thesis p:last-child { margin-bottom: 0; }
+  .thesis strong { color: var(--accent); font-weight: 700; }
+
+  /* ── Sections ─────────────────────────────────────────────────────────────── */
+  .part {
+    font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.16em;
+    text-transform: uppercase; color: var(--muted); margin: 0 0 0.4rem;
+  }
+  h2 { font-size: 1.85rem; font-weight: 400; margin: 0 0 0.5rem; letter-spacing: -0.01em; }
+  h3 {
+    font-family: var(--mono); font-size: 0.76rem; letter-spacing: 0.11em;
+    text-transform: uppercase; color: var(--accent);
+    margin: 2.6rem 0 0.2rem; font-weight: 600;
+  }
+
+  .q { margin: 1.7rem 0 0; }
+  .q__label { display: block; font-size: 1.06em; margin: 0 0 0.3rem; text-wrap: pretty; }
+  .q__why {
+    font-size: 0.87em; color: var(--muted); margin: 0 0 0.7rem;
+    padding-left: 0.85rem; border-left: 1px solid var(--rule); text-wrap: pretty;
+  }
+  .q__why em { color: var(--ink-soft); font-style: italic; }
+
+  input[type="text"], textarea {
+    width: 100%;
+    font-family: var(--mono);
+    font-size: 0.88rem;
+    line-height: 1.6;
+    color: var(--ink);
+    background: transparent;
+    border: 0; border-bottom: 1px solid var(--field);
+    padding: 0.4rem 0.15rem;
+    resize: vertical;
+  }
+  input[type="text"]:focus, textarea:focus {
+    outline: none; border-bottom-color: var(--accent);
+  }
+  input[type="text"]::placeholder, textarea::placeholder { color: var(--muted); opacity: 0.65; }
+  textarea { min-height: 2.9rem; }
+
+  .row { display: flex; gap: 1rem; flex-wrap: wrap; }
+  .row > label { flex: 1 1 9rem; min-width: 0; }
+  .minilabel {
+    display: block; font-family: var(--mono); font-size: 0.64rem;
+    letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted);
+    margin: 0 0 0.15rem;
+  }
+
+  .ifthen { display: grid; gap: 0.55rem; margin-bottom: 1.15rem; }
+  .ifthen__line { display: flex; align-items: baseline; gap: 0.6rem; }
+  .ifthen__k {
+    font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.09em;
+    text-transform: uppercase; color: var(--accent); flex: 0 0 3.1rem;
+  }
+  .ifthen__hint { font-size: 0.85em; color: var(--muted); margin: 0.15rem 0 0; }
+
+  /* ── During table ─────────────────────────────────────────────────────────── */
+  .tablewrap { overflow-x: auto; margin-top: 1.4rem; }
+  table { border-collapse: collapse; width: 100%; min-width: 34rem; }
+  th {
+    font-family: var(--mono); font-size: 0.63rem; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--muted); font-weight: 600;
+    text-align: left; padding: 0 0.4rem 0.5rem; vertical-align: bottom;
+  }
+  td { padding: 0.28rem 0.4rem; border-top: 1px solid var(--rule); }
+  td:first-child {
+    font-family: var(--mono); font-size: 0.75rem; color: var(--muted);
+    width: 2.4rem; font-variant-numeric: tabular-nums;
+  }
+  th.tick, td.tick { width: 3.4rem; text-align: center; }
+  td.tick { padding-top: 0.55rem; }
+  td input[type="text"] { font-size: 0.82rem; border-bottom-color: transparent; }
+  td input[type="text"]:focus { border-bottom-color: var(--accent); }
+
+  input[type="checkbox"] {
+    appearance: none; -webkit-appearance: none;
+    width: 15px; height: 15px; margin: 0;
+    border: 1px solid var(--field); background: transparent;
+    cursor: pointer; vertical-align: middle;
+    transition: background 140ms ease, border-color 140ms ease;
+  }
+  input[type="checkbox"]:checked { background: var(--accent); border-color: var(--accent); }
+  input[type="checkbox"]:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  .tablenote {
+    font-size: 0.88em; color: var(--muted); margin: 1rem 0 0;
+    padding-left: 0.85rem; border-left: 1px solid var(--rule); text-wrap: pretty;
+  }
+  .tablenote strong { color: var(--ink-soft); }
+
+  /* ── Coda ─────────────────────────────────────────────────────────────────── */
+  .coda { margin-top: 3.5rem; color: var(--ink-soft); font-size: 0.96em; }
+  .coda h3 { margin-top: 0; }
+  .coda strong { color: var(--ink); }
+
+  .stop {
+    font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.07em;
+    text-transform: uppercase; color: var(--accent);
+    border: 1px solid var(--accent-soft); padding: 0.12rem 0.42rem;
+    display: inline-block; margin-left: 0.4rem; vertical-align: 1px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; animation: none !important; }
+  }
+
+  @media print {
+    .bar { display: none; }
+    body { background: #fff; color: #000; }
+    input[type="text"], textarea { border-bottom: 1px solid #999; }
+    .q__why { color: #555; }
+  }
+</style>
+
+<div class="bar">
+  <div class="bar__in">
+    <div class="furnish" title="How much of the room you have furnished before entering it">
+      <span>Room furnished</span>
+      <b><span id="fCount">0</span>/9</b>
+      <span class="pips" id="pips" aria-hidden="true"></span>
+    </div>
+    <span class="saved" id="saved">Saved</span>
+    <button type="button" id="btnCopy">Copy as Markdown</button>
+    <button type="button" id="btnPrint">Print</button>
+    <button type="button" id="btnReset">New fast</button>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <header class="mast">
+    <p class="eyebrow">Before · During · After</p>
+    <h1>The Fast Planner</h1>
+    <p class="standfirst">
+      The Quran specifies the emptying of a fast in detail and leaves the filling almost entirely
+      unspecified — which makes the filling the one part that can actually fail. A fast that goes
+      nowhere usually isn't a fast done badly. It's a fast that was never furnished. This is the
+      furnishing, done in advance.
+    </p>
+
+    <div class="thesis">
+      <p><strong>Set input goals, not outcome goals.</strong></p>
+      <p>
+        2:183 says fasting is prescribed <em>“so that <strong>perhaps</strong> you may build
+        taqwā.”</em> Four “perhaps” clauses across five verses. The Quran frames the outcome as a
+        hope — so the outcome is not yours to commit to. The inputs are.
+      </p>
+      <p>
+        Every question below asks about something you control and can answer with one word. If you
+        can't check it off, it isn't a goal yet — it's a wish.
+      </p>
+    </div>
+
+    <div class="row" style="margin-top:1.6rem">
+      <label><span class="minilabel">This fast</span><input type="text" data-k="meta_name" placeholder="Three days before Dhul-Hijjah"></label>
+      <label><span class="minilabel">Starting</span><input type="text" data-k="meta_date" placeholder="12 Aug 2026"></label>
+    </div>
+  </header>
+
+  <hr class="threads threads--section">
+  <p class="part">Part one</p>
+  <h2>Before</h2>
+
+  <h3>A · The gate</h3>
+
+  <div class="q">
+    <label class="q__label" for="a1">Am I medically clear for this?<span class="stop">Hard stop</span></label>
+    <p class="q__why">Diabetes, kidney disease, pregnancy, a history of disordered eating, or relevant medication all mean talk to a doctor first. This is the one question that can end the form.</p>
+    <input type="text" id="a1" data-k="a1" placeholder="Yes / spoke to — / n/a">
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="a2">Is there something ranked higher that I'm substituting a fast for?</label>
+    <p class="q__why">Uncomfortable but honest. In the Quran's own expiation ladders, fasting is repeatedly what you do <em>when you can't</em> free someone or feed people. If there's a person you could actually help this week, the text ranks that above the fast. Do both, or do that first.</p>
+    <textarea id="a2" data-k="a2" placeholder="…"></textarea>
+  </div>
+
+  <h3>B · The why</h3>
+
+  <div class="q">
+    <label class="q__label" for="b1">What is this fast for? One sentence.</label>
+    <p class="q__why">“To get closer to Allah” is the category, not the answer. Push one level down: closer <em>how</em>? What would be different about you on the other side? Maryam's fast in 19:26 had a concrete target — an accusation she couldn't answer. Hunger without a target is just hunger.</p>
+    <textarea id="b1" data-k="b1" placeholder="…"></textarea>
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="b2">What am I guarding against? One specific thing.</label>
+    <p class="q__why"><em>The most important question on this form.</em> Taqwā comes from a root meaning <em>to shield, to guard from</em> — and in the Quran the verb almost always names what it guards against. A shield with nothing in front of it isn't doing anything. Name one habit, one drift, one direction you're going that you don't want to be going.</p>
+    <textarea id="b2" data-k="b2" data-furnish placeholder="…"></textarea>
+  </div>
+
+  <div class="q">
+    <span class="q__label">How long, and why that length?</span>
+    <p class="q__why">The Quran gives no number for a voluntary fast. That's freedom, not an invitation to add days. Consecutive fasting is penalty-language in the text, and sleep debt compounds across days — so “more is better” isn't a reason.</p>
+    <div class="row">
+      <label style="flex:0 0 7rem"><span class="minilabel">Length</span><input type="text" data-k="b3len" placeholder="3 days"></label>
+      <label style="flex:1 1 16rem"><span class="minilabel">Because</span><input type="text" data-k="b3why" placeholder="…"></label>
+    </div>
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="b4">What would make this a success? Write it now, before you're hungry.</label>
+    <p class="q__why">Set it low and concrete. “I did the four things I wrote down, on most days.” Deciding in advance that <em>unremarkable counts as success</em> is what stops one flat day becoming proof the whole thing failed. Do not write a feeling here.</p>
+    <textarea id="b4" data-k="b4" placeholder="…"></textarea>
+  </div>
+
+  <h3>C · The contents — furnishing the room</h3>
+
+  <div class="q">
+    <label class="q__label" for="c1">Which passage will I hold? Surah and ayat. Short.</label>
+    <p class="q__why">The only method the Quran ever attaches to building taqwā is 2:63's two commands: <em>take what We have given you, and remember what is in it.</em> Take it, then hold it. One short passage held all day beats an ambitious reading plan dropped on day two.</p>
+    <input type="text" id="c1" data-k="c1" data-furnish placeholder="e.g. 2:183–187, or 55:1–16">
+  </div>
+
+  <div class="q">
+    <span class="q__label">What will I say to Him, and at what time?</span>
+    <p class="q__why">2:185 names the fast's own outputs as declaring God's greatness and thanking Him — both things you <em>say</em>. 35:10 says the word ascends and the deed only lifts it. A fast with nothing said in it is a crane with an empty hook. Fix the time so it doesn't depend on remembering.</p>
+    <div class="row">
+      <label style="flex:1 1 16rem"><span class="minilabel">What</span><input type="text" data-k="c2what" data-furnish placeholder="…"></label>
+      <label style="flex:0 0 8rem"><span class="minilabel">When</span><input type="text" data-k="c2when" placeholder="after ʿasr"></label>
+    </div>
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="c3">When will I do the answering, not just the asking?</label>
+    <p class="q__why">2:186 sits inside the fasting rules: <em>“I am near. I answer the one who calls Me. <strong>So let them answer Me.</strong>”</em> His side is stated as already happening. Yours is a command still outstanding. Most of us treat a fast as asking. Book the responding.</p>
+    <input type="text" id="c3" data-k="c3" data-furnish placeholder="…">
+  </div>
+
+  <div class="q">
+    <span class="q__label">What am I giving — amount, person, day?</span>
+    <p class="q__why">3:92 is the only place the Quran states a precondition for reaching goodness: <em>“you will never attain it until you spend from what you love.”</em> From what you love, so it should cost. Not “some charity” — a number, a name, a date.</p>
+    <div class="row">
+      <label style="flex:0 0 7rem"><span class="minilabel">Amount</span><input type="text" data-k="c4amt" data-furnish placeholder="…"></label>
+      <label style="flex:1 1 10rem"><span class="minilabel">To</span><input type="text" data-k="c4to" placeholder="…"></label>
+      <label style="flex:0 0 7rem"><span class="minilabel">On</span><input type="text" data-k="c4on" placeholder="…"></label>
+    </div>
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="c5">What am I removing besides food?</label>
+    <p class="q__why">The hunger is the physical part — it stays here. What changes the hours is what stops competing for your attention. Across the first-person accounts, cutting phone and social media was the single most-repeated concrete practice. Also consider Maryam's version: a fast of <em>speech</em> — she was told to eat and drink in the same verse.</p>
+    <input type="text" id="c5" data-k="c5" data-furnish placeholder="…">
+  </div>
+
+  <h3>D · The if-thens — the proven lever</h3>
+  <p class="q__why" style="margin-bottom:1.4rem">
+    Write these as <em>“When X happens, I will do Y.”</em> Not resolutions. Pre-committed if-then
+    plans are one of the most reliably replicated findings in behaviour change; “I'll be more
+    intentional” is a restatement of the willpower model that 23 laboratories failed to reproduce.
+    Be embarrassingly specific.
+  </p>
+
+  <div class="ifthen">
+    <div class="ifthen__line"><span class="ifthen__k">When</span><input type="text" data-k="d1x" data-furnish placeholder="it's 3pm and I'm flagging"></div>
+    <div class="ifthen__line"><span class="ifthen__k">I will</span><input type="text" data-k="d1y" placeholder="read my passage out loud once"></div>
+    <p class="ifthen__hint">For the hardest hour — usually 10–16 hours in. That dip is metabolic, not a verdict on you.</p>
+  </div>
+
+  <div class="ifthen">
+    <div class="ifthen__line"><span class="ifthen__k">When</span><input type="text" data-k="d2x" data-furnish placeholder="I reach for my phone out of boredom"></div>
+    <div class="ifthen__line"><span class="ifthen__k">I will</span><input type="text" data-k="d2y" placeholder="…"></div>
+    <p class="ifthen__hint">For the phone. Better still: put it somewhere else before dawn so the trigger never fires.</p>
+  </div>
+
+  <div class="ifthen">
+    <div class="ifthen__line"><span class="ifthen__k">When</span><input type="text" data-k="d3x" data-furnish placeholder="I want to mention that I'm fasting"></div>
+    <div class="ifthen__line"><span class="ifthen__k">I will</span><input type="text" data-k="d3y" placeholder="…"></div>
+    <p class="ifthen__hint">For the moment you want to complain about it, or be seen doing it.</p>
+  </div>
+
+  <h3>E · The people</h3>
+
+  <div class="q">
+    <label class="q__label" for="e1">Who knows I'm doing this, or who is doing it with me?</label>
+    <p class="q__why">The research on ritual finds that doing this alongside others — or where someone simply knows — changes how much it lands. Fasting alone and out of season is a structural disadvantage, not a flaw in you. One check-in partner is enough. <em>Note: this is the one point where the science and the Quran disagree — the text requires neither company nor solitude.</em></p>
+    <input type="text" id="e1" data-k="e1" placeholder="…">
+  </div>
+
+  <h3>F · The body — so you can do any of the above</h3>
+
+  <div class="q">
+    <div class="row">
+      <label style="flex:1 1 11rem"><span class="minilabel">Caffeine taper starts</span><input type="text" data-k="f1" placeholder="3 days before"></label>
+      <label style="flex:1 1 11rem"><span class="minilabel">Sleep block I'm protecting</span><input type="text" data-k="f3" placeholder="23:30 – 05:00"></label>
+    </div>
+    <p class="q__why" style="margin-top:0.8rem">Caffeine withdrawal is the most preventable source of fasting misery — taper, don't quit on day one. And sleep debt compounds across consecutive days and isn't repaid overnight: it is the most underrated variable in this entire body of research, and the one most often mistaken for spiritual dryness.</p>
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="f2">Suhoor plan</label>
+    <p class="q__why">Protein and slow carbohydrates, not sugar and pastries. <em>Add salt</em> — sodium loss drives the headaches and cramps people blame on the fast itself.</p>
+    <input type="text" id="f2" data-k="f2" placeholder="eggs, oats, pinch of salt, water">
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="f4">Hydration across the night</label>
+    <p class="q__why">Spread it. Don't drink the day's water in the last thirty minutes before dawn.</p>
+    <input type="text" id="f4" data-k="f4" placeholder="…">
+  </div>
+
+  <h3>G · The exits — pre-authorised</h3>
+
+  <div class="q">
+    <label class="q__label" for="g1">Under what conditions will I break or stop? Decide now, while you're clear-headed.</label>
+    <p class="q__why">Not weakness — design. The fasting passage carries nine clauses giving relief against six placing restrictions, and states the illness and travel exemptions <em>twice, word for word</em>. 2:185 says outright: <em>God intends ease for you and does not intend hardship.</em> Writing the exit in advance also stops the spiral where one broken day gets read as total failure and the whole thing gets abandoned.</p>
+    <textarea id="g1" data-k="g1" placeholder="…"></textarea>
+  </div>
+
+  <hr class="threads threads--section">
+  <p class="part">Part two</p>
+  <h2>During</h2>
+  <p class="standfirst" style="font-size:1em">Keep this tiny. Heavy logging is the first thing to go — four marks a day, sixty seconds.</p>
+
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Day</th>
+          <th class="tick">Passage</th>
+          <th class="tick">Said</th>
+          <th class="tick">Gave</th>
+          <th>What actually filled the hours?</th>
+        </tr>
+      </thead>
+      <tbody id="days"></tbody>
+    </table>
+  </div>
+
+  <p class="tablenote">
+    <strong>That last column is the one that matters.</strong> In the first-person accounts, the
+    fasts that failed almost never say “I didn't try hard enough.” They say <em>something else
+    filled the space I meant to fill</em> — chores, scrolling, illness, work. Write what actually
+    occupied the hours, honestly, even when it's “nothing” or “YouTube.” That's the data.
+  </p>
+
+  <hr class="threads threads--section">
+  <p class="part">Part three</p>
+  <h2>After</h2>
+
+  <div class="q">
+    <label class="q__label" for="p1">What actually filled the hours, compared to what I planned?</label>
+    <textarea id="p1" data-k="p1" placeholder="…"></textarea>
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="p2">Which if-then plans fired? Which didn't, and why not?</label>
+    <p class="q__why">A plan that never fired is usually too vague, or tied to a trigger that doesn't actually happen. Fix the trigger, not your resolve.</p>
+    <textarea id="p2" data-k="p2" placeholder="…"></textarea>
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="p3">What did the hunger produce or test in me?</label>
+    <p class="q__why">Deliberately not “was I hungry.” 22:37 says the flesh and blood of a sacrifice never reach God — only the taqwā does. The hunger is the fast's flesh and blood; it stays here. So: what did it surface? What did it show you about what you reach for when you're uncomfortable?</p>
+    <textarea id="p3" data-k="p3" placeholder="…"></textarea>
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="p4">Did I meet the success condition I wrote in B4?</label>
+    <p class="q__why">The one you wrote in advance — not a new one invented afterwards.</p>
+    <input type="text" id="p4" data-k="p4" placeholder="Yes / No — because…">
+  </div>
+
+  <div class="q">
+    <label class="q__label" for="p5">What one thing changes next time?</label>
+    <p class="q__why">One. Not five. The accounts converge on moderation over intensity — a few things done consistently beat total transformation attempted at once and abandoned.</p>
+    <textarea id="p5" data-k="p5" placeholder="…"></textarea>
+  </div>
+
+  <hr class="threads threads--section">
+
+  <div class="coda">
+    <h3>What this form can't do</h3>
+    <p>
+      It can't make a fast work, because the Quran doesn't promise that a fast works. It says
+      <em>perhaps.</em> Every experiential state the Quran describes — the shivering skin, the
+      trembling heart, the settled heart — attaches to hearing the Book, to remembrance, or to
+      praying at night. <strong>None attaches to fasting.</strong> So if you fill this in completely
+      and still feel ordinary, the form didn't fail and neither did you. You did the inputs. The
+      outcome was never on the form, because it was never yours.
+    </p>
+    <p>
+      What the form does do is make sure that if nothing arrives, it isn't because the room was empty.
+    </p>
+    <p style="font-family:var(--mono);font-size:0.72rem;letter-spacing:0.04em;color:var(--muted);margin-top:2rem">
+      Not a fatwa and not a ruling. This reads the Quranic text directly and leaves hadith and fiqh
+      out — so it is silent on much the tradition speaks about. For rulings, ask a scholar.
+    </p>
+  </div>
+
+</div>
+
+<script>
+  (function () {
+    "use strict";
+    var KEY = "fast-planner-v1";
+    var DAYS = 7;
+
+    // Build the during-table
+    var tb = document.getElementById("days");
+    for (var i = 1; i <= DAYS; i++) {
+      var tr = document.createElement("tr");
+      tr.innerHTML =
+        "<td>" + i + "</td>" +
+        '<td class="tick"><input type="checkbox" data-k="d' + i + 'p" aria-label="Day ' + i + ' passage held"></td>' +
+        '<td class="tick"><input type="checkbox" data-k="d' + i + 's" aria-label="Day ' + i + ' said something"></td>' +
+        '<td class="tick"><input type="checkbox" data-k="d' + i + 'g" aria-label="Day ' + i + ' gave or answered"></td>' +
+        '<td><input type="text" data-k="d' + i + 'n" aria-label="Day ' + i + ' what filled the hours" placeholder="…"></td>';
+      tb.appendChild(tr);
+    }
+
+    var fields = Array.prototype.slice.call(document.querySelectorAll("[data-k]"));
+    var furnishFields = fields.filter(function (f) { return f.hasAttribute("data-furnish"); });
+
+    // Furnishing pips
+    var pipWrap = document.getElementById("pips");
+    furnishFields.forEach(function () {
+      var s = document.createElement("span");
+      s.className = "pip";
+      pipWrap.appendChild(s);
+    });
+    var pips = Array.prototype.slice.call(pipWrap.children);
+
+    function val(el) {
+      return el.type === "checkbox" ? el.checked : el.value;
+    }
+
+    function updateFurnish() {
+      var n = 0;
+      furnishFields.forEach(function (f, idx) {
+        var filled = String(f.value || "").trim().length > 0;
+        if (filled) n++;
+        pips[idx].classList.toggle("on", filled);
+      });
+      document.getElementById("fCount").textContent = n;
+    }
+
+    // Persistence
+    var savedEl = document.getElementById("saved");
+    var t = null;
+    function save() {
+      var data = {};
+      fields.forEach(function (f) { data[f.dataset.k] = val(f); });
+      try { localStorage.setItem(KEY, JSON.stringify(data)); } catch (e) { return; }
+      savedEl.classList.add("show");
+      clearTimeout(t);
+      t = setTimeout(function () { savedEl.classList.remove("show"); }, 1200);
+    }
+
+    function load() {
+      var raw;
+      try { raw = localStorage.getItem(KEY); } catch (e) { return; }
+      if (!raw) return;
+      var data;
+      try { data = JSON.parse(raw); } catch (e) { return; }
+      fields.forEach(function (f) {
+        var v = data[f.dataset.k];
+        if (v === undefined || v === null) return;
+        if (f.type === "checkbox") f.checked = !!v; else f.value = v;
+      });
+    }
+
+    function autosize(el) {
+      if (el.tagName !== "TEXTAREA") return;
+      el.style.height = "auto";
+      el.style.height = el.scrollHeight + "px";
+    }
+
+    load();
+    updateFurnish();
+    fields.forEach(function (f) { autosize(f); });
+
+    document.addEventListener("input", function (e) {
+      if (!e.target.dataset || !e.target.dataset.k) return;
+      autosize(e.target);
+      updateFurnish();
+      save();
+    });
+    document.addEventListener("change", function (e) {
+      if (!e.target.dataset || !e.target.dataset.k) return;
+      save();
+    });
+
+    // Markdown export
+    function get(k) {
+      var el = document.querySelector('[data-k="' + k + '"]');
+      if (!el) return "";
+      return el.type === "checkbox" ? (el.checked ? "x" : " ") : (el.value || "").trim();
+    }
+    function line(label, k) { return "**" + label + "** " + (get(k) || "_—_") + "\n\n"; }
+
+    document.getElementById("btnCopy").addEventListener("click", function () {
+      var m = "# Fast — " + (get("meta_name") || "untitled") + "\n\n";
+      m += "_Starting " + (get("meta_date") || "—") + " · length " + (get("b3len") || "—") + "_\n\n";
+      m += "## Before\n\n";
+      m += line("Medically clear:", "a1");
+      m += line("Something ranked higher:", "a2");
+      m += line("What this fast is for:", "b1");
+      m += line("What I'm guarding against:", "b2");
+      m += line("Length, because:", "b3why");
+      m += line("Success condition:", "b4");
+      m += line("Passage I'll hold:", "c1");
+      m += "**What I'll say, and when:** " + (get("c2what") || "_—_") + " — " + (get("c2when") || "_—_") + "\n\n";
+      m += line("When I'll do the answering:", "c3");
+      m += "**Giving:** " + (get("c4amt") || "_—_") + " to " + (get("c4to") || "_—_") + " on " + (get("c4on") || "_—_") + "\n\n";
+      m += line("Removing besides food:", "c5");
+      m += "**If-thens**\n\n";
+      for (var i = 1; i <= 3; i++) {
+        m += "- When " + (get("d" + i + "x") || "_—_") + ", I will " + (get("d" + i + "y") || "_—_") + "\n";
+      }
+      m += "\n";
+      m += line("Who knows:", "e1");
+      m += "**Body:** caffeine taper " + (get("f1") || "—") + " · sleep " + (get("f3") || "—") +
+           " · suhoor " + (get("f2") || "—") + " · hydration " + (get("f4") || "—") + "\n\n";
+      m += line("Exits, pre-authorised:", "g1");
+      m += "## During\n\n| Day | Passage | Said | Gave | What actually filled the hours |\n|---|---|---|---|---|\n";
+      for (var d = 1; d <= DAYS; d++) {
+        m += "| " + d + " | [" + get("d" + d + "p") + "] | [" + get("d" + d + "s") + "] | [" +
+             get("d" + d + "g") + "] | " + (get("d" + d + "n") || "") + " |\n";
+      }
+      m += "\n## After\n\n";
+      m += line("What actually filled the hours:", "p1");
+      m += line("Which if-thens fired:", "p2");
+      m += line("What the hunger produced or tested:", "p3");
+      m += line("Met the success condition:", "p4");
+      m += line("One thing that changes next time:", "p5");
+
+      var ta = document.createElement("textarea");
+      ta.value = m;
+      ta.setAttribute("readonly", "");
+      ta.style.position = "fixed";
+      ta.style.left = "-9999px";
+      document.body.appendChild(ta);
+      ta.select();
+      var ok = false;
+      try { ok = document.execCommand("copy"); } catch (e) { ok = false; }
+      document.body.removeChild(ta);
+      var b = this;
+      var old = b.textContent;
+      b.textContent = ok ? "Copied" : "Press ⌘C";
+      setTimeout(function () { b.textContent = old; }, 1600);
+    });
+
+    document.getElementById("btnPrint").addEventListener("click", function () { window.print(); });
+
+    document.getElementById("btnReset").addEventListener("click", function () {
+      if (!window.confirm("Clear this form and start a new fast? The current answers will be lost — copy them as Markdown first if you want to keep them.")) return;
+      fields.forEach(function (f) {
+        if (f.type === "checkbox") f.checked = false; else f.value = "";
+        autosize(f);
+      });
+      try { localStorage.removeItem(KEY); } catch (e) {}
+      updateFurnish();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  })();
+</script>
