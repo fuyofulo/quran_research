@@ -1,0 +1,1899 @@
+{
+  "root": "Swm",
+  "root_arabic": "صوم",
+  "stats": {
+    "occurrences": 14,
+    "lemmas": 5,
+    "ayahs": 11,
+    "surahs": 6,
+    "pos_distribution": {
+      "N": 12,
+      "V": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "SiyaAm",
+      "lemma_arabic": "صِيَام",
+      "count": 9,
+      "pos_distribution": {
+        "N": 9
+      },
+      "first_occurrence": [
+        2,
+        183,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            183,
+            6
+          ],
+          "form_arabic": "ٱلصِّيَامُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            187,
+            4
+          ],
+          "form_arabic": "ٱلصِّيَامِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            187,
+            45
+          ],
+          "form_arabic": "ٱلصِّيَامَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            196,
+            29
+          ],
+          "form_arabic": "صِيَامٍ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            196,
+            48
+          ],
+          "form_arabic": "فَصِيَامُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            4,
+            92,
+            51
+          ],
+          "form_arabic": "فَصِيَامُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            5,
+            89,
+            29
+          ],
+          "form_arabic": "فَصِيَامُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            5,
+            95,
+            34
+          ],
+          "form_arabic": "صِيَامًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            58,
+            4,
+            4
+          ],
+          "form_arabic": "فَصِيَامُ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "yaSumo",
+      "lemma_arabic": "يَصُمْ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        2,
+        184,
+        27
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            184,
+            27
+          ],
+          "form_arabic": "تَصُومُوا@",
+          "pos": "V"
+        },
+        {
+          "location": [
+            2,
+            185,
+            17
+          ],
+          "form_arabic": "فَلْيَصُمْهُ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "Sawom",
+      "lemma_arabic": "صَوْم",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        19,
+        26,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            19,
+            26,
+            14
+          ],
+          "form_arabic": "صَوْمًا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "S~a`^}imiyn",
+      "lemma_arabic": "صَّٰ^ئِمِين",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        33,
+        35,
+        16
+      ],
+      "occurrences": [
+        {
+          "location": [
+            33,
+            35,
+            16
+          ],
+          "form_arabic": "وَٱلصَّٰ^ئِمِينَ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "S~a`^}ima`t",
+      "lemma_arabic": "صَّٰ^ئِمَٰت",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        33,
+        35,
+        17
+      ],
+      "occurrences": [
+        {
+          "location": [
+            33,
+            35,
+            17
+          ],
+          "form_arabic": "وَٱلصَّٰ^ئِمَٰتِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 8,
+      "share": 0.7273,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 6,
+      "share": 0.5455,
+      "first_together": [
+        2,
+        183
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 5,
+      "share": 0.4545,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 5,
+      "share": 0.4545,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "TEm",
+      "root_arabic": "طعم",
+      "ayahs_together": 4,
+      "share": 0.3636,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "skn",
+      "root_arabic": "سكن",
+      "ayahs_together": 4,
+      "share": 0.3636,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 4,
+      "share": 0.3636,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 4,
+      "share": 0.3636,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 4,
+      "share": 0.3636,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "mrD",
+      "root_arabic": "مرض",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "Edd",
+      "root_arabic": "عدد",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "hdy",
+      "root_arabic": "هدي",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        2,
+        183
+      ]
+    },
+    {
+      "root": "$hr",
+      "root_arabic": "شهر",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 3,
+      "share": 0.2727,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "fdy",
+      "root_arabic": "فدي",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "sfr",
+      "root_arabic": "سفر",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "TwE",
+      "root_arabic": "طوع",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "Hkm",
+      "root_arabic": "حكم",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "Hrm",
+      "root_arabic": "حرم",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Efw",
+      "root_arabic": "عفو",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "qtl",
+      "root_arabic": "قتل",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        183
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Hdd",
+      "root_arabic": "حدد",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "tmm",
+      "root_arabic": "تمم",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "b$r",
+      "root_arabic": "بشر",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "qbl",
+      "root_arabic": "قبل",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        183
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "HfZ",
+      "root_arabic": "حفظ",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "ysr",
+      "root_arabic": "يسر",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "E$r",
+      "root_arabic": "عشر",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "kml",
+      "root_arabic": "كمل",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Hrr",
+      "root_arabic": "حرر",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "$kr",
+      "root_arabic": "شكر",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "rqb",
+      "root_arabic": "رقب",
+      "ayahs_together": 2,
+      "share": 0.1818,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "Twq",
+      "root_arabic": "طوق",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        184
+      ]
+    },
+    {
+      "root": "nEm",
+      "root_arabic": "نعم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "slf",
+      "root_arabic": "سلف",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "Emd",
+      "root_arabic": "عمد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "Syd",
+      "root_arabic": "صيد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "*wq",
+      "root_arabic": "ذوق",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "wbl",
+      "root_arabic": "وبل",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "Ezz",
+      "root_arabic": "عزز",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "Edl",
+      "root_arabic": "عدل",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "Ewd",
+      "root_arabic": "عود",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "mvl",
+      "root_arabic": "مثل",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "jzy",
+      "root_arabic": "جزي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "kEb",
+      "root_arabic": "كعب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "nqm",
+      "root_arabic": "نقم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        95
+      ]
+    },
+    {
+      "root": "fjr",
+      "root_arabic": "فجر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Ekf",
+      "root_arabic": "عكف",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "rfv",
+      "root_arabic": "رفث",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "xwn",
+      "root_arabic": "خون",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "swd",
+      "root_arabic": "سود",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "xyT",
+      "root_arabic": "خيط",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "byD",
+      "root_arabic": "بيض",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "lbs",
+      "root_arabic": "لبس",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "stt",
+      "root_arabic": "ستت",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        58,
+        4
+      ]
+    },
+    {
+      "root": "mss",
+      "root_arabic": "مسس",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        58,
+        4
+      ]
+    },
+    {
+      "root": "Alm",
+      "root_arabic": "الم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        58,
+        4
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        58,
+        4
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        58,
+        4
+      ]
+    },
+    {
+      "root": "frj",
+      "root_arabic": "فرج",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        33,
+        35
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        33,
+        35
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        33,
+        35
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        33,
+        35
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        33,
+        35
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        33,
+        35
+      ]
+    },
+    {
+      "root": "Ajr",
+      "root_arabic": "اجر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        33,
+        35
+      ]
+    },
+    {
+      "root": "qnt",
+      "root_arabic": "قنت",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        33,
+        35
+      ]
+    },
+    {
+      "root": "x$E",
+      "root_arabic": "خشع",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        33,
+        35
+      ]
+    },
+    {
+      "root": "rAs",
+      "root_arabic": "راس",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "rjE",
+      "root_arabic": "رجع",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "HDr",
+      "root_arabic": "حضر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "A*y",
+      "root_arabic": "اذي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Hlq",
+      "root_arabic": "حلق",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Hjj",
+      "root_arabic": "حجج",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "nsk",
+      "root_arabic": "نسك",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Eqb",
+      "root_arabic": "عقب",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "sbE",
+      "root_arabic": "سبع",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "$dd",
+      "root_arabic": "شدد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "mtE",
+      "root_arabic": "متع",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "Emr",
+      "root_arabic": "عمر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "HSr",
+      "root_arabic": "حصر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        196
+      ]
+    },
+    {
+      "root": "ymn",
+      "root_arabic": "يمن",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "Hlf",
+      "root_arabic": "حلف",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "lgw",
+      "root_arabic": "لغو",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "Eqd",
+      "root_arabic": "عقد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "ksw",
+      "root_arabic": "كسو",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "wsT",
+      "root_arabic": "وسط",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        5,
+        89
+      ]
+    },
+    {
+      "root": "n*r",
+      "root_arabic": "نذر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        19,
+        26
+      ]
+    },
+    {
+      "root": "Eyn",
+      "root_arabic": "عين",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        19,
+        26
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        19,
+        26
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        19,
+        26
+      ]
+    },
+    {
+      "root": "Ans",
+      "root_arabic": "انس",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        19,
+        26
+      ]
+    },
+    {
+      "root": "qrr",
+      "root_arabic": "قرر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        19,
+        26
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        19,
+        26
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        19,
+        26
+      ]
+    },
+    {
+      "root": "AHd",
+      "root_arabic": "احد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        19,
+        26
+      ]
+    },
+    {
+      "root": "wvq",
+      "root_arabic": "وثق",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "wdy",
+      "root_arabic": "ودي",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "Edw",
+      "root_arabic": "عدو",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "xTA",
+      "root_arabic": "خطا",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        4,
+        92
+      ]
+    },
+    {
+      "root": "rwd",
+      "root_arabic": "رود",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "Esr",
+      "root_arabic": "عسر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "frq",
+      "root_arabic": "فرق",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        185
+      ]
+    },
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 0.0909,
+      "first_together": [
+        2,
+        185
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 7
+      },
+      {
+        "surah": 5,
+        "name_english": "Al-Maaida",
+        "name_arabic": "سُورَةُ المَائـِدَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 33,
+        "name_english": "Al-Ahzaab",
+        "name_arabic": "سُورَةُ الأَحۡزَابِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 4,
+        "name_english": "An-Nisaa",
+        "name_arabic": "سُورَةُ النِّسَاءِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 19,
+        "name_english": "Maryam",
+        "name_arabic": "سُورَةُ مَرۡيَمَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 58,
+        "name_english": "Al-Mujaadila",
+        "name_arabic": "سُورَةُ المُجَادلَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 13,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        183,
+        6
+      ],
+      "form_arabic": "ٱلصِّيَامُ",
+      "lemma": "SiyaAm",
+      "lemma_arabic": "صِيَام",
+      "pos": "N",
+      "ayah_id": "2:183",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُتِبَ عَلَيۡكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "[the] fasting",
+      "translations": {
+        "saheeh": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous -",
+        "pickthall": "O ye who believe! Fasting is prescribed for you, even as it was prescribed for those before you, that ye may ward off (evil);",
+        "khattab": "O believers! Fasting is prescribed for you—as it was for those before you—so perhaps you will become mindful ˹of Allah˺",
+        "arberry": "O believers, prescribed for you is the Fast, even as it was prescribed for those that were before you -- haply you will be godfearing --"
+      }
+    },
+    {
+      "location": [
+        2,
+        184,
+        27
+      ],
+      "form_arabic": "تَصُومُوا@",
+      "lemma": "yaSumo",
+      "lemma_arabic": "يَصُمْ",
+      "pos": "V",
+      "ayah_id": "2:184",
+      "ayah_arabic": "أَيَّامࣰ ا مَّعۡدُودَٰتࣲۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ عَلَىٰ سَفَرࣲ فَعِدَّةࣱ مِّنۡ أَيَّامٍ أُخَرَۚ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدۡيَةࣱ طَعَامُ مِسۡكِينࣲۖ فَمَن تَطَوَّعَ خَيۡرࣰ ا فَهُوَ خَيۡرࣱ لَّهُۥۚ وَأَن تَصُومُواْ خَيۡرࣱ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "fast",
+      "translations": {
+        "saheeh": "[Fasting for] a limited number of days. So whoever among you is ill or on a journey [during them] - then an equal number of days [are to be made up]. And upon those who are able [to fast, but with hardship] - a ransom [as substitute] of feeding a poor person [each day]. And whoever volunteers excess - it is better for him. But to fast is best for you, if you only knew.",
+        "pickthall": "(Fast) a certain number of days; and (for) him who is sick among you, or on a journey, (the same) number of other days; and for those who can afford it there is a ransom: the feeding of a man in need - but whoso doeth good of his own accord, it is better for him: and that ye fast is better for you if ye did but know -",
+        "khattab": "˹Fast a˺ prescribed number of days. But whoever of you is ill or on a journey, then ˹let them fast˺ an equal number of days ˹after Ramaḍân˺. For those who can only fast with extreme difficulty, compensation can be made by feeding a needy person ˹for every day not fasted˺. But whoever volunteers to give more, it is better for them. And to fast is better for you, if only you knew",
+        "arberry": "for days numbered; and if any of you be sick, or if he be on a journey, then a number of other days; and for those who are able to fast, a redemption by feeding a poor man. Yet better it is for him who volunteers good, and that you should fast is better for you, if you but know;"
+      }
+    },
+    {
+      "location": [
+        2,
+        185,
+        17
+      ],
+      "form_arabic": "فَلْيَصُمْهُ",
+      "lemma": "yaSumo",
+      "lemma_arabic": "يَصُمْ",
+      "pos": "V",
+      "ayah_id": "2:185",
+      "ayah_arabic": "شَهۡرُ رَمَضَانَ ٱلَّذِيٓ أُنزِلَ فِيهِ ٱلۡقُرۡءَانُ هُدࣰ ى لِّلنَّاسِ وَبَيِّنَٰتࣲ مِّنَ ٱلۡهُدَىٰ وَٱلۡفُرۡقَانِۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهۡرَ فَلۡيَصُمۡهُۖ وَمَن كَانَ مَرِيضًا أَوۡ عَلَىٰ سَفَرࣲ فَعِدَّةࣱ مِّنۡ أَيَّامٍ أُخَرَۗ يُرِيدُ ٱللَّهُ بِكُمُ ٱلۡيُسۡرَ وَلَا يُرِيدُ بِكُمُ ٱلۡعُسۡرَ وَلِتُكۡمِلُواْ ٱلۡعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "then he should fast in it",
+      "translations": {
+        "saheeh": "The month of Ramadhan [is that] in which was revealed the Qur'an, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the new moon of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allah intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allah for that [to] which He has guided you; and perhaps you will be grateful.",
+        "pickthall": "The month of Ramadan in which was revealed the Qur'an, a guidance for mankind, and clear proofs of the guidance, and the Criterion (of right and wrong). And whosoever of you is present, let him fast the month, and whosoever of you is sick or on a journey, (let him fast the same) number of other days. Allah desireth for you ease; He desireth not hardship for you; and (He desireth) that ye should complete the period, and that ye should magnify Allah for having guided you, and that peradventure ye may be thankful.",
+        "khattab": "Ramaḍân is the month in which the Quran was revealed as a guide for humanity with clear proofs of guidance and the standard ˹to distinguish between right and wrong˺. So whoever is present this month, let them fast. But whoever is ill or on a journey, then ˹let them fast˺ an equal number of days ˹after Ramaḍân˺. Allah intends ease for you, not hardship, so that you may complete the prescribed period and proclaim the greatness of Allah for guiding you, and perhaps you will be grateful",
+        "arberry": "the month of Ramadan, wherein the Koran was sent down to be a guidance to the people, and as clear signs of the Guidance and the Salvation. So let those of you, who are present at the month, fast it; and if any of you be sick, or if he be on a journey, then a number of other days; God desires ease for you, and desires not hardship for you; and that you fulfil the number, and magnify God that He has guided you, and haply you will be thankful."
+      }
+    },
+    {
+      "location": [
+        2,
+        187,
+        4
+      ],
+      "form_arabic": "ٱلصِّيَامِ",
+      "lemma": "SiyaAm",
+      "lemma_arabic": "صِيَام",
+      "pos": "N",
+      "ayah_id": "2:187",
+      "ayah_arabic": "أُحِلَّ لَكُمۡ لَيۡلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمۡۚ هُنَّ لِبَاسࣱ لَّكُمۡ وَأَنتُمۡ لِبَاسࣱ لَّهُنَّۗ عَلِمَ ٱللَّهُ أَنَّكُمۡ كُنتُمۡ تَخۡتَانُونَ أَنفُسَكُمۡ فَتَابَ عَلَيۡكُمۡ وَعَفَا عَنكُمۡۖ فَٱلۡـَٰٔنَ بَٰشِرُوهُنَّ وَٱبۡتَغُواْ مَا كَتَبَ ٱللَّهُ لَكُمۡۚ وَكُلُواْ وَٱشۡرَبُواْ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلۡخَيۡطُ ٱلۡأَبۡيَضُ مِنَ ٱلۡخَيۡطِ ٱلۡأَسۡوَدِ مِنَ ٱلۡفَجۡرِۖ ثُمَّ أَتِمُّواْ ٱلصِّيَامَ إِلَى ٱلَّيۡلِۚ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمۡ عَٰكِفُونَ فِي ٱلۡمَسَٰجِدِۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَقۡرَبُوهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمۡ يَتَّقُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "(of) fasting",
+      "translations": {
+        "saheeh": "It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are clothing for you and you are clothing for them. Allah knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allah has decreed for you. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the sunset. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allah, so do not approach them. Thus does Allah make clear His ordinances to the people that they may become righteous.",
+        "pickthall": "It is made lawful for you to go in unto your wives on the night of the fast. They are raiment for you and ye are raiment for them. Allah is Aware that ye were deceiving yourselves in this respect and He hath turned in mercy toward you and relieved you. So hold intercourse with them and seek that which Allah hath ordained for you, and eat and drink until the white thread becometh distinct to you from the black thread of the dawn. Then strictly observe the fast till nightfall and touch them not, but be at your devotions in the mosques. These are the limits imposed by Allah, so approach them not. Thus Allah expoundeth His revelation to mankind that they may ward off (evil).",
+        "khattab": "It has been made permissible for you to be intimate with your wives during the nights preceding the fast. Your spouses are a garment for you as you are for them. Allah knows that you were deceiving yourselves. So He has accepted your repentance and pardoned you. So now you may be intimate with them and seek what Allah has prescribed for you. ˹You may˺ eat and drink until you see the light of dawn breaking the darkness of night, then complete the fast until nightfall. Do not be intimate with your spouses while you are meditating in the mosques. These are the limits set by Allah, so do not exceed them. This is how Allah makes His revelations clear to people, so they may become mindful ˹of Him˺",
+        "arberry": "Permitted to you, upon the night of the Fast, is to go in to your wives; -- they are a vestment for you, and you are a vestment for them. God knows that you have been betraying yourselves, and has turned to you and pardoned you. So now lie with them, and seek what God has prescribed for you. And eat and drink, until the white thread shows clearly to you from the black thread at the dawn; then complete the Fast unto the night, and do not lie with them while you cleave to the mosques. Those are God's bounds; keep well within them. So God makes clear His signs to men; haply they will be godfearing."
+      }
+    },
+    {
+      "location": [
+        2,
+        187,
+        45
+      ],
+      "form_arabic": "ٱلصِّيَامَ",
+      "lemma": "SiyaAm",
+      "lemma_arabic": "صِيَام",
+      "pos": "N",
+      "ayah_id": "2:187",
+      "ayah_arabic": "أُحِلَّ لَكُمۡ لَيۡلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمۡۚ هُنَّ لِبَاسࣱ لَّكُمۡ وَأَنتُمۡ لِبَاسࣱ لَّهُنَّۗ عَلِمَ ٱللَّهُ أَنَّكُمۡ كُنتُمۡ تَخۡتَانُونَ أَنفُسَكُمۡ فَتَابَ عَلَيۡكُمۡ وَعَفَا عَنكُمۡۖ فَٱلۡـَٰٔنَ بَٰشِرُوهُنَّ وَٱبۡتَغُواْ مَا كَتَبَ ٱللَّهُ لَكُمۡۚ وَكُلُواْ وَٱشۡرَبُواْ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلۡخَيۡطُ ٱلۡأَبۡيَضُ مِنَ ٱلۡخَيۡطِ ٱلۡأَسۡوَدِ مِنَ ٱلۡفَجۡرِۖ ثُمَّ أَتِمُّواْ ٱلصِّيَامَ إِلَى ٱلَّيۡلِۚ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمۡ عَٰكِفُونَ فِي ٱلۡمَسَٰجِدِۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَقۡرَبُوهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمۡ يَتَّقُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "the fast",
+      "translations": {
+        "saheeh": "It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are clothing for you and you are clothing for them. Allah knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allah has decreed for you. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the sunset. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allah, so do not approach them. Thus does Allah make clear His ordinances to the people that they may become righteous.",
+        "pickthall": "It is made lawful for you to go in unto your wives on the night of the fast. They are raiment for you and ye are raiment for them. Allah is Aware that ye were deceiving yourselves in this respect and He hath turned in mercy toward you and relieved you. So hold intercourse with them and seek that which Allah hath ordained for you, and eat and drink until the white thread becometh distinct to you from the black thread of the dawn. Then strictly observe the fast till nightfall and touch them not, but be at your devotions in the mosques. These are the limits imposed by Allah, so approach them not. Thus Allah expoundeth His revelation to mankind that they may ward off (evil).",
+        "khattab": "It has been made permissible for you to be intimate with your wives during the nights preceding the fast. Your spouses are a garment for you as you are for them. Allah knows that you were deceiving yourselves. So He has accepted your repentance and pardoned you. So now you may be intimate with them and seek what Allah has prescribed for you. ˹You may˺ eat and drink until you see the light of dawn breaking the darkness of night, then complete the fast until nightfall. Do not be intimate with your spouses while you are meditating in the mosques. These are the limits set by Allah, so do not exceed them. This is how Allah makes His revelations clear to people, so they may become mindful ˹of Him˺",
+        "arberry": "Permitted to you, upon the night of the Fast, is to go in to your wives; -- they are a vestment for you, and you are a vestment for them. God knows that you have been betraying yourselves, and has turned to you and pardoned you. So now lie with them, and seek what God has prescribed for you. And eat and drink, until the white thread shows clearly to you from the black thread at the dawn; then complete the Fast unto the night, and do not lie with them while you cleave to the mosques. Those are God's bounds; keep well within them. So God makes clear His signs to men; haply they will be godfearing."
+      }
+    },
+    {
+      "location": [
+        2,
+        196,
+        29
+      ],
+      "form_arabic": "صِيَامٍ",
+      "lemma": "SiyaAm",
+      "lemma_arabic": "صِيَام",
+      "pos": "N",
+      "ayah_id": "2:196",
+      "ayah_arabic": "وَأَتِمُّواْ ٱلۡحَجَّ وَٱلۡعُمۡرَةَ لِلَّهِۚ فَإِنۡ أُحۡصِرۡتُمۡ فَمَا ٱسۡتَيۡسَرَ مِنَ ٱلۡهَدۡيِۖ وَلَا تَحۡلِقُواْ رُءُوسَكُمۡ حَتَّىٰ يَبۡلُغَ ٱلۡهَدۡيُ مَحِلَّهُۥۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ بِهِۦٓ أَذࣰ ى مِّن رَّأۡسِهِۦ فَفِدۡيَةࣱ مِّن صِيَامٍ أَوۡ صَدَقَةٍ أَوۡ نُسُكࣲۚ فَإِذَآ أَمِنتُمۡ فَمَن تَمَتَّعَ بِٱلۡعُمۡرَةِ إِلَى ٱلۡحَجِّ فَمَا ٱسۡتَيۡسَرَ مِنَ ٱلۡهَدۡيِۚ فَمَن لَّمۡ يَجِدۡ فَصِيَامُ ثَلَٰثَةِ أَيَّامࣲ فِي ٱلۡحَجِّ وَسَبۡعَةٍ إِذَا رَجَعۡتُمۡۗ تِلۡكَ عَشَرَةࣱ كَامِلَةࣱۗ ذَٰلِكَ لِمَن لَّمۡ يَكُنۡ أَهۡلُهُۥ حَاضِرِي ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "fasting",
+      "translations": {
+        "saheeh": "And complete the Hajj and 'umrah for Allah. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs 'umrah [during the Hajj months] followed by Hajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during Hajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Haram. And fear Allah and know that Allah is severe in penalty.",
+        "pickthall": "Perform the pilgrimage and the visit (to Makka) for Allah. And if ye are prevented, then send such gifts as can be obtained with ease, and shave not your heads until the gifts have reached their destination. And whoever among you is sick or hath an ailment of the head must pay a ransom of fasting or almsgiving or offering. And if ye are in safety, then whosoever contenteth himself with the visit for the pilgrimage (shall give) such gifts as can be had with ease. And whosoever cannot find (such gifts), then a fast of three days while on the pilgrimage, and of seven when ye have returned; that is, ten in all. That is for him whoso folk are not present at the Inviolable Place of Worship. Observe your duty to Allah, and know that Allah is severe in punishment.",
+        "khattab": "Complete the pilgrimage and minor pilgrimage for Allah. But if prevented ˹from proceeding˺, then ˹offer˺ whatever sacrificial animals you can afford. And do not shave your heads until the sacrificial animal reaches its destination. But if any of you is ill or has a scalp ailment ˹requiring shaving˺, then compensate either by fasting, charity, or a sacrificial offering. In times of peace, you may combine the pilgrimage and minor pilgrimage then make the sacrificial offering you can afford. Whoever cannot afford that ˹offering˺, let them fast three days during pilgrimage and seven after returning ˹home˺—completing ten. These offerings are for those who do not live near the Sacred House. And be mindful of Allah, and know that Allah is severe in punishment",
+        "arberry": "Fulfil the Pilgrimage and the Visitation unto God; but if you are prevented, then such offering as may be feasible. And shave not your heads, till the offering reaches its place of sacrifice. If any of you is sick, or injured in his head, then redemption by fast, or freewill offering, or ritual sacrifice. When you are secure, then whosoever enjoys the Visitation until the Pilgrimage, let his offering be such as may be feasible; or if he finds none, then a fast of three days in the Pilgrimage, and of seven when you return, that is ten completely; that is for him whose family are not present at the Holy Mosque. And fear God, and know that God is terrible in retribution."
+      }
+    },
+    {
+      "location": [
+        2,
+        196,
+        48
+      ],
+      "form_arabic": "فَصِيَامُ",
+      "lemma": "SiyaAm",
+      "lemma_arabic": "صِيَام",
+      "pos": "N",
+      "ayah_id": "2:196",
+      "ayah_arabic": "وَأَتِمُّواْ ٱلۡحَجَّ وَٱلۡعُمۡرَةَ لِلَّهِۚ فَإِنۡ أُحۡصِرۡتُمۡ فَمَا ٱسۡتَيۡسَرَ مِنَ ٱلۡهَدۡيِۖ وَلَا تَحۡلِقُواْ رُءُوسَكُمۡ حَتَّىٰ يَبۡلُغَ ٱلۡهَدۡيُ مَحِلَّهُۥۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ بِهِۦٓ أَذࣰ ى مِّن رَّأۡسِهِۦ فَفِدۡيَةࣱ مِّن صِيَامٍ أَوۡ صَدَقَةٍ أَوۡ نُسُكࣲۚ فَإِذَآ أَمِنتُمۡ فَمَن تَمَتَّعَ بِٱلۡعُمۡرَةِ إِلَى ٱلۡحَجِّ فَمَا ٱسۡتَيۡسَرَ مِنَ ٱلۡهَدۡيِۚ فَمَن لَّمۡ يَجِدۡ فَصِيَامُ ثَلَٰثَةِ أَيَّامࣲ فِي ٱلۡحَجِّ وَسَبۡعَةٍ إِذَا رَجَعۡتُمۡۗ تِلۡكَ عَشَرَةࣱ كَامِلَةࣱۗ ذَٰلِكَ لِمَن لَّمۡ يَكُنۡ أَهۡلُهُۥ حَاضِرِي ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "then a fast",
+      "translations": {
+        "saheeh": "And complete the Hajj and 'umrah for Allah. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs 'umrah [during the Hajj months] followed by Hajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during Hajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Haram. And fear Allah and know that Allah is severe in penalty.",
+        "pickthall": "Perform the pilgrimage and the visit (to Makka) for Allah. And if ye are prevented, then send such gifts as can be obtained with ease, and shave not your heads until the gifts have reached their destination. And whoever among you is sick or hath an ailment of the head must pay a ransom of fasting or almsgiving or offering. And if ye are in safety, then whosoever contenteth himself with the visit for the pilgrimage (shall give) such gifts as can be had with ease. And whosoever cannot find (such gifts), then a fast of three days while on the pilgrimage, and of seven when ye have returned; that is, ten in all. That is for him whoso folk are not present at the Inviolable Place of Worship. Observe your duty to Allah, and know that Allah is severe in punishment.",
+        "khattab": "Complete the pilgrimage and minor pilgrimage for Allah. But if prevented ˹from proceeding˺, then ˹offer˺ whatever sacrificial animals you can afford. And do not shave your heads until the sacrificial animal reaches its destination. But if any of you is ill or has a scalp ailment ˹requiring shaving˺, then compensate either by fasting, charity, or a sacrificial offering. In times of peace, you may combine the pilgrimage and minor pilgrimage then make the sacrificial offering you can afford. Whoever cannot afford that ˹offering˺, let them fast three days during pilgrimage and seven after returning ˹home˺—completing ten. These offerings are for those who do not live near the Sacred House. And be mindful of Allah, and know that Allah is severe in punishment",
+        "arberry": "Fulfil the Pilgrimage and the Visitation unto God; but if you are prevented, then such offering as may be feasible. And shave not your heads, till the offering reaches its place of sacrifice. If any of you is sick, or injured in his head, then redemption by fast, or freewill offering, or ritual sacrifice. When you are secure, then whosoever enjoys the Visitation until the Pilgrimage, let his offering be such as may be feasible; or if he finds none, then a fast of three days in the Pilgrimage, and of seven when you return, that is ten completely; that is for him whose family are not present at the Holy Mosque. And fear God, and know that God is terrible in retribution."
+      }
+    },
+    {
+      "location": [
+        4,
+        92,
+        51
+      ],
+      "form_arabic": "فَصِيَامُ",
+      "lemma": "SiyaAm",
+      "lemma_arabic": "صِيَام",
+      "pos": "N",
+      "ayah_id": "4:92",
+      "ayah_arabic": "وَمَا كَانَ لِمُؤۡمِنٍ أَن يَقۡتُلَ مُؤۡمِنًا إِلَّا خَطَـࣰٔ اۚ وَمَن قَتَلَ مُؤۡمِنًا خَطَـࣰٔ ا فَتَحۡرِيرُ رَقَبَةࣲ مُّؤۡمِنَةࣲ وَدِيَةࣱ مُّسَلَّمَةٌ إِلَىٰٓ أَهۡلِهِۦٓ إِلَّآ أَن يَصَّدَّقُواْۚ فَإِن كَانَ مِن قَوۡمٍ عَدُوࣲّ لَّكُمۡ وَهُوَ مُؤۡمِنࣱ فَتَحۡرِيرُ رَقَبَةࣲ مُّؤۡمِنَةࣲۖ وَإِن كَانَ مِن قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقࣱ فَدِيَةࣱ مُّسَلَّمَةٌ إِلَىٰٓ أَهۡلِهِۦ وَتَحۡرِيرُ رَقَبَةࣲ مُّؤۡمِنَةࣲۖ فَمَن لَّمۡ يَجِدۡ فَصِيَامُ شَهۡرَيۡنِ مُتَتَابِعَيۡنِ تَوۡبَةࣰ مِّنَ ٱللَّهِۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "An-Nisaa",
+      "literal_gloss": "then fasting",
+      "translations": {
+        "saheeh": "And never is it for a believer to kill a believer except by mistake. And whoever kills a believer by mistake - then the freeing of a believing slave and a compensation payment presented to the deceased's family [is required] unless they give [up their right as] charity. But if the deceased was from a people at war with you and he was a believer - then [only] the freeing of a believing slave; and if he was from a people with whom you have a treaty - then a compensation payment presented to his family and the freeing of a believing slave. And whoever does not find [one or cannot afford to buy one] - then [instead], a fast for two months consecutively, [seeking] acceptance of repentance from Allah. And Allah is ever Knowing and Wise.",
+        "pickthall": "It is not for a believer to kill a believer unless (it be) by mistake. He who hath killed a believer by mistake must set free a believing slave, and pay the blood-money to the family of the slain, unless they remit it as a charity. If he (the victim) be of a people hostile unto you, and he is a believer, then (the penance is) to set free a believing slave. And if he cometh of a folk between whom and you there is a covenant, then the blood-money must be paid unto his folk and (also) a believing slave must be set free. And whoso hath not the wherewithal must fast two consecutive months. A penance from Allah. Allah is Knower, Wise.",
+        "khattab": "It is not lawful for a believer to kill another except by mistake. And whoever kills a believer unintentionally must free a believing slave and pay blood-money to the victim’s family—unless they waive it charitably. But if the victim is a believer from a hostile people, then a believing slave must be freed. And if the victim is from a people bound with you in a treaty, then blood-money must be paid to the family along with freeing a believing slave. Those who are unable, let them fast two consecutive months—as a means of repentance to Allah. And Allah is All-Knowing, All-Wise",
+        "arberry": "It belongs not to a believer to slay a believer, except it be by error. If any slays a believer by error, then let him set free a believing slave, and bloodwit is to be paid to his family unless they forgo it as a freewill offering. If he belong to a people at enmity with you and is a believer, let the slayer set free a believing slave. If he belong to a people joined with you by a compact, then bloodwit is to be paid to his family and the slayer shall set free a believing slave. But if he finds not the means, let him fast two successive months -- God's turning; God is All-knowing, All-wise."
+      }
+    },
+    {
+      "location": [
+        5,
+        89,
+        29
+      ],
+      "form_arabic": "فَصِيَامُ",
+      "lemma": "SiyaAm",
+      "lemma_arabic": "صِيَام",
+      "pos": "N",
+      "ayah_id": "5:89",
+      "ayah_arabic": "لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغۡوِ فِيٓ أَيۡمَٰنِكُمۡ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ ٱلۡأَيۡمَٰنَۖ فَكَفَّٰرَتُهُۥٓ إِطۡعَامُ عَشَرَةِ مَسَٰكِينَ مِنۡ أَوۡسَطِ مَا تُطۡعِمُونَ أَهۡلِيكُمۡ أَوۡ كِسۡوَتُهُمۡ أَوۡ تَحۡرِيرُ رَقَبَةࣲۖ فَمَن لَّمۡ يَجِدۡ فَصِيَامُ ثَلَٰثَةِ أَيَّامࣲۚ ذَٰلِكَ كَفَّٰرَةُ أَيۡمَٰنِكُمۡ إِذَا حَلَفۡتُمۡۚ وَٱحۡفَظُوٓاْ أَيۡمَٰنَكُمۡۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَشۡكُرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "(that), then fasting",
+      "translations": {
+        "saheeh": "Allah will not impose blame upon you for what is meaningless in your oaths, but He will impose blame upon you for [breaking] what you intended of oaths. So its expiation is the feeding of ten needy people from the average of that which you feed your [own] families or clothing them or the freeing of a slave. But whoever cannot find [or afford it] - then a fast of three days [is required]. That is the expiation for oaths when you have sworn. But guard your oaths. Thus does Allah make clear to you His verses that you may be grateful.",
+        "pickthall": "Allah will not take you to task for that which is unintentional in your oaths, but He will take you to task for the oaths which ye swear in earnest. The expiation thereof is the feeding of ten of the needy with the average of that wherewith ye feed your own folk, or the clothing of them, or the liberation of a slave, and for him who findeth not (the wherewithal to do so) then a three days' fast. This is the expiation of your oaths when ye have sworn; and keep your oaths. Thus Allah expoundeth unto you His revelations in order that ye may give thanks.",
+        "khattab": "Allah will not call you to account for your thoughtless oaths, but He will hold you accountable for deliberate oaths. The penalty for a broken oath is to feed ten poor people from what you normally feed your own family, or to clothe them, or to free a bondsperson. But if none of this is affordable, then you must fast three days. This is the penalty for breaking your oaths. So be mindful of your oaths. This is how Allah makes things clear to you, so perhaps you will be grateful",
+        "arberry": "God will not take you to task for a slip in your oaths; but He will take you to task for such bonds as you have made by oaths, whereof the expiation is to feed ten poor persons with the average of the food you serve to your families, or to clothe them, or to set free a slave; or if any finds not the means, let him fast for three days. That is the expiation of your oaths when you have sworn; but keep your oaths. So God makes clear to you His signs; haply you will be thankful."
+      }
+    },
+    {
+      "location": [
+        5,
+        95,
+        34
+      ],
+      "form_arabic": "صِيَامًا",
+      "lemma": "SiyaAm",
+      "lemma_arabic": "صِيَام",
+      "pos": "N",
+      "ayah_id": "5:95",
+      "ayah_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَقۡتُلُواْ ٱلصَّيۡدَ وَأَنتُمۡ حُرُمࣱۚ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدࣰ ا فَجَزَآءࣱ مِّثۡلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحۡكُمُ بِهِۦ ذَوَا عَدۡلࣲ مِّنكُمۡ هَدۡيَۢا بَٰلِغَ ٱلۡكَعۡبَةِ أَوۡ كَفَّٰرَةࣱ طَعَامُ مَسَٰكِينَ أَوۡ عَدۡلُ ذَٰلِكَ صِيَامࣰ ا لِّيَذُوقَ وَبَالَ أَمۡرِهِۦۗ عَفَا ٱللَّهُ عَمَّا سَلَفَۚ وَمَنۡ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنۡهُۚ وَٱللَّهُ عَزِيزࣱ ذُو ٱنتِقَامٍ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Maaida",
+      "literal_gloss": "(in) fasting",
+      "translations": {
+        "saheeh": "O you who have believed, do not kill game while you are in the state of ihram. And whoever of you kills it intentionally - the penalty is an equivalent from sacrificial animals to what he killed, as judged by two just men among you as an offering [to Allah] delivered to the Ka'bah, or an expiation: the feeding of needy people or the equivalent of that in fasting, that he may taste the consequence of his deed. Allah has pardoned what is past; but whoever returns [to violation], then Allah will take retribution from him. And Allah is Exalted in Might and Owner of Retribution.",
+        "pickthall": "O ye who believe! Kill no wild game while ye are on the pilgrimage. Whoso of you killeth it of set purpose he shall pay its forfeit in the equivalent of that which he hath killed, of domestic animals, the judge to be two men among you known for justice, (the forfeit) to be brought as an offering to the Ka'bah; or, for expiation, he shall feed poor persons, or the equivalent thereof in fasting, that he may taste the evil consequences of his deed. Allah forgiveth whatever (of this kind) may have happened in the past, but whoso relapseth, Allah will take retribution from him. Allah is Mighty, Able to Requite (the wrong).",
+        "khattab": "O believers! Do not kill game while on pilgrimage. Whoever kills game intentionally must compensate by offering its equivalence—as judged by two just men among you—to be offered at the Sacred House, or by feeding the needy, or by fasting so that they may taste the consequences of their violations. Allah has forgiven what has been done. But those who persist will be punished by Allah. And Allah is Almighty, capable of punishment",
+        "arberry": "O believers, slay not the game while you are in pilgrim sanctity; whosoever of you slays it wilfully, there shall be recompense -- the like of what he has slain, in flocks as shall be judged by two men of equity among you, an offering to reach the Kaaba; or expiation -- food for poor persons or the equivalent of that in fasting, so that he may taste the mischief of his action. God has pardoned what is past; but whoever offends again, God will take vengeance on him, God is All-mighty, Vengeful."
+      }
+    },
+    {
+      "location": [
+        19,
+        26,
+        14
+      ],
+      "form_arabic": "صَوْمًا",
+      "lemma": "Sawom",
+      "lemma_arabic": "صَوْم",
+      "pos": "N",
+      "ayah_id": "19:26",
+      "ayah_arabic": "فَكُلِي وَٱشۡرَبِي وَقَرِّي عَيۡنࣰ اۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلۡبَشَرِ أَحَدࣰ ا فَقُولِيٓ إِنِّي نَذَرۡتُ لِلرَّحۡمَٰنِ صَوۡمࣰ ا فَلَنۡ أُكَلِّمَ ٱلۡيَوۡمَ إِنسِيࣰّ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Maryam",
+      "literal_gloss": "a fast",
+      "translations": {
+        "saheeh": "So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.' \"",
+        "pickthall": "So eat and drink and be consoled. And if thou meetest any mortal, say: Lo! I have vowed a fast unto the Beneficent, and may not speak this day to any mortal.",
+        "khattab": "So eat and drink, and put your heart at ease. But if you see any of the people, say, ‘I have vowed silence to the Most Compassionate, so I am not talking to anyone today.’”",
+        "arberry": "Eat therefore, and drink, and be comforted; and if thou shouldst see any mortal, say, \"I have vowed to the All-merciful a fast, and today I will not speak to any man."
+      }
+    },
+    {
+      "location": [
+        33,
+        35,
+        16
+      ],
+      "form_arabic": "وَٱلصَّٰ^ئِمِينَ",
+      "lemma": "S~a`^}imiyn",
+      "lemma_arabic": "صَّٰ^ئِمِين",
+      "pos": "N",
+      "ayah_id": "33:35",
+      "ayah_arabic": "إِنَّ ٱلۡمُسۡلِمِينَ وَٱلۡمُسۡلِمَٰتِ وَٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ وَٱلۡقَٰنِتِينَ وَٱلۡقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلۡخَٰشِعِينَ وَٱلۡخَٰشِعَٰتِ وَٱلۡمُتَصَدِّقِينَ وَٱلۡمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلۡحَٰفِظِينَ فُرُوجَهُمۡ وَٱلۡحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرࣰ ا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغۡفِرَةࣰ وَأَجۡرًا عَظِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "and the men who fast",
+      "translations": {
+        "saheeh": "Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember Allah often and the women who do so - for them Allah has prepared forgiveness and a great reward.",
+        "pickthall": "Lo! men who surrender unto Allah, and women who surrender, and men who believe and women who believe, and men who obey and women who obey, and men who speak the truth and women who speak the truth, and men who persevere (in righteousness) and women who persevere, and men who are humble and women who are humble, and men who give alms and women who give alms, and men who fast and women who fast, and men who guard their modesty and women who guard (their modesty), and men who remember Allah much and women who remember - Allah hath prepared for them forgiveness and a vast reward.",
+        "khattab": "Surely ˹for˺ Muslim men and women, believing men and women, devout men and women, truthful men and women, patient men and women, humble men and women, charitable men and women, fasting men and women, men and women who guard their chastity, and men and women who remember Allah often—for ˹all of˺ them Allah has prepared forgiveness and a great reward",
+        "arberry": "Men and women who have surrendered, believing men and believing women, obedient men and obedient women, truthful men and truthful women, enduring men and enduring women, humble men and humble women, men and women who give in charity, men who fast and women who fast, men and women who guard their private parts, men and women who remember God oft -- for them God has prepared forgiveness and a mighty wage."
+      }
+    },
+    {
+      "location": [
+        33,
+        35,
+        17
+      ],
+      "form_arabic": "وَٱلصَّٰ^ئِمَٰتِ",
+      "lemma": "S~a`^}ima`t",
+      "lemma_arabic": "صَّٰ^ئِمَٰت",
+      "pos": "N",
+      "ayah_id": "33:35",
+      "ayah_arabic": "إِنَّ ٱلۡمُسۡلِمِينَ وَٱلۡمُسۡلِمَٰتِ وَٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ وَٱلۡقَٰنِتِينَ وَٱلۡقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلۡخَٰشِعِينَ وَٱلۡخَٰشِعَٰتِ وَٱلۡمُتَصَدِّقِينَ وَٱلۡمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلۡحَٰفِظِينَ فُرُوجَهُمۡ وَٱلۡحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرࣰ ا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغۡفِرَةࣰ وَأَجۡرًا عَظِيمࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "and the women who fast",
+      "translations": {
+        "saheeh": "Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember Allah often and the women who do so - for them Allah has prepared forgiveness and a great reward.",
+        "pickthall": "Lo! men who surrender unto Allah, and women who surrender, and men who believe and women who believe, and men who obey and women who obey, and men who speak the truth and women who speak the truth, and men who persevere (in righteousness) and women who persevere, and men who are humble and women who are humble, and men who give alms and women who give alms, and men who fast and women who fast, and men who guard their modesty and women who guard (their modesty), and men who remember Allah much and women who remember - Allah hath prepared for them forgiveness and a vast reward.",
+        "khattab": "Surely ˹for˺ Muslim men and women, believing men and women, devout men and women, truthful men and women, patient men and women, humble men and women, charitable men and women, fasting men and women, men and women who guard their chastity, and men and women who remember Allah often—for ˹all of˺ them Allah has prepared forgiveness and a great reward",
+        "arberry": "Men and women who have surrendered, believing men and believing women, obedient men and obedient women, truthful men and truthful women, enduring men and enduring women, humble men and humble women, men and women who give in charity, men who fast and women who fast, men and women who guard their private parts, men and women who remember God oft -- for them God has prepared forgiveness and a mighty wage."
+      }
+    },
+    {
+      "location": [
+        58,
+        4,
+        4
+      ],
+      "form_arabic": "فَصِيَامُ",
+      "lemma": "SiyaAm",
+      "lemma_arabic": "صِيَام",
+      "pos": "N",
+      "ayah_id": "58:4",
+      "ayah_arabic": "فَمَن لَّمۡ يَجِدۡ فَصِيَامُ شَهۡرَيۡنِ مُتَتَابِعَيۡنِ مِن قَبۡلِ أَن يَتَمَآسَّاۖ فَمَن لَّمۡ يَسۡتَطِعۡ فَإِطۡعَامُ سِتِّينَ مِسۡكِينࣰ اۚ ذَٰلِكَ لِتُؤۡمِنُواْ بِٱللَّهِ وَرَسُولِهِۦۚ وَتِلۡكَ حُدُودُ ٱللَّهِۗ وَلِلۡكَٰفِرِينَ عَذَابٌ أَلِيمٌ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Mujaadila",
+      "literal_gloss": "then fasting",
+      "translations": {
+        "saheeh": "And he who does not find [a slave] - then a fast for two months consecutively before they touch one another; and he who is unable - then the feeding of sixty poor persons. That is for you to believe [completely] in Allah and His Messenger; and those are the limits [set by] Allah. And for the disbelievers is a painful punishment.",
+        "pickthall": "And he who findeth not (the wherewithal), let him fast for two successive months before they touch one another; and for him who is unable to do so (the penance is) the feeding of sixty needy ones. This, that ye may put trust in Allah and His messenger. Such are the limits (imposed by Allah); and for disbelievers is a painful doom.",
+        "khattab": "But if the husband cannot afford this, let him then fast two consecutive months before the couple touch each other. But if he is unable ˹to fast˺, then let him feed sixty poor people. This is to re-affirm your faith in Allah and His Messenger. These are the limits set by Allah. And the disbelievers will suffer a painful punishment",
+        "arberry": "But whosoever finds not the means, then let him fast two successive months, before the two of them touch one another. And if any man is not able to, then let him feed sixty poor persons -- that, that you may believe in God and His Messenger. Those are God's bounds; and for the unbelievers there awaits yet a painful chastisement."
+      }
+    }
+  ]
+}

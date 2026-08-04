@@ -1,0 +1,584 @@
+{
+  "root": "xyT",
+  "root_arabic": "خيط",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 3
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "xayoT",
+      "lemma_arabic": "خَيْط",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        2,
+        187,
+        36
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            187,
+            36
+          ],
+          "form_arabic": "ٱلْخَيْطُ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            2,
+            187,
+            39
+          ],
+          "form_arabic": "ٱلْخَيْطِ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "xiyaAT",
+      "lemma_arabic": "خِيَاط",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        7,
+        40,
+        20
+      ],
+      "occurrences": [
+        {
+          "location": [
+            7,
+            40,
+            20
+          ],
+          "form_arabic": "ٱلْخِيَاطِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "wlj",
+      "root_arabic": "ولج",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "smm",
+      "root_arabic": "سمم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "ftH",
+      "root_arabic": "فتح",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "jml",
+      "root_arabic": "جمل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "kbr",
+      "root_arabic": "كبر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "jnn",
+      "root_arabic": "جنن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "dxl",
+      "root_arabic": "دخل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "jzy",
+      "root_arabic": "جزي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "jrm",
+      "root_arabic": "جرم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "bwb",
+      "root_arabic": "بوب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        7,
+        40
+      ]
+    },
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "qrb",
+      "root_arabic": "قرب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Efw",
+      "root_arabic": "عفو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "xwn",
+      "root_arabic": "خون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "b$r",
+      "root_arabic": "بشر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Ekf",
+      "root_arabic": "عكف",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Hdd",
+      "root_arabic": "حدد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "swd",
+      "root_arabic": "سود",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "lbs",
+      "root_arabic": "لبس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "sjd",
+      "root_arabic": "سجد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Swm",
+      "root_arabic": "صوم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "fjr",
+      "root_arabic": "فجر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Akl",
+      "root_arabic": "اكل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "byD",
+      "root_arabic": "بيض",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "wqy",
+      "root_arabic": "وقي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "rfv",
+      "root_arabic": "رفث",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "$rb",
+      "root_arabic": "شرب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "tmm",
+      "root_arabic": "تمم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "nsw",
+      "root_arabic": "نسو",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    },
+    {
+      "root": "Hll",
+      "root_arabic": "حلل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        2,
+        187
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 2
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        187,
+        36
+      ],
+      "form_arabic": "ٱلْخَيْطُ",
+      "lemma": "xayoT",
+      "lemma_arabic": "خَيْط",
+      "pos": "N",
+      "ayah_id": "2:187",
+      "ayah_arabic": "أُحِلَّ لَكُمۡ لَيۡلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمۡۚ هُنَّ لِبَاسࣱ لَّكُمۡ وَأَنتُمۡ لِبَاسࣱ لَّهُنَّۗ عَلِمَ ٱللَّهُ أَنَّكُمۡ كُنتُمۡ تَخۡتَانُونَ أَنفُسَكُمۡ فَتَابَ عَلَيۡكُمۡ وَعَفَا عَنكُمۡۖ فَٱلۡـَٰٔنَ بَٰشِرُوهُنَّ وَٱبۡتَغُواْ مَا كَتَبَ ٱللَّهُ لَكُمۡۚ وَكُلُواْ وَٱشۡرَبُواْ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلۡخَيۡطُ ٱلۡأَبۡيَضُ مِنَ ٱلۡخَيۡطِ ٱلۡأَسۡوَدِ مِنَ ٱلۡفَجۡرِۖ ثُمَّ أَتِمُّواْ ٱلصِّيَامَ إِلَى ٱلَّيۡلِۚ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمۡ عَٰكِفُونَ فِي ٱلۡمَسَٰجِدِۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَقۡرَبُوهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمۡ يَتَّقُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "the thread",
+      "translations": {
+        "saheeh": "It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are clothing for you and you are clothing for them. Allah knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allah has decreed for you. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the sunset. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allah, so do not approach them. Thus does Allah make clear His ordinances to the people that they may become righteous.",
+        "pickthall": "It is made lawful for you to go in unto your wives on the night of the fast. They are raiment for you and ye are raiment for them. Allah is Aware that ye were deceiving yourselves in this respect and He hath turned in mercy toward you and relieved you. So hold intercourse with them and seek that which Allah hath ordained for you, and eat and drink until the white thread becometh distinct to you from the black thread of the dawn. Then strictly observe the fast till nightfall and touch them not, but be at your devotions in the mosques. These are the limits imposed by Allah, so approach them not. Thus Allah expoundeth His revelation to mankind that they may ward off (evil).",
+        "khattab": "It has been made permissible for you to be intimate with your wives during the nights preceding the fast. Your spouses are a garment for you as you are for them. Allah knows that you were deceiving yourselves. So He has accepted your repentance and pardoned you. So now you may be intimate with them and seek what Allah has prescribed for you. ˹You may˺ eat and drink until you see the light of dawn breaking the darkness of night, then complete the fast until nightfall. Do not be intimate with your spouses while you are meditating in the mosques. These are the limits set by Allah, so do not exceed them. This is how Allah makes His revelations clear to people, so they may become mindful ˹of Him˺",
+        "arberry": "Permitted to you, upon the night of the Fast, is to go in to your wives; -- they are a vestment for you, and you are a vestment for them. God knows that you have been betraying yourselves, and has turned to you and pardoned you. So now lie with them, and seek what God has prescribed for you. And eat and drink, until the white thread shows clearly to you from the black thread at the dawn; then complete the Fast unto the night, and do not lie with them while you cleave to the mosques. Those are God's bounds; keep well within them. So God makes clear His signs to men; haply they will be godfearing."
+      }
+    },
+    {
+      "location": [
+        2,
+        187,
+        39
+      ],
+      "form_arabic": "ٱلْخَيْطِ",
+      "lemma": "xayoT",
+      "lemma_arabic": "خَيْط",
+      "pos": "N",
+      "ayah_id": "2:187",
+      "ayah_arabic": "أُحِلَّ لَكُمۡ لَيۡلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمۡۚ هُنَّ لِبَاسࣱ لَّكُمۡ وَأَنتُمۡ لِبَاسࣱ لَّهُنَّۗ عَلِمَ ٱللَّهُ أَنَّكُمۡ كُنتُمۡ تَخۡتَانُونَ أَنفُسَكُمۡ فَتَابَ عَلَيۡكُمۡ وَعَفَا عَنكُمۡۖ فَٱلۡـَٰٔنَ بَٰشِرُوهُنَّ وَٱبۡتَغُواْ مَا كَتَبَ ٱللَّهُ لَكُمۡۚ وَكُلُواْ وَٱشۡرَبُواْ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلۡخَيۡطُ ٱلۡأَبۡيَضُ مِنَ ٱلۡخَيۡطِ ٱلۡأَسۡوَدِ مِنَ ٱلۡفَجۡرِۖ ثُمَّ أَتِمُّواْ ٱلصِّيَامَ إِلَى ٱلَّيۡلِۚ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمۡ عَٰكِفُونَ فِي ٱلۡمَسَٰجِدِۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَقۡرَبُوهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمۡ يَتَّقُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "the thread",
+      "translations": {
+        "saheeh": "It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are clothing for you and you are clothing for them. Allah knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allah has decreed for you. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the sunset. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allah, so do not approach them. Thus does Allah make clear His ordinances to the people that they may become righteous.",
+        "pickthall": "It is made lawful for you to go in unto your wives on the night of the fast. They are raiment for you and ye are raiment for them. Allah is Aware that ye were deceiving yourselves in this respect and He hath turned in mercy toward you and relieved you. So hold intercourse with them and seek that which Allah hath ordained for you, and eat and drink until the white thread becometh distinct to you from the black thread of the dawn. Then strictly observe the fast till nightfall and touch them not, but be at your devotions in the mosques. These are the limits imposed by Allah, so approach them not. Thus Allah expoundeth His revelation to mankind that they may ward off (evil).",
+        "khattab": "It has been made permissible for you to be intimate with your wives during the nights preceding the fast. Your spouses are a garment for you as you are for them. Allah knows that you were deceiving yourselves. So He has accepted your repentance and pardoned you. So now you may be intimate with them and seek what Allah has prescribed for you. ˹You may˺ eat and drink until you see the light of dawn breaking the darkness of night, then complete the fast until nightfall. Do not be intimate with your spouses while you are meditating in the mosques. These are the limits set by Allah, so do not exceed them. This is how Allah makes His revelations clear to people, so they may become mindful ˹of Him˺",
+        "arberry": "Permitted to you, upon the night of the Fast, is to go in to your wives; -- they are a vestment for you, and you are a vestment for them. God knows that you have been betraying yourselves, and has turned to you and pardoned you. So now lie with them, and seek what God has prescribed for you. And eat and drink, until the white thread shows clearly to you from the black thread at the dawn; then complete the Fast unto the night, and do not lie with them while you cleave to the mosques. Those are God's bounds; keep well within them. So God makes clear His signs to men; haply they will be godfearing."
+      }
+    },
+    {
+      "location": [
+        7,
+        40,
+        20
+      ],
+      "form_arabic": "ٱلْخِيَاطِ",
+      "lemma": "xiyaAT",
+      "lemma_arabic": "خِيَاط",
+      "pos": "N",
+      "ayah_id": "7:40",
+      "ayah_arabic": "إِنَّ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَٱسۡتَكۡبَرُواْ عَنۡهَا لَا تُفَتَّحُ لَهُمۡ أَبۡوَٰبُ ٱلسَّمَآءِ وَلَا يَدۡخُلُونَ ٱلۡجَنَّةَ حَتَّىٰ يَلِجَ ٱلۡجَمَلُ فِي سَمِّ ٱلۡخِيَاطِۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُجۡرِمِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "(of) the needle",
+      "translations": {
+        "saheeh": "Indeed, those who deny Our verses and are arrogant toward them - the gates of Heaven will not be opened for them, nor will they enter Paradise until a camel enters into the eye of a needle. And thus do We recompense the criminals.",
+        "pickthall": "Lo! they who deny Our revelations and scorn them, for them the gates of heaven will nor be opened not will they enter the Garden until the camel goeth through the needle's eye. Thus do We requite the guilty.",
+        "khattab": "Surely those who receive our revelations with denial and arrogance, the gates of heaven will not be opened for them, nor will they enter Paradise until a camel passes through the eye of a needle. This is how We reward the wicked",
+        "arberry": "Those that cry lies to Our signs and wax proud against them the gates of heaven shall not be opened to them, nor shall they enter Paradise until the camel passes through the eye of the needle. Even so We recompense the sinners;"
+      }
+    }
+  ]
+}

@@ -68,6 +68,17 @@ First THEMATIC (non-root-anchored) investigation. The Quran has no single word f
 - **Synthesis:** [`teleportation/concept-teleportation-deep.md`](teleportation/concept-teleportation-deep.md)
 - 30 files · 16 roots + 7 narratives + 4 cross-cutting + 2 structural + 1 synthesis
 
+### [`fasting/`](fasting/) — Fasting (ṣawm) — the first APPLIED investigation
+Commissioned with a practical question rather than a scholarly one: *I fasted seven days to get closer to Allah and it didn't work — what does the Quran actually say fasting is for, what does science say it does, and what have people actually experienced?* This is the first investigation to combine the Quranic pipeline with an **external-evidence track** (peer-reviewed physiology and psychology; several hundred sourced first-person accounts) and to end in a **practice guide** rather than a synthesis alone. Three evidence streams were researched by agents that never read each other's work, then compared for convergence.
+
+The corpus is astonishingly small: **`Swm` occurs 14 times in the entire Quran**, in 11 ayahs. Only 5 concern Ramadan; 6 sit in expiation/substitution ladders where fasting is the fallback for someone who cannot free a person or feed the poor. 13 of 14 are Medinan — the single Meccan occurrence, 19:26, is Maryam's fast **of speech**, in a verse that commands her to eat and drink.
+
+Headline findings: the Quran legislates the **emptying** with precision and specifies almost nothing to put in it (four of the five imperatives in 2:183–187 are permissions to eat, drink and be with your spouse); **hunger never appears in a fasting verse** and is uniformly negative across all 5 of its Quranic occurrences; **no reward is promised for fasting anywhere**, and the intention-root `nwy` does not occur in the Quran at all; **`Swm` and `Slw` share zero ayahs in the whole corpus** — fasting and prayer are never put in the same verse; 2:177's definition of the *muttaqūn* omits fasting entirely, and surahs 97 and 44 describe the night the month exists for without mentioning fasting; the purpose-clause `laʿalla…tattaqūn` occurs 12 times and **9 of the 12 attach taqwā to received-and-retained divine speech**, not to any physical act; the formula *li-tukabbirū Allāha ʿalā mā hadākum* occurs in exactly **two** places — 2:185 (the fasting verse) and 22:37 (*"their flesh does not reach Allah, nor their blood, but the taqwā from you reaches Him"*), licensing the transfer: **the hunger is the fast's flesh and blood, the part that does not travel**; 57:27 disowns monasticism with `mā katabnāhā` — the *same lemma* 2:183 uses to prescribe the fast; and of the 16 verses putting a question to the Prophet, 13 are answered with `qul` — the exceptions include **2:186**, the one verse that says *I am near*, where God answers in the first person with no intermediary, stating His side in the indicative (already happening) and ours in the jussive (**outstanding**).
+- **Start here:** [`fasting/README.md`](fasting/README.md) (folder index)
+- **The deliverable:** [`fasting/practice-guide.md`](fasting/practice-guide.md) — the applied output
+- **Synthesis:** [`fasting/concept-fasting-deep.md`](fasting/concept-fasting-deep.md)
+- 15 files · 5 roots + 2 narratives + 2 cross-cutting + 1 structural + 4 external + 1 synthesis + 1 practice guide
+
 ## Cross-investigation files (top-level)
 
 These span all investigations and live at the top of `notes/`.

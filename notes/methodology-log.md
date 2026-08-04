@@ -2312,3 +2312,74 @@ The fourth optimized investigation, second consecutive at MAX scope with Phase 3
 Nothing structurally — the pipeline is stable. This was the 4th run on the optimized methodology and the 2nd at MAX scope with Phase 3. The token cost continues to track lower than prior investigations at similar scope due to incremental cluster-boundary refinement.
 
 The Quran-research project now stands at ~535,000 words across 9 thematic investigations.
+
+---
+
+## Entry 11 — FASTING (ṣawm) — the first APPLIED investigation, and the first with an external-evidence track (2026-08-05)
+
+The fifth run on the optimized pipeline, and structurally the most novel since the teleportation investigation introduced narrative agents. Two firsts: the investigation was **commissioned with a practical problem rather than a scholarly question** ("I fasted seven days to get closer to Allah and it didn't work"), and it ran a **non-Quranic evidence track in parallel** with the textual one.
+
+### What was different about this investigation
+
+1. **The deliverable was a practice guide, not a synthesis.** `practice-guide.md` is the artefact the work was for; `concept-fasting-deep.md` supports it. Every Phase-1 and Phase-2 agent was required to end its file with a **"For the fast"** section — 2–5 concrete lines on what the file changes about how someone would actually fast. This constraint did more for file quality than any other instruction in the brief: it forced every agent to convert a philological finding into something falsifiable against a real person's Tuesday. Several agents produced their sharpest line in that section.
+
+2. **A third agent class: EXTERNAL.** Alongside root agents and narrative agents, three agents worked entirely outside the corpus — peer-reviewed physiology (`science-fasting-body.md`), self-regulation and ritual psychology (`science-fasting-mind.md`), and sourced first-person accounts (`stories-fasting-experiences.md`, later `stories-reddit-accounts.md`). They were given a **higher word cap (2,200)** because survey work does not compress like root analysis, and a hard rule that every substantive claim carries an inline URL and an explicit **established / probable / contested / speculative** marker.
+
+3. **Deliberate blinding for convergence.** The external agents were never given the Quranic findings and the Quranic agents were never given the external ones. This was the point: three independent streams, then a Phase-4 comparison. The convergence that resulted is evidential precisely because it was not engineered — and the synthesis was explicitly instructed **not to manufacture agreement** and to preserve dissent (the stories file's one account crediting *adding nothing at all* survives into the synthesis intact).
+
+### Pipeline as executed
+
+- **Phase 0** — orchestrator, no agents. 14 concept profiles built. Two reusable scripts written: `build_fasting_versepack.py` (131 verses × Arabic + 4 translations, grouped by theme) and `build_fasting_cooccurrence.py` (root totals, `Swm` neighbourhood, full 2:183–187 root inventory, divergence scores). ~45k tokens.
+- **Phase 1a** — 5 root agents (Sonnet): `Swm`, `wqy`/taqwā, `Sbr`+hunger, the kaffāra ladder, the month/night/retreat cluster.
+- **Phase 1b** — 2 narrative agents (Sonnet): 2:183–187 as a designed unit; Maryam's ṣawm + 33:35.
+- **Structural pre-cut** — written by the orchestrator directly rather than delegated, since the data was already in context. Cheaper than an agent and avoided a round-trip.
+- **External track** — 3 agents (Sonnet) + 1 recovery agent.
+- **Phase 2** — 2 Opus cross-cutting agents: the taqwā mechanism; the negative space.
+- **Phase 3** — SKIPPED per default.
+- **Phase 4** — Opus synthesis + folder README. Practice guide written by the orchestrator.
+
+**~1.4M tokens across 14 agents.** In band with finance (~1.1M) and well under the pre-optimization baseline, despite carrying an entire second evidence domain.
+
+### Decisive moves
+
+1. **The versepack was the single highest-leverage optimization yet.** 131 verses with Arabic + all four translations, pre-grouped by theme, meant **no Phase-1 agent ever opened `quran.json`**. Optimization B in the plan estimated 30–60k saved per agent; this is the first investigation where it was fully realized. **Build the versepack in Phase 0 from now on — it should be standard.**
+
+2. **The lemma table again. ×10 investigations.** `Swm`'s five lemmas carried the whole investigation: `ṣiyām` (9, nominal, legal), `yaṣum` (2, verbal, and its only direct object in the corpus is *a month* — never food), `ṣawm` (1, the sole unqualified masdar, and it is a fast of speech), `ṣāʾim` (2, identity, once, eighth of ten in a list). The distribution *is* the argument.
+
+3. **Orchestrator-side verification caught two real errors.** The narrative agent claimed 2:186 was "the 3rd of 5 verses — dead centre, not arguable." It is the fourth. The cross-cutting agent claimed 13 of **14** question-verses take `qul`; a morphology-based recount gives 13 of **16**, with three exceptions, not two — and the corrected version is *stronger*, because naming 4:153 and contrasting 79:42 against 33:63 (same question, `qul` present) makes 2:186's omission pointed rather than formulaic. **Pattern: agents are reliable on philology and unreliable on counting. Spot-check every numeric claim that carries argumentative weight — especially "exactly N" and "the only."** Both errors were in the most rhetorically attractive claims in their files, which is where to look first.
+
+4. **Feeding an orchestrator-discovered finding to a running agent mid-flight worked.** The formula `li-tukabbirū Allāha ʿalā mā hadākum` occurs in exactly two places — 2:185 and 22:37 — which I found while the Phase-2 agent was working. Sent via SendMessage with an explicit instruction to *test it, not accept it*. The agent independently verified the count, integrated it as §3, and correctly limited what it licenses. **This is a usable pattern: the orchestrator is not idle during Phase 2 and can do cheap deterministic checks that feed the expensive agents.**
+
+5. **Naming the rival thread instead of suppressing it.** The Phase-2 mechanism agent was asked to build the container/content argument *and then attack it*. It found the fatal syntactic objection itself (2:185 grounds the *month* in the descent; `fal-yaṣumhu` makes the fast a response *to* the month — container/content is one inferential step past the grammar), kept the thread anyway on the grounds that the text forecloses every rival, and named **giving** (3:92) as a genuine competitor to be held alongside rather than beaten. This is the most intellectually honest Phase-2 file the project has produced, and the "build it, then attack it, then give a verdict" instruction is why.
+
+6. **A tool was rejected on fit, not availability.** The `last30days` skill was invoked for the internet-accounts gap and abandoned after reading its contract: a 30-day window on a topic whose richest material is seasonal (Ramadan 1447 ended ~March 2026, five months prior), plus a rigid chat-report output format unsuited to a repo file. Replaced with a targeted recovery agent. **Worth recording that the check cost ~50k tokens; reading a skill's constraints before invoking would have been cheaper.**
+
+### Patterns observed
+
+- **Negative space was not one finding among many — it was the thesis.** Every prior investigation surfaced absences; here the absences *are* the answer. No hunger in any fasting verse; no reward; no `nwy` in the entire Quran; no prayer-root, dhikr-root, heart-root, garden-root or forgiveness-root anywhere in 2:183–187; `Swm` and `Slw` sharing zero ayahs corpus-wide; 2:177 omitting fasting from its own definition of the *muttaqūn*; surahs 97 and 44 never mentioning it. The shape of the hole is the shape of the fast's hours.
+
+- **The same-lemma cross-link as an instrument.** Two of this investigation's strongest findings are single lemmas appearing in exactly two places: `kataba` prescribing the fast (2:183) and disowning monasticism (57:27); `li-tukabbirū…hadākum` joining the fast (2:185) to the sacrifice (22:37). Both were found by exact-phrase search over diacritic-stripped text. **This is an under-used instrument and should be a standard Phase-0 pass: for each key verse, search the corpus for its distinctive multi-word formulas.**
+
+- **The Quran's warmth around food points at giving, not abstaining.** 6 feeding-praise verses across 5 surahs versus 2 fasting-praise verses in a single passage. Connects directly to the finance investigation's "from what you love" cure formula (3:92, 76:8, 2:177) — the same verse set, reached from the opposite direction.
+
+- **Grammatical mood as theology.** 2:186's `ujību` (indicative — already happening) against `fal-yastajībū` (jussive — commanded, outstanding), same root `jwb`. The asymmetry is the verse's content. Echoes the failure investigation's "God ACTS in the active voice, humans EXPERIENCE in the passive."
+
+### Cross-investigation citations
+
+- **Finance** — 3:92 (`lan tanālū al-birra ḥattā tunfiqū mimmā tuḥibbūn`) is load-bearing in both. Finance reached it as the cure for ḥubb al-māl; fasting reached it as the rival mechanism for taqwā. Same verse, two routes.
+- **Success** — "orientation-not-capability" recurs exactly: fasting is not a capability the Quran rewards, and `ṣāʾim` as a standing identity occurs once, unelaborated, in a ten-item list.
+- **Time** — the fast is bounded by a *perceptual* threshold (2:187's white/black thread, `yatabayyana`), not a clock. Reinforces the time investigation's finding that Quranic time is event-anchored rather than instrumented.
+- **Afterlife** — notably ABSENT. No `jnn` (garden), no `Ajr`, no `gfr` anywhere in the fasting passage. The Quran does not attach eschatological reward to fasting, which is a real divergence from how the practice is popularly framed.
+
+### Open questions
+
+1. **Is the container/content thread more than a pattern?** 9 of 12 is strong; the syntactic objection at 2:185 is real. Unresolved and honestly flagged as such in the synthesis.
+2. **What does `taṭawwaʿa khayran` (2:184) refer to?** Its only twin, 2:158, has no fasting in view, and three of four translators refuse to name a referent. If it means "extra good works" rather than "extra fasting," **the Quran contains no licence for voluntary fasting from food at all** — which would be a significant finding and is currently only probable.
+3. **The hadith corpus is where the content of a fast actually comes from**, and it is outside this project's evidence base by design. This investigation makes the boundary unusually visible: nearly everything the tradition puts inside Ramadan sits on ground the Quran left bare. A future investigation could map that boundary deliberately.
+4. **Does the science hold for dry fasting specifically?** Most intermittent-fasting literature permits water. The Ramadan-specific literature is thinner and heavily confounded by sleep and caffeine.
+
+### What changed in the methodology
+
+Three things to carry forward: **(a) build a versepack in Phase 0, always** — it is the cheapest large saving available; **(b) require a "For the fast"-style applied section on every file when an investigation has an applied purpose** — it improved every file it touched; **(c) spot-check every "exactly N" and "the only" claim** — both agent errors this run were counting errors inside the most quotable sentences.
+
+The Quran-research project now stands at ~575,000 words across 10 thematic investigations.
