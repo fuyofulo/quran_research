@@ -18,25 +18,25 @@ answer turned out to be grammatical before it was anything else.
 
 **The Quran never told you to pray at night. It told one man.**
 
-`hjd` occurs **exactly once** in the entire Quran — `fa-tahajjad` at 17:79 — in a verse that calls
-it `nāfila`, surplus. That is the exact inverse of fasting: there the *name* is small (`Swm`, 14×)
-and the legislation dense; here the name is a hapax and the practice diffuse.
+`hjd` occurs **exactly once** in the entire Quran — `fa-tahajjad` at 17:79 — in a verse that calls it
+`nāfila`, surplus. That inverts fasting, where the *name* is small (`Swm`, 14×) but the legislation
+dense.
 
 **Every night-worship imperative in the Quran is second-person masculine singular** — six of them,
 all in passages addressing the Prophet by singular pronoun. **Every fasting imperative is plural.**
 `qum` is never pluralised for the night; the one plural `qūmū` (2:238) belongs to the prescribed
 prayer. And the one verse that does address a plural about the night — **73:20 — changes what it
 asks for in the same breath**: recite what is easy, pray, give zakāt, lend, seek forgiveness. Not one
-verb of standing. The three portraits (25:64, 51:17, 32:16) are third-person habitual descriptions of
-a type of person, never commands to a reader.
+verb of standing. The three portraits (25:64, 51:17, 32:16) describe a type of person in the third
+person, never commanding a reader.
 
 The night itself is mostly not devotional: of 81 `lyl` ayahs, **43.2% are cosmological and 18.5%
 devotional**, eight state that night was made for rest, and sleep is a sign, a repose and a mercy the
-Quran never once condemns. The fast suspends hunger, which the Quran never praises; the vigil
-suspends sleep, which it calls a gift. The three stated reasons for the night are practical — a heavy
-word is coming (73:5), impression and speech are steadier then (73:6), the day is already full (73:7)
-— and the verified negatives are flat: the night is never called blessed as a time of day, God is
-never said to be nearer at night, and **no verse ranks night prayer above prayer at any other hour.**
+Quran never condemns. The fast suspends hunger, which the Quran never praises; the vigil suspends
+sleep, which it calls a gift. The three stated reasons for the night are practical — a heavy word is
+coming (73:5), impression and speech are steadier then (73:6), the day is full (73:7) — and the
+verified negatives are flat: the night is never called blessed as a time of day, God is never said to
+be nearer at night, and **no verse ranks night prayer above prayer at any other hour.**
 
 **So the difficulty framing is inverted relative to the text. The practice you completed is the
 obligation. The practice you suspect is harder is the one the Quran never obliged you to.**
@@ -45,14 +45,12 @@ obligation. The practice you suspect is harder is the one the Quran never oblige
 
 ## Files
 
-### Start here
-- [`concept-tahajjud-deep.md`](concept-tahajjud-deep.md) — the synthesis. Eleven sections, with the
-  fasting comparison held together in §8 rather than scattered.
+- [`concept-tahajjud-deep.md`](concept-tahajjud-deep.md) — **the synthesis.** Eleven sections, with
+  the fasting comparison held together in §8 rather than scattered.
 
 ### `0-structural/`
 - [`tahajjud-structurals.md`](0-structural/tahajjud-structurals.md) — the `wa-min al-layli fa-`
-  template (worship *and* escape use it); the worship-verb-versus-night table; the 54-lemma hapax
-  census; divergence scores.
+  template (worship *and* escape use it); the worship-verb-versus-night table; the hapax census.
 
 ### `1-roots/`
 - [`concept-hjd-the-one-verse.md`](1-roots/concept-hjd-the-one-verse.md) — 17:79 word by word:
@@ -62,8 +60,7 @@ obligation. The practice you suspect is harder is the one the Quran never oblige
 - [`concept-sbH-tasbih.md`](1-roots/concept-sbH-tasbih.md) — glorification as the night's real verb;
   `sbH`'s base sense of unimpeded motion; `subḥān` as correction rather than celebration.
 - [`concept-postures-sjd-qwm-qnt.md`](1-roots/concept-postures-sjd-qwm-qnt.md) — `qwm` disambiguated
-  (only 10.5% is bodily standing); standing and prostrating as a merism; **the vigil is never called
-  `ṣalāh`.**
+  (10.5% is bodily standing); **the vigil is never called `ṣalāh`.**
 - [`concept-sleep-vocabulary.md`](1-roots/concept-sleep-vocabulary.md) — 15 words, uniformly
   positive; `tawaffā` making sleep death's nightly rehearsal; 51:17 as report, not command.
 - [`concept-dhikr-dua-istighfar-night.md`](1-roots/concept-dhikr-dua-istighfar-night.md) — dhikr,
@@ -84,8 +81,8 @@ obligation. The practice you suspect is harder is the one the Quran never oblige
 
 ### `2-cross-cutting/`
 - [`research-tahajjud-vs-fasting.md`](2-cross-cutting/research-tahajjud-vs-fasting.md) — **the
-  spine.** Person and number, the dimension-by-dimension table, the two mechanism-verses, the
-  opposite standing of hunger and sleep, and a flat answer on which is heavier.
+  spine.** Person and number, the dimension table, the two mechanism-verses, the opposite standing of
+  hunger and sleep, and a flat answer on which is heavier.
 - [`research-why-night.md`](2-cross-cutting/research-why-night.md) — rest against vigil, four
   reconciliations tested; the three stated reasons; the verified negatives.
 - [`research-what-is-promised.md`](2-cross-cutting/research-what-is-promised.md) — every reward-clause
@@ -109,19 +106,19 @@ obligation. The practice you suspect is harder is the one the Quran never oblige
 
 This project reads the Quranic text directly and treats **hadith and classical tafsīr as outside its
 evidence base**. That boundary matters more here than in any previous investigation, because
-**almost everything that makes tahajjud feel like a heavy named institution comes from the other
-side of it** — the rakʿah count, the last third of the night, the divine-descent narrations, its
-rank among voluntary prayers, its place in a nightly schedule. The Quran supplies no count, no hour,
-no frequency, and never calls the vigil `ṣalāh`.
+**almost everything that makes tahajjud feel like a heavy named institution sits on the other side
+of it** — the rakʿah count, the last third of the night, the divine-descent narrations, its rank
+among voluntary prayers. The Quran supplies no count, no hour, no frequency, and never calls the
+vigil `ṣalāh`.
 
 That is a statement about where the authority for the practice's *form* comes from, not a criticism
 of the tradition, and this investigation does not adjudicate it. It does explain the mismatch the
 commissioner brought: he was comparing a Quranic obligation against a largely post-Quranic
 institution, and finding the second heavier.
 
-Two further limits, stated rather than smoothed. **Whether the singular address generalises is a
-genuine open question** — the practice extends to any reader reasonably enough; the reward clause at
-17:79 does not, from the grammar alone. And **the rest-versus-vigil tension does not resolve**: the
-two vocabularies sit inside the same 81 ayahs and never address each other.
+Two further limits. **Whether the singular address generalises is a genuine open question** — the
+practice extends to any reader reasonably enough; the reward clause at 17:79 does not, from the
+grammar alone. And **the rest-versus-vigil tension does not resolve**: the two vocabularies sit
+inside the same 81 ayahs and never address each other.
 
 Nothing here is a ruling.
