@@ -2383,3 +2383,69 @@ The fifth run on the optimized pipeline, and structurally the most novel since t
 Three things to carry forward: **(a) build a versepack in Phase 0, always** — it is the cheapest large saving available; **(b) require a "For the fast"-style applied section on every file when an investigation has an applied purpose** — it improved every file it touched; **(c) spot-check every "exactly N" and "the only" claim** — both agent errors this run were counting errors inside the most quotable sentences.
 
 The Quran-research project now stands at ~575,000 words across 10 thematic investigations.
+
+---
+
+## Entry 12 — TAHAJJUD / night-worship — the first PAIRED investigation (2026-08-05)
+
+Run immediately after the fasting investigation, in the same session, at the commissioner's explicit request for maximum depth ("feel free to use more tokens instead of limiting it"). MAX scope with Phase 3 executed. **The first investigation designed from the outset to be compared against a prior one** — the fasting corpus was the control, and the comparison was a named deliverable rather than an incidental cross-reference.
+
+### Pipeline as executed
+
+- **Phase 0** — orchestrator only. Root verification, 17 concept profiles built, versepack (184 verses / 17 groups) and co-occurrence pre-cut. Structural file written by the orchestrator directly rather than delegated (data already in context; cheaper than an agent round-trip). ~60k tokens.
+- **Phase 1a** — 6 root agents (Sonnet): `hjd`, `lyl`, `sbH`, postures (`qwm`/`sjd`/`qnt`), sleep vocabulary, and dhikr/duʿāʾ/istighfār.
+- **Phase 1b** — 4 narrative agents (Sonnet): Sūrah 73, the two portraits (51/32), the ʿibād al-Raḥmān lists, night-as-divine-timing. **A fifth (17:78–82) was planned and cancelled** when the `hjd` root agent's report showed it had already covered the passage in depth. Cancelling on evidence of overlap is cheaper than deduplicating in synthesis.
+- **Phase 3** — 3 rabbit holes (Sonnet), launched EARLY, in parallel with the tail of Phase 1 rather than after Phase 2. They were independent single-item deep-dives (`maqām maḥmūd`, `nāshiʾat al-layl`, `al-asḥār`) that needed only the versepack. **This is a scheduling improvement worth keeping: Phase 3 items that don't depend on Phase 2 findings should launch as soon as Phase 0 data exists.**
+- **Phase 2** — 4 Opus cross-cutting agents: why-night, what-is-promised, the-relaxation, and tahajjud-vs-fasting.
+- **Phase 4** — Opus synthesis + folder README.
+
+**19 files, ~39,300 words, ~19 agents, ~1.7M tokens.** Higher than finance (~1.1M) and fasting (~1.4M), which is correct — the commissioner explicitly lifted the budget and Phase 3 ran.
+
+### The decisive move: a morphology-level grammatical audit
+
+The investigation's single most important finding did not come from a lemma table. It came from querying `words.jsonl` for **mood, person and number** on every night-worship verb:
+
+**Every night-worship imperative in the Quran is `IMPV 2MS` and addressed to the Prophet** (73:2, 17:79, 20:130, 50:40, 52:49, 76:26). **Every fasting imperative is `IMPV 2MP`** (2:187's `bāshirūhunna`, `wa-btaghū`, `wa-kulū`, `wa-shrabū`, `atimmū`). The three night-portraits (25:64, 51:17, 32:16) are third-person reports. And 73:20 — the relaxation — is exactly where the Quran switches to plural, and simultaneously changes the content to recite/pray/give-zakāt/lend/seek-forgiveness.
+
+**New methodological instrument: the person-and-mood audit.** Nine investigations have mined the lemma table. This is the first to systematically extract `flags` (IMPV/IMPF/PERF × 2MS/2MP/3MP) across a practice's full command-set. It answered the commissioner's question more directly than any semantic analysis could. **Add it to the standard Phase-0 toolkit: for any practice-topic, audit who is commanded, in what person and number, before analysing what is commanded.**
+
+### Errors caught, and by whom
+
+1. **My brief was wrong and two agents caught it independently.** I told them `sHr`'s pre-dawn sense was carried by two lemmas, `saHar` (3) and `saHaru` (3). `saHaru` is a **verb meaning "to bewitch"** (7:116, 7:132, 23:89) and belongs entirely to the sorcery sense. The pre-dawn sense is one lemma, three occurrences (3:17, 51:18, 54:34). I verified the correction and patched the brief mid-run. **Lesson: the orchestrator's Phase-0 disambiguation is itself a claim and needs the same verification as an agent's. I asserted a lemma split from a lemma-count table without checking POS.**
+2. **My own summary was loose.** I told the commissioner "`qum` is never pluralised"; the comparison agent found `qūmū` at 2:238 (`wa-qūmū li-llāhi qānitīn`) — plural, but about the prescribed prayers, never the night. The claim survives with the qualifier attached. **Same lesson as Entry 11: check "never" and "only" claims, including my own.**
+3. The `sry` count was rounded up by a prompt of mine ("all 8 occurrences"); the agent correctly reported 7 verbal night-departures plus 19:24's `sariyyan` (a stream — and notably from Maryam's narrative, the same passage as the fast of silence).
+
+### Findings that shaped the file set
+
+- **The corpus is the exact inverse of fasting's.** `Swm` = 14 occurrences with dense concentrated legislation. `hjd` = **1** occurrence with the practice-content scattered across a huge vocabulary (`*kr` 292, `dEw` 212, `Slw` 99, `lyl` 92, `sbH` 92, `sjd` 92). Named institution / thin content versus unnamed practice / thick content.
+- **The night's characteristic verb is `sabbiḥ`, not `ṣalli`.** Measured: `sbH` is 10.3% night-attached against ṣalāh's 3.3%. The `wa-mina al-layli fa-` + imperative template occurs 4× — three say *glorify*, one says *tahajjad*. **The hapax is slotted into a frame whose usual filler is glorification.** And the same partitive construction commands Lot to flee (11:81, 15:65): a portion of the night is commanded for exactly two things, worship and escape.
+- **The two practices suspend things with opposite standing.** Hunger: never praised, negative in all 5 occurrences, its removal twice named as the blessing. Sleep: a sign (30:23), a repose God made (25:47), a battlefield mercy (8:11), never once condemned — and `tawaffā`, the verb for taking a soul in death, is used unmodified for sleep (39:42, 6:60). **This is why the fast can be a universal plural obligation and the vigil cannot: a general command to withhold a universal mercy would contradict the eight rest-verses.**
+- **`lan tuḥṣūhu` is the best single finding.** 73:20 relaxes the vigil because *you cannot keep count* — and that clause-shape occurs three times in the Quran: twice of God's favours (14:34, 16:18), once of the night. The night is filed with divine grace as a quantity exceeding human accounting. The Quran's actual lightening verb `khaffafa` — which names weakness in both its community uses (8:66, 4:28) — is **never used in Sūrah 73**. The idiom existed and was declined.
+- **73:20 is the only devotional walk-back in the Quran.** A three-part test (states a magnitude → reduces it → marks the change) passes only 8:66 (battle-ratio) and 73:20. No makeup clause, no restore clause — unlike missed fasts.
+- **Verified negatives, all checked across the 81 `lyl` ayahs:** the night is never called blessed as a time of day; God is never said to be nearer at night; **no verse ranks night prayer above prayer at another hour**; and 73:6's comparative is *elliptical* — `ashaddu waṭʾan wa-aqwamu qīlā` has no `min`-complement, so the text never states what it is stronger than.
+
+### Patterns reinforced
+
+- **The lemma table remains the primary instrument (×11)** — but the person/mood audit is now its equal for practice-topics.
+- **Negative space again carried the investigation**, as in fasting and finance. Three of the four most useful findings here are absences.
+- **The giving-pattern recurs across investigations.** Night-worship pairs with a spending clause in 4 of 4 genuine virtue-lists; fasting's neighbours were `TEm`/`skn`/`wjd`. Two independent investigations, same gravitational pull toward redistribution.
+- **The hadith boundary became load-bearing for the first time.** Nearly everything that makes tahajjud feel like a heavy institution is post-Quranic. This project's Quran-only rule usually just narrows scope; here it *produced* the headline finding, because the commissioner was comparing a Quranic obligation against a largely extra-Quranic one without knowing it.
+
+### Cross-investigation citations
+
+- **Fasting** — the whole point. Same `ysr` root eases both; `fa-tāba ʿalaykum` occurs 3× corpus-wide and 2 of the 3 are worship-relaxations (2:187, 73:20); illness and travel exempt from both; both outcomes hedged (`laʿalla` / `ʿasā`); both cluster with giving; both appear in 33:35's ten-item list.
+- **Afterlife** — `maqām maḥmūd` resolves eschatologically (`baʿatha` is 55% resurrection across 67 occurrences), placing the vigil's one named reward on the Day rather than in a felt state.
+- **Time** — the night/day alternation formulas (`kawwara`, `walaja`, `salakha`) and 17:12's assignment of *counting* to the day directly extend the time investigation's event-anchored-not-instrumented finding.
+
+### Open questions
+
+1. **Does the singular address generalise?** The practice plausibly does, as other singular commands do; the *named reward* does not, on the grammar. Unresolved and flagged in the synthesis.
+2. **The `saḥar` resonance is n=3.** Rescue (54:34) and forgiveness-seeking (51:18, 3:17) share the only lemma. Design or coincidence — defensible, not provable.
+3. **`bihi` at 17:79** — the Qurʾān or the night? The agent gave ~60% for the Qurʾān and refused to settle it. It matters: one reading makes tahajjud *staying awake with the recitation*, the other makes it generic night prayer.
+4. **What does hadith add?** Out of scope by design, and the boundary is sharper here than anywhere else in the project.
+
+### What changed in the methodology
+
+Three things to carry forward: **(a) run a person-and-mood audit in Phase 0 for any practice-topic** — it was decisive here and is cheap; **(b) launch Phase-3 items that don't depend on Phase 2 as soon as Phase 0 data exists**, which cut wall-clock materially; **(c) cancel planned files when an early agent report shows the ground is already covered** — the 17:78–82 narrative was dropped on exactly that evidence.
+
+The Quran-research project now stands at ~615,000 words across 11 thematic investigations.

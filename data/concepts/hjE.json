@@ -1,0 +1,109 @@
+{
+  "root": "hjE",
+  "root_arabic": "هجع",
+  "stats": {
+    "occurrences": 1,
+    "lemmas": 1,
+    "ayahs": 1,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "yahojaEu",
+      "lemma_arabic": "يَهْجَعُ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        51,
+        17,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            51,
+            17,
+            6
+          ],
+          "form_arabic": "يَهْجَعُونَ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        51,
+        17
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        51,
+        17
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        51,
+        17
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 51,
+        "name_english": "Adh-Dhaariyat",
+        "name_arabic": "سُورَةُ الذَّارِيَاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        51,
+        17,
+        6
+      ],
+      "form_arabic": "يَهْجَعُونَ",
+      "lemma": "yahojaEu",
+      "lemma_arabic": "يَهْجَعُ",
+      "pos": "V",
+      "ayah_id": "51:17",
+      "ayah_arabic": "كَانُواْ قَلِيلࣰ ا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Adh-Dhaariyat",
+      "literal_gloss": "sleep",
+      "translations": {
+        "saheeh": "They used to sleep but little of the night,",
+        "pickthall": "They used to sleep but little of the night,",
+        "khattab": "they used to sleep only little in the night",
+        "arberry": "Little of the night would they slumber,"
+      }
+    }
+  ]
+}

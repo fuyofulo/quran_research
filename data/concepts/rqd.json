@@ -1,0 +1,332 @@
+{
+  "root": "rqd",
+  "root_arabic": "رقد",
+  "stats": {
+    "occurrences": 2,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "ruquwd",
+      "lemma_arabic": "رُقُود",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        18,
+        18,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            18,
+            18,
+            4
+          ],
+          "form_arabic": "رُقُودٌ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "m~aroqad",
+      "lemma_arabic": "مَّرْقَد",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        36,
+        52,
+        6
+      ],
+      "occurrences": [
+        {
+          "location": [
+            36,
+            52,
+            6
+          ],
+          "form_arabic": "مَّرْقَدِنَا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        36,
+        52
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        36,
+        52
+      ]
+    },
+    {
+      "root": "Sdq",
+      "root_arabic": "صدق",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        36,
+        52
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        36,
+        52
+      ]
+    },
+    {
+      "root": "rHm",
+      "root_arabic": "رحم",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        36,
+        52
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        36,
+        52
+      ]
+    },
+    {
+      "root": "wSd",
+      "root_arabic": "وصد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "rEb",
+      "root_arabic": "رعب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "$ml",
+      "root_arabic": "شمل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "frr",
+      "root_arabic": "فرر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "Hsb",
+      "root_arabic": "حسب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "bsT",
+      "root_arabic": "بسط",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "mlA",
+      "root_arabic": "ملا",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "qlb",
+      "root_arabic": "قلب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "TlE",
+      "root_arabic": "طلع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "yqZ",
+      "root_arabic": "يقظ",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "wly",
+      "root_arabic": "ولي",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "*rE",
+      "root_arabic": "ذرع",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "ymn",
+      "root_arabic": "يمن",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    },
+    {
+      "root": "klb",
+      "root_arabic": "كلب",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        18,
+        18
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 18,
+        "name_english": "Al-Kahf",
+        "name_arabic": "سُورَةُ الكَهۡفِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 36,
+        "name_english": "Yaseen",
+        "name_arabic": "سُورَةُ يسٓ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        18,
+        18,
+        4
+      ],
+      "form_arabic": "رُقُودٌ",
+      "lemma": "ruquwd",
+      "lemma_arabic": "رُقُود",
+      "pos": "N",
+      "ayah_id": "18:18",
+      "ayah_arabic": "وَتَحۡسَبُهُمۡ أَيۡقَاظࣰ ا وَهُمۡ رُقُودࣱۚ وَنُقَلِّبُهُمۡ ذَاتَ ٱلۡيَمِينِ وَذَاتَ ٱلشِّمَالِۖ وَكَلۡبُهُم بَٰسِطࣱ ذِرَاعَيۡهِ بِٱلۡوَصِيدِۚ لَوِ ٱطَّلَعۡتَ عَلَيۡهِمۡ لَوَلَّيۡتَ مِنۡهُمۡ فِرَارࣰ ا وَلَمُلِئۡتَ مِنۡهُمۡ رُعۡبࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Kahf",
+      "literal_gloss": "(were) asleep",
+      "translations": {
+        "saheeh": "And you would think them awake, while they were asleep. And We turned them to the right and to the left, while their dog stretched his forelegs at the entrance. If you had looked at them, you would have turned from them in flight and been filled by them with terror.",
+        "pickthall": "And thou wouldst have deemed them waking though they were asleep, and We caused them to turn over to the right and the left, and their dog stretching out his paws on the threshold. If thou hadst observed them closely thou hadst assuredly turned away from them in flight, and hadst been filled with awe of them.",
+        "khattab": "And you would have thought they were awake, though they were asleep. We turned them over, to the right and left, while their dog stretched his forelegs at the entrance. Had you looked at them, you would have certainly fled away from them, filled with horror",
+        "arberry": "Thou wouldst have thought them awake, as they lay sleeping, while We turned them now to the right, now to the left,' and their dog 'stretching its paws on the threshold. Hadst thou observed them surely thou wouldst have turned thy back on them in flight, and been filled with terror of them."
+      }
+    },
+    {
+      "location": [
+        36,
+        52,
+        6
+      ],
+      "form_arabic": "مَّرْقَدِنَا",
+      "lemma": "m~aroqad",
+      "lemma_arabic": "مَّرْقَد",
+      "pos": "N",
+      "ayah_id": "36:52",
+      "ayah_arabic": "قَالُواْ يَٰوَيۡلَنَا مَنۢ بَعَثَنَا مِن مَّرۡقَدِنَاۜۗ هَٰذَا مَا وَعَدَ ٱلرَّحۡمَٰنُ وَصَدَقَ ٱلۡمُرۡسَلُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Yaseen",
+      "literal_gloss": "our sleeping place",
+      "translations": {
+        "saheeh": "They will say, \"O woe to us! Who has raised us up from our sleeping place?\" [The reply will be], \"This is what the Most Merciful had promised, and the messengers told the truth.\"",
+        "pickthall": "Crying: Woe upon us! Who hath raised us from our place of sleep? This is that which the Beneficent did promise, and the messengers spoke truth.",
+        "khattab": "They will cry, “Woe to us! Who has raised us up from our place of rest? This must be what the Most Compassionate warned us of; the messengers told the truth!”",
+        "arberry": "They say, 'Alas for us! Who roused us out of our sleeping place? This is what the All-merciful promised, and the Envoys spoke truly.'"
+      }
+    }
+  ]
+}

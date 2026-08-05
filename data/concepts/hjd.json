@@ -1,0 +1,149 @@
+{
+  "root": "hjd",
+  "root_arabic": "هجد",
+  "stats": {
+    "occurrences": 1,
+    "lemmas": 1,
+    "ayahs": 1,
+    "surahs": 1,
+    "pos_distribution": {
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "tahaj~ado",
+      "lemma_arabic": "تَهَجَّدْ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        17,
+        79,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            17,
+            79,
+            3
+          ],
+          "form_arabic": "فَتَهَجَّدْ",
+          "pos": "V"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "Esy",
+      "root_arabic": "عسي",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "bEv",
+      "root_arabic": "بعث",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "nfl",
+      "root_arabic": "نفل",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        79
+      ]
+    },
+    {
+      "root": "Hmd",
+      "root_arabic": "حمد",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        79
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        17,
+        79,
+        3
+      ],
+      "form_arabic": "فَتَهَجَّدْ",
+      "lemma": "tahaj~ado",
+      "lemma_arabic": "تَهَجَّدْ",
+      "pos": "V",
+      "ayah_id": "17:79",
+      "ayah_arabic": "وَمِنَ ٱلَّيۡلِ فَتَهَجَّدۡ بِهِۦ نَافِلَةࣰ لَّكَ عَسَىٰٓ أَن يَبۡعَثَكَ رَبُّكَ مَقَامࣰ ا مَّحۡمُودࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "arise from sleep for prayer",
+      "translations": {
+        "saheeh": "And from [part of] the night, pray with it as additional [worship] for you; it is expected that your Lord will resurrect you to a praised station.",
+        "pickthall": "And some part of the night awake for it, a largess for thee. It may be that thy Lord will raise thee to a praised estate.",
+        "khattab": "And rise at ˹the last˺ part of the night, offering additional prayers, so your Lord may raise you to a station of praise",
+        "arberry": "And as for the night, keep vigil a part of it, as a work of supererogation for thee; it may be that thy Lord will raise thee up to a laudable station."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "root": "bkr",
+  "root_arabic": "بكر",
+  "stats": {
+    "occurrences": 12,
+    "lemmas": 3,
+    "ayahs": 12,
+    "surahs": 11,
+    "pos_distribution": {
+      "T": 6,
+      "N": 4,
+      "ADJ": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "bukorap",
+      "lemma_arabic": "بُكْرَة",
+      "count": 7,
+      "pos_distribution": {
+        "T": 6,
+        "N": 1
+      },
+      "first_occurrence": [
+        19,
+        11,
+        10
+      ],
+      "occurrences": [
+        {
+          "location": [
+            19,
+            11,
+            10
+          ],
+          "form_arabic": "بُكْرَةً",
+          "pos": "T"
+        },
+        {
+          "location": [
+            19,
+            62,
+            10
+          ],
+          "form_arabic": "بُكْرَةً",
+          "pos": "T"
+        },
+        {
+          "location": [
+            25,
+            5,
+            8
+          ],
+          "form_arabic": "بُكْرَةً",
+          "pos": "T"
+        },
+        {
+          "location": [
+            33,
+            42,
+            2
+          ],
+          "form_arabic": "بُكْرَةً",
+          "pos": "T"
+        },
+        {
+          "location": [
+            48,
+            9,
+            7
+          ],
+          "form_arabic": "بُكْرَةً",
+          "pos": "T"
+        },
+        {
+          "location": [
+            54,
+            38,
+            3
+          ],
+          "form_arabic": "بُكْرَةً",
+          "pos": "N"
+        },
+        {
+          "location": [
+            76,
+            25,
+            4
+          ],
+          "form_arabic": "بُكْرَةً",
+          "pos": "T"
+        }
+      ]
+    },
+    {
+      "lemma": "bikor",
+      "lemma_arabic": "بِكْر",
+      "count": 3,
+      "pos_distribution": {
+        "ADJ": 2,
+        "N": 1
+      },
+      "first_occurrence": [
+        2,
+        68,
+        17
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            68,
+            17
+          ],
+          "form_arabic": "بِكْرٌ",
+          "pos": "ADJ"
+        },
+        {
+          "location": [
+            56,
+            36,
+            2
+          ],
+          "form_arabic": "أَبْكَارًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            66,
+            5,
+            17
+          ],
+          "form_arabic": "وَأَبْكَارًا",
+          "pos": "ADJ"
+        }
+      ]
+    },
+    {
+      "lemma": "<iboka`r",
+      "lemma_arabic": "إِبْكَٰر",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        3,
+        41,
+        20
+      ],
+      "occurrences": [
+        {
+          "location": [
+            3,
+            41,
+            20
+          ],
+          "form_arabic": "وَٱلْإِبْكَٰرِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            40,
+            55,
+            12
+          ],
+          "form_arabic": "وَٱلْإِبْكَٰرِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "sbH",
+      "root_arabic": "سبح",
+      "ayahs_together": 5,
+      "share": 0.4167,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 5,
+      "share": 0.4167,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "ASl",
+      "root_arabic": "اصل",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        25,
+        5
+      ]
+    },
+    {
+      "root": "E$w",
+      "root_arabic": "عشو",
+      "ayahs_together": 4,
+      "share": 0.3333,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 3,
+      "share": 0.25,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        19,
+        62
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        48,
+        9
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        40,
+        55
+      ]
+    },
+    {
+      "root": "*kr",
+      "root_arabic": "ذكر",
+      "ayahs_together": 2,
+      "share": 0.1667,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "bqr",
+      "root_arabic": "بقر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "fEl",
+      "root_arabic": "فعل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "frD",
+      "root_arabic": "فرض",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "Ewn",
+      "root_arabic": "عون",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        2,
+        68
+      ]
+    },
+    {
+      "root": "lgw",
+      "root_arabic": "لغو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        19,
+        62
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        19,
+        62
+      ]
+    },
+    {
+      "root": "rzq",
+      "root_arabic": "رزق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        19,
+        62
+      ]
+    },
+    {
+      "root": "qnt",
+      "root_arabic": "قنت",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "twb",
+      "root_arabic": "توب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "bdl",
+      "root_arabic": "بدل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "vyb",
+      "root_arabic": "ثيب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "syH",
+      "root_arabic": "سيح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "Ebd",
+      "root_arabic": "عبد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "xyr",
+      "root_arabic": "خير",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "Esy",
+      "root_arabic": "عسي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "zwj",
+      "root_arabic": "زوج",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "Tlq",
+      "root_arabic": "طلق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        66,
+        5
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        40,
+        55
+      ]
+    },
+    {
+      "root": "gfr",
+      "root_arabic": "غفر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        40,
+        55
+      ]
+    },
+    {
+      "root": "*nb",
+      "root_arabic": "ذنب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        40,
+        55
+      ]
+    },
+    {
+      "root": "wEd",
+      "root_arabic": "وعد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        40,
+        55
+      ]
+    },
+    {
+      "root": "Hqq",
+      "root_arabic": "حقق",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        40,
+        55
+      ]
+    },
+    {
+      "root": "Hmd",
+      "root_arabic": "حمد",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        40,
+        55
+      ]
+    },
+    {
+      "root": "qrr",
+      "root_arabic": "قرر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        54,
+        38
+      ]
+    },
+    {
+      "root": "SbH",
+      "root_arabic": "صبح",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        54,
+        38
+      ]
+    },
+    {
+      "root": "E*b",
+      "root_arabic": "عذب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        54,
+        38
+      ]
+    },
+    {
+      "root": "mlw",
+      "root_arabic": "ملو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        25,
+        5
+      ]
+    },
+    {
+      "root": "ktb",
+      "root_arabic": "كتب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        25,
+        5
+      ]
+    },
+    {
+      "root": "sTr",
+      "root_arabic": "سطر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        25,
+        5
+      ]
+    },
+    {
+      "root": "Awl",
+      "root_arabic": "اول",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        25,
+        5
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        76,
+        25
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        48,
+        9
+      ]
+    },
+    {
+      "root": "wqr",
+      "root_arabic": "وقر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        48,
+        9
+      ]
+    },
+    {
+      "root": "Ezr",
+      "root_arabic": "عزر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        48,
+        9
+      ]
+    },
+    {
+      "root": "rmz",
+      "root_arabic": "رمز",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "ywm",
+      "root_arabic": "يوم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "klm",
+      "root_arabic": "كلم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "nws",
+      "root_arabic": "نوس",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "vlv",
+      "root_arabic": "ثلث",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        3,
+        41
+      ]
+    },
+    {
+      "root": "wHy",
+      "root_arabic": "وحي",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        19,
+        11
+      ]
+    },
+    {
+      "root": "xrj",
+      "root_arabic": "خرج",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        19,
+        11
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        19,
+        11
+      ]
+    },
+    {
+      "root": "Hrb",
+      "root_arabic": "حرب",
+      "ayahs_together": 1,
+      "share": 0.0833,
+      "first_together": [
+        19,
+        11
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 19,
+        "name_english": "Maryam",
+        "name_arabic": "سُورَةُ مَرۡيَمَ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 3,
+        "name_english": "Aal-i-Imraan",
+        "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 25,
+        "name_english": "Al-Furqaan",
+        "name_arabic": "سُورَةُ الفُرۡقَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 33,
+        "name_english": "Al-Ahzaab",
+        "name_arabic": "سُورَةُ الأَحۡزَابِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 40,
+        "name_english": "Ghafir",
+        "name_arabic": "سُورَةُ غَافِرٍ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 48,
+        "name_english": "Al-Fath",
+        "name_arabic": "سُورَةُ الفَتۡحِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 54,
+        "name_english": "Al-Qamar",
+        "name_arabic": "سُورَةُ القَمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 56,
+        "name_english": "Al-Waaqia",
+        "name_arabic": "سُورَةُ الوَاقِعَةِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 66,
+        "name_english": "At-Tahrim",
+        "name_arabic": "سُورَةُ التَّحۡرِيمِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 76,
+        "name_english": "Al-Insaan",
+        "name_arabic": "سُورَةُ الإِنسَانِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 6,
+      "Meccan": 6
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        68,
+        17
+      ],
+      "form_arabic": "بِكْرٌ",
+      "lemma": "bikor",
+      "lemma_arabic": "بِكْر",
+      "pos": "ADJ",
+      "ayah_id": "2:68",
+      "ayah_arabic": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةࣱ لَّا فَارِضࣱ وَلَا بِكۡرٌ عَوَانُۢ بَيۡنَ ذَٰلِكَۖ فَٱفۡعَلُواْ مَا تُؤۡمَرُونَ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "young",
+      "translations": {
+        "saheeh": "They said, \"Call upon your Lord to make clear to us what it is.\" [Moses] said, \"[Allah] says, 'It is a cow which is neither old nor virgin, but median between that,' so do what you are commanded.\"",
+        "pickthall": "They said: Pray for us unto thy Lord that He make clear to us what (cow) she is. (Moses) answered: Lo! He saith, Verily she is a cow neither with calf nor immature; (she is) between the two conditions; so do that which ye are commanded.",
+        "khattab": "They said, “Call upon your Lord to clarify for us what type ˹of cow˺ it should be!” He replied, “Allah says, ‘The cow should neither be old nor young but in between. So do as you are commanded!’”",
+        "arberry": "They said, 'Pray to thy Lord for us, that He may make clear to us what she may be.' He said, 'He says she is a cow neither old, nor virgin, middling between the two; so do that you are bidden.'"
+      }
+    },
+    {
+      "location": [
+        3,
+        41,
+        20
+      ],
+      "form_arabic": "وَٱلْإِبْكَٰرِ",
+      "lemma": "<iboka`r",
+      "lemma_arabic": "إِبْكَٰر",
+      "pos": "N",
+      "ayah_id": "3:41",
+      "ayah_arabic": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةࣰۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمۡزࣰ اۗ وَٱذۡكُر رَّبَّكَ كَثِيرࣰ ا وَسَبِّحۡ بِٱلۡعَشِيِّ وَٱلۡإِبۡكَٰرِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Aal-i-Imraan",
+      "literal_gloss": "and (in) the morning",
+      "translations": {
+        "saheeh": "He said, \"My Lord, make for me a sign.\" He Said, \"Your sign is that you will not [be able to] speak to the people for three days except by gesture. And remember your Lord much and exalt [Him with praise] in the evening and the morning.\"",
+        "pickthall": "He said: My Lord! Appoint a token for me. (The angel) said: The token unto thee (shall be) that thou shalt not speak unto mankind three days except by signs. Remember thy Lord much, and praise (Him) in the early hours of night and morning.",
+        "khattab": "Zachariah said, “My Lord! Grant me a sign.” He said, “Your sign is that you will not ˹be able to˺ speak to people for three days except through gestures. Remember your Lord often and glorify ˹Him˺ morning and evening.”",
+        "arberry": "'Lord,' said Zachariah, 'appoint to me a sign.' 'Thy sign,' God said, 'is that thou shalt not speak, save by tokens, to men for three days. And mention thy Lord oft, and give glory at evening and dawn.'"
+      }
+    },
+    {
+      "location": [
+        19,
+        11,
+        10
+      ],
+      "form_arabic": "بُكْرَةً",
+      "lemma": "bukorap",
+      "lemma_arabic": "بُكْرَة",
+      "pos": "T",
+      "ayah_id": "19:11",
+      "ayah_arabic": "فَخَرَجَ عَلَىٰ قَوۡمِهِۦ مِنَ ٱلۡمِحۡرَابِ فَأَوۡحَىٰٓ إِلَيۡهِمۡ أَن سَبِّحُواْ بُكۡرَةࣰ وَعَشِيࣰّ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Maryam",
+      "literal_gloss": "(in) the morning",
+      "translations": {
+        "saheeh": "So he came out to his people from the prayer chamber and signaled to them to exalt [Allah] in the morning and afternoon.",
+        "pickthall": "Then he came forth unto his people from the sanctuary, and signified to them: Glorify your Lord at break of day and fall of night.",
+        "khattab": "So he came out to his people from the sanctuary, signalling to them to glorify ˹Allah˺ morning and evening",
+        "arberry": "So he came forth unto his people from the Sanctuary, then he made signal to them, 'Give you glory at dawn and evening.'"
+      }
+    },
+    {
+      "location": [
+        19,
+        62,
+        10
+      ],
+      "form_arabic": "بُكْرَةً",
+      "lemma": "bukorap",
+      "lemma_arabic": "بُكْرَة",
+      "pos": "T",
+      "ayah_id": "19:62",
+      "ayah_arabic": "لَّا يَسۡمَعُونَ فِيهَا لَغۡوًا إِلَّا سَلَٰمࣰ اۖ وَلَهُمۡ رِزۡقُهُمۡ فِيهَا بُكۡرَةࣰ وَعَشِيࣰّ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Maryam",
+      "literal_gloss": "morning",
+      "translations": {
+        "saheeh": "They will not hear therein any ill speech - only [greetings of] peace - and they will have their provision therein, morning and afternoon.",
+        "pickthall": "They hear therein no idle talk, but only Peace; and therein they have food for morn and evening.",
+        "khattab": "There they will never hear any idle talk—only ˹greetings of˺ peace. And there they will have their provisions morning and evening",
+        "arberry": "There they shall hear no idle talk, but only 'Peace.' There they shall have their provision at dawn and evening."
+      }
+    },
+    {
+      "location": [
+        25,
+        5,
+        8
+      ],
+      "form_arabic": "بُكْرَةً",
+      "lemma": "bukorap",
+      "lemma_arabic": "بُكْرَة",
+      "pos": "T",
+      "ayah_id": "25:5",
+      "ayah_arabic": "وَقَالُوٓاْ أَسَٰطِيرُ ٱلۡأَوَّلِينَ ٱكۡتَتَبَهَا فَهِيَ تُمۡلَىٰ عَلَيۡهِ بُكۡرَةࣰ وَأَصِيلࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "morning",
+      "translations": {
+        "saheeh": "And they say, \"Legends of the former peoples which he has written down, and they are dictated to him morning and afternoon.\"",
+        "pickthall": "And they say: Fables of the men of old which he hath had written down so that they are dictated to him morn and evening.",
+        "khattab": "And they say, “˹These revelations are only˺ ancient fables which he has had written down, and they are rehearsed to him morning and evening.”",
+        "arberry": "They say, 'Fairy-tales of the ancients that he has had written down, so that they are recited to him at the dawn and in the evening.'"
+      }
+    },
+    {
+      "location": [
+        33,
+        42,
+        2
+      ],
+      "form_arabic": "بُكْرَةً",
+      "lemma": "bukorap",
+      "lemma_arabic": "بُكْرَة",
+      "pos": "T",
+      "ayah_id": "33:42",
+      "ayah_arabic": "وَسَبِّحُوهُ بُكۡرَةࣰ وَأَصِيلًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Ahzaab",
+      "literal_gloss": "morning",
+      "translations": {
+        "saheeh": "And exalt Him morning and afternoon.",
+        "pickthall": "And glorify Him early and late.",
+        "khattab": "and glorify Him morning and evening",
+        "arberry": "and give Him glory at the dawn and in the evening."
+      }
+    },
+    {
+      "location": [
+        40,
+        55,
+        12
+      ],
+      "form_arabic": "وَٱلْإِبْكَٰرِ",
+      "lemma": "<iboka`r",
+      "lemma_arabic": "إِبْكَٰر",
+      "pos": "N",
+      "ayah_id": "40:55",
+      "ayah_arabic": "فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقࣱّ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ بِٱلۡعَشِيِّ وَٱلۡإِبۡكَٰرِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ghafir",
+      "literal_gloss": "and the morning",
+      "translations": {
+        "saheeh": "So be patient, [O Muhammad]. Indeed, the promise of Allah is truth. And ask forgiveness for your sin and exalt [Allah] with praise of your Lord in the evening and the morning.",
+        "pickthall": "Then have patience (O Muhammad). Lo! the promise of Allah is true. And ask forgiveness of thy sin, and hymn the praise of thy Lord at fall of night and in the early hours.",
+        "khattab": "So be patient ˹O Prophet˺, ˹for˺ Allah’s promise is certainly true. Seek forgiveness for your shortcomings. And glorify the praises of your Lord morning and evening",
+        "arberry": "So be thou patient; surely God's promise is true. And ask forgiveness for thy sin, and proclaim the praise of thy Lord at evening and dawn."
+      }
+    },
+    {
+      "location": [
+        48,
+        9,
+        7
+      ],
+      "form_arabic": "بُكْرَةً",
+      "lemma": "bukorap",
+      "lemma_arabic": "بُكْرَة",
+      "pos": "T",
+      "ayah_id": "48:9",
+      "ayah_arabic": "لِّتُؤۡمِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُۚ وَتُسَبِّحُوهُ بُكۡرَةࣰ وَأَصِيلًا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Fath",
+      "literal_gloss": "morning",
+      "translations": {
+        "saheeh": "That you [people] may believe in Allah and His Messenger and honor him and respect the Prophet and exalt Allah morning and afternoon.",
+        "pickthall": "That ye (mankind) may believe in Allah and His messenger, and may honour Him, and may revere Him, and may glorify Him at early dawn and at the close of day.",
+        "khattab": "so that you ˹believers˺ may have faith in Allah and His Messenger, support and honour him, and glorify Allah morning and evening",
+        "arberry": "that you may believe in God and His Messenger and succour Him, and reverence Him, and that you may give Him glory at the dawn and in the evening."
+      }
+    },
+    {
+      "location": [
+        54,
+        38,
+        3
+      ],
+      "form_arabic": "بُكْرَةً",
+      "lemma": "bukorap",
+      "lemma_arabic": "بُكْرَة",
+      "pos": "N",
+      "ayah_id": "54:38",
+      "ayah_arabic": "وَلَقَدۡ صَبَّحَهُم بُكۡرَةً عَذَابࣱ مُّسۡتَقِرࣱّ‏",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qamar",
+      "literal_gloss": "early",
+      "translations": {
+        "saheeh": "And there came upon them by morning an abiding punishment.",
+        "pickthall": "And in truth the punishment decreed befell them early in the morning.",
+        "khattab": "And indeed, by the early morning they were overwhelmed by an unrelenting torment",
+        "arberry": "In the morning early there came upon them a settled chastisement:"
+      }
+    },
+    {
+      "location": [
+        56,
+        36,
+        2
+      ],
+      "form_arabic": "أَبْكَارًا",
+      "lemma": "bikor",
+      "lemma_arabic": "بِكْر",
+      "pos": "N",
+      "ayah_id": "56:36",
+      "ayah_arabic": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Waaqia",
+      "literal_gloss": "virgins",
+      "translations": {
+        "saheeh": "And made them virgins,",
+        "pickthall": "And made them virgins,",
+        "khattab": "making them virgins",
+        "arberry": "and We made them spotless virgins,"
+      }
+    },
+    {
+      "location": [
+        66,
+        5,
+        17
+      ],
+      "form_arabic": "وَأَبْكَارًا",
+      "lemma": "bikor",
+      "lemma_arabic": "بِكْر",
+      "pos": "ADJ",
+      "ayah_id": "66:5",
+      "ayah_arabic": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرࣰ ا مِّنكُنَّ مُسۡلِمَٰتࣲ مُّؤۡمِنَٰتࣲ قَٰنِتَٰتࣲ تَٰٓئِبَٰتٍ عَٰبِدَٰتࣲ سَٰٓئِحَٰتࣲ ثَيِّبَٰتࣲ وَأَبۡكَارࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "At-Tahrim",
+      "literal_gloss": "and virgins",
+      "translations": {
+        "saheeh": "Perhaps his Lord, if he divorced you [all], would substitute for him wives better than you - submitting [to Allah], believing, devoutly obedient, repentant, worshipping, and traveling - [ones] previously married and virgins.",
+        "pickthall": "It may happen that his Lord, if he divorce you, will give him in your stead wives better than you, submissive (to Allah), believing, pious, penitent, devout, inclined to fasting, widows and maids.",
+        "khattab": "Perhaps, if he were to divorce you ˹all˺, his Lord would replace you with better wives who are submissive ˹to Allah˺, faithful ˹to Him˺, devout, repentant, dedicated to worship and fasting—previously married or virgins",
+        "arberry": "It is possible that, if he divorces you, his Lord will give him in exchange wives better than you, women who have surrendered, believing, obedient, penitent, devout, given to fasting, who have been married and virgins too."
+      }
+    },
+    {
+      "location": [
+        76,
+        25,
+        4
+      ],
+      "form_arabic": "بُكْرَةً",
+      "lemma": "bukorap",
+      "lemma_arabic": "بُكْرَة",
+      "pos": "T",
+      "ayah_id": "76:25",
+      "ayah_arabic": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ بُكۡرَةࣰ وَأَصِيلࣰ ا",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Insaan",
+      "literal_gloss": "morning",
+      "translations": {
+        "saheeh": "And mention the name of your Lord [in prayer] morning and evening",
+        "pickthall": "Remember the name of thy Lord at morn and evening.",
+        "khattab": "˹Always˺ remember the Name of your Lord morning and evening",
+        "arberry": "And remember the Name of thy Lord at dawn and in the evening"
+      }
+    }
+  ]
+}

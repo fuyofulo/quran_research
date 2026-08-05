@@ -1,0 +1,285 @@
+{
+  "root": "rtl",
+  "root_arabic": "رتل",
+  "stats": {
+    "occurrences": 4,
+    "lemmas": 2,
+    "ayahs": 2,
+    "surahs": 2,
+    "pos_distribution": {
+      "V": 2,
+      "N": 2
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "rat~alo",
+      "lemma_arabic": "رَتَّلْ",
+      "count": 2,
+      "pos_distribution": {
+        "V": 2
+      },
+      "first_occurrence": [
+        25,
+        32,
+        14
+      ],
+      "occurrences": [
+        {
+          "location": [
+            25,
+            32,
+            14
+          ],
+          "form_arabic": "وَرَتَّلْنَٰهُ",
+          "pos": "V"
+        },
+        {
+          "location": [
+            73,
+            4,
+            4
+          ],
+          "form_arabic": "وَرَتِّلِ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "tarotiyl",
+      "lemma_arabic": "تَرْتِيل",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        25,
+        32,
+        15
+      ],
+      "occurrences": [
+        {
+          "location": [
+            25,
+            32,
+            15
+          ],
+          "form_arabic": "تَرْتِيلًا",
+          "pos": "N"
+        },
+        {
+          "location": [
+            73,
+            4,
+            6
+          ],
+          "form_arabic": "تَرْتِيلًا",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 2,
+      "share": 1.0,
+      "first_together": [
+        25,
+        32
+      ]
+    },
+    {
+      "root": "zyd",
+      "root_arabic": "زيد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        73,
+        4
+      ]
+    },
+    {
+      "root": "wHd",
+      "root_arabic": "وحد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        32
+      ]
+    },
+    {
+      "root": "kfr",
+      "root_arabic": "كفر",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        32
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        32
+      ]
+    },
+    {
+      "root": "jml",
+      "root_arabic": "جمل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        32
+      ]
+    },
+    {
+      "root": "fAd",
+      "root_arabic": "فاد",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        32
+      ]
+    },
+    {
+      "root": "vbt",
+      "root_arabic": "ثبت",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        32
+      ]
+    },
+    {
+      "root": "nzl",
+      "root_arabic": "نزل",
+      "ayahs_together": 1,
+      "share": 0.5,
+      "first_together": [
+        25,
+        32
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 25,
+        "name_english": "Al-Furqaan",
+        "name_arabic": "سُورَةُ الفُرۡقَانِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      },
+      {
+        "surah": 73,
+        "name_english": "Al-Muzzammil",
+        "name_arabic": "سُورَةُ المُزَّمِّلِ",
+        "revelation": "Meccan",
+        "occurrences": 2
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 4
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        25,
+        32,
+        14
+      ],
+      "form_arabic": "وَرَتَّلْنَٰهُ",
+      "lemma": "rat~alo",
+      "lemma_arabic": "رَتَّلْ",
+      "pos": "V",
+      "ayah_id": "25:32",
+      "ayah_arabic": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَوۡلَا نُزِّلَ عَلَيۡهِ ٱلۡقُرۡءَانُ جُمۡلَةࣰ وَٰحِدَةࣰۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَۖ وَرَتَّلۡنَٰهُ تَرۡتِيلࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "and We have recited it",
+      "translations": {
+        "saheeh": "And those who disbelieve say, \"Why was the Qur'an not revealed to him all at once?\" Thus [it is] that We may strengthen thereby your heart. And We have spaced it distinctly.",
+        "pickthall": "And those who disbelieve say: Why is the Qur'an not revealed unto him all at once? (It is revealed) thus that We may strengthen thy heart therewith; and We have arranged it in right order.",
+        "khattab": "The disbelievers say, “If only the Quran had been sent down to him all at once!” ˹We have sent it˺ as such ˹in stages˺ so We may reassure your heart with it. And We have revealed it at a deliberate pace",
+        "arberry": "The unbelievers say, 'Why has the Koran not been sent down upon him all at once?' Even so, that We may strengthen thy heart thereby, and We have chanted it very distinctly."
+      }
+    },
+    {
+      "location": [
+        25,
+        32,
+        15
+      ],
+      "form_arabic": "تَرْتِيلًا",
+      "lemma": "tarotiyl",
+      "lemma_arabic": "تَرْتِيل",
+      "pos": "N",
+      "ayah_id": "25:32",
+      "ayah_arabic": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَوۡلَا نُزِّلَ عَلَيۡهِ ٱلۡقُرۡءَانُ جُمۡلَةࣰ وَٰحِدَةࣰۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَۖ وَرَتَّلۡنَٰهُ تَرۡتِيلࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "(with distinct) recitation",
+      "translations": {
+        "saheeh": "And those who disbelieve say, \"Why was the Qur'an not revealed to him all at once?\" Thus [it is] that We may strengthen thereby your heart. And We have spaced it distinctly.",
+        "pickthall": "And those who disbelieve say: Why is the Qur'an not revealed unto him all at once? (It is revealed) thus that We may strengthen thy heart therewith; and We have arranged it in right order.",
+        "khattab": "The disbelievers say, “If only the Quran had been sent down to him all at once!” ˹We have sent it˺ as such ˹in stages˺ so We may reassure your heart with it. And We have revealed it at a deliberate pace",
+        "arberry": "The unbelievers say, 'Why has the Koran not been sent down upon him all at once?' Even so, that We may strengthen thy heart thereby, and We have chanted it very distinctly."
+      }
+    },
+    {
+      "location": [
+        73,
+        4,
+        4
+      ],
+      "form_arabic": "وَرَتِّلِ",
+      "lemma": "rat~alo",
+      "lemma_arabic": "رَتَّلْ",
+      "pos": "V",
+      "ayah_id": "73:4",
+      "ayah_arabic": "أَوۡ زِدۡ عَلَيۡهِ وَرَتِّلِ ٱلۡقُرۡءَانَ تَرۡتِيلًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muzzammil",
+      "literal_gloss": "and recite",
+      "translations": {
+        "saheeh": "Or add to it, and recite the Qur'an with measured recitation.",
+        "pickthall": "Or add (a little) thereto - and chant the Qur'an in measure,",
+        "khattab": "or a little more—and recite the Quran ˹properly˺ in a measured way",
+        "arberry": "or add a little), and chant the Koran very distinctly;"
+      }
+    },
+    {
+      "location": [
+        73,
+        4,
+        6
+      ],
+      "form_arabic": "تَرْتِيلًا",
+      "lemma": "tarotiyl",
+      "lemma_arabic": "تَرْتِيل",
+      "pos": "N",
+      "ayah_id": "73:4",
+      "ayah_arabic": "أَوۡ زِدۡ عَلَيۡهِ وَرَتِّلِ ٱلۡقُرۡءَانَ تَرۡتِيلًا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muzzammil",
+      "literal_gloss": "(with) measured rhythmic recitation",
+      "translations": {
+        "saheeh": "Or add to it, and recite the Qur'an with measured recitation.",
+        "pickthall": "Or add (a little) thereto - and chant the Qur'an in measure,",
+        "khattab": "or a little more—and recite the Quran ˹properly˺ in a measured way",
+        "arberry": "or add a little), and chant the Koran very distinctly;"
+      }
+    }
+  ]
+}

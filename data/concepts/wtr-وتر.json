@@ -1,0 +1,377 @@
+{
+  "root": "wtr",
+  "root_arabic": "وتر",
+  "stats": {
+    "occurrences": 3,
+    "lemmas": 3,
+    "ayahs": 3,
+    "surahs": 3,
+    "pos_distribution": {
+      "N": 2,
+      "V": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "tatoraA",
+      "lemma_arabic": "تَتْرَا",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        23,
+        44,
+        4
+      ],
+      "occurrences": [
+        {
+          "location": [
+            23,
+            44,
+            4
+          ],
+          "form_arabic": "تَتْرَا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "yatira",
+      "lemma_arabic": "يَتِرَ",
+      "count": 1,
+      "pos_distribution": {
+        "V": 1
+      },
+      "first_occurrence": [
+        47,
+        35,
+        11
+      ],
+      "occurrences": [
+        {
+          "location": [
+            47,
+            35,
+            11
+          ],
+          "form_arabic": "يَتِرَكُمْ",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "lemma": "wator",
+      "lemma_arabic": "وَتْر",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        89,
+        3,
+        2
+      ],
+      "occurrences": [
+        {
+          "location": [
+            89,
+            3,
+            2
+          ],
+          "form_arabic": "وَٱلْوَتْرِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "$fE",
+      "root_arabic": "شفع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        89,
+        3
+      ]
+    },
+    {
+      "root": "tbE",
+      "root_arabic": "تبع",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "Hdv",
+      "root_arabic": "حدث",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "k*b",
+      "root_arabic": "كذب",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "Amm",
+      "root_arabic": "امم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "bEd",
+      "root_arabic": "بعد",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "bED",
+      "root_arabic": "بعض",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "kll",
+      "root_arabic": "كلل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "jyA",
+      "root_arabic": "جيا",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        23,
+        44
+      ]
+    },
+    {
+      "root": "Eml",
+      "root_arabic": "عمل",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        47,
+        35
+      ]
+    },
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        47,
+        35
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        47,
+        35
+      ]
+    },
+    {
+      "root": "dEw",
+      "root_arabic": "دعو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        47,
+        35
+      ]
+    },
+    {
+      "root": "Elw",
+      "root_arabic": "علو",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        47,
+        35
+      ]
+    },
+    {
+      "root": "whn",
+      "root_arabic": "وهن",
+      "ayahs_together": 1,
+      "share": 0.3333,
+      "first_together": [
+        47,
+        35
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 23,
+        "name_english": "Al-Muminoon",
+        "name_arabic": "سُورَةُ المُؤۡمِنُونَ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 47,
+        "name_english": "Muhammad",
+        "name_arabic": "سُورَةُ مُحَمَّدٍ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 89,
+        "name_english": "Al-Fajr",
+        "name_arabic": "سُورَةُ الفَجۡرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 2,
+      "Medinan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        23,
+        44,
+        4
+      ],
+      "form_arabic": "تَتْرَا",
+      "lemma": "tatoraA",
+      "lemma_arabic": "تَتْرَا",
+      "pos": "N",
+      "ayah_id": "23:44",
+      "ayah_arabic": "ثُمَّ أَرۡسَلۡنَا رُسُلَنَا تَتۡرَاۖ كُلَّ مَا جَآءَ أُمَّةࣰ رَّسُولُهَا كَذَّبُوهُۖ فَأَتۡبَعۡنَا بَعۡضَهُم بَعۡضࣰ ا وَجَعَلۡنَٰهُمۡ أَحَادِيثَۚ فَبُعۡدࣰ ا لِّقَوۡمࣲ لَّا يُؤۡمِنُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Muminoon",
+      "literal_gloss": "(in) succession",
+      "translations": {
+        "saheeh": "Then We sent Our messengers in succession. Every time there came to a nation its messenger, they denied him, so We made them follow one another [to destruction], and We made them narrations. So away with a people who do not believe.",
+        "pickthall": "Then We sent our messengers one after another. Whenever its messenger came unto a nation they denied him; so We caused them to follow one another (to disaster) and We made them bywords. A far removal for folk who believe not!",
+        "khattab": "Then We sent Our messengers in succession: whenever a messenger came to his people, they denied him. So We destroyed them, one after the other, reducing them to ˹cautionary˺ tales. So away with the people who refuse to believe",
+        "arberry": "Then sent We Our Messengers successively; whenever its Messenger came to a nation they cried him lies, so We caused some of them to follow others, and We made them as but tales; so away with a people who do not believe!"
+      }
+    },
+    {
+      "location": [
+        47,
+        35,
+        11
+      ],
+      "form_arabic": "يَتِرَكُمْ",
+      "lemma": "yatira",
+      "lemma_arabic": "يَتِرَ",
+      "pos": "V",
+      "ayah_id": "47:35",
+      "ayah_arabic": "فَلَا تَهِنُواْ وَتَدۡعُوٓاْ إِلَى ٱلسَّلۡمِ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ وَٱللَّهُ مَعَكُمۡ وَلَن يَتِرَكُمۡ أَعۡمَٰلَكُمۡ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Muhammad",
+      "literal_gloss": "will deprive you",
+      "translations": {
+        "saheeh": "So do not weaken and call for peace while you are superior; and Allah is with you and will never deprive you of [the reward of] your deeds.",
+        "pickthall": "So do not falter and cry out for peace when ye (will be) the uppermost, and Allah is with you, and He will not grudge (the reward of) your actions.",
+        "khattab": "So do not falter or cry for peace, for you will have the upper hand and Allah is with you. And He will never let your deeds go to waste",
+        "arberry": "So do not faint and call for peace; you shall be the upper ones, and God is with you, and will not deprive you of your works."
+      }
+    },
+    {
+      "location": [
+        89,
+        3,
+        2
+      ],
+      "form_arabic": "وَٱلْوَتْرِ",
+      "lemma": "wator",
+      "lemma_arabic": "وَتْر",
+      "pos": "N",
+      "ayah_id": "89:3",
+      "ayah_arabic": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Fajr",
+      "literal_gloss": "and the odd",
+      "translations": {
+        "saheeh": "And [by] the even [number] and the odd",
+        "pickthall": "And the Even and the Odd,",
+        "khattab": "and the even and the odd",
+        "arberry": "by the even and the odd,"
+      }
+    }
+  ]
+}

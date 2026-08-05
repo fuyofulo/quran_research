@@ -39,6 +39,28 @@ TRANS = ROOT_DIR / "data" / "translations"
 OUT_DIR = ROOT_DIR / "data" / "concepts"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
+
+def concept_filename(root):
+    """Return a filename stem for `root` that is safe on case-insensitive filesystems.
+
+    Buckwalter is case-sensitive and has 137 case-collision groups (Swm/swm, sbH/SbH,
+    qnt/qnT, Zlm/zlm ...). macOS and Windows are case-insensitive by default, so writing
+    both members of a pair to `<root>.json` makes the second SILENTLY OVERWRITE the first —
+    the file keeps one name while holding the other root's data. That is data corruption,
+    not an error, and it bit the fasting investigation (Swm clobbered swm).
+
+    Rule: if any OTHER root in the corpus lowercases to the same string, disambiguate by
+    appending the Arabic form, e.g. `sbH-سبح.json` / `SbH-صبح.json`. Roots with no case
+    twin keep the plain `<root>.json` name, so existing paths are unchanged.
+    """
+    with (MORPH / "roots.json").open() as f:
+        all_roots = json.load(f)
+    twins = [r for r in all_roots if r.lower() == root.lower() and r != root]
+    if not twins:
+        return root
+    arabic = all_roots[root]["root_arabic"]
+    return f"{root}-{arabic}"
+
 # Translations are display-only annotations on the Arabic. They are NEVER
 # used as input to analysis (clusters, co-occurrence, distribution all derive
 # from morphology + canonical text). They appear at occurrence level only,
@@ -246,7 +268,7 @@ def main():
     print(f"building concept for root {target!r}…")
     concept = build_concept(target, words, ayah_text, surah_meta, sentences, wbw)
 
-    out = OUT_DIR / f"{target}.json"
+    out = OUT_DIR / f"{concept_filename(target)}.json"
     with out.open("w") as f:
         json.dump(concept, f, ensure_ascii=False, indent=2)
 

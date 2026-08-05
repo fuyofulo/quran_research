@@ -1,0 +1,1094 @@
+{
+  "root": "nwm",
+  "root_arabic": "نوم",
+  "stats": {
+    "occurrences": 9,
+    "lemmas": 3,
+    "ayahs": 9,
+    "surahs": 9,
+    "pos_distribution": {
+      "N": 9
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "manaAm",
+      "lemma_arabic": "مَنَام",
+      "count": 4,
+      "pos_distribution": {
+        "N": 4
+      },
+      "first_occurrence": [
+        8,
+        43,
+        5
+      ],
+      "occurrences": [
+        {
+          "location": [
+            8,
+            43,
+            5
+          ],
+          "form_arabic": "مَنَامِكَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            30,
+            23,
+            3
+          ],
+          "form_arabic": "مَنَامُكُم",
+          "pos": "N"
+        },
+        {
+          "location": [
+            37,
+            102,
+            10
+          ],
+          "form_arabic": "ٱلْمَنَامِ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            39,
+            42,
+            10
+          ],
+          "form_arabic": "مَنَامِهَا",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "nawom",
+      "lemma_arabic": "نَوْم",
+      "count": 3,
+      "pos_distribution": {
+        "N": 3
+      },
+      "first_occurrence": [
+        2,
+        255,
+        12
+      ],
+      "occurrences": [
+        {
+          "location": [
+            2,
+            255,
+            12
+          ],
+          "form_arabic": "نَوْمٌ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            25,
+            47,
+            7
+          ],
+          "form_arabic": "وَٱلنَّوْمَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            78,
+            9,
+            2
+          ],
+          "form_arabic": "نَوْمَكُمْ",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "lemma": "naA^}imuwn",
+      "lemma_arabic": "نَا^ئِمُون",
+      "count": 2,
+      "pos_distribution": {
+        "N": 2
+      },
+      "first_occurrence": [
+        7,
+        97,
+        9
+      ],
+      "occurrences": [
+        {
+          "location": [
+            7,
+            97,
+            9
+          ],
+          "form_arabic": "نَا^ئِمُونَ",
+          "pos": "N"
+        },
+        {
+          "location": [
+            68,
+            19,
+            7
+          ],
+          "form_arabic": "نَا^ئِمُونَ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "Alh",
+      "root_arabic": "اله",
+      "ayahs_together": 4,
+      "share": 0.4444,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 3,
+      "share": 0.3333,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "Elm",
+      "root_arabic": "علم",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "Amr",
+      "root_arabic": "امر",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        8,
+        43
+      ]
+    },
+    {
+      "root": "rAy",
+      "root_arabic": "راي",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        8,
+        43
+      ]
+    },
+    {
+      "root": "Ayy",
+      "root_arabic": "ايي",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        30,
+        23
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        25,
+        47
+      ]
+    },
+    {
+      "root": "nhr",
+      "root_arabic": "نهر",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        25,
+        47
+      ]
+    },
+    {
+      "root": "jEl",
+      "root_arabic": "جعل",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        25,
+        47
+      ]
+    },
+    {
+      "root": "sbt",
+      "root_arabic": "سبت",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        25,
+        47
+      ]
+    },
+    {
+      "root": "$yA",
+      "root_arabic": "شيا",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "smw",
+      "root_arabic": "سمو",
+      "ayahs_together": 2,
+      "share": 0.2222,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "kvr",
+      "root_arabic": "كثر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        43
+      ]
+    },
+    {
+      "root": "qll",
+      "root_arabic": "قلل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        43
+      ]
+    },
+    {
+      "root": "Sdr",
+      "root_arabic": "صدر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        43
+      ]
+    },
+    {
+      "root": "slm",
+      "root_arabic": "سلم",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        43
+      ]
+    },
+    {
+      "root": "nzE",
+      "root_arabic": "نزع",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        43
+      ]
+    },
+    {
+      "root": "f$l",
+      "root_arabic": "فشل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        8,
+        43
+      ]
+    },
+    {
+      "root": "Ahl",
+      "root_arabic": "اهل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        97
+      ]
+    },
+    {
+      "root": "byt",
+      "root_arabic": "بيت",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        97
+      ]
+    },
+    {
+      "root": "qry",
+      "root_arabic": "قري",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        97
+      ]
+    },
+    {
+      "root": "Amn",
+      "root_arabic": "امن",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        97
+      ]
+    },
+    {
+      "root": "bAs",
+      "root_arabic": "باس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        97
+      ]
+    },
+    {
+      "root": "Aty",
+      "root_arabic": "اتي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        7,
+        97
+      ]
+    },
+    {
+      "root": "smE",
+      "root_arabic": "سمع",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        30,
+        23
+      ]
+    },
+    {
+      "root": "bgy",
+      "root_arabic": "بغي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        30,
+        23
+      ]
+    },
+    {
+      "root": "fDl",
+      "root_arabic": "فضل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        30,
+        23
+      ]
+    },
+    {
+      "root": "n$r",
+      "root_arabic": "نشر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        25,
+        47
+      ]
+    },
+    {
+      "root": "lbs",
+      "root_arabic": "لبس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        25,
+        47
+      ]
+    },
+    {
+      "root": "Abw",
+      "root_arabic": "ابو",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        37,
+        102
+      ]
+    },
+    {
+      "root": "Sbr",
+      "root_arabic": "صبر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        37,
+        102
+      ]
+    },
+    {
+      "root": "wjd",
+      "root_arabic": "وجد",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        37,
+        102
+      ]
+    },
+    {
+      "root": "bny",
+      "root_arabic": "بني",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        37,
+        102
+      ]
+    },
+    {
+      "root": "*bH",
+      "root_arabic": "ذبح",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        37,
+        102
+      ]
+    },
+    {
+      "root": "qwl",
+      "root_arabic": "قول",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        37,
+        102
+      ]
+    },
+    {
+      "root": "nZr",
+      "root_arabic": "نظر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        37,
+        102
+      ]
+    },
+    {
+      "root": "fEl",
+      "root_arabic": "فعل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        37,
+        102
+      ]
+    },
+    {
+      "root": "blg",
+      "root_arabic": "بلغ",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        37,
+        102
+      ]
+    },
+    {
+      "root": "sEy",
+      "root_arabic": "سعي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        37,
+        102
+      ]
+    },
+    {
+      "root": "Twf",
+      "root_arabic": "طوف",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        68,
+        19
+      ]
+    },
+    {
+      "root": "rbb",
+      "root_arabic": "ربب",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        68,
+        19
+      ]
+    },
+    {
+      "root": "Hyn",
+      "root_arabic": "حين",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        42
+      ]
+    },
+    {
+      "root": "nfs",
+      "root_arabic": "نفس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        42
+      ]
+    },
+    {
+      "root": "wfy",
+      "root_arabic": "وفي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        42
+      ]
+    },
+    {
+      "root": "mwt",
+      "root_arabic": "موت",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        42
+      ]
+    },
+    {
+      "root": "rsl",
+      "root_arabic": "رسل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        42
+      ]
+    },
+    {
+      "root": "Ajl",
+      "root_arabic": "اجل",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        42
+      ]
+    },
+    {
+      "root": "fkr",
+      "root_arabic": "فكر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        42
+      ]
+    },
+    {
+      "root": "msk",
+      "root_arabic": "مسك",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        42
+      ]
+    },
+    {
+      "root": "qDy",
+      "root_arabic": "قضي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        42
+      ]
+    },
+    {
+      "root": "Axr",
+      "root_arabic": "اخر",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        39,
+        42
+      ]
+    },
+    {
+      "root": "HfZ",
+      "root_arabic": "حفظ",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "byn",
+      "root_arabic": "بين",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "Elw",
+      "root_arabic": "علو",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "End",
+      "root_arabic": "عند",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "EZm",
+      "root_arabic": "عظم",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "ydy",
+      "root_arabic": "يدي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "$fE",
+      "root_arabic": "شفع",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "Awd",
+      "root_arabic": "اود",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "xlf",
+      "root_arabic": "خلف",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "krs",
+      "root_arabic": "كرس",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "HwT",
+      "root_arabic": "حوط",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "A*n",
+      "root_arabic": "اذن",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "Ax*",
+      "root_arabic": "اخذ",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "wsE",
+      "root_arabic": "وسع",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "wsn",
+      "root_arabic": "وسن",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "ArD",
+      "root_arabic": "ارض",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    },
+    {
+      "root": "Hyy",
+      "root_arabic": "حيي",
+      "ayahs_together": 1,
+      "share": 0.1111,
+      "first_together": [
+        2,
+        255
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 2,
+        "name_english": "Al-Baqara",
+        "name_arabic": "سُورَةُ البَقَرَةِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 7,
+        "name_english": "Al-A'raaf",
+        "name_arabic": "سُورَةُ الأَعۡرَافِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 8,
+        "name_english": "Al-Anfaal",
+        "name_arabic": "سُورَةُ الأَنفَالِ",
+        "revelation": "Medinan",
+        "occurrences": 1
+      },
+      {
+        "surah": 25,
+        "name_english": "Al-Furqaan",
+        "name_arabic": "سُورَةُ الفُرۡقَانِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 30,
+        "name_english": "Ar-Room",
+        "name_arabic": "سُورَةُ الرُّومِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 37,
+        "name_english": "As-Saaffaat",
+        "name_arabic": "سُورَةُ الصَّافَّاتِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 39,
+        "name_english": "Az-Zumar",
+        "name_arabic": "سُورَةُ الزُّمَرِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 68,
+        "name_english": "Al-Qalam",
+        "name_arabic": "سُورَةُ القَلَمِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      },
+      {
+        "surah": 78,
+        "name_english": "An-Naba",
+        "name_arabic": "سُورَةُ النَّبَإِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Medinan": 2,
+      "Meccan": 7
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        2,
+        255,
+        12
+      ],
+      "form_arabic": "نَوْمٌ",
+      "lemma": "nawom",
+      "lemma_arabic": "نَوْم",
+      "pos": "N",
+      "ayah_id": "2:255",
+      "ayah_arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّومُۚ لَا تَأۡخُذُهُۥ سِنَةࣱ وَلَا نَوۡمࣱۚ لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ مَن ذَا ٱلَّذِي يَشۡفَعُ عِندَهُۥٓ إِلَّا بِإِذۡنِهِۦۚ يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡۖ وَلَا يُحِيطُونَ بِشَيۡءࣲ مِّنۡ عِلۡمِهِۦٓ إِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۖ وَلَا يَـُٔودُهُۥ حِفۡظُهُمَاۚ وَهُوَ ٱلۡعَلِيُّ ٱلۡعَظِيمُ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Baqara",
+      "literal_gloss": "sleep",
+      "translations": {
+        "saheeh": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+        "pickthall": "Allah! There is no deity save Him, the Alive, the Eternal. Neither slumber nor sleep overtaketh Him. Unto Him belongeth whatsoever is in the heavens and whatsoever is in the earth. Who is he that intercedeth with Him save by His leave? He knoweth that which is in front of them and that which is behind them, while they encompass nothing of His knowledge save what He will. His throne includeth the heavens and the earth, and He is never weary of preserving them. He is the Sublime, the Tremendous.",
+        "khattab": "Allah! There is no god ˹worthy of worship˺ except Him, the Ever-Living, All-Sustaining. Neither drowsiness nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who could possibly intercede with Him without His permission? He ˹fully˺ knows what is ahead of them and what is behind them, but no one can grasp any of His knowledge—except what He wills ˹to reveal˺. His Seat encompasses the heavens and the earth, and the preservation of both does not tire Him. For He is the Most High, the Greatest",
+        "arberry": "God there is no god but He, the Living, the Everlasting. Slumber seizes Him not, neither sleep; to Him belongs all that is in the heavens and the earth. Who is there that shall intercede with Him save by His leave? He knows what lies before them and what is after them, and they comprehend not anything of His knowledge save such as He wills. His Throne comprises the heavens and earth; the preserving of them oppresses Him not; He is the All-high, the All-glorious."
+      }
+    },
+    {
+      "location": [
+        7,
+        97,
+        9
+      ],
+      "form_arabic": "نَا^ئِمُونَ",
+      "lemma": "naA^}imuwn",
+      "lemma_arabic": "نَا^ئِمُون",
+      "pos": "N",
+      "ayah_id": "7:97",
+      "ayah_arabic": "أَفَأَمِنَ أَهۡلُ ٱلۡقُرَىٰٓ أَن يَأۡتِيَهُم بَأۡسُنَا بَيَٰتࣰ ا وَهُمۡ نَآئِمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-A'raaf",
+      "literal_gloss": "(were) asleep",
+      "translations": {
+        "saheeh": "Then, did the people of the cities feel secure from Our punishment coming to them at night while they were asleep?",
+        "pickthall": "Are the people of the townships then secure from the coming of Our wrath upon them as a night-raid while they sleep?",
+        "khattab": "Did the people of those societies feel secure that Our punishment would not come upon them by night while they were asleep",
+        "arberry": "Do the people of the cities feel secure Our might shall not come upon them at night while they are sleeping?"
+      }
+    },
+    {
+      "location": [
+        8,
+        43,
+        5
+      ],
+      "form_arabic": "مَنَامِكَ",
+      "lemma": "manaAm",
+      "lemma_arabic": "مَنَام",
+      "pos": "N",
+      "ayah_id": "8:43",
+      "ayah_arabic": "إِذۡ يُرِيكَهُمُ ٱللَّهُ فِي مَنَامِكَ قَلِيلࣰ اۖ وَلَوۡ أَرَىٰكَهُمۡ كَثِيرࣰ ا لَّفَشِلۡتُمۡ وَلَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "surah_revelation": "Medinan",
+      "surah_name": "Al-Anfaal",
+      "literal_gloss": "your dream",
+      "translations": {
+        "saheeh": "[Remember, O Muhammad], when Allah showed them to you in your dream as few; and if He had shown them to you as many, you [believers] would have lost courage and would have disputed in the matter [of whether to fight], but Allah saved [you from that]. Indeed, He is Knowing of that within the breasts.",
+        "pickthall": "When Allah showed them unto thee (O Muhammad) in thy dream as few in number, and if He had shown them to thee as many, ye (Muslims) would have faltered and would have quarrelled over the affair. But Allah saved (you). Lo! He knoweth what is in the breasts (of men).",
+        "khattab": "˹Remember, O Prophet,˺ when Allah showed them in your dream as few in number. Had He shown them to you as many, you ˹believers˺ would have certainly faltered and disputed in the matter. But Allah spared you ˹from that˺. Surely He knows best what is ˹hidden˺ in the heart",
+        "arberry": "When God showed thee them in thy dream as few; and had He shown them as many you would have lost heart, and quarrelled about the matter; but God saved; He knows the thoughts in the breasts."
+      }
+    },
+    {
+      "location": [
+        25,
+        47,
+        7
+      ],
+      "form_arabic": "وَٱلنَّوْمَ",
+      "lemma": "nawom",
+      "lemma_arabic": "نَوْم",
+      "pos": "N",
+      "ayah_id": "25:47",
+      "ayah_arabic": "وَهُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلَّيۡلَ لِبَاسࣰ ا وَٱلنَّوۡمَ سُبَاتࣰ ا وَجَعَلَ ٱلنَّهَارَ نُشُورࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Furqaan",
+      "literal_gloss": "and the sleep",
+      "translations": {
+        "saheeh": "And it is He who has made the night for you as clothing and sleep [a means for] rest and has made the day a resurrection.",
+        "pickthall": "And He it is Who maketh night a covering for you, and sleep repose, and maketh day a resurrection.",
+        "khattab": "He is the One Who has made the night for you as a cover, and ˹made˺ sleep for resting, and the day for rising",
+        "arberry": "It is He who appointed the night for you to be a garment and sleep for a rest, and day He appointed for a rising."
+      }
+    },
+    {
+      "location": [
+        30,
+        23,
+        3
+      ],
+      "form_arabic": "مَنَامُكُم",
+      "lemma": "manaAm",
+      "lemma_arabic": "مَنَام",
+      "pos": "N",
+      "ayah_id": "30:23",
+      "ayah_arabic": "وَمِنۡ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيۡلِ وَٱلنَّهَارِ وَٱبۡتِغَآؤُكُم مِّن فَضۡلِهِۦٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتࣲ لِّقَوۡمࣲ يَسۡمَعُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Ar-Room",
+      "literal_gloss": "(is) your sleep",
+      "translations": {
+        "saheeh": "And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen.",
+        "pickthall": "And of His signs is your slumber by night and by day, and your seeking of His bounty. Lo! herein indeed are portents for folk who heed.",
+        "khattab": "And one of His signs is your sleep by night and by day ˹for rest˺ as well as your seeking His bounty ˹in both˺. Surely in this are signs for people who listen",
+        "arberry": "And of His signs is your slumbering by night and day, and your seeking after His bounty. Surely in that are signs for a people who hear."
+      }
+    },
+    {
+      "location": [
+        37,
+        102,
+        10
+      ],
+      "form_arabic": "ٱلْمَنَامِ",
+      "lemma": "manaAm",
+      "lemma_arabic": "مَنَام",
+      "pos": "N",
+      "ayah_id": "37:102",
+      "ayah_arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعۡيَ قَالَ يَٰبُنَيَّ إِنِّيٓ أَرَىٰ فِي ٱلۡمَنَامِ أَنِّيٓ أَذۡبَحُكَ فَٱنظُرۡ مَاذَا تَرَىٰۚ قَالَ يَٰٓأَبَتِ ٱفۡعَلۡ مَا تُؤۡمَرُۖ سَتَجِدُنِيٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "As-Saaffaat",
+      "literal_gloss": "the dream",
+      "translations": {
+        "saheeh": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.\"",
+        "pickthall": "And when (his son) was old enough to walk with him, (Abraham) said: O my dear son, I have seen in a dream that I must sacrifice thee. So look, what thinkest thou? He said: O my father! Do that which thou art commanded. Allah willing, thou shalt find me of the steadfast.",
+        "khattab": "Then when the boy reached the age to work with him, Abraham said, “O my dear son! I have seen in a dream that I ˹must˺ sacrifice you. So tell me what you think.” He replied, “O my dear father! Do as you are commanded. Allah willing, you will find me steadfast.”",
+        "arberry": "and when he had reached the age of running with him, he said, 'My son, I see in a dream that I shall sacrifice thee; consider, what thinkest thou?' He said, 'My father, do as thou art bidden; thou shalt find me, God willing, one of the steadfast.'"
+      }
+    },
+    {
+      "location": [
+        39,
+        42,
+        10
+      ],
+      "form_arabic": "مَنَامِهَا",
+      "lemma": "manaAm",
+      "lemma_arabic": "مَنَام",
+      "pos": "N",
+      "ayah_id": "39:42",
+      "ayah_arabic": "ٱللَّهُ يَتَوَفَّى ٱلۡأَنفُسَ حِينَ مَوۡتِهَا وَٱلَّتِي لَمۡ تَمُتۡ فِي مَنَامِهَاۖ فَيُمۡسِكُ ٱلَّتِي قَضَىٰ عَلَيۡهَا ٱلۡمَوۡتَ وَيُرۡسِلُ ٱلۡأُخۡرَىٰٓ إِلَىٰٓ أَجَلࣲ مُّسَمًّىۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتࣲ لِّقَوۡمࣲ يَتَفَكَّرُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Az-Zumar",
+      "literal_gloss": "their sleep",
+      "translations": {
+        "saheeh": "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep. Then He keeps those for which He has decreed death and releases the others for a specified term. Indeed in that are signs for a people who give thought.",
+        "pickthall": "Allah receiveth (men's) souls at the time of their death, and that (soul) which dieth not (yet) in its sleep. He keepeth that (soul) for which He hath ordained death and dismisseth the rest till an appointed term. Lo! herein verily are portents for people who take thought.",
+        "khattab": "˹It is˺ Allah ˹Who˺ calls back the souls ˹of people˺ upon their death as well as ˹the souls˺ of the living during their sleep. Then He keeps those for whom He has ordained death, and releases the others until ˹their˺ appointed time. Surely in this are signs for people who reflect",
+        "arberry": "God takes the souls at the time of their death, and that which has not died, in its sleep; He withholds that against which He has decreed death, but looses the other till a stated term. Surely in that are signs for a people who reflect. Or have they taken intercessors apart from God?"
+      }
+    },
+    {
+      "location": [
+        68,
+        19,
+        7
+      ],
+      "form_arabic": "نَا^ئِمُونَ",
+      "lemma": "naA^}imuwn",
+      "lemma_arabic": "نَا^ئِمُون",
+      "pos": "N",
+      "ayah_id": "68:19",
+      "ayah_arabic": "فَطَافَ عَلَيۡهَا طَآئِفࣱ مِّن رَّبِّكَ وَهُمۡ نَآئِمُونَ",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Qalam",
+      "literal_gloss": "were asleep",
+      "translations": {
+        "saheeh": "So there came upon the garden an affliction from your Lord while they were asleep.",
+        "pickthall": "Then a visitation from thy Lord came upon it while they slept",
+        "khattab": "Then it was struck by a torment from your Lord while they slept",
+        "arberry": "Then a visitation from thy Lord visited it, while they were sleeping,"
+      }
+    },
+    {
+      "location": [
+        78,
+        9,
+        2
+      ],
+      "form_arabic": "نَوْمَكُمْ",
+      "lemma": "nawom",
+      "lemma_arabic": "نَوْم",
+      "pos": "N",
+      "ayah_id": "78:9",
+      "ayah_arabic": "وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "An-Naba",
+      "literal_gloss": "your sleep",
+      "translations": {
+        "saheeh": "And made your sleep [a means for] rest",
+        "pickthall": "And have appointed your sleep for repose,",
+        "khattab": "and made your sleep for rest",
+        "arberry": "and We appointed your sleep for a rest;"
+      }
+    }
+  ]
+}

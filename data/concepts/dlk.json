@@ -1,0 +1,169 @@
+{
+  "root": "dlk",
+  "root_arabic": "دلك",
+  "stats": {
+    "occurrences": 1,
+    "lemmas": 1,
+    "ayahs": 1,
+    "surahs": 1,
+    "pos_distribution": {
+      "N": 1
+    }
+  },
+  "lemmas": [
+    {
+      "lemma": "duluwk",
+      "lemma_arabic": "دُلُوك",
+      "count": 1,
+      "pos_distribution": {
+        "N": 1
+      },
+      "first_occurrence": [
+        17,
+        78,
+        3
+      ],
+      "occurrences": [
+        {
+          "location": [
+            17,
+            78,
+            3
+          ],
+          "form_arabic": "لِدُلُوكِ",
+          "pos": "N"
+        }
+      ]
+    }
+  ],
+  "co_occurring_roots": [
+    {
+      "root": "$hd",
+      "root_arabic": "شهد",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "Slw",
+      "root_arabic": "صلو",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "qrA",
+      "root_arabic": "قرا",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "kwn",
+      "root_arabic": "كون",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "$ms",
+      "root_arabic": "شمس",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "fjr",
+      "root_arabic": "فجر",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "lyl",
+      "root_arabic": "ليل",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "gsq",
+      "root_arabic": "غسق",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        78
+      ]
+    },
+    {
+      "root": "qwm",
+      "root_arabic": "قوم",
+      "ayahs_together": 1,
+      "share": 1.0,
+      "first_together": [
+        17,
+        78
+      ]
+    }
+  ],
+  "distribution": {
+    "by_surah": [
+      {
+        "surah": 17,
+        "name_english": "Al-Israa",
+        "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+        "revelation": "Meccan",
+        "occurrences": 1
+      }
+    ],
+    "by_revelation": {
+      "Meccan": 1
+    }
+  },
+  "all_occurrences": [
+    {
+      "location": [
+        17,
+        78,
+        3
+      ],
+      "form_arabic": "لِدُلُوكِ",
+      "lemma": "duluwk",
+      "lemma_arabic": "دُلُوك",
+      "pos": "N",
+      "ayah_id": "17:78",
+      "ayah_arabic": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمۡسِ إِلَىٰ غَسَقِ ٱلَّيۡلِ وَقُرۡءَانَ ٱلۡفَجۡرِۖ إِنَّ قُرۡءَانَ ٱلۡفَجۡرِ كَانَ مَشۡهُودࣰ ا",
+      "surah_revelation": "Meccan",
+      "surah_name": "Al-Israa",
+      "literal_gloss": "at the decline",
+      "translations": {
+        "saheeh": "Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur'an of dawn. Indeed, the recitation of dawn is ever witnessed.",
+        "pickthall": "Establish worship at the going down of the sun until the dark of night, and (the recital of) the Qur'an at dawn. Lo! (the recital of) the Qur'an at dawn is ever witnessed.",
+        "khattab": "Observe the prayer from the decline of the sun until the darkness of the night and the dawn prayer, for certainly the dawn prayer is witnessed ˹by angels˺",
+        "arberry": "Perform the prayer at the sinking of the sun to the darkening of the night and the recital of dawn; surely the recital of dawn is witnessed."
+      }
+    }
+  ]
+}
