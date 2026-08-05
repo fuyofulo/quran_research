@@ -2,8 +2,8 @@
 
 The second **applied** investigation in this project, and a direct sequel to
 [`../fasting/`](../fasting/). Same commissioner, same practical framing: *I think tahajjud is
-extremely hard — harder than fasting. I want to know what it actually is, and how it differs from
-fasting according to the Quran.*
+extremely hard — harder than fasting. I want to know what it is, and how it differs from fasting
+according to the Quran.*
 
 The comparison was written into the brief from the start: every Phase-1 agent was told to flag
 material bearing on how night-worship differs from the fast **in kind**, not just in difficulty. The
@@ -72,11 +72,11 @@ obligation. The practice you suspect is harder is the one the Quran never oblige
 
 ### `1-narratives/`
 - [`narrative-surah-73-muzzammil.md`](1-narratives/narrative-surah-73-muzzammil.md) — the founding
-  text, framed by the corpus's two highest-divergence verses; `tartīl` as the pace revelation itself
-  arrived (25:32); preparation rather than purification.
+  text, framed by the corpus's two highest-divergence verses; `tartīl` as the pace revelation arrived
+  at (25:32); preparation rather than purification.
 - [`narrative-two-portraits-51-32.md`](1-narratives/narrative-two-portraits-51-32.md) — 51:15–19 and
-  32:15–17 converging independently on one three-part order: leave the bed, address God, give money.
-  Contains the imperative audit.
+  32:15–17 converging independently on one order: leave the bed, address God, give money. Contains
+  the imperative audit.
 - [`narrative-ibad-al-rahman-25.md`](1-narratives/narrative-ibad-al-rahman-25.md) — night-standing as
   1 of 12 traits and the only private ritual; `byt` used 7 times for scheming against 1 for worship.
 - [`narrative-night-as-divine-timing.md`](1-narratives/narrative-night-as-divine-timing.md) — descent,
@@ -85,25 +85,23 @@ obligation. The practice you suspect is harder is the one the Quran never oblige
 ### `2-cross-cutting/`
 - [`research-tahajjud-vs-fasting.md`](2-cross-cutting/research-tahajjud-vs-fasting.md) — **the
   spine.** Person and number, the dimension-by-dimension table, the two mechanism-verses, the
-  opposite standing of hunger and sleep, and a flat answer on which is the heavier obligation.
+  opposite standing of hunger and sleep, and a flat answer on which is heavier.
 - [`research-why-night.md`](2-cross-cutting/research-why-night.md) — rest against vigil, four
   reconciliations tested; the three stated reasons; the verified negatives.
 - [`research-what-is-promised.md`](2-cross-cutting/research-what-is-promised.md) — every reward-clause
   audited; three kinds of not-telling; no felt state attaches to the vigil.
 - [`research-the-relaxation-73-20.md`](2-cross-cutting/research-the-relaxation-73-20.md) — the only
-  devotional walk-back in the Quran; `lan tuḥṣūhu`; `khaffafa` deliberately unused; `fa-tāba
-  ʿalaykum` with the sin-slot empty.
+  devotional walk-back in the Quran; `lan tuḥṣūhu`; `khaffafa` unused; `fa-tāba ʿalaykum` with the
+  sin-slot empty.
 
 ### `3-rabbit-holes/`
-- [`rabbit-maqam-mahmud.md`](3-rabbit-holes/rabbit-maqam-mahmud.md) — the hapax passive, the
-  polysemy of `maqām`, `baʿatha` as a resurrection verb, and what `ʿasā` will and will not carry.
+- [`rabbit-maqam-mahmud.md`](3-rabbit-holes/rabbit-maqam-mahmud.md) — the hapax passive, `maqām`'s
+  polysemy, `baʿatha` as a resurrection verb, and what `ʿasā` will and will not carry.
 - [`rabbit-nashiat-al-layl.md`](3-rabbit-holes/rabbit-nashiat-al-layl.md) — 73:6's two hapaxes;
   `aqwam` meaning accurate rather than beautiful.
 - [`rabbit-ashar-istighfar.md`](3-rabbit-holes/rabbit-ashar-istighfar.md) — the true `saḥar`
-  inventory (3, not 6, after a lemma-level correction); the rescue/forgiveness hour shared.
-
-### Working files
-- [`BRIEF.md`](BRIEF.md) — the shared agent brief: Phase-0 findings, data-file map, vocabulary traps.
+  inventory (3, not 6, after a lemma-level correction); the shared rescue/forgiveness hour.
+- [`BRIEF.md`](BRIEF.md) — the shared agent brief: Phase-0 findings, data map, vocabulary traps.
 
 ---
 
