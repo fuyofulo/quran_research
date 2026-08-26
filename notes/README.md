@@ -90,6 +90,22 @@ Headline findings: **every night-worship imperative in the Quran is second-perso
 - **Synthesis:** [`tahajjud/concept-tahajjud-deep.md`](tahajjud/concept-tahajjud-deep.md)
 - 19 files · 6 root + 4 narrative + 4 cross-cutting + 3 rabbit-holes + 1 structural + 1 synthesis + 1 README
 
+### [`cosmos/`](cosmos/) — Life beyond earth: does the Quran say humans exist elsewhere?
+Commissioned by a direct question: *"Do humans exist outside of Earth? Does the Quran even talk about it?"* — prompted by having heard a scholar claim there are **seven or eight earth-like planets where humans reside**. The investigation answers the question and traces the claim. 12 files, ~24,500 words, 8 agents.
+
+**The question splits in two and the halves get opposite answers.** Life beyond earth is **affirmed**; humans beyond earth appear **nowhere**.
+
+Headline findings: **thirteen verses use `man`** — Arabic's rational-being relative pronoun — for "whoever is in the heavens" (3:83, 10:66, 13:15, 17:55, 19:93, 21:19, 22:18, 24:41, 27:65, 27:87, 30:26, 39:68, 55:29; 67:16-17 excluded, they refer to God), against 39 ayahs using `mā` for things — and those beings prostrate, glorify, ask Him, do not know the unseen, are terrified at the Trumpet, and fall dead at the blast; **42:29 is the only verse placing `dābba` (moving creatures) in the heavens**, on a dual pronoun `fīhimā` verified in the morphology, where the three parallel dispersal verses (2:164, 31:10, 45:4) all use the singular for the earth alone; at lemma level **`dābba` is the most heaven-attached being-word** (27.8%) — 3.4× the angel-word and twelve times the human-word. The angels-only reading of the thirteen was **stress-tested rather than assumed** and absorbs twelve of them, each with a closing verse (2:32 for ignorance of the unseen, 21:28/13:13/16:50 for fear, 40:7/42:5 for petition) — but **it does not absorb 39:68**, because across all six angel+death ayahs the angel is death's agent and never its patient: **no verse in the Quran says an angel dies.** Verdict: underdetermination, not contradiction.
+
+On the other side the ledger is flat: **`arḍ` occurs 461 times and is never pluralised** — the grammatical machinery for "multiple earths" does not exist in the text; **zero of the 19 genuine human+heaven ayahs place a human in the heavens**; and the anthropology closes on itself at 20:55 — made from the earth, returned to it, raised from it. **"Seven earths with people on them" is a three-layer stack** — an ambiguous pronoun in 65:12 (`mithlahunna`, which never repeats "seven" and mentions no inhabitant), a weak report, and the 2017 TRAPPIST-1 discovery retrofitted — none of whose layers is the Quranic text. That makes the claim **unsupported, not false**, and the file keeps those apart.
+
+Also established: the Quran affirms **exactly two** non-human rational species (jinn and angels; no third survives checking), and the **jinn are barred from the heavens rather than resident** (72:8-9, 15:16-18, 37:6-10); **55:33 is a taunt inside a judgment scene**, not a space-travel prophecy — `sulṭān` means *warrant* in the clear majority of its 39 occurrences and no translator renders it "power" there, and `tanfudhū` occurs only in that verse; **there is no astronomy** — `falak` occurs twice against 23 occurrences of the same root meaning *ship*, no word for planet/universe/galaxy, all five `kawkab` denoting a light rather than a world; and the Quran is **geocentric in vantage but not in doctrine** — a sky that is a roof and an earth that is a bed, with no word for centre, axis, or revolution-about-something, which is why it has no geocentrism to defend and no heliocentrism to be credited with.
+- **Start here:** [`cosmos/README.md`](cosmos/README.md) (folder index)
+- **The answer:** [`cosmos/2-cross-cutting/research-is-there-life-beyond-earth.md`](cosmos/2-cross-cutting/research-is-there-life-beyond-earth.md)
+- **The claim traced:** [`cosmos/1-narratives/narrative-65-12-seven-earths-claim.md`](cosmos/1-narratives/narrative-65-12-seven-earths-claim.md)
+- **Synthesis:** [`cosmos/concept-cosmos-deep.md`](cosmos/concept-cosmos-deep.md)
+- 12 files · 4 root + 2 narrative + 2 cross-cutting + 1 structural + 1 synthesis + 1 README + brief
+
 ## Cross-investigation files (top-level)
 
 These span all investigations and live at the top of `notes/`.

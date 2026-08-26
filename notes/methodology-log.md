@@ -2449,3 +2449,57 @@ The investigation's single most important finding did not come from a lemma tabl
 Three things to carry forward: **(a) run a person-and-mood audit in Phase 0 for any practice-topic** — it was decisive here and is cheap; **(b) launch Phase-3 items that don't depend on Phase 2 as soon as Phase 0 data exists**, which cut wall-clock materially; **(c) cancel planned files when an early agent report shows the ground is already covered** — the 17:78–82 narrative was dropped on exactly that evidence.
 
 The Quran-research project now stands at ~615,000 words across 11 thematic investigations.
+
+---
+
+## Entry 13 — COSMOS: life beyond earth (2026-08-26)
+
+Commissioned by a direct factual question rather than a thematic one: *"Do humans exist outside of Earth? Does the Quran even talk about it?"* — prompted by the commissioner having heard a scholar claim seven or eight earth-like planets with human populations. **The first investigation whose brief included adjudicating a specific external claim**, and the first where the hadith/tafsīr boundary was not merely a scope note but the substance of the answer.
+
+12 files, ~24,500 words, 8 agents, ~0.9M tokens. Medium scope, no Phase 3.
+
+### The decisive instrument: the `mā`/`man` pronoun split
+
+Arabic distinguishes `mā` (what — things) from `man` (who — rational beings). Searching both before `fī al-samāwāt` gave **39 ayahs with `mā` against 13 with `man`** (3:83, 10:66, 13:15, 17:55, 19:93, 21:19, 22:18, 24:41, 27:65, 27:87, 30:26, 39:68, 55:29). Those thirteen predicate prostration, glorification, petition, ignorance of the unseen, terror at the Trumpet, and death at the blast. **The Quran grammatically asserts rational beings in the heavens.**
+
+This continues the Entry-12 lesson: after eleven investigations mining the lemma table, the last two have both turned on **grammatical features** — person and mood there, relative-pronoun class here. **Add pronoun-class audits to the Phase-0 toolkit alongside person-and-mood.**
+
+### The stress test as a design pattern
+
+The Phase-2 agent was instructed not to assert the finding but to try to break it: *does anything resist the angels-only reading of the thirteen?* It closed twelve of them by finding the verse where the Quran says the same thing of angels (2:32 ignorance, 21:28/13:13/16:50 fear, 40:7/42:5 petition), and isolated **39:68** as the residue — across all six angel+death ayahs the angel is death's *agent*, never its patient, so no verse says an angel dies. Verdict: **underdetermination, not contradiction.**
+
+**This is the highest-value prompt pattern the project has produced.** Asking an agent to build a case yields advocacy; asking it to build the case and then dismantle it yields a calibrated result with the residue named. Used in Entry 11 (container/content) and Entry 12 (rest/vigil tension) and here — three for three. **Make it standard for every Phase-2 agent.**
+
+### Orchestrator errors, all caught by agents
+
+1. **Root-level matching produced a 39% false-positive rate.** My structural pre-cut counted human/heaven co-occurrence by root, but `smw` also yields `ism` (name) and `b$r` also yields the "glad tidings" cluster. Of 31 root-level hits, only **19 were genuine**. The being-vs-heavens table was inflated on every row — `mlk` especially, since it also yields `mulk` (dominion) and `malik` (king), which co-occur with "the heavens and the earth" constantly without meaning angels. Recomputed at lemma level the angel share fell from 21.5% to 8.1%. **Lesson: for any root with a second unrelated sense, co-occurrence must be computed at LEMMA level. Root-level co-occurrence is only safe for monosemous roots.** The correction strengthened the headline (`dābba` went from leading angels 1.8× to 3.4×), but that was luck, not method.
+2. **I overweighted a pronoun.** I flagged 42:29's `jamʿihim` (3MP, the rational-plural) as a significant hint. The agent verified the tag and then showed 6:38 uses the same 3MP for ordinary earth fauna once called "communities" — so it marks accountability status, not humanness. Correctly deflated.
+3. **My brief said `al-thaqalān` occurs 6 times.** It occurs **once** (55:31); five of the six raw hits are `athqāl`, "burdens."
+4. **A sibling-file overreach caught by another agent**: `concept-smw-seven-heavens.md` claimed no visible object is placed in heavens 2–7, but **71:16 places the moon `fīhinna` (3FP)** collectively. The defensible claim is narrower — no verse assigns a named object to a *specific* heaven other than the lowest — and was patched in all four places.
+
+### Findings
+
+- **`arḍ` occurs 461 times and is never pluralised.** One lemma, all singular. The grammatical machinery for "seven earths" does not exist in the corpus. This single lexical fact settles the commissioner's question more cleanly than any argument.
+- **42:29 is the only verse placing `dābba` in the heavens**, on a dual `fīhimā` verified in the morphology, against three parallel dispersal verses (2:164, 31:10, 45:4) that all use the singular for the earth alone.
+- **Zero of the 19 genuine human+heaven ayahs locate a human in the heavens.** The anthropology closes on itself at 20:55 — from the earth, into it, out of it again.
+- **Exactly two non-human rational species**, jinn and angels; every candidate third resolves to one of them by the verse's own wording. **Jinn are barred from the heavens, not resident** (72:8-9, 15:16-18, 37:6-10).
+- **55:33 is a taunt inside a judgment scene.** `Sulṭān` means *warrant* in the clear majority of its 39 occurrences and no translator renders it "power" there; `tanfudhū` occurs only in that verse; 55:35 answers the challenge with fire and smoke.
+- **Geocentric in vantage, not in doctrine.** No word in the corpus for centre, axis, or revolution-about-something; the earth is never placed among the movers and never called fixed. *A vantage is not a doctrine* — which is why the text has no geocentrism to defend and no heliocentrism to be credited with.
+
+### On adjudicating an external claim
+
+The brief required the agent to trace the claim's provenance with WebSearch while keeping it strictly outside the evidence base. That worked: it identified a three-layer stack (tafsīr on 65:12, a weak report about other earths, and the 2017 TRAPPIST-1 discovery retrofitted) and kept **"not in the text" separate from "false."** That distinction was written into the prompt deliberately and the file holds it. **Keep it whenever an investigation touches a belief the commissioner already holds** — collapsing the two would have been both inaccurate and needlessly wounding.
+
+### Cross-investigation citations
+
+- **Teleportation** — the mechanism-silence pattern recurs exactly: the Quran reports celestial *arrangement* without celestial *mechanism*, as it reports translocation without trajectory.
+- **Time** — 17:12's assignment of counting to the day, and the absence of any resolving creation chronology, extend the event-anchored-not-instrumented finding.
+- **Afterlife** — 39:68's death of the heaven-dwellers and 27:87's terror belong to the Trumpet sequence mapped there.
+
+### Open questions
+
+1. **39:68 remains underdetermined.** Angels die too, or the heavens hold more than angels. The verse does not choose and neither should we.
+2. **16:49's `min dābbatin`** — 3 of 4 translators read it as covering both heavens and earth, Arberry restricts it to earth. Reported, not adjudicated.
+3. **What tafsīr actually says about 65:12** — deliberately out of scope, and the one place a follow-up would add real value, since the commissioner's question originated there.
+
+The Quran-research project now stands at ~640,000 words across 12 thematic investigations.
