@@ -64,7 +64,7 @@ Joseph's reply comes the same scene: `lā tathrība ʿalaykumu al-yawm yaghfiru 
 **5:51-53.** Named: `fī qulūbihim maraḍ`, fear `nakhshā an tuṣībanā dāʾira` (5:52), hurrying `yusāriʿūna fīhim`. The future regret is `ʿalā mā asarrū fī anfusihim`: over **what they hid inside themselves**. The same verb `asarra` in the hereafter regret formula (10:54, 34:33). **[inferred]:** choosing safety over a stance.
 **Count:** of the five `nādim` ayahs, only 5:31 and 26:157 are narrated past; 5:52, 23:40 and 49:6 are forward-looking.
 
-## 9. Wrong object and praised sorrow
+## 9. Wrong object, and sorrow not blamed (9:92 — CORRECTED from "praised": the text says `wa-lā ʿalā`, *no blame*)
 
 **4:72-73.** The hanger-back (`la-man layubaṭṭiʾanna`) says one thing when disaster strikes (`qad anʿama Allāhu ʿalayya idh lam akun maʿahum`, 72) and the opposite when bounty comes (`yā laytanī kuntu maʿahum fa-afūza fawzan ʿaẓīmā`, 73). The text itself says his tie to them was `ka-an lam takun baynakum… mawadda`. Object of regret: **a missed gain**; same man, two readings of one absence.
 **28:79-82.** The desirers of `al-ḥayāt al-dunyā` say `yā layta lanā mithla mā ūtiya Qārūn`. The knowers reply `waylakum thawāb Allāh khayr` (28:80). After the earth swallows him: `wa-aṣbaḥa alladhīna tamannaw makānahu bi-l-ams`, and the relief `law-lā an manna Allāhu ʿalaynā la-khasafa bina` (28:82). A regret **avoided** by watching the other man fall (another `aṣbaḥa`).
@@ -76,7 +76,7 @@ Joseph's reply comes the same scene: `lā tathrība ʿalaykumu al-yawm yaghfiru 
 
 | Marker | Converted | Did not / not shown |
 |---|---|---|
-| Direct address to God, with petition | calf 7:149; garden-people 68:29, 32; the three 9:118 (`illā ilayhi`) | Cain, Thamūd: none. Garden-owner: mention without petition |
+| Turning toward God by name *(CORRECTED by `research-regret-that-works.md`: none of these group cases speaks to God in the second person, and the three ask for nothing — what they share is turning toward God by name)* | calf 7:149; garden-people 68:29, 32; the three 9:118 (`illā ilayhi`) | Cain, Thamūd: none. Garden-owner: mention without petition |
 | Words of confession (`ẓālimīn`, `khāṭiʾīn`, `iʿtarafū`) | 68:29, 12:91, 9:102 | Cain, Thamūd: none |
 | Third party spoke before the loss | 68:28, 12:80, 20:90 | Cain (5:28), Thamūd (26:156), garden-owner (18:37-41), all unheeded; so a warning alone is **not** the marker |
 | Timing relative to consequence | brothers, three, calf: before final sanction | Thamūd: regret then immediate seizure |
@@ -84,7 +84,7 @@ Joseph's reply comes the same scene: `lā tathrība ʿalaykumu al-yawm yaghfiru 
 | Outcome reported | 12:92, 9:118, 7:153 | 68:32 and 9:102 are hopes (`ʿasā`) |
 
 **Strength of claim.** Strong: the two narrated `nādim` cases have no address to God; no converting case uses `nādim`; three of five `nādim` ayahs are warnings. Moderate: the converting cases all turn toward God. Weak: that regret *without* a turn "cannot" work; Thamūd's text shows the absence, not an impossibility. **[interpretive]:** `nādim` marks the felt state; what the converting cases add is a *direction*.
-Morning (`aṣbaḥa`) recurs in Cain, 18:42, 68:17-22, 26:157, 5:52, 23:40, 49:6, 28:82; a sibling file tests it.
+`aṣbaḥa` recurs in Cain, 18:42, 68:17-22, 26:157, 5:52, 23:40, 49:6, 28:82. *(CORRECTED: the sibling root file tested it — `aṣbaḥa` means "became" here; only 68:20 among these is literal morning.)*
 
 ## For introspection
 

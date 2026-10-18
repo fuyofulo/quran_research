@@ -2503,3 +2503,48 @@ The brief required the agent to trace the claim's provenance with WebSearch whil
 3. **What tafsīr actually says about 65:12** — deliberately out of scope, and the one place a follow-up would add real value, since the commissioner's question originated there.
 
 The Quran-research project now stands at ~640,000 words across 12 thematic investigations.
+
+## Entry 14 — REGRET: the first investigation built to end in a self-examination (2026-10-19)
+
+Commissioned as an open, explicitly collaborative question: *"What are the things the Quran mentions humans will regret… if we list them, we can reverse-engineer what actions and what feelings lead to them, so I can introspect."* The deliverable is therefore three-layered — a complete list, a causal reverse-engineering, and an instrument the commissioner can run on his own life — and the investigation is framed as a **first pass**, with its open seams handed back to him.
+
+13 files, ~28,900 words, 9 agents (6 Sonnet Phase-1, 2 Opus Phase-2, 1 Opus synthesis), ~1.15M subagent tokens. No Phase 3.
+
+### The decisive instruments
+
+1. **A regret-speech census instead of a root list.** Regret in the Quran is mostly *spoken* — `yā laytanī`, `yā ḥasratā`, `yā waylanā`, *send me back*, *if only I had a return* — so the Phase-0 inventory combined morphology markers (`ndm`, `Hsr` by lemma, `layta`, `farraṭa`, `iʿtarafa`) with exact-formula search over diacritic-stripped Arabic. Each core ayah was then given an **orchestrator annotation** (setting L/D/H, speaker person, kind: self / false-object / lament-for-others / non-culpable wish / control), stored in the JSON and **labelled there as a reading, not a count**. That table is what let the catalog agent verify by script that all 56 self-regret ayahs were placed exactly once.
+2. **The five-field protocol with a split inner-state column.** Every regret was recorded as: who/when · own words · cause the TEXT states (or "no cause stated") · action pattern · inner state, split into **named** (an Arabic word in the passage, with ref) and **[inferred]**. The commissioner asked specifically for *feelings*; the split is what makes that answerable without fabrication. It produced the investigation's most useful finding for introspection: **the regretful never name wanting in themselves** — no self-applied `ḥubb`, `hawā`, `ghurūr`, `amānī`, `ẓann`, `istikbār` — while God's voice names exactly those. The person regretting can name what they did; what they wanted has to be named for them.
+3. **A `stated-causes` versepack group added mid-Phase-0.** Having built groups by vocabulary, I realised the passages where causes are *itemised* (74:38-48, 69:30-37, 89:15-24, 57:12-15 …) carry no regret marker at all and would have been missed. They became their own Phase-1 file and the most direct reverse-engineering material in the investigation. **Lesson: when the commissioner's question is causal, build a group for the causal passages, not only for the topic's vocabulary.**
+
+### Orchestrator errors, all caught
+
+1. **The `aṣbaḥa` overread.** Phase 0 found all five `nādim` take `aṣbaḥa` and that `SbH` had a ×15 lift in regret ayahs, and I headlined it as "this-life regret is what you wake up to" — and told the commissioner so mid-run. The root agent tested all 28 `aṣbaḥa` ayahs: **2 are literal morning, none of the 5 regret uses.** It means *became*. Worse, **the lift was circular**: 5 of its 6 hits were the very `nādim` ayahs that defined the finding. Two lessons: (a) **a lift score computed over ayahs selected by the co-occurring word is not evidence of anything**; (b) **a common verb's imagery must be checked across all its occurrences before it is read into a passage.** What survived is still real: regret is a state *passed into* after the act (never `kāna`), and 3 of 5 are God announcing it *beforehand* (5:52, 23:40, 49:6). I corrected the user-facing claim in the same session.
+2. **17:29 `maḥsūr` admitted as "contested".** 0 of 4 translators render it "regretful"; its root siblings (21:19, 67:4) both mean exhaustion. I should have checked the translations before admitting it. Excluded; core self-regret 57 → 56.
+3. **9:92 called "praised".** The text says `wa-lā ʿalā` — *no blame upon* them — and 9:91 counts such people among the `muḥsinīn`. Exempted and approved, not praised for the tears.
+4. **I committed a directory a running agent was writing to.** `git add notes/regret` picked up a half-written catalog draft; the agent's own later commit superseded it. **Never `git add` a folder while an agent is still writing into it — add named files.**
+
+### Agent errors caught by later agents
+
+- **Phase-1 → Phase-2 correction rate was high and healthy**: the catalog corrected three Phase-1 claims (the regretful *do* name absence and defeat in themselves — 21:97, 23:106, 68:31, 39:56 — just never wanting; Joseph's brothers' motive *is* stated, 12:8-9; 39:56 *does* name a deed, mockery), and regret-that-works corrected a fourth (only 5 of 12 converting cases address God in the second person; what holds for all 12 is turning toward Him by name). Every correction is logged in `regret/README.md`. **Phase-2 agents instructed "if a Phase-1 claim is wrong, correct it in your file" did so four times out of four opportunities** — keep that instruction standard.
+- **The closing-window agent quoted nine verses from memory and flagged them.** All nine held on checking, and the flagged "relapse candidates" turned into a finding: six this-life passages (10:12, 10:22-23, 29:65, 30:33, 31:32, 7:134-135) of crisis-contrition that evaporates on rescue. **Flagging unverified citations is the right behaviour — reward it by checking them rather than discarding them.**
+
+### Findings
+
+- **The Quran never commands regret; it commands return.** `ndm`: 7 nouns, 0 verbs. Regret-`ḥasra`: 9 nouns, 0 verbs. No prophet is called `nādim`. `tūbū` 7× (8 `twb` imperatives, one addressed to God at 2:128). None of the 12 converting cases uses `nādim`, `ḥasra` or `layta`.
+- **Grammar separates converting regret from the other kind**: the speaker is the subject of the wrong (`ẓalamtu nafsī`), the petition is for forgiveness or mercy, and in 17 of 32 human `tāba` ayahs a second act follows in the same verse. The four bargain-shaped promises (*rescue me / give me, and I will…*: 6:63-64, 7:189-190, 9:75-76, 10:22-23) are all broken in the next verse — and **9:75's promise is word-for-word the death-bed wish of 63:10** (`aṣṣaddaqa … min al-ṣāliḥīn`).
+- **Grief is forbidden 16 times and never over one's own sin.** The forbidden "if only" has an outcome or another person as its subject; the regret that can work has one's own act.
+- **Negative space**: no regret over bodily sins, poverty, illness, trade, or a missed opportunity (missed gains appear only as false-object regrets). Regret sits in whom one faced and followed and in what one owed.
+- **Yūnus and Pharaoh are the only two called `mulīm`** (37:142, 51:40); both in water, both say *there is no god but*; the stated deciders both look backward (37:143 *had he not been of those who glorify*; 10:91 *now, when you disobeyed before?*).
+
+### Cross-investigation citations
+
+- **Failure** — the Iblīs–Adam *admit vs defend* binary holds inside this life (`aghwaytanī` 7:16, 15:39 vs `fa-ghawā` 20:121) and the hereafter blame-dialogues reuse Iblīs's verb (28:63, 37:32). It **breaks after death**: hereafter speakers admit too (67:11, 40:11) and are still lost. Admission is decisive only inside the window.
+- **Fasting / tahajjud** — the same `laʿalla` / `ʿasā` hedge recurs: 68:32 and 9:102 hope (`ʿasā`) for acceptance without the text reporting it.
+
+### Open questions
+
+1. Does avoidance precede heedlessness (50:19 `taḥīd` → 50:22 `ghafla`), or the reverse? The text sequences them in one passage but states no causal order.
+2. Nine regret scenes state no cause at all (Cain, Thamūd among them). Silence or deliberate opening?
+3. The commissioner's own reverse-engineering — the six "seams" in the catalog — is the next pass, by design.
+
+The Quran-research project now stands at ~670,000 words across 13 thematic investigations.

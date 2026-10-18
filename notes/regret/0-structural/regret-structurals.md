@@ -128,7 +128,7 @@ turning back (30:43, 42:47), the punishment (39:54, 39:55, 71:1), death (63:10).
 immediately before the three hereafter excuses (`yā ḥasratā` / *if God had guided me* / *if I had a
 return*). The text pre-empts regret by name.
 
-## 9. Regret the Quran forbids, and sorrow it praises
+## 9. Regret the Quran forbids, and sorrow it does not blame
 
 - **Forbidden**: `li-kay-lā taʾsaw ʿalā mā fātakum` — *so you do not grieve over what escaped you*
   (57:23); `li-kay-lā taḥzanū ʿalā mā fātakum` (3:153); `fa-lā taʾsa` over a defiant people (5:26,
