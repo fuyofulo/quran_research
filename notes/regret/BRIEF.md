@@ -60,7 +60,7 @@ Full detail in `0-structural/regret-structurals.md`. The essentials:
 - **`min qabli an yaʾtiya`** (*before there comes*) 8× — the text pre-empts regret by name.
 - **Three registers**: regret that converts (repentance) · regret that cannot (too late) · regret the
   Quran forbids (`lā taʾsaw ʿalā mā fātakum` 57:23; 3:153; 35:8; the "if only" of fate made into
-  ḥasra at 3:156). Plus sorrow it praises (9:92).
+  ḥasra at 3:156). Plus sorrow it does not blame (9:92 — CORRECTED from "praises").
 
 ## Data files — use these; do NOT open whole corpus files
 

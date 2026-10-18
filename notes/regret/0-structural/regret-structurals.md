@@ -136,8 +136,10 @@ return*). The text pre-empts regret by name.
 - **Converted into punishment**: the hypocrites' *if only they had stayed with us they would not have
   died* — God makes **that** a `ḥasra` in their hearts (3:156). The "if only" of fate is itself the
   regret.
-- **Praised**: 9:92 — men who turned away *with their eyes overflowing with tears, from sorrow that
-  they could not find the means to spend*.
+- **Not blamed** (CORRECTED — an earlier version said "praised"): 9:92 — men who turned away *with
+  their eyes overflowing with tears, from sorrow that they could not find the means to spend*. The
+  text's verdict is `wa-lā ʿalā` — *no blame upon* them — and 9:91 counts such people among the
+  `muḥsinīn`. Exempted and approved, not praised for the tears.
 
 **[interpretive]** Three registers: the regret that converts (repentance), the regret that cannot
 (too late), and the regret that should not be felt at all (over what was decreed or what others
