@@ -44,13 +44,13 @@ silent on others. All three are useful to him if — and only if — they are ke
 
 Full detail in `0-structural/regret-structurals.md`. The essentials:
 
-- **65 core ayahs; 57 are regret over one's own conduct.** Setting: **H 34 · D 10 · L 13**.
-  Meccan 47 / Medinan 10. Speaker: plural dominant in the hereafter (16 P / 9 S / 9 narrated).
-- **Two words, two worlds.** `nādim` (5×) is this-life only, and **all 5 take `aṣbaḥa`** (*woke up
-  to find himself*). `nadāma` (2×) is hereafter only, both the identical clause *they concealed
+- **65 core ayahs; 56 are regret over one's own conduct.** Setting: **H 34 · D 10 · L 12**.
+  Meccan 46 / Medinan 10. (17:29 `maḥsūr` excluded after Phase 1 — it means *depleted*.) Speaker: plural dominant in the hereafter (16 P / 9 S / 9 narrated).
+- **Two words, two worlds.** `nādim` (5×) is this-life only, and **all 5 take `aṣbaḥa`** (*became* —
+  CORRECTED: not "woke up to"; only 2 of 28 `aṣbaḥa` ayahs are literal morning). `nadāma` (2×) is hereafter only, both the identical clause *they concealed
   regret when they saw the punishment* (10:54, 34:33). `ḥasra` (8× + `yā ḥasratā` 39:56) spans both
   and is also used for lament over others (35:8, 36:30) and for a regret God *makes* (3:156, 8:36).
-- **Regret is triggered by seeing.** `rAy` in 12/57 self-regret ayahs (lift ×4.4); *seeing the
+- **Regret is triggered by seeing.** `rAy` in 12/56 self-regret ayahs (lift ×4.5); *seeing the
   punishment* in 8 ayahs; 2:167 *God will show them their deeds as regrets*; 50:22.
 - **The wish has four shapes** [orchestrator classification]: undo / return / separate / unexist.
 - **The hands**: all three regret gestures are hand-gestures (25:27, 18:42, 7:149); 78:40 and 89:24

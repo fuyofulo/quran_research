@@ -9,12 +9,14 @@
 ## Headline finding
 
 The Quran has **two words for regret, and they never share a world.** `nādim` (regretful, 5×) occurs
-only in this life, and **all five occurrences take the verb `aṣbaḥa`**: *he woke up to find himself*
-regretful. `nadāma` (regret, 2×) occurs only in the hereafter, and **both occurrences are the identical
+only in this life, and **all five occurrences take the verb `aṣbaḥa`** — *he became* regretful, a state
+passed into after the act (never `kāna`, *was*). *(CORRECTED after Phase 1: an earlier version read
+`aṣbaḥa` as "woke up to find himself". The root agent tested all 28 `aṣbaḥa` ayahs: only 2 are literal
+morning, and none of the 5 regret uses. See `1-roots/concept-ndm-hsr-the-two-words.md`.)* `nadāma` (regret, 2×) occurs only in the hereafter, and **both occurrences are the identical
 clause** `wa-asarrū al-nadāmata lammā raʾawu al-ʿadhāb` — *they concealed regret when they saw the
-punishment* (10:54, 34:33). This-world regret is a morning-after. Hereafter regret is hidden, and is
-triggered by sight. Of 57 ayahs where people regret their own conduct, **34 are in the hereafter, 10
-at death or as punishment arrives, 13 in this life.**
+punishment* (10:54, 34:33). This-world regret is a state one passes into after the act. Hereafter
+regret is hidden, and is triggered by sight. Of 56 ayahs where people regret their own conduct, **34
+are in the hereafter, 10 at death or as punishment arrives, 12 in this life.**
 
 ---
 
@@ -28,7 +30,7 @@ Every regret marker, exhaustively (morphology for lemmas, exact formula over dia
 | `nadāma` (regret) | 2 | 10:54, 34:33 |
 | `ḥasra` (anguished regret) | 8 | 2:167, 3:156, 6:31, 8:36, 19:39, 35:8, 36:30, 69:50 |
 | `yā ḥasratā` (alas for me) | 1 | 39:56 |
-| `maḥsūr` (contested — "regretful" / "denuded") | 1 | 17:29 |
+| `maḥsūr` — *depleted*, NOT regret (Phase-1 verdict; 0/4 translators say "regretful") | 1 | 17:29 |
 | `layta` (if only) | 14 | 4:73, 6:27, 18:42, 19:23, 25:27, 25:28, 28:79, 33:66, 36:26, 43:38, 69:25, 69:27, 78:40, 89:24 |
 | `yā waylatā / yā waylanā` (woe to me/us) | 10 | 5:31, 11:72*, 18:49, 21:14, 21:46, 21:97, 25:28, 36:52, 37:20, 68:31 |
 | `law anna lī/lanā karratan` (if only I had a return) | 3 | 2:167, 26:102, 39:58 |
@@ -44,17 +46,17 @@ Every regret marker, exhaustively (morphology for lemmas, exact formula over dia
 
 ## 2. The core set — where regret happens
 
-65 core ayahs. **57 are regret over one's own conduct**; 3 are regret aimed at the wrong object
+65 core ayahs. **56 are regret over one's own conduct**; 3 are regret aimed at the wrong object
 (4:73, 28:79, 3:156); 2 are lament over others (35:8, 36:30); 2 are non-culpable wishes (19:23
-Maryam, 36:26 the martyr); 1 control.
+Maryam, 36:26 the martyr); 2 controls (11:72; 17:29, excluded after Phase 1 — `maḥsūr` = depleted).
 
-| Setting (of the 57) | Ayahs | Speaker singular / plural / narrated |
+| Setting (of the 56) | Ayahs | Speaker singular / plural / narrated |
 |---|---|---|
 | **H** — hereafter | **34** | 9 / 16 / 9 |
 | **D** — at death, or as punishment arrives | 10 | 3 / 5 / 2 |
-| **L** — this life | 13 | 2 / 4 / 7 |
+| **L** — this life | 12 | 2 / 4 / 6 |
 
-Meccan 47 / Medinan 10. **[interpretive]** Regret is overwhelmingly an eschatological genre, and its
+Meccan 46 / Medinan 10. **[interpretive]** Regret is overwhelmingly an eschatological genre, and its
 dominant voice there is the plural — *we*. The singular `yā laytanī` voices (25:27-28, 39:56,
 43:38, 69:25-27, 78:40, 89:24) are a minority inside it.
 
@@ -63,21 +65,22 @@ dominant voice there is the plural — *we*. The singular `yā laytanī` voices 
 | | `nādim` (5) | `nadāma` (2) |
 |---|---|---|
 | World | this life, every time | hereafter, every time |
-| Verb | `aṣbaḥa` 5/5 — *woke up to / became* | `asarrū` 2/2 — *concealed* |
+| Verb | `aṣbaḥa` 5/5 — *became* (never `kāna`) | `asarrū` 2/2 — *concealed* |
 | Trigger | the consequence of one's own act | `lammā raʾawu al-ʿadhāb` 2/2 — *seeing* |
 
 `aṣbaḥa` occurs in 28 ayahs in the whole Quran; 6 of them are regret ayahs (the five `nādim` plus
-18:42, the garden-owner who *woke up* turning his palms). In the root-lift table `SbH` (morning) is
-over-represented in self-regret ayahs by **×15**. The garden-people of 68:17-33 are also a
-morning story (`muṣbiḥīn` 68:17, 68:21; `fa-aṣbaḥat ka-l-ṣarīm` 68:20).
+18:42, the garden-owner turning his palms). In the root-lift table `SbH` is over-represented in
+self-regret ayahs by ×15 — **but that lift double-counts**: 5 of its 6 hits are the `nādim` ayahs
+themselves. Only 2 of the 28 `aṣbaḥa` ayahs are literal morning (30:17, 68:20).
 
-**[interpretive]** In this life, the Quran's regret is what you wake up to. It arrives after the
-act, when the act's result is visible in daylight. Test this — it may be the frame for the whole
-this-life half.
+**CORRECTED [Phase-1 verdict].** The original reading here — "this-life regret is what you wake up
+to" — does not survive. `aṣbaḥa` is *became*. What does survive: regret is a state one **passes into
+after the act** (4 of 5 after `fa-`, *and so*), never a standing condition (`kāna`); and 3 of the 5
+are in the imperfect — **God announcing the regret before the act** (5:52, 23:40, 49:6).
 
 ## 4. Regret is triggered by seeing
 
-`rAy` (see) occurs in 12 of the 57 self-regret ayahs — lift ×4.4. "Seeing the punishment"
+`rAy` (see) occurs in 12 of the 56 self-regret ayahs — lift ×4.5. "Seeing the punishment"
 (`raʾawu / yarawna / tarā al-ʿadhāb`) closes 8 ayahs: 2:165, 2:166, 10:54, 25:42, 28:64, 34:33,
 39:58, 42:44. `lammā raʾaw` (when they saw) recurs at 10:54, 34:33, 40:84, 40:85, 42:44; and
 7:149 is `raʾaw annahum qad ḍallū` — *they saw that they had strayed*. 2:167 makes God the one who
@@ -171,8 +174,8 @@ chose). An introspection tool has to separate all three.
 
 ## For introspection
 
-- The Quran's this-life regret is a morning-after. The question it hands you is not *how do I feel
-  about this?* but *what will I wake up to?*
+- This-life regret is a state you pass into *after* the act, and three of its five uses are God
+  announcing it *in advance*. The question it hands you: *what state will this act leave me in?*
 - Hereafter regret is triggered by seeing what was already true. The useful practice is to look now.
 - Most `if only` wishes in the Quran name a specific thing — a friend, an obedience, a neglect, a
   charity left undone. A vague unease is not the Quranic shape. A named item is.

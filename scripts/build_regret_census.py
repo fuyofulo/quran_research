@@ -66,7 +66,8 @@ CORE = {
     "2:167": ("H", "P", "self", "followers: deeds shown to them as regrets"),
     "6:31": ("H", "P", "self", "'alas for what we neglected' when the Hour comes suddenly"),
     "8:36": ("L", "N", "self", "wealth spent to block the way becomes regret"),
-    "17:29": ("L", "N", "self", "over-spending / withholding leaves one mahsur (contested)"),
+    # Phase-1 verdict: mahsur = depleted/denuded (0/4 translators say "regretful"); not regret.
+    "17:29": ("L", "N", "control", "mahsur = depleted, not regretful (excluded after Phase 1)"),
     "19:39": ("H", "N", "self", "the Day of Regret, 'while they are in heedlessness'"),
     "39:56": ("H", "S", "self", "'alas for what I neglected in regard to God'"),
     "69:50": ("H", "N", "self", "the Quran will be a regret for the deniers"),

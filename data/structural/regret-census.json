@@ -297,8 +297,8 @@
   "17:29": {
    "setting": "L",
    "person": "N",
-   "kind": "self",
-   "gloss": "over-spending / withholding leaves one mahsur (contested)"
+   "kind": "control",
+   "gloss": "mahsur = depleted, not regretful (excluded after Phase 1)"
   },
   "19:39": {
    "setting": "H",
@@ -628,21 +628,21 @@
  "summary": {
   "core_ayahs": 65,
   "kinds": {
-   "self": 57,
+   "self": 56,
+   "control": 2,
    "false": 3,
    "other": 2,
-   "wish": 2,
-   "control": 1
+   "wish": 2
   },
-  "self_regret_ayahs": 57,
+  "self_regret_ayahs": 56,
   "self_by_setting": {
-   "L": 13,
+   "L": 12,
    "D": 10,
    "H": 34
   },
   "self_by_person": {
    "S": 14,
-   "N": 18,
+   "N": 17,
    "P": 25
   },
   "self_by_setting_person": {
@@ -652,295 +652,295 @@
    "H-N": 9,
    "H-P": 16,
    "H-S": 9,
-   "L-N": 7,
+   "L-N": 6,
    "L-P": 4,
    "L-S": 2
   },
   "self_by_revelation": {
    "Medinan": 10,
-   "Meccan": 47
+   "Meccan": 46
   }
  },
  "root_lift_self_regret": [
   {
    "root": "ndm",
    "in_regret_ayahs": 7,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 7,
-   "lift": 109.02
-  },
-  {
-   "root": "Hsr",
-   "in_regret_ayahs": 7,
-   "of": 57,
-   "corpus_ayahs": 12,
-   "lift": 63.59
+   "lift": 110.96
   },
   {
    "root": "krr",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 6,
-   "lift": 54.51
+   "lift": 55.48
+  },
+  {
+   "root": "Hsr",
+   "in_regret_ayahs": 6,
+   "of": 56,
+   "corpus_ayahs": 12,
+   "lift": 55.48
   },
   {
    "root": "frT",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 8,
-   "lift": 40.88
+   "lift": 41.61
   },
   {
    "root": "wdd",
    "in_regret_ayahs": 4,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 28,
-   "lift": 15.57
+   "lift": 15.85
   },
   {
    "root": "SbH",
    "in_regret_ayahs": 6,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 43,
-   "lift": 15.21
+   "lift": 15.48
   },
   {
    "root": "*nb",
    "in_regret_ayahs": 4,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 37,
-   "lift": 11.79
+   "lift": 12.0
   },
   {
    "root": "srr",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 43,
-   "lift": 7.61
+   "lift": 7.74
   },
   {
    "root": "rdd",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 57,
-   "lift": 5.74
+   "lift": 5.84
   },
   {
    "root": "qDy",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 59,
-   "lift": 5.54
+   "lift": 5.64
   },
   {
    "root": "xsr",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 60,
-   "lift": 5.45
+   "lift": 5.55
   },
   {
    "root": "AHd",
    "in_regret_ayahs": 4,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 82,
-   "lift": 5.32
+   "lift": 5.41
   },
   {
    "root": "Erf",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 62,
-   "lift": 5.28
+   "lift": 5.37
   },
   {
    "root": "jrm",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 65,
-   "lift": 5.03
+   "lift": 5.12
   },
   {
    "root": "qrb",
    "in_regret_ayahs": 4,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 91,
-   "lift": 4.79
+   "lift": 4.88
   },
   {
    "root": "bAs",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 70,
-   "lift": 4.67
+   "lift": 4.76
   },
   {
    "root": "Zlm",
    "in_regret_ayahs": 12,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 290,
-   "lift": 4.51
+   "lift": 4.59
   },
   {
    "root": "rAy",
    "in_regret_ayahs": 12,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 297,
-   "lift": 4.4
-  },
-  {
-   "root": "ydy",
-   "in_regret_ayahs": 4,
-   "of": 57,
-   "corpus_ayahs": 110,
-   "lift": 3.96
+   "lift": 4.48
   },
   {
    "root": "nfq",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 86,
-   "lift": 3.8
+   "lift": 3.87
   },
   {
    "root": "n*r",
    "in_regret_ayahs": 4,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 115,
-   "lift": 3.79
+   "lift": 3.86
+  },
+  {
+   "root": "ydy",
+   "in_regret_ayahs": 3,
+   "of": 56,
+   "corpus_ayahs": 110,
+   "lift": 3.03
   },
   {
    "root": "qwl",
    "in_regret_ayahs": 37,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 1383,
-   "lift": 2.92
+   "lift": 2.97
   },
   {
    "root": "jyA",
    "in_regret_ayahs": 7,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 262,
-   "lift": 2.91
+   "lift": 2.96
   },
   {
    "root": "swA",
    "in_regret_ayahs": 4,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 151,
-   "lift": 2.89
+   "lift": 2.94
   },
   {
    "root": "Eml",
    "in_regret_ayahs": 8,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 313,
-   "lift": 2.79
+   "lift": 2.84
   },
   {
    "root": "xrj",
    "in_regret_ayahs": 4,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 157,
-   "lift": 2.78
+   "lift": 2.83
   },
   {
    "root": "sbl",
    "in_regret_ayahs": 4,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 164,
-   "lift": 2.66
+   "lift": 2.71
   },
   {
    "root": "E*b",
    "in_regret_ayahs": 8,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 336,
-   "lift": 2.6
+   "lift": 2.64
   },
   {
    "root": "SlH",
    "in_regret_ayahs": 4,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 170,
-   "lift": 2.57
+   "lift": 2.61
   },
   {
    "root": "bSr",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 139,
-   "lift": 2.35
+   "lift": 2.39
   },
   {
    "root": "kwn",
    "in_regret_ayahs": 25,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 1176,
-   "lift": 2.32
+   "lift": 2.36
   },
   {
    "root": "ywm",
    "in_regret_ayahs": 8,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 377,
-   "lift": 2.31
+   "lift": 2.35
   },
   {
    "root": "mwt",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 143,
-   "lift": 2.29
+   "lift": 2.33
   },
   {
    "root": "kbr",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 153,
-   "lift": 2.14
+   "lift": 2.18
   },
   {
    "root": "qlb",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 155,
-   "lift": 2.11
+   "lift": 2.15
   },
   {
    "root": "tbE",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 156,
-   "lift": 2.1
+   "lift": 2.13
   },
   {
    "root": "nfs",
    "in_regret_ayahs": 5,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 270,
-   "lift": 2.02
+   "lift": 2.05
   },
   {
    "root": "Dll",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 170,
-   "lift": 1.92
+   "lift": 1.96
   },
   {
    "root": "kfr",
    "in_regret_ayahs": 8,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 465,
-   "lift": 1.88
+   "lift": 1.91
   },
   {
    "root": "nwr",
    "in_regret_ayahs": 3,
-   "of": 57,
+   "of": 56,
    "corpus_ayahs": 174,
-   "lift": 1.88
+   "lift": 1.91
   }
  ],
  "divergence_core": [
