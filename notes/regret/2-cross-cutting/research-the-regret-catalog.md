@@ -137,12 +137,12 @@ The speech file's count stands: return-petitions name a specific act in 2 of 13 
 |28:79|`yā layta lanā mithla mā ūtiya Qārūn`|said by those who `yurīdūna al-ḥayāt al-dunyā`; reversed at 28:82|
 |3:156|`law kānū ʿindanā mā mātū`|God makes *this* a `ḥasra`; He gives life and death|
 
-Also: forbidden grief 57:23, 3:153; lament over others 35:8, 36:30; praised sorrow 9:92; non-culpable wishes 19:23, 36:26. **[interpretive]** Read 9:118 beside 4:72-73. Both concern absence from the expedition. The three left behind regret the staying, and their souls `ḍāqat`. The hanger-back regrets the booty he missed. The situation is the same and the objects are opposite, as with 18:42 and 9:92.
+Also: forbidden grief 57:23, 3:153; lament over others 35:8, 36:30; sorrow not blamed 9:92; non-culpable wishes 19:23, 36:26. **[interpretive]** Read 9:118 beside 4:72-73: both concern absence from the expedition. The three left behind regret the staying (`ḍāqat anfusuhum`); the hanger-back regrets the missed booty. Same situation, opposite objects, as with 18:42 and 9:92.
 
 ## 2. Phase-1 claims corrected
 
-1. **Voice (stated-causes headline).** The headline says inner-state words are "never [spoken] by the regretful about themselves", with 67:10 the only exception. A morphology scan of 81 regret-speech ayahs finds self-named states: `ghafla` (21:97), `shiqwa` and `ḍāllīn` (23:106), `ḍalāl mubīn` (26:97), `ḍāllūn` (68:26), `ṭāghīn` (68:31), `sākhirīn` (39:56), and fear given as a motive (5:52 `nakhshā`). **What survives:** there are 0 self-applied hits for `ḥubb`, `hawā`, `āthara`, `ghurūr`, `amānī`, `rayb`, `rān`, `ẓann` or `istikbār`. In the regretful's own mouths, `grr` occurs only at 57:14 (the believers speaking) and 6:130 (the narrator), and `kbr` occurs only as the label for the leaders.
-2. **Joseph's brothers (this-life file):** that file says "nothing in this pack" names the motive, and that envy is inferred from outside it. In fact the text states the motive in their own words at 12:8-9, the father's preference. 12:91 then re-names it as God's preference (`āthara-ka Allāh`). The word *envy* is absent. The motive is not.
+1. **Voice (stated-causes headline):** inner-state words are "never [spoken] by the regretful about themselves", except 67:10. A morphology scan of 81 regret-speech ayahs finds self-named states: `ghafla` (21:97), `shiqwa` and `ḍāllīn` (23:106), `ḍalāl mubīn` (26:97), `ḍāllūn` (68:26), `ṭāghīn` (68:31), `sākhirīn` (39:56), and fear given as a motive (5:52 `nakhshā`). **What survives:** 0 self-applied hits for `ḥubb`, `hawā`, `āthara`, `ghurūr`, `amānī`, `rayb`, `rān`, `ẓann`, `istikbār`. In those ayahs `grr` is spoken only by believers (57:14) or the narrator (6:130); `kbr` only labels the leaders.
+2. **Joseph's brothers (this-life file):** "nothing in this pack" names the motive; envy inferred. The text states it in their own words at 12:8-9: the father's preference. 12:91 then re-names it as God's preference (`āthara-ka Allāh`). The word *envy* is absent. The motive is not.
 3. **Two-words file:** it says "neither [`yā ḥasratā`] cry names a deed". But 39:56's cry includes `wa-in kuntu la-mina al-sākhirīn`, mockery, which the stated-causes file itself counts as an action.
 4. **This-life headline:** it says every converting case contains "a petition or act directed to God". This holds only loosely. 12:97 is mediated, a request to Jacob (`yā abānā istaghfir lanā`). 9:118 is a realisation (`ẓannū an lā maljaʾa … illā ilayhi`), not a petition.
 
@@ -188,31 +188,29 @@ L4 OBJECT              A–J
 
 | # | Edge | Mark |
 |---|---|---|
-| 1 | wealth, children → `lahw ʿan dhikr` → the charity wish | S 63:9-10 |
-| 2 | `takāthur` → `alhākum` → "until you visit the graves" | S 102:1-2 |
-| 3 | chosen friend → `aḍallanī ʿan al-dhikr` → the A wish | S 25:29 |
-| 4 | `ʿashā ʿan dhikr` → companion assigned → `ṣadd` + `ḥisbān` → the distance wish | S 43:36-38 |
-| 5 | companions → `tazyīn` → loss | S 41:25; the step to *following* is [i] |
-| 6 | 25:29 + 43:36 make a loop (friend causes, and is the result of, lost `dhikr`) | [i] |
-| 7 | mockery → forgetting God's `dhikr` | S 23:110 `ḥattā ansawkum dhikrī` |
-| 8 | heart made heedless → follows `hawā` → `furuṭ` | S 18:28 |
-| 9 | `furuṭ` (18:28) → `ʿalā mā farraṭ-` (6:31, 39:56) | [i]: same root, no textual link |
-| 10 | forgot the meeting → forgotten | S 7:51, 32:14, 45:34; 59:19 forgot God → forgot self |
-| 11 | earning → `rān` on hearts → "legends of the ancients" | S 83:13-14 |
-| 12 | `fitna`, `tarabbuṣ`, `rayb`, `amānī` … until God's command | S 57:14 (`wa-` sequence, not causation) |
-| 13 | comparison of wealth + `ẓann` of no end and no Hour → shirk named in regret | S 18:34-42 |
-| 14 | luxury given → denial of the meeting | juxtaposed S 23:33, 21:13; causation [i] |
-| 15 | `ḥubb` of rivals → following → disowning wish | S 2:165-167 |
-| 16 | `ḥubb al-māl` + orphan/poor neglected → "if only I had sent ahead" | S 89:17-24 |
-| 17 | fear + diseased heart → alliance → `nādim` | S 5:52 |
-| 18 | `jahāla` + unchecked report → harm → `nādim` | S 49:6 |
-| 19 | father's preference resented → plan → `farraṭtum` | S 12:8-9, 12:80 |
-| 20 | rejected offering → `ṭawwaʿat nafsuhu` → killing → `nādim` | S 5:27-31 |
-| 21 | `ḥisbān` (thinks he is doing well) → effort lost, unfelt | S 18:104; "therefore no prompt to regret" [i] |
+| 1 | wealth, children → `lahw ʿan dhikr` → the charity wish; `takāthur` → `alhākum` until the graves | S 63:9-10; 102:1-2 |
+| 2 | chosen friend → `aḍallanī ʿan al-dhikr` → the A wish | S 25:29 |
+| 3 | `ʿashā ʿan dhikr` → companion assigned → `ṣadd` + `ḥisbān` → the distance wish | S 43:36-38 |
+| 4 | companions → `tazyīn` → loss | S 41:25; the step to *following* is [i] |
+| 5 | 25:29 + 43:36 make a loop (friend causes, and is the result of, lost `dhikr`) | [i] |
+| 6 | mockery → forgetting God's `dhikr` | S 23:110 `ḥattā ansawkum dhikrī` |
+| 7 | heart made heedless → follows `hawā` → `furuṭ` | S 18:28 |
+| 8 | `furuṭ` (18:28) → `ʿalā mā farraṭ-` (6:31, 39:56) | [i]: same root, no textual link |
+| 9 | forgot the meeting → forgotten; forgot God → forgot self; earning → `rān` | S 7:51, 32:14, 45:34; 59:19; 83:14 |
+| 10 | `fitna`, `tarabbuṣ`, `rayb`, `amānī` … until God's command | S 57:14 (`wa-` sequence, not causation) |
+| 11 | comparison of wealth + `ẓann` of no end and no Hour → shirk named in regret | S 18:34-42 |
+| 12 | luxury given → denial of the meeting | juxtaposed S 23:33, 21:13; causation [i] |
+| 13 | `ḥubb` of rivals → following → disowning wish | S 2:165-167 |
+| 14 | `ḥubb al-māl` + orphan/poor neglected → "if only I had sent ahead" | S 89:17-24 |
+| 15 | fear + diseased heart → alliance → `nādim` | S 5:52 |
+| 16 | `jahāla` + unchecked report → harm → `nādim` | S 49:6 |
+| 17 | father's preference resented → plan → `farraṭtum` | S 12:8-9, 12:80 |
+| 18 | rejected offering → `ṭawwaʿat nafsuhu` → killing → `nādim` | S 5:27-31 |
+| 19 | `ḥisbān` (thinks he is doing well) → effort lost, unfelt | S 18:104; "therefore no prompt to regret" [i] |
 
-Tally: 18 edges are stated; 3 edges, or links within an edge, are inferred (6, 9, the second half of 21), plus the inferred halves of 5 and 14. **[interpretive]** The map has a waist. Most appetite and deception words reach the regretted object through one of two junctions. Wealth (1), friends (3), mockery (7), looking away (4) and a heedless heart (8) all pass through **lost `dhikr`**. Assumption (13, 21) and luxury (14) pass through **denial**. On the text's model, regret is reached less by a single bad desire than by a narrowing of attention, which the desires produce.
+Of 19 edges, 5 and 8 are wholly inferred; 4, 12 and 19 partly. **[interpretive]** The map has a waist. Wealth (1), friends (2), looking away (3), mockery (6) and a heedless heart (7) reach the object through **lost `dhikr`**; assumption (11, 19) and luxury (12) through **denial**. On the text's model, regret is reached less by one bad desire than by a narrowing of attention that desires produce.
 
-**What the voice finding implies for introspection [interpretive].** When the regretful name a state, it is one of absence or defeat: unaware, overcome, lost. 21:97 retracts its own `ghafla` with `bal kunnā ẓālimīn`. 23:106's "our wretchedness overcame us" is answered `ikhsaʾū` (23:108). The *wanting* layer (`ḥubb`, `āthara`, `hawā`, `amānī`, `ẓann`, `ḥisbān`) is always supplied from outside: by God, the narrator, or believers (57:14). So self-report will tend to produce "I didn't notice". The text's diagnosis asks a different question: *what did you want, prefer or assume?* An instrument built on this catalog should use the named-state list as a checklist rather than waiting to feel the states, and it should allow a peer's view (`tawāṣaw` 103:3).
+**What the voice finding implies for introspection [interpretive].** The states the regretful name are absence or defeat: unaware, overcome, lost. 21:97 retracts its own `ghafla` with `bal kunnā ẓālimīn`; 23:106's "our wretchedness overcame us" is answered `ikhsaʾū` (23:108). The *wanting* layer (`ḥubb`, `āthara`, `hawā`, `amānī`, `ẓann`, `ḥisbān`) always comes from outside: God, the narrator, believers (57:14). Self-report will tend to say "I didn't notice"; the text asks *what did you want, prefer or assume?* So an instrument should use the named states as a checklist, not wait to feel them, and should admit a peer's view (`tawāṣaw` 103:3).
 
 > **18:28** وَلَا تُطِعۡ مَنۡ أَغۡفَلۡنَا قَلۡبَهُۥ عَن ذِكۡرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمۡرُهُۥ فُرُطࣰا
 > *Do not obey one whose heart We have made heedless of Our remembrance, who follows his desire, and whose affair is ever in neglect.*
@@ -222,18 +220,18 @@ Tally: 18 edges are stated; 3 edges, or links within an edge, are inferred (6, 9
 
 ## 4. Negative space (script-checked)
 
-- **Bodily sins.** Roots searched corpus-wide: `zny` (5 ayahs), `xmr` (7), `rbw`, `srq` (7), `fqr` (14), `tjr` (8), `jwE`, `$hw` (13). None falls within 3 ayahs of any of the 56. `srq` comes nearest, at 12:77 and 12:81, the planted cup, which is not regretted. `qtl` appears only around Cain (5:28-32), and even there his regret clause names the burial, not the killing. `mrD` appears only as "disease in hearts" (5:52).
-- **No regret over a missed pleasure, opportunity or gain**, except in group K, where the text corrects it. None over poverty, illness, failure at work, or what others did to one.
-- **Family** appears only as a distraction (63:9), as ransom currency (70:11-14: the criminal would hand over the very clan "that sheltered him"), and as the victims in F.
-- **Where bodily acts do appear:** in the repentance group, outside the core. Adam's eating (7:22-23) and Moses's killing of a man (28:15-16) are confessed as `ẓalamtu nafsī` and forgiven (28:16). Killing and fornication appear in 25:68-70 under `illā man tāba`.
+- **Bodily sins.** Roots `zny` (5 ayahs corpus-wide), `xmr` (7), `rbw`, `fqr` (14), `tjr` (8), `jwE`, `$hw` (13): none within 3 ayahs of any of the 56. `srq` occurs only at 12:77 and 12:81 (the planted cup, not regretted). `qtl` occurs only around Cain (5:28-32), whose regret clause names the burial, not the killing. `mrD` is only "disease in hearts" (5:52).
+- **No regret over a missed pleasure or gain** except in K, where the text corrects it; none over poverty, illness, work, or what others did to one.
+- **Family** appears only as distraction (63:9), as ransom currency (70:11-14, the clan "that sheltered him"), and as victims in F.
+- **Bodily acts do appear in repentance**, outside the core: Adam's eating (7:22-23) and Moses's killing (28:15-16), confessed as `ẓalamtu nafsī` and forgiven; killing and fornication in 25:68-70 under `illā man tāba`.
 
 **[interpretive]** The Quran places regret in **orientation**: whom one followed, what one set beside God, what one denied, what one stopped remembering. It also places it in **debts to a party**: God, the Hour, the poor, a brother, a people, a sign. This matches the two-words file: `farraṭa fī` always takes a party to whom something was due. Appetite-sins sit in the register of repentance. The concrete deeds that are regretted are deeds against someone owed.
 
 ## 5. Seams for the collaboration
 
-1. 50:19 `taḥīd` (veering away) sits next to 50:22 `ghafla` without a causal particle. From inside, does heedlessness begin as a blank or as an avoidance? The text leaves this open, and a reader's own experience may answer it.
-2. Nine of 49 scenes state **no cause**: Thamūd, Cain, the destroyed towns, the mixed-deeds confessors, the death-bed request. Is the silence an invitation to supply one's own case? What fills Thamūd's silence for you?
-3. Joseph's brothers turned "our father prefers him" (12:8) into "God has preferred you" (12:91). Is moving a resentment from a person to God's decree the actual repair? Where else does that move apply?
+1. 50:19 `taḥīd` (veering away) sits next to 50:22 `ghafla` with no causal particle. From inside, does heedlessness begin as a blank or as an avoidance?
+2. Nine of 49 scenes state **no cause** (Thamūd, Cain, the destroyed towns, the death-bed request …). What fills Thamūd's silence for you?
+3. Joseph's brothers turned "our father prefers him" (12:8) into "God has preferred you" (12:91). Is moving a resentment from a person to God's decree the actual repair?
 4. For a believer who does not deny, is "denial" (20/49) better read as `ḥisbān`, assuming one is doing well (18:104, 43:37)? What would count as evidence against your own `ḥisbān`?
 5. `qādirīn` (68:25), `mā aẓunnu an tabīda` (18:35) and "no end for us" (14:44) all describe an estimate of one's own capacity or permanence. Is there one inner state under all three, which the text names only by what it produces?
 6. Companion as cause (25:29) or as consequence (43:36): in your own history, which came first?
@@ -245,4 +243,4 @@ Tally: 18 edges are stated; 3 edges, or links within an edge, are inferred (6, 9
 3. **The wanting translation.** Take one "I didn't notice" or "it overcame me" (21:97, 23:106). Rewrite it as what you wanted, preferred or assumed at the time, using the text's words: `ḥubb`, `āthara`, `hawā`, `amānī`, `ẓann`, `ḥisbān`, `tarabbuṣ`, `rayb`.
 4. **The poor test.** Whom did you not feed, or not urge others to feed (69:34, 89:18, 74:44, 68:24, 36:47)? Name the person or the excuse.
 5. **The debt test.** List the parties you owe: God, parents, siblings, the poor, the people affected by what you pass on. Against each, is there a `mā farraṭtu fī …`?
-6. **The check-and-fear test.** Name one report you passed on without checking it (49:6), and one alliance you keep only because of `nakhshā` (5:52).
+6. **The check-and-fear test.** Name one report you passed on unchecked (49:6), and one alliance kept only from `nakhshā` (5:52).
