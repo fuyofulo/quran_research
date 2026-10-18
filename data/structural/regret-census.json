@@ -1,0 +1,1208 @@
+{
+ "note": "Phase-0 census for the regret investigation. 'core' annotations are an orchestrator reading (setting/person/kind), everything else is counted.",
+ "markers": {
+  "karra (a return)": {
+   "count": 6,
+   "refs": [
+    "2:167",
+    "17:6",
+    "26:102",
+    "39:58",
+    "67:4",
+    "79:12"
+   ]
+  },
+  "hasra": {
+   "count": 8,
+   "refs": [
+    "2:167",
+    "3:156",
+    "6:31",
+    "8:36",
+    "19:39",
+    "35:8",
+    "36:30",
+    "69:50"
+   ]
+  },
+  "bite": {
+   "count": 2,
+   "refs": [
+    "3:119",
+    "25:27"
+   ]
+  },
+  "layta (if only)": {
+   "count": 14,
+   "refs": [
+    "4:73",
+    "6:27",
+    "18:42",
+    "19:23",
+    "25:27",
+    "25:28",
+    "28:79",
+    "33:66",
+    "36:26",
+    "43:38",
+    "69:25",
+    "69:27",
+    "78:40",
+    "89:24"
+   ]
+  },
+  "nadim (regretful)": {
+   "count": 5,
+   "refs": [
+    "5:31",
+    "5:52",
+    "23:40",
+    "26:157",
+    "49:6"
+   ]
+  },
+  "farrata (neglected)": {
+   "count": 5,
+   "refs": [
+    "6:31",
+    "6:38",
+    "6:61",
+    "12:80",
+    "39:56"
+   ]
+  },
+  "i'tarafa (confessed)": {
+   "count": 3,
+   "refs": [
+    "9:102",
+    "40:11",
+    "67:11"
+   ]
+  },
+  "nadama (regret)": {
+   "count": 2,
+   "refs": [
+    "10:54",
+    "34:33"
+   ]
+  },
+  "mahsur (contested)": {
+   "count": 1,
+   "refs": [
+    "17:29"
+   ]
+  },
+  "ya hasrata": {
+   "count": 1,
+   "refs": [
+    "39:56"
+   ]
+  },
+  "ya waylata / ya waylana": {
+   "count": 10,
+   "refs": [
+    "5:31",
+    "11:72",
+    "18:49",
+    "21:14",
+    "21:46",
+    "21:97",
+    "25:28",
+    "36:52",
+    "37:20",
+    "68:31"
+   ]
+  },
+  "irji'un / farji'na": {
+   "count": 2,
+   "refs": [
+    "23:99",
+    "32:12"
+   ]
+  },
+  "akhkhirna / akhkhartani": {
+   "count": 2,
+   "refs": [
+    "14:44",
+    "63:10"
+   ]
+  },
+  "akhrijna (from the Fire)": {
+   "count": 3,
+   "refs": [
+    "4:75",
+    "23:107",
+    "35:37"
+   ]
+  },
+  "nuradd / maradd (sent back)": {
+   "count": 6,
+   "refs": [
+    "6:27",
+    "7:53",
+    "13:11",
+    "30:43",
+    "42:44",
+    "42:47"
+   ]
+  },
+  "khuruj min sabil": {
+   "count": 1,
+   "refs": [
+    "40:11"
+   ]
+  },
+  "yuqallibu kaffayhi": {
+   "count": 1,
+   "refs": [
+    "18:42"
+   ]
+  },
+  "suqita fi aydihim": {
+   "count": 1,
+   "refs": [
+    "7:149"
+   ]
+  },
+  "law kunna nasma'u": {
+   "count": 1,
+   "refs": [
+    "67:10"
+   ]
+  },
+  "law anna lana/li karratan": {
+   "count": 3,
+   "refs": [
+    "2:167",
+    "26:102",
+    "39:58"
+   ]
+  },
+  "innā kunnā zalimin (human)": {
+   "count": 4,
+   "refs": [
+    "7:5",
+    "21:14",
+    "21:46",
+    "68:29"
+   ]
+  },
+  "min qabli an ya'tiya (before it comes)": {
+   "count": 8,
+   "refs": [
+    "2:254",
+    "14:31",
+    "30:43",
+    "39:54",
+    "39:55",
+    "42:47",
+    "63:10",
+    "71:1"
+   ]
+  },
+  "qaddamat (hands sent forward)": {
+   "count": 12,
+   "refs": [
+    "2:95",
+    "3:182",
+    "4:62",
+    "8:51",
+    "18:57",
+    "28:47",
+    "30:36",
+    "42:48",
+    "59:18",
+    "62:7",
+    "78:40",
+    "89:24"
+   ]
+  },
+  "yawm al-hasra / al-taghabun": {
+   "count": 2,
+   "refs": [
+    "19:39",
+    "64:9"
+   ]
+  },
+  "la tas'aw / la tas (do not grieve over)": {
+   "count": 3,
+   "refs": [
+    "5:26",
+    "5:68",
+    "57:23"
+   ]
+  }
+ },
+ "core": {
+  "5:31": {
+   "setting": "L",
+   "person": "S",
+   "kind": "self",
+   "gloss": "Cain: unable even to bury his brother"
+  },
+  "5:52": {
+   "setting": "L",
+   "person": "N",
+   "kind": "self",
+   "gloss": "hedgers: regret over what they hid in themselves"
+  },
+  "23:40": {
+   "setting": "D",
+   "person": "N",
+   "kind": "self",
+   "gloss": "rejecters: 'in a little while they will be regretful'"
+  },
+  "26:157": {
+   "setting": "D",
+   "person": "N",
+   "kind": "self",
+   "gloss": "Thamud after hamstringing the she-camel"
+  },
+  "49:6": {
+   "setting": "L",
+   "person": "N",
+   "kind": "self",
+   "gloss": "acting on an unverified report"
+  },
+  "10:54": {
+   "setting": "H",
+   "person": "N",
+   "kind": "self",
+   "gloss": "concealed regret on seeing the punishment"
+  },
+  "34:33": {
+   "setting": "H",
+   "person": "N",
+   "kind": "self",
+   "gloss": "followers and leaders conceal regret"
+  },
+  "2:167": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "followers: deeds shown to them as regrets"
+  },
+  "6:31": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'alas for what we neglected' when the Hour comes suddenly"
+  },
+  "8:36": {
+   "setting": "L",
+   "person": "N",
+   "kind": "self",
+   "gloss": "wealth spent to block the way becomes regret"
+  },
+  "17:29": {
+   "setting": "L",
+   "person": "N",
+   "kind": "self",
+   "gloss": "over-spending / withholding leaves one mahsur (contested)"
+  },
+  "19:39": {
+   "setting": "H",
+   "person": "N",
+   "kind": "self",
+   "gloss": "the Day of Regret, 'while they are in heedlessness'"
+  },
+  "39:56": {
+   "setting": "H",
+   "person": "S",
+   "kind": "self",
+   "gloss": "'alas for what I neglected in regard to God'"
+  },
+  "69:50": {
+   "setting": "H",
+   "person": "N",
+   "kind": "self",
+   "gloss": "the Quran will be a regret for the deniers"
+  },
+  "3:156": {
+   "setting": "L",
+   "person": "N",
+   "kind": "false",
+   "gloss": "the 'if only they had stayed' made a regret in their hearts"
+  },
+  "35:8": {
+   "setting": "L",
+   "person": "N",
+   "kind": "other",
+   "gloss": "do not let your soul go out in regrets over them"
+  },
+  "36:30": {
+   "setting": "L",
+   "person": "N",
+   "kind": "other",
+   "gloss": "'alas for the servants'"
+  },
+  "4:73": {
+   "setting": "L",
+   "person": "S",
+   "kind": "false",
+   "gloss": "hanger-back: 'if only I had been with them — great win'"
+  },
+  "6:27": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'if only we were sent back and did not deny'"
+  },
+  "18:42": {
+   "setting": "L",
+   "person": "S",
+   "kind": "self",
+   "gloss": "garden-owner: 'if only I had not associated anyone'"
+  },
+  "19:23": {
+   "setting": "L",
+   "person": "S",
+   "kind": "wish",
+   "gloss": "Maryam: 'if only I had died before this'"
+  },
+  "25:27": {
+   "setting": "H",
+   "person": "S",
+   "kind": "self",
+   "gloss": "wrongdoer bites his hands: 'if only I had taken a way with the Messenger'"
+  },
+  "25:28": {
+   "setting": "H",
+   "person": "S",
+   "kind": "self",
+   "gloss": "'if only I had not taken so-and-so as a friend'"
+  },
+  "28:79": {
+   "setting": "L",
+   "person": "P",
+   "kind": "false",
+   "gloss": "admirers of Qarun: 'if only we had what he was given'"
+  },
+  "33:66": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'if only we had obeyed God and the Messenger'"
+  },
+  "36:26": {
+   "setting": "H",
+   "person": "S",
+   "kind": "wish",
+   "gloss": "the martyr: 'if only my people knew'"
+  },
+  "43:38": {
+   "setting": "H",
+   "person": "S",
+   "kind": "self",
+   "gloss": "to his companion-devil: 'if only between me and you were the two easts'"
+  },
+  "69:25": {
+   "setting": "H",
+   "person": "S",
+   "kind": "self",
+   "gloss": "'if only I had not been given my record'"
+  },
+  "69:27": {
+   "setting": "H",
+   "person": "S",
+   "kind": "self",
+   "gloss": "'if only death had been the end'"
+  },
+  "78:40": {
+   "setting": "H",
+   "person": "S",
+   "kind": "self",
+   "gloss": "'if only I were dust'"
+  },
+  "89:24": {
+   "setting": "H",
+   "person": "S",
+   "kind": "self",
+   "gloss": "'if only I had sent ahead for my life'"
+  },
+  "18:49": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "the record leaves out nothing small or great"
+  },
+  "21:14": {
+   "setting": "D",
+   "person": "P",
+   "kind": "self",
+   "gloss": "destroyed towns: 'woe to us, we were wrongdoers'"
+  },
+  "21:46": {
+   "setting": "D",
+   "person": "P",
+   "kind": "self",
+   "gloss": "a breath of punishment touches them"
+  },
+  "21:97": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'we were in heedlessness of this'"
+  },
+  "36:52": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'who raised us from our sleeping place?'"
+  },
+  "37:20": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'this is the Day of Recompense'"
+  },
+  "68:31": {
+   "setting": "L",
+   "person": "P",
+   "kind": "self",
+   "gloss": "garden-people: 'woe to us, we were transgressors'"
+  },
+  "11:72": {
+   "setting": "L",
+   "person": "S",
+   "kind": "control",
+   "gloss": "Sarah: surprise at a son in old age"
+  },
+  "26:102": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'if only we had a return, we would be believers'"
+  },
+  "39:58": {
+   "setting": "H",
+   "person": "S",
+   "kind": "self",
+   "gloss": "'if only I had a return, I would be a doer of good'"
+  },
+  "23:99": {
+   "setting": "D",
+   "person": "S",
+   "kind": "self",
+   "gloss": "at death: 'my Lord, send me back'"
+  },
+  "23:107": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'bring us out; if we return, we are wrongdoers'"
+  },
+  "32:12": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'we have seen and heard, send us back'"
+  },
+  "35:37": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'bring us out, we will do righteousness, other than what we did'"
+  },
+  "7:53": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'are there intercessors, or could we be sent back?'"
+  },
+  "14:44": {
+   "setting": "D",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'delay us for a short term'"
+  },
+  "40:11": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'we confess our sins — is there a way out?'"
+  },
+  "42:44": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'is there any way back?'"
+  },
+  "63:10": {
+   "setting": "D",
+   "person": "S",
+   "kind": "self",
+   "gloss": "at death: 'if only You would delay me a little, I would give charity'"
+  },
+  "3:30": {
+   "setting": "H",
+   "person": "N",
+   "kind": "self",
+   "gloss": "a soul wishes a vast distance between it and its evil"
+  },
+  "4:42": {
+   "setting": "H",
+   "person": "N",
+   "kind": "self",
+   "gloss": "deniers wish the earth were levelled over them"
+  },
+  "15:2": {
+   "setting": "H",
+   "person": "N",
+   "kind": "self",
+   "gloss": "deniers will wish they had been Muslims"
+  },
+  "70:11": {
+   "setting": "H",
+   "person": "N",
+   "kind": "self",
+   "gloss": "the guilty would ransom himself with his children"
+  },
+  "7:149": {
+   "setting": "L",
+   "person": "N",
+   "kind": "self",
+   "gloss": "calf-worshippers: it fell into their hands"
+  },
+  "12:80": {
+   "setting": "L",
+   "person": "N",
+   "kind": "self",
+   "gloss": "Joseph's brothers: 'what you neglected concerning Joseph'"
+  },
+  "67:10": {
+   "setting": "H",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'if we had listened or reasoned'"
+  },
+  "67:11": {
+   "setting": "H",
+   "person": "N",
+   "kind": "self",
+   "gloss": "they confess their sin"
+  },
+  "68:29": {
+   "setting": "L",
+   "person": "P",
+   "kind": "self",
+   "gloss": "garden-people: 'we were wrongdoers'"
+  },
+  "12:91": {
+   "setting": "L",
+   "person": "P",
+   "kind": "self",
+   "gloss": "Joseph's brothers: 'we were sinners'"
+  },
+  "12:97": {
+   "setting": "L",
+   "person": "P",
+   "kind": "self",
+   "gloss": "brothers to Jacob: 'ask forgiveness for us'"
+  },
+  "9:102": {
+   "setting": "L",
+   "person": "N",
+   "kind": "self",
+   "gloss": "others confessed their sins, mixed deeds"
+  },
+  "7:5": {
+   "setting": "D",
+   "person": "P",
+   "kind": "self",
+   "gloss": "towns: their only cry 'we were wrongdoers'"
+  },
+  "10:90": {
+   "setting": "D",
+   "person": "S",
+   "kind": "self",
+   "gloss": "Pharaoh drowning: 'I believe'"
+  },
+  "40:84": {
+   "setting": "D",
+   "person": "P",
+   "kind": "self",
+   "gloss": "'we believe in God alone' on seeing Our might"
+  }
+ },
+ "summary": {
+  "core_ayahs": 65,
+  "kinds": {
+   "self": 57,
+   "false": 3,
+   "other": 2,
+   "wish": 2,
+   "control": 1
+  },
+  "self_regret_ayahs": 57,
+  "self_by_setting": {
+   "L": 13,
+   "D": 10,
+   "H": 34
+  },
+  "self_by_person": {
+   "S": 14,
+   "N": 18,
+   "P": 25
+  },
+  "self_by_setting_person": {
+   "D-N": 2,
+   "D-P": 5,
+   "D-S": 3,
+   "H-N": 9,
+   "H-P": 16,
+   "H-S": 9,
+   "L-N": 7,
+   "L-P": 4,
+   "L-S": 2
+  },
+  "self_by_revelation": {
+   "Medinan": 10,
+   "Meccan": 47
+  }
+ },
+ "root_lift_self_regret": [
+  {
+   "root": "ndm",
+   "in_regret_ayahs": 7,
+   "of": 57,
+   "corpus_ayahs": 7,
+   "lift": 109.02
+  },
+  {
+   "root": "Hsr",
+   "in_regret_ayahs": 7,
+   "of": 57,
+   "corpus_ayahs": 12,
+   "lift": 63.59
+  },
+  {
+   "root": "krr",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 6,
+   "lift": 54.51
+  },
+  {
+   "root": "frT",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 8,
+   "lift": 40.88
+  },
+  {
+   "root": "wdd",
+   "in_regret_ayahs": 4,
+   "of": 57,
+   "corpus_ayahs": 28,
+   "lift": 15.57
+  },
+  {
+   "root": "SbH",
+   "in_regret_ayahs": 6,
+   "of": 57,
+   "corpus_ayahs": 43,
+   "lift": 15.21
+  },
+  {
+   "root": "*nb",
+   "in_regret_ayahs": 4,
+   "of": 57,
+   "corpus_ayahs": 37,
+   "lift": 11.79
+  },
+  {
+   "root": "srr",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 43,
+   "lift": 7.61
+  },
+  {
+   "root": "rdd",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 57,
+   "lift": 5.74
+  },
+  {
+   "root": "qDy",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 59,
+   "lift": 5.54
+  },
+  {
+   "root": "xsr",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 60,
+   "lift": 5.45
+  },
+  {
+   "root": "AHd",
+   "in_regret_ayahs": 4,
+   "of": 57,
+   "corpus_ayahs": 82,
+   "lift": 5.32
+  },
+  {
+   "root": "Erf",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 62,
+   "lift": 5.28
+  },
+  {
+   "root": "jrm",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 65,
+   "lift": 5.03
+  },
+  {
+   "root": "qrb",
+   "in_regret_ayahs": 4,
+   "of": 57,
+   "corpus_ayahs": 91,
+   "lift": 4.79
+  },
+  {
+   "root": "bAs",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 70,
+   "lift": 4.67
+  },
+  {
+   "root": "Zlm",
+   "in_regret_ayahs": 12,
+   "of": 57,
+   "corpus_ayahs": 290,
+   "lift": 4.51
+  },
+  {
+   "root": "rAy",
+   "in_regret_ayahs": 12,
+   "of": 57,
+   "corpus_ayahs": 297,
+   "lift": 4.4
+  },
+  {
+   "root": "ydy",
+   "in_regret_ayahs": 4,
+   "of": 57,
+   "corpus_ayahs": 110,
+   "lift": 3.96
+  },
+  {
+   "root": "nfq",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 86,
+   "lift": 3.8
+  },
+  {
+   "root": "n*r",
+   "in_regret_ayahs": 4,
+   "of": 57,
+   "corpus_ayahs": 115,
+   "lift": 3.79
+  },
+  {
+   "root": "qwl",
+   "in_regret_ayahs": 37,
+   "of": 57,
+   "corpus_ayahs": 1383,
+   "lift": 2.92
+  },
+  {
+   "root": "jyA",
+   "in_regret_ayahs": 7,
+   "of": 57,
+   "corpus_ayahs": 262,
+   "lift": 2.91
+  },
+  {
+   "root": "swA",
+   "in_regret_ayahs": 4,
+   "of": 57,
+   "corpus_ayahs": 151,
+   "lift": 2.89
+  },
+  {
+   "root": "Eml",
+   "in_regret_ayahs": 8,
+   "of": 57,
+   "corpus_ayahs": 313,
+   "lift": 2.79
+  },
+  {
+   "root": "xrj",
+   "in_regret_ayahs": 4,
+   "of": 57,
+   "corpus_ayahs": 157,
+   "lift": 2.78
+  },
+  {
+   "root": "sbl",
+   "in_regret_ayahs": 4,
+   "of": 57,
+   "corpus_ayahs": 164,
+   "lift": 2.66
+  },
+  {
+   "root": "E*b",
+   "in_regret_ayahs": 8,
+   "of": 57,
+   "corpus_ayahs": 336,
+   "lift": 2.6
+  },
+  {
+   "root": "SlH",
+   "in_regret_ayahs": 4,
+   "of": 57,
+   "corpus_ayahs": 170,
+   "lift": 2.57
+  },
+  {
+   "root": "bSr",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 139,
+   "lift": 2.35
+  },
+  {
+   "root": "kwn",
+   "in_regret_ayahs": 25,
+   "of": 57,
+   "corpus_ayahs": 1176,
+   "lift": 2.32
+  },
+  {
+   "root": "ywm",
+   "in_regret_ayahs": 8,
+   "of": 57,
+   "corpus_ayahs": 377,
+   "lift": 2.31
+  },
+  {
+   "root": "mwt",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 143,
+   "lift": 2.29
+  },
+  {
+   "root": "kbr",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 153,
+   "lift": 2.14
+  },
+  {
+   "root": "qlb",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 155,
+   "lift": 2.11
+  },
+  {
+   "root": "tbE",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 156,
+   "lift": 2.1
+  },
+  {
+   "root": "nfs",
+   "in_regret_ayahs": 5,
+   "of": 57,
+   "corpus_ayahs": 270,
+   "lift": 2.02
+  },
+  {
+   "root": "Dll",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 170,
+   "lift": 1.92
+  },
+  {
+   "root": "kfr",
+   "in_regret_ayahs": 8,
+   "of": 57,
+   "corpus_ayahs": 465,
+   "lift": 1.88
+  },
+  {
+   "root": "nwr",
+   "in_regret_ayahs": 3,
+   "of": 57,
+   "corpus_ayahs": 174,
+   "lift": 1.88
+  }
+ ],
+ "divergence_core": [
+  {
+   "ref": "7:5",
+   "combined": 0.769
+  },
+  {
+   "ref": "17:29",
+   "combined": 0.762
+  },
+  {
+   "ref": "36:30",
+   "combined": 0.7525
+  },
+  {
+   "ref": "69:27",
+   "combined": 0.7493
+  },
+  {
+   "ref": "49:6",
+   "combined": 0.7476
+  },
+  {
+   "ref": "43:38",
+   "combined": 0.7327
+  },
+  {
+   "ref": "15:2",
+   "combined": 0.7307
+  },
+  {
+   "ref": "69:50",
+   "combined": 0.7261
+  },
+  {
+   "ref": "67:11",
+   "combined": 0.7188
+  },
+  {
+   "ref": "23:40",
+   "combined": 0.7163
+  },
+  {
+   "ref": "5:52",
+   "combined": 0.7108
+  },
+  {
+   "ref": "21:14",
+   "combined": 0.7067
+  },
+  {
+   "ref": "39:56",
+   "combined": 0.7048
+  },
+  {
+   "ref": "21:97",
+   "combined": 0.7026
+  },
+  {
+   "ref": "21:46",
+   "combined": 0.7021
+  },
+  {
+   "ref": "26:157",
+   "combined": 0.7006
+  },
+  {
+   "ref": "39:58",
+   "combined": 0.7003
+  },
+  {
+   "ref": "26:102",
+   "combined": 0.6995
+  },
+  {
+   "ref": "8:36",
+   "combined": 0.6919
+  },
+  {
+   "ref": "36:52",
+   "combined": 0.6861
+  },
+  {
+   "ref": "35:8",
+   "combined": 0.6799
+  },
+  {
+   "ref": "18:49",
+   "combined": 0.6782
+  },
+  {
+   "ref": "2:167",
+   "combined": 0.6767
+  },
+  {
+   "ref": "70:11",
+   "combined": 0.6715
+  },
+  {
+   "ref": "67:10",
+   "combined": 0.6665
+  },
+  {
+   "ref": "68:29",
+   "combined": 0.6654
+  },
+  {
+   "ref": "4:73",
+   "combined": 0.6651
+  },
+  {
+   "ref": "23:99",
+   "combined": 0.6639
+  },
+  {
+   "ref": "19:39",
+   "combined": 0.6624
+  },
+  {
+   "ref": "10:54",
+   "combined": 0.6595
+  },
+  {
+   "ref": "42:44",
+   "combined": 0.6593
+  },
+  {
+   "ref": "23:107",
+   "combined": 0.6565
+  },
+  {
+   "ref": "89:24",
+   "combined": 0.6457
+  },
+  {
+   "ref": "6:31",
+   "combined": 0.6439
+  },
+  {
+   "ref": "18:42",
+   "combined": 0.6432
+  },
+  {
+   "ref": "35:37",
+   "combined": 0.6368
+  },
+  {
+   "ref": "3:30",
+   "combined": 0.6366
+  },
+  {
+   "ref": "9:102",
+   "combined": 0.6324
+  },
+  {
+   "ref": "78:40",
+   "combined": 0.6316
+  },
+  {
+   "ref": "68:31",
+   "combined": 0.6241
+  },
+  {
+   "ref": "34:33",
+   "combined": 0.6232
+  },
+  {
+   "ref": "7:53",
+   "combined": 0.622
+  },
+  {
+   "ref": "3:156",
+   "combined": 0.6203
+  },
+  {
+   "ref": "25:27",
+   "combined": 0.619
+  },
+  {
+   "ref": "5:31",
+   "combined": 0.6149
+  },
+  {
+   "ref": "36:26",
+   "combined": 0.6123
+  },
+  {
+   "ref": "12:91",
+   "combined": 0.61
+  },
+  {
+   "ref": "28:79",
+   "combined": 0.6076
+  },
+  {
+   "ref": "4:42",
+   "combined": 0.5917
+  },
+  {
+   "ref": "25:28",
+   "combined": 0.5898
+  },
+  {
+   "ref": "7:149",
+   "combined": 0.5875
+  },
+  {
+   "ref": "14:44",
+   "combined": 0.5819
+  },
+  {
+   "ref": "37:20",
+   "combined": 0.5816
+  },
+  {
+   "ref": "40:84",
+   "combined": 0.572
+  },
+  {
+   "ref": "63:10",
+   "combined": 0.5662
+  },
+  {
+   "ref": "32:12",
+   "combined": 0.5545
+  },
+  {
+   "ref": "11:72",
+   "combined": 0.5509
+  },
+  {
+   "ref": "10:90",
+   "combined": 0.5457
+  },
+  {
+   "ref": "12:80",
+   "combined": 0.5438
+  },
+  {
+   "ref": "40:11",
+   "combined": 0.5436
+  },
+  {
+   "ref": "6:27",
+   "combined": 0.5409
+  },
+  {
+   "ref": "19:23",
+   "combined": 0.5306
+  },
+  {
+   "ref": "12:97",
+   "combined": 0.5271
+  },
+  {
+   "ref": "33:66",
+   "combined": 0.4741
+  },
+  {
+   "ref": "69:25",
+   "combined": 0.4577
+  }
+ ]
+}
