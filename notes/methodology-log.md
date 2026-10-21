@@ -2548,3 +2548,53 @@ Commissioned as an open, explicitly collaborative question: *"What are the thing
 3. The commissioner's own reverse-engineering — the six "seams" in the catalog — is the next pass, by design.
 
 The Quran-research project now stands at ~670,000 words across 13 thematic investigations.
+
+## Entry 15 — ISTIGHFĀR: how the Quran teaches seeking forgiveness (2026-10-21)
+
+Commissioned in one line — *"how the Quran teaches us to do istighfār"* — directly after the regret investigation, whose finding (the Quran never commands regret, it commands return) set it up. Applied: the main deliverable is a plain-language practice guide built on the Quran's own petitions.
+
+12 files, ~25,500 words, 8 agents (5 Sonnet Phase-1, 2 Opus Phase-2, 1 Opus synthesis), ~1.0M subagent tokens. No Phase 3.
+
+### The decisive instrument: the imperative audit split by direction
+
+`gfr` gives two imperatives that point opposite ways: **`istaghfir-` (form X) is addressed to a person** — *seek forgiveness* — and **`ighfir` (form I) is addressed to God** — *forgive*. Splitting the root's verbs by tense × person × direction produced the investigation's spine in Phase 0: the act is *named* in the third person (`istaghfara`, 40×) and *performed* in the second (`ighfir`, 17 imperatives), and the first-person `astaghfiru` occurs only 3× — all future, all for someone else. **Add direction-of-address to the person-and-mood audit** (Entries 12-13): for any devotional root, ask who the imperative is spoken *to*.
+
+### A project-wide data bug, found by an agent's recount
+
+The names agent reported `ghafūr raḥīm` in 71 ayahs against my 56. The gap was not a regex slip: **`data/arabic/quran.json` writes open-fathatan tanwīn (U+08F0) with a SPACE before the final alif** — `غفورࣰ ا رحيمࣰا` — in **2,054 tokens across 1,533 ayahs.** Every diacritic-stripped formula search for an accusative-indefinite word (`kāna ghafūran raḥīman`, `tawbatan naṣūḥā`, `dhikran kathīrā`) had been silently missing those hits. Without the fix, the negative-space agent's *dhikr … kathīran* search found 1 ayah instead of 9.
+- **Fixed** in `build_regret_census.py` and `build_istighfar_census.py` (`re.sub(r" ا(?= |$)", "ا", t)` after stripping marks); regret counts re-run, unchanged.
+- **Documented** as a standing trap in `notes/agent-context.md`, so every future agent applies it.
+- **Prior investigations**: their counts came from `words.jsonl` morphology, which is unaffected, and the orchestrator's hand formula-searches in fasting / tahajjud / cosmos / regret did not target accusative-indefinite forms. **Not yet audited:** `scripts/build_echoes.py` (5-gram shingling — the detached alif becomes a spurious token, so near-duplicate scores are slightly perturbed) and `scripts/build_teleportation_cooccurrence.py`.
+- **Lesson: when an agent's count disagrees with the orchestrator's, find the mechanism before accepting either number.** Here the mechanism was worth more than the count.
+
+### Orchestrator errors, all caught
+
+1. **The "endings after worship or success" hypothesis** (Phase 0 §5) was over-read. It holds positionally (5 of 6 timed occurrences fall at an ending), but every ending names a shortfall nearby (2:198, 73:20, 51:16-18) and the Prophet's success-cases still name a `dhanb` (40:55, 47:19, 48:2). The text supports only the narrower claim: **istighfār does not wait for a known wrong.** I also mis-filed 40:55 as timed istighfār — its time phrase attaches to `sabbiḥ`.
+2. **Root-level counting inside petitions again**: "mercy in 10 of 22" (requested in 7 — the other three are divine names or grounds), "`Zlm` confession in 3" (2 — at 71:28 the wrongdoers are Noah's enemies). Same lesson as Entry 13: count the *role*, not the root.
+3. **`nwr` at 3:16 is *al-nār*, the Fire** — caught by me before launch; the polysemy list in briefs keeps paying.
+
+### Agent errors caught by later agents
+
+Six Phase-1 claims were corrected by Phase 2 (worldly promises in 3 commands, not 6; 15 prophetic units, not 16; hedging rare in both istighfār and tawba; 41:6 pairs istighfār with `istaqīmū`; `ghafūr`/`tawwāb` do occur in human speech to God at 14:36, 2:128; "self first" holds for petitions only), and the synthesis resolved two more (`tāba ʿalā` = 22 verses by script, not 16 or 19; 23:118 is six words, not five). **The "correct earlier files" instruction is now 10 for 10 across two investigations.**
+
+### Findings
+
+- **Self-directed istighfār is always addressed to God**; the popular first-person formula is a promise-for-others form in the text. The exact string *istaghfiri llāh* occurs once — a command (4:106).
+- **The petition skeleton** (address → `fa-` ground → `ighfir` → mercy and needs → closing name) holds across the 22, with forgiveness before mercy in 7 of 7.
+- **Voice**: every singular *forgive me* is a prophet's; every ordinary believer's petition is plural.
+- **Istighfār is a request with one condition on the asker** — *not knowingly persisting* (3:135; mirrored by 71:7 `aṣarrū`). Repair attaches to tawba (13 verses), never to istighfār.
+- **The Quran's only fixed forgiveness word given to a people, `ḥiṭṭatun` (2:58, 7:161), was changed by those who wronged.**
+- **No count, no commanded hour, no required feeling; size of sin is not the limit, time is** — with 4:48/4:116 reported beside 39:53 and 25:68-70, unreconciled.
+
+### Cross-investigation citations
+
+- **Regret** — the regret investigation found return commanded and regret never commanded; this one shows what return consists of. The 63:10 / 9:75 pairing there (charity vowed, then withheld) is the conduct side of 3:135's *not persisting*.
+- **Tahajjud** — pre-dawn istighfār (3:17, 51:18) is praised, never commanded, matching the vigil's pattern of described-not-legislated practice. The negative-space agent narrowed a tahajjud claim: asḥār-istighfār is the only *non-prayer* devotion pinned to a named hour.
+
+### Open questions
+
+1. 4:48 / 4:116 beside 39:53, 25:68-70 and 5:73-74 — the text places them; it does not reconcile them in one passage.
+2. Jacob's `sawfa astaghfiru lakum` (12:98) is never narrated as performed. Why defer?
+3. 8:33 credits istighfār to a people 8:34 describes as obstructing the Sacred Mosque — whose istighfār protects whom?
+
+The Quran-research project now stands at ~695,000 words across 14 thematic investigations.

@@ -118,6 +118,20 @@ Headline findings: **the Quran never commands regret** — `ndm` has 7 nouns and
 - **Synthesis:** [`regret/concept-regret-deep.md`](regret/concept-regret-deep.md)
 - 13 files · 2 root + 4 narrative + 2 cross-cutting + 1 structural + 1 synthesis + 1 self-examination + 1 README + brief
 
+### [`istighfar/`](istighfar/) — How the Quran teaches seeking forgiveness
+Commissioned in one line: *"I want to research how the Quran teaches us to do istighfār."* Applied, like fasting and tahajjud: the deliverable is a **plain-language practice guide** with the Quran's own forgiveness prayers, verified letter-for-letter against the Arabic. 12 files, ~25,500 words, 8 agents.
+
+**The answer:** istighfār in the Quran is **a request spoken directly to God** — *my Lord, forgive me / our Lord, forgive us* — made at once after a wrong and also without waiting for one, by a person who is **not knowingly persisting** (3:135), and followed by turning back (tawba) and setting right. It fixes **no number, no commanded hour, and no required feeling**.
+
+Headline findings: **`astaghfiru` (*I seek forgiveness*) occurs exactly 3× and every time is a promise to seek it *for someone else*** (12:98, 19:47, 60:4) — two of them repudiated; the string *istaghfiri llāh* occurs once, as a command to the Prophet (4:106). Self-directed istighfār is always **addressed**: 17 `ighfir` imperatives among 22 quoted petitions, with a stable skeleton — address (`rabbi` for one, `rabbanā` for a group) → a reason joined with *so* (*we have believed, so forgive us*) → the request → mercy and other needs → a closing name (*best of the merciful*). **Every singular *forgive me* is a prophet's; every ordinary believer's petition is *forgive us*;** no one prays for others without including himself (except the angels). Confession is rare (2 of 22). **Istighfār and tawba are two acts in sequence** (`istaghfirū rabbakum thumma tūbū ilayhi`, 4/4 in Sūrat Hūd); setting-right (`aṣlaḥa`, `ʿamila ṣāliḥan`) attaches to tawba in 13 verses and to istighfār in none. **It does not wait for a known sin**: 7 of 15 prophetic istighfārs follow no stated wrong. The worldly promises (rain, wealth, sons) are made in only 3 commands, all to peoples rejecting a messenger; believers are told *God is Forgiving, Merciful*. **No count anywhere** (*much* attaches to dhikr ~10×, to istighfār 0×; the only number, 9:80's *seventy*, measures futility); **pre-dawn istighfār is praised, never commanded** (3:17, 51:18); **regret is not a stated condition, and the size of a sin is not the limit — time is** (4:17-18; 39:53; 25:68-70; 4:48/4:116 reported side by side, unreconciled). **The only fixed forgiveness word ever given to a people is `ḥiṭṭatun`** (2:58, 7:161) — and *those who wronged changed the word*. Forgiving people is tied to being forgiven by a question, not a deal: *do you not love that God should forgive you?* (24:22).
+
+The investigation also found a **project-wide data trap**: `quran.json` writes open-fathatan tanwīn with a space before its alif (2,054 tokens, 1,533 ayahs), so accusative formula searches silently missed — `ghafūr raḥīm` was undercounted 56 vs 71. Documented in `agent-context.md`.
+- **Start here:** [`istighfar/README.md`](istighfar/README.md) (folder index)
+- **To practise:** [`istighfar/practice-guide.md`](istighfar/practice-guide.md) (12 Quranic prayers, plain language)
+- **The method:** [`istighfar/2-cross-cutting/research-how-the-quran-teaches-istighfar.md`](istighfar/2-cross-cutting/research-how-the-quran-teaches-istighfar.md)
+- **Synthesis:** [`istighfar/concept-istighfar-deep.md`](istighfar/concept-istighfar-deep.md)
+- 12 files · 2 root + 3 narrative + 2 cross-cutting + 1 structural + 1 synthesis + 1 practice guide + 1 README + brief
+
 ## Cross-investigation files (top-level)
 
 These span all investigations and live at the top of `notes/`.
