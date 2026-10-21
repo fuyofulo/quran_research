@@ -21,7 +21,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def norm(t):
     t = unicodedata.normalize("NFD", t)
     t = "".join(c for c in t if not unicodedata.combining(c))
-    return re.sub("[ٱأإآ]", "ا", t).replace("ى", "ي").replace("ـ", "")
+    t = re.sub("[ٱأإآ]", "ا", t).replace("ى", "ي").replace("ـ", "")
+    # quran.json writes open-fathatan (U+08F0) tanwin as "Xࣰ ا" with a SPACE before the
+    # alif (2,054 tokens / 1,533 ayahs). Rejoin it, or every accusative-indefinite
+    # formula (ghafuran rahiman, tawbatan nasuha ...) silently misses.
+    return re.sub(r" ا(?= |$)", "ا", t)
 
 
 def key(r):

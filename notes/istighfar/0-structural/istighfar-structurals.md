@@ -113,8 +113,11 @@ does not wait for a known wrong.**
 
 ## 6. The names God gives Himself
 
-`ghafūr raḥīm` (Forgiving, Merciful) — **56 ayahs**. `tawwāb raḥīm` 7 · `ghafūr ḥalīm` 4 ·
-`ʿafuww ghafūr` 3 · `ghafūr shakūr` 3 · `ʿazīz` + `ghafūr/ghaffār` 5 · `wāsiʿ al-maghfira` 1 (53:32) ·
+`ghafūr raḥīm` (Forgiving, Merciful) — **71 ayahs** · `tawwāb raḥīm` 9 · `ghafūr ḥalīm` 4 (+2 reversed,
+`ḥalīm ghafūr` 17:44, 35:41) · `ʿafuww ghafūr` 4 · *(CORRECTED: Phase 0 said 56 / 7 / 3. The
+root agent found the misses, and the cause was a text-normalization bug — `quran.json` writes
+open-fathatan tanwīn with a space before the alif, so every `kāna ghafūran raḥīman` was invisible to
+the formula search. Fixed in both census scripts.)* · `ghafūr shakūr` 3 · `ʿazīz` + `ghafūr/ghaffār` 5 · `wāsiʿ al-maghfira` 1 (53:32) ·
 `dhū maghfira` 2 · `al-ghafūr al-wadūd` 1 (85:14). Where each pairing falls (after a legal
 concession? after an exception for those who repent? after a threat?) is a Phase-1 question.
 

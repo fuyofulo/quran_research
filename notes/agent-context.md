@@ -97,3 +97,17 @@ Each investigation lives in its own folder under `notes/<topic>/` with subfolder
 - **Opus**: Phase 2 cross-cutting (synthesis-style work across multiple files), Phase 4 grand synthesis.
 
 Most work is Sonnet-tier. Reserve Opus for the genuinely cross-cutting passes.
+
+## Arabic text normalization — a known trap (found 2026-10-21)
+
+`data/arabic/quran.json` writes **open-fathatan tanwīn (U+08F0) with a SPACE before the final
+alif**: `غَفُورࣰ ا رَّحِيمࣰا` → after stripping marks, `غفور ا رحيما`. This affects **2,054 tokens in
+1,533 ayahs** — every accusative-indefinite word ending in that mark. A formula search for
+`غفورا رحيما` (or *nāfilatan*, *tawbatan naṣūḥā*, *qawlan sadīdā* …) **silently misses all of them**.
+When diacritic-stripping for formula search, always add this step after removing combining marks:
+
+```python
+t = re.sub(r" ا(?= |$)", "ا", t)   # rejoin the detached tanwin-alif
+```
+
+Morphology (`words.jsonl`) is unaffected — only exact-string searches over `quran.json`.
