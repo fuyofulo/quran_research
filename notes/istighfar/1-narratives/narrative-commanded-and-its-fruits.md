@@ -2,7 +2,7 @@
 
 ## Headline finding
 
-Six of the eight plural commands to seek forgiveness are spoken to people who do not yet believe (Hūd, Ṣāliḥ, Shuʿayb, Noah, the Prophet to Quraysh). Only those six carry worldly promises (a good enjoyment, rain, strength, wealth, sons, gardens). The two addressed to believers (2:199, 73:20) promise nothing but God's names. Istighfār is *asking* God (He is its direct object); tawba is *turning* (`tāba ilā`, 12 of 12 with a human subject; `tāba ʿalā` is always God). A "third act" (`aṣlaḥa`, `ʿamila ṣāliḥan`) attaches to tawba in 13+ verses, never to istighfār. Five of six timed istighfārs are endings; the text gives no reason.
+Six of the eight plural commands to seek forgiveness are spoken to people who do not yet believe (Hūd, Ṣāliḥ, Shuʿayb, Noah, the Prophet to Quraysh). Only three of those six carry worldly promises — 11:3, 11:52, 71:10-12 (a good enjoyment, rain, strength, wealth, sons, gardens); 11:61 and 11:90 close on divine names and 41:6 on a woe to the associators. *(CORRECTED by both Phase-2 files: this headline originally said all six carry worldly promises; the §3 table was right.)* The two addressed to believers (2:199, 73:20) promise nothing but God's names. Istighfār is *asking* God (He is its direct object); tawba is *turning* (`tāba ilā`, 12 of 12 with a human subject; `tāba ʿalā` is always God). A "third act" (`aṣlaḥa`, `ʿamila ṣāliḥan`) attaches to tawba in 13+ verses, never to istighfār. Five of six timed istighfārs are endings; the text gives no reason.
 
 ---
 
