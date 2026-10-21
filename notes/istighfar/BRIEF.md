@@ -31,7 +31,7 @@ where it is silent. Do not preach. Report the text, and mark where you interpret
   `istaghfirū rabbakum thumma tūbū ilayhi`), 10 singular (8 to the Prophet — 4 for himself, 4 for
   others), 1 feminine (12:29).
 - **Glorify + praise + seek forgiveness**: a fixed triad, 4× (40:7, 42:5 angels; 40:55, 110:3 commanded).
-- **Mercy is asked alongside forgiveness in 10 of 22 petitions; faith is the stated ground in several**
+- **Mercy is asked alongside forgiveness in 7 petitions (CORRECTED from 10); faith is the stated ground in 6**
   (*our Lord, we have believed, so forgive us* — 3:16, 3:193).
 - **Kin**: istighfār for father, brother, parents, sons in 8 ayahs.
 - **Core 59 ayahs, 30 Meccan / 29 Medinan.**

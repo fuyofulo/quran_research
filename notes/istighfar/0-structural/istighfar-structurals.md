@@ -57,9 +57,12 @@ enemy of God, he disassociated himself*).
 **7:23** and **11:47** (conditional: *if You do not forgive us / me…*), **2:285** (`ghufrānaka`),
 **26:82** (Ibrāhīm: *I hope He will forgive me my error on the Day*), **5:118** (ʿĪsā, for others).
 
-Speakers [orchestrator reading, for the agents to verify]: prophets (Adam & Eve, Noah, Ibrāhīm,
-Moses, Sulaymān, ʿĪsā; the Prophet commanded at 23:118), believers' groups (2:286, 3:16, 3:147,
-3:193, 23:109, 59:10, 66:8), angels (40:7).
+Speakers [verified in `1-roots/concept-the-petitions.md`]: prophets (Adam & Eve, Noah, Ibrāhīm,
+Moses, Sulaymān, ʿĪsā; the Prophet commanded at 23:118), believers' groups (2:285-286, 3:16, 3:147
+— the `ribbiyyūn` fighting alongside a prophet, not prophets themselves — 3:193, 23:109, 59:10,
+66:8), angels (40:7). **Strictly, 17 are requests**: 5:118 is conditional and for others, 26:82 a
+hope, 2:285 a noun. **Every singular `ighfir lī` is in a prophet's mouth; all 8 non-prophet human
+petitions are plural (`lanā`).**
 
 ## 3. What travels inside a petition
 
@@ -67,10 +70,10 @@ Roots present in the 22 petition ayahs:
 
 | Root | Petitions | Note |
 |---|---|---|
-| `rHm` mercy | **10** | forgiveness is asked *with* mercy almost half the time |
+| `rHm` mercy | 10 ayahs — **mercy requested in 7** (CORRECTED: in 28:16 it is the narrator's divine names, in 40:7 the ground, in 59:10 the closing name) | forgiveness always precedes mercy where both are asked (7/7) |
 | `Amn` faith | 9 | often as the ground: *our Lord, we have believed, so forgive us* (3:16, 3:193) |
 | `kfr` | 5 | **polysemous**: *expiate* (`kaffir ʿannā` 3:193, `yukaffira` 66:8) vs *disbelievers* (2:286, 3:147, 60:5). Lemma-level only. |
-| `Zlm` self-wrong | 3 | 7:23, 28:16, 71:28 |
+| `Zlm` | 3 ayahs — **self-confession in only 2** (7:23, 28:16; CORRECTED: at 71:28 `al-ẓālimīn` are the people Noah asks to be destroyed) | |
 | `*nb` sin | 3 | 3:16, 3:147, 3:193 — `dhunūbanā` |
 | `twb` | 2 | 40:7, 66:8 |
 | `nwr` | 2 | **polysemous**: 3:16 is `al-nār`, *the Fire* (same root); only 66:8 is *light* (`atmim lanā nūranā`) |
@@ -99,8 +102,14 @@ they had slept little of the night before it); **2:199** (after pouring out from
 
 **[interpretive]** Most of these are **endings** — the end of the night, the end of the standing at
 ʿArafa, the end of a night of prayer, the end of a mission — and several **follow worship or
-success, not sin**. If that holds, the Quran teaches istighfār as the closing act of *good* deeds as
-well as the remedy for bad ones. Build this case, then try to break it.
+success, not sin**.
+
+**CORRECTED after Phase 1.** The positional claim holds (5 of 6 timed occurrences fall at an
+ending), but it is **not an alternative to the sin pattern**: each ending names a lack nearby —
+2:198 *you were before this among the astray*, 73:20's concession, the `muḥsinīn` of 51:16-18 who
+still ask — and the Prophet's success-cases still name a `dhanb` (40:55, 47:19, 48:2). **40:55's time
+phrase attaches to `sabbiḥ`, not to `istaghfir`.** What the text supports is narrower: **istighfār
+does not wait for a known wrong.**
 
 ## 6. The names God gives Himself
 
