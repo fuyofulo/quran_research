@@ -1,0 +1,1190 @@
+{
+ "note": "Phase-0 census, hope & despair. See scripts/build_hope_census.py.",
+ "lemma_tables": {
+  "rjw": {
+   "family": "hope",
+   "tokens": 28,
+   "ayahs": 27,
+   "lemmas": [
+    [
+     "yarojuwA@",
+     22
+    ],
+    [
+     "turojiY",
+     3
+    ],
+    [
+     "murojawon",
+     1
+    ],
+    [
+     "marojuw~",
+     1
+    ],
+    [
+     ">arojaA^}",
+     1
+    ]
+   ]
+  },
+  "TmE": {
+   "family": "hope",
+   "tokens": 12,
+   "ayahs": 12,
+   "lemmas": [
+    [
+     "yaTomaEu",
+     8
+    ],
+    [
+     "TamaE",
+     4
+    ]
+   ]
+  },
+  "Aml": {
+   "family": "hope",
+   "tokens": 2,
+   "ayahs": 2,
+   "lemmas": [
+    [
+     ">amal",
+     2
+    ]
+   ]
+  },
+  "Esy": {
+   "family": "hope",
+   "tokens": 30,
+   "ayahs": 28,
+   "lemmas": [
+    [
+     "EasaY",
+     30
+    ]
+   ]
+  },
+  "rgb": {
+   "family": "hope",
+   "tokens": 8,
+   "ayahs": 8,
+   "lemmas": [
+    [
+     "yarogabu",
+     4
+    ],
+    [
+     "raAgib",
+     3
+    ],
+    [
+     "ragab",
+     1
+    ]
+   ]
+  },
+  "yAs": {
+   "family": "despair",
+   "tokens": 13,
+   "ayahs": 11,
+   "lemmas": [
+    [
+     "ya}isa",
+     8
+    ],
+    [
+     "ya_#uws",
+     3
+    ],
+    [
+     "{sotayo_#asa",
+     2
+    ]
+   ]
+  },
+  "qnT": {
+   "family": "despair",
+   "tokens": 6,
+   "ayahs": 6,
+   "lemmas": [
+    [
+     "qanaTu",
+     4
+    ],
+    [
+     "qa`niTiyn",
+     1
+    ],
+    [
+     "qanuwT",
+     1
+    ]
+   ]
+  },
+  "bls": {
+   "family": "despair",
+   "tokens": 5,
+   "ayahs": 5,
+   "lemmas": [
+    [
+     "mubolisuwn",
+     4
+    ],
+    [
+     "yubolisu",
+     1
+    ]
+   ]
+  },
+  "mny": {
+   "family": "wishing",
+   "tokens": 21,
+   "ayahs": 18,
+   "lemmas": [
+    [
+     ">umoniy~at",
+     6
+    ],
+    [
+     "yataman~a",
+     6
+    ],
+    [
+     "taman~aY`^",
+     3
+    ],
+    [
+     "yumonaY`",
+     3
+    ],
+    [
+     "yuman~iy",
+     2
+    ],
+    [
+     "m~aniY~",
+     1
+    ]
+   ]
+  },
+  "grr": {
+   "family": "wishing",
+   "tokens": 27,
+   "ayahs": 21,
+   "lemmas": [
+    [
+     "gar~a",
+     15
+    ],
+    [
+     "guruwr",
+     9
+    ],
+    [
+     "garuwr",
+     3
+    ]
+   ]
+  },
+  "krb": {
+   "family": "distress",
+   "tokens": 4,
+   "ayahs": 4,
+   "lemmas": [
+    [
+     "karob",
+     4
+    ]
+   ]
+  },
+  "gmm": {
+   "family": "distress",
+   "tokens": 11,
+   "ayahs": 10,
+   "lemmas": [
+    [
+     "gam~",
+     6
+    ],
+    [
+     "gama`m",
+     4
+    ],
+    [
+     "gum~ap",
+     1
+    ]
+   ]
+  },
+  "Dyq": {
+   "family": "distress",
+   "tokens": 13,
+   "ayahs": 12,
+   "lemmas": [
+    [
+     "DaAqa",
+     7
+    ],
+    [
+     "Day~iq",
+     2
+    ],
+    [
+     "Dayoq",
+     2
+    ],
+    [
+     "DaA^}iq",
+     1
+    ],
+    [
+     "tuDay~iqu",
+     1
+    ]
+   ]
+  },
+  "whn": {
+   "family": "distress",
+   "tokens": 9,
+   "ayahs": 8,
+   "lemmas": [
+    [
+     "wahana",
+     5
+    ],
+    [
+     "wahon",
+     2
+    ],
+    [
+     "muwhin",
+     1
+    ],
+    [
+     ">awohan",
+     1
+    ]
+   ]
+  },
+  "Hzn": {
+   "family": "distress",
+   "tokens": 42,
+   "ayahs": 42,
+   "lemmas": [
+    [
+     "yaHozun",
+     37
+    ],
+    [
+     "Hazan",
+     3
+    ],
+    [
+     "Huzon",
+     2
+    ]
+   ]
+  },
+  "hmm": {
+   "family": "distress",
+   "tokens": 9,
+   "ayahs": 8,
+   "lemmas": [
+    [
+     "ham~a",
+     8
+    ],
+    [
+     ">aham~ato",
+     1
+    ]
+   ]
+  },
+  "Esr": {
+   "family": "relief",
+   "tokens": 12,
+   "ayahs": 12,
+   "lemmas": [
+    [
+     "Eusor",
+     5
+    ],
+    [
+     "Eusorap",
+     2
+    ],
+    [
+     "Easiyr",
+     2
+    ],
+    [
+     "Easir",
+     1
+    ],
+    [
+     "taEaAsaro",
+     1
+    ],
+    [
+     "EusoraY`",
+     1
+    ]
+   ]
+  },
+  "ysr": {
+   "family": "relief",
+   "tokens": 44,
+   "ayahs": 40,
+   "lemmas": [
+    [
+     "yasiyr",
+     15
+    ],
+    [
+     "yas~ara",
+     11
+    ],
+    [
+     "yusor",
+     7
+    ],
+    [
+     "mayosir",
+     3
+    ],
+    [
+     "{sotayosara",
+     2
+    ],
+    [
+     "tayas~ara",
+     2
+    ],
+    [
+     "yusoraY`",
+     2
+    ],
+    [
+     "mayosarap",
+     1
+    ],
+    [
+     "m~ayosuwr",
+     1
+    ]
+   ]
+  },
+  "k$f": {
+   "family": "relief",
+   "tokens": 20,
+   "ayahs": 20,
+   "lemmas": [
+    [
+     "ka$afa",
+     14
+    ],
+    [
+     "kaA$if",
+     3
+    ],
+    [
+     "ka$of",
+     1
+    ],
+    [
+     "ka`$ifa`t",
+     1
+    ],
+    [
+     "kaA$ifap",
+     1
+    ]
+   ]
+  },
+  "njw": {
+   "family": "relief",
+   "tokens": 84,
+   "ayahs": 75,
+   "lemmas": [
+    [
+     "naj~aY`",
+     37
+    ],
+    [
+     ">anjaY`",
+     23
+    ],
+    [
+     "najowaY`^",
+     11
+    ],
+    [
+     "tana`jayo",
+     4
+    ],
+    [
+     "najaA",
+     2
+    ],
+    [
+     "najiy~",
+     2
+    ],
+    [
+     "munaj~uw",
+     2
+    ],
+    [
+     "naAj",
+     1
+    ],
+    [
+     "n~ajaw`p",
+     1
+    ],
+    [
+     "na`jayo",
+     1
+    ]
+   ]
+  },
+  "rwH": {
+   "family": "relief",
+   "tokens": 57,
+   "ayahs": 52,
+   "lemmas": [
+    [
+     "riyH",
+     29
+    ],
+    [
+     "ruwH",
+     21
+    ],
+    [
+     "r~awoH",
+     3
+    ],
+    [
+     "r~ayoHaAn",
+     2
+    ],
+    [
+     "turiyHu",
+     1
+    ],
+    [
+     "rawaAH",
+     1
+    ]
+   ]
+  },
+  "frj": {
+   "family": "relief",
+   "tokens": 9,
+   "ayahs": 9,
+   "lemmas": [
+    [
+     "faroj",
+     8
+    ],
+    [
+     "furijato",
+     1
+    ]
+   ]
+  },
+  "bdl": {
+   "family": "relief",
+   "tokens": 44,
+   "ayahs": 40,
+   "lemmas": [
+    [
+     "bad~ala",
+     23
+    ],
+    [
+     "tabodiyl",
+     7
+    ],
+    [
+     "yasotabodilo",
+     3
+    ],
+    [
+     "yatabad~ali",
+     3
+    ],
+    [
+     "mubad~il",
+     3
+    ],
+    [
+     "yubodila",
+     3
+    ],
+    [
+     "{sotibodaAl",
+     1
+    ],
+    [
+     "badal",
+     1
+    ]
+   ]
+  },
+  "wkl": {
+   "family": "trust",
+   "tokens": 70,
+   "ayahs": 61,
+   "lemmas": [
+    [
+     "tawak~alo",
+     40
+    ],
+    [
+     "wakiyl",
+     24
+    ],
+    [
+     "mutawak~iluwn",
+     4
+    ],
+    [
+     "wuk~ila",
+     2
+    ]
+   ]
+  },
+  "Sbr": {
+   "family": "trust",
+   "tokens": 103,
+   "ayahs": 93,
+   "lemmas": [
+    [
+     "Sabara",
+     58
+    ],
+    [
+     "SaAbir",
+     20
+    ],
+    [
+     "Sabor",
+     15
+    ],
+    [
+     "Sab~aAr",
+     4
+    ],
+    [
+     "{SoTabiro",
+     3
+    ],
+    [
+     "SaAbiru",
+     1
+    ],
+    [
+     "SaAbirap",
+     1
+    ],
+    [
+     "S~a`bira`t",
+     1
+    ]
+   ]
+  },
+  "Znn": {
+   "family": "trust",
+   "tokens": 69,
+   "ayahs": 57,
+   "lemmas": [
+    [
+     "Zan~a",
+     47
+    ],
+    [
+     "Zan~",
+     21
+    ],
+    [
+     "Z~aA^n~iyn",
+     1
+    ]
+   ]
+  }
+ },
+ "rjw": {
+  "non_hope_senses": {
+   "7:111": "postpone (arjih)",
+   "26:36": "postpone (arjih)",
+   "33:51": "put aside (turji)",
+   "9:106": "deferred (murjawn)",
+   "69:17": "edges (arja')"
+  },
+  "hope_tokens": 23,
+  "hope_annotation": {
+   "2:218": [
+    "God's mercy",
+    "+",
+    "believers who emigrated and strove"
+   ],
+   "4:104#1": [
+    "from God what they do not hope",
+    "+",
+    "believers, wounded"
+   ],
+   "4:104#2": [
+    "from God",
+    "-",
+    "the enemy"
+   ],
+   "10:7": [
+    "the meeting with Us",
+    "-",
+    "the content with this world"
+   ],
+   "10:11": [
+    "the meeting with Us",
+    "-",
+    "deniers"
+   ],
+   "10:15": [
+    "the meeting with Us",
+    "-",
+    "deniers"
+   ],
+   "11:62": [
+    "a person (Salih)",
+    "+",
+    "Thamud, of Salih before his call"
+   ],
+   "17:28": [
+    "mercy from your Lord",
+    "+",
+    "the Prophet, empty-handed"
+   ],
+   "17:57": [
+    "His mercy",
+    "+",
+    "those invoked (angels/righteous) seeking nearness"
+   ],
+   "18:110": [
+    "the meeting with his Lord",
+    "+",
+    "anyone — conditional"
+   ],
+   "24:60": [
+    "marriage",
+    "-",
+    "older women"
+   ],
+   "25:21": [
+    "the meeting with Us",
+    "-",
+    "deniers"
+   ],
+   "25:40": [
+    "resurrection",
+    "-",
+    "deniers"
+   ],
+   "28:86": [
+    "that the Book be cast to you",
+    "-",
+    "the Prophet — given anyway, as mercy"
+   ],
+   "29:5": [
+    "the meeting with God",
+    "+",
+    "anyone — conditional"
+   ],
+   "29:36": [
+    "the Last Day",
+    "+",
+    "commanded by Shu'ayb"
+   ],
+   "33:21": [
+    "God and the Last Day",
+    "+",
+    "whoever takes the Prophet as model"
+   ],
+   "35:29": [
+    "a trade that will not perish",
+    "+",
+    "reciters, prayer, spenders"
+   ],
+   "39:9": [
+    "his Lord's mercy",
+    "+",
+    "the one devout in the night"
+   ],
+   "45:14": [
+    "the days of God",
+    "-",
+    "those believers must forgive"
+   ],
+   "60:6": [
+    "God and the Last Day",
+    "+",
+    "whoever takes Abraham's company as model"
+   ],
+   "71:13": [
+    "dignity/grandeur for God",
+    "-",
+    "Noah's people"
+   ],
+   "78:27": [
+    "a reckoning",
+    "-",
+    "the transgressors"
+   ]
+  },
+  "polarity": {
+   "+": 12,
+   "-": 11
+  },
+  "object_x_polarity": {
+   "the meeting / Last Day / reckoning [-]": 7,
+   "God's mercy / from God [+]": 5,
+   "the meeting / Last Day / reckoning [+]": 5,
+   "God's mercy / from God [-]": 2,
+   "worldly: a person (Salih) [+]": 1,
+   "worldly: marriage [-]": 1,
+   "worldly: that the Book be cast to you [-]": 1,
+   "a trade that will not perish [+]": 1
+  }
+ },
+ "asa": {
+  "tokens": 30,
+  "ayahs": 28,
+  "subject_counts": {
+   "general": 6,
+   "rebuke": 2,
+   "GOD": 15,
+   "human": 3,
+   "self-before-GOD": 1,
+   "self": 1
+  },
+  "annotation": {
+   "2:216": "general — perhaps you hate/love a thing (x2)",
+   "2:246": "rebuke — would you perhaps not fight",
+   "4:19": "general — perhaps you dislike [a wife] and God puts much good in it",
+   "4:84": "GOD — perhaps God will restrain the disbelievers",
+   "4:99": "GOD — perhaps God will pardon them",
+   "5:52": "GOD — perhaps God will bring the opening",
+   "7:129": "GOD — Moses: perhaps your Lord will destroy your enemy",
+   "7:185": "general — perhaps their term has come near",
+   "9:18": "human — perhaps they will be of the guided",
+   "9:102": "GOD — perhaps God will turn to them",
+   "12:21": "human — perhaps he will benefit us (Joseph's buyer)",
+   "12:83": "GOD — Jacob: perhaps God will bring them all to me",
+   "17:8": "GOD — perhaps your Lord will have mercy on you",
+   "17:51": "general — perhaps it is near",
+   "17:79": "GOD — perhaps your Lord will raise you to a praised station",
+   "18:24": "GOD — perhaps my Lord will guide me nearer than this",
+   "18:40": "GOD — perhaps my Lord will give me better than your garden",
+   "19:48": "self-before-GOD — Abraham: perhaps I will not be unhappy in calling my Lord",
+   "27:72": "general — perhaps it is close behind you",
+   "28:9": "human — Pharaoh's wife: perhaps he will benefit us",
+   "28:22": "GOD — Moses: perhaps my Lord will guide me to the right way",
+   "28:67": "self — perhaps the one who repents will be among the successful",
+   "47:22": "rebuke — would you perhaps sever kinship",
+   "49:11": "general — perhaps they are better than them (x2)",
+   "60:7": "GOD — perhaps God will put affection between you and your enemies",
+   "66:5": "GOD — perhaps his Lord will give him wives better than you",
+   "66:8": "GOD — perhaps your Lord will remove your misdeeds",
+   "68:32": "GOD — perhaps our Lord will give us better than it"
+  }
+ },
+ "tama": {
+  "2:75": [
+   "people's belief",
+   "dashed — do you hope they will believe?"
+  ],
+  "5:84": [
+   "God admitting us with the righteous",
+   "praised"
+  ],
+  "7:46": [
+   "entry to the Garden",
+   "neutral — the people of the heights"
+  ],
+  "7:56": [
+   "— call on Him in fear and aspiration",
+   "commanded"
+  ],
+  "13:12": [
+   "— lightning: fear and aspiration",
+   "sign"
+  ],
+  "26:51": [
+   "God forgiving our sins",
+   "praised — the magicians"
+  ],
+  "26:82": [
+   "God forgiving my sin",
+   "praised — Abraham"
+  ],
+  "30:24": [
+   "— lightning: fear and aspiration",
+   "sign"
+  ],
+  "32:16": [
+   "— call on their Lord in fear and aspiration",
+   "praised"
+  ],
+  "33:32": [
+   "the diseased heart's desire",
+   "faulted"
+  ],
+  "70:38": [
+   "entry to the Garden without deeds",
+   "faulted"
+  ],
+  "74:15": [
+   "more",
+   "faulted — greed"
+  ]
+ },
+ "despair": {
+  "annotation": {
+   "5:3": [
+    "yAs",
+    "disbelievers, of your religion",
+    "neutral"
+   ],
+   "11:9": [
+    "yAs",
+    "man, when mercy is withdrawn",
+    "faulted — despairing, ungrateful"
+   ],
+   "12:80": [
+    "yAs",
+    "Joseph's brothers, of the ruler",
+    "neutral"
+   ],
+   "12:87": [
+    "yAs",
+    "of God's rawh (relief)",
+    "faulted — only the disbelievers"
+   ],
+   "12:110": [
+    "yAs",
+    "the messengers, of their people",
+    "unblamed — then Our help came"
+   ],
+   "13:31": [
+    "yAs",
+    "the believers (= have they not known)",
+    "neutral"
+   ],
+   "17:83": [
+    "yAs",
+    "man, when evil touches him",
+    "faulted"
+   ],
+   "29:23": [
+    "yAs",
+    "deniers, of My mercy",
+    "faulted"
+   ],
+   "41:49": [
+    "yAs+qnT",
+    "man, when evil touches him",
+    "faulted"
+   ],
+   "60:13": [
+    "yAs",
+    "the angered-upon, of the hereafter",
+    "faulted"
+   ],
+   "65:4": [
+    "yAs",
+    "women, of menstruation",
+    "neutral (legal)"
+   ],
+   "15:55": [
+    "qnT",
+    "Abraham — do not be of the despairing",
+    "forbidden"
+   ],
+   "15:56": [
+    "qnT",
+    "of his Lord's mercy",
+    "faulted — only the astray"
+   ],
+   "30:36": [
+    "qnT",
+    "people, when evil afflicts them for their deeds",
+    "faulted"
+   ],
+   "39:53": [
+    "qnT",
+    "the self-wronging servants, of God's mercy",
+    "forbidden"
+   ],
+   "42:28": [
+    "qnT",
+    "people before rain",
+    "unblamed — then He sends rain"
+   ],
+   "6:44": [
+    "bls",
+    "the forgetful, seized suddenly",
+    "punishment"
+   ],
+   "23:77": [
+    "bls",
+    "under a door of severe punishment",
+    "punishment"
+   ],
+   "30:12": [
+    "bls",
+    "the criminals, when the Hour comes",
+    "punishment"
+   ],
+   "30:49": [
+    "bls",
+    "people before rain",
+    "unblamed — then the rain"
+   ],
+   "43:75": [
+    "bls",
+    "in the punishment",
+    "punishment"
+   ]
+  },
+  "valence": {
+   "neutral": 4,
+   "faulted": 8,
+   "unblamed": 3,
+   "forbidden": 2,
+   "punishment": 4
+  }
+ },
+ "hope_with_fear": [
+  [
+   "7:56",
+   [
+    "TmE"
+   ],
+   [
+    "xwf"
+   ]
+  ],
+  [
+   "10:15",
+   [
+    "rjw"
+   ],
+   [
+    "xwf"
+   ]
+  ],
+  [
+   "13:12",
+   [
+    "TmE"
+   ],
+   [
+    "xwf"
+   ]
+  ],
+  [
+   "17:57",
+   [
+    "rjw"
+   ],
+   [
+    "H*r",
+    "xwf"
+   ]
+  ],
+  [
+   "21:90",
+   [
+    "rgb"
+   ],
+   [
+    "rhb"
+   ]
+  ],
+  [
+   "30:24",
+   [
+    "TmE"
+   ],
+   [
+    "xwf"
+   ]
+  ],
+  [
+   "32:16",
+   [
+    "TmE"
+   ],
+   [
+    "xwf"
+   ]
+  ],
+  [
+   "39:9",
+   [
+    "rjw"
+   ],
+   [
+    "H*r"
+   ]
+  ]
+ ],
+ "god_answers": {
+  "refs": [
+   "2:186",
+   "3:195",
+   "8:9",
+   "10:89",
+   "11:61",
+   "12:34",
+   "21:76",
+   "21:84",
+   "21:88",
+   "21:90",
+   "27:62",
+   "37:75",
+   "40:60",
+   "42:26"
+  ],
+  "fa-stajabna_lahu_in_surah_21": [
+   "21:76",
+   "21:84",
+   "21:88",
+   "21:90"
+  ]
+ },
+ "replacement": {
+  "khayr_min_with_giving_verb": [
+   "8:70",
+   "18:40",
+   "18:81",
+   "66:5",
+   "68:32",
+   "70:41"
+  ],
+  "bdl_god_gives_better": [
+   "7:95",
+   "18:81",
+   "24:55",
+   "25:70",
+   "27:11",
+   "66:5",
+   "68:32",
+   "70:41"
+  ],
+  "note": "27:36 is Solomon comparing gifts, not a replacement; 18:81 is al-Khidr's account"
+ },
+ "hardship_ease": {
+  "Esr_ayahs": [
+   "2:185",
+   "2:280",
+   "9:117",
+   "18:73",
+   "25:26",
+   "54:8",
+   "65:6",
+   "65:7",
+   "74:9",
+   "92:10",
+   "94:5",
+   "94:6"
+  ],
+  "ysr_ayahs": 40,
+  "both": [
+   "2:185",
+   "2:280",
+   "65:7",
+   "92:10",
+   "94:5",
+   "94:6"
+  ],
+  "frj_lemmas": [
+   [
+    "faroj",
+    8
+   ],
+   [
+    "furijato",
+    1
+   ]
+  ],
+  "frj_relief_sense": 0,
+  "rawh_refs": [
+   "12:87",
+   "56:89"
+  ]
+ },
+ "divergence_top": [
+  [
+   "57:23",
+   0.7649
+  ],
+  [
+   "29:5",
+   0.7472
+  ],
+  [
+   "17:83",
+   0.7397
+  ],
+  [
+   "53:24",
+   0.7397
+  ],
+  [
+   "71:13",
+   0.7317
+  ],
+  [
+   "78:27",
+   0.7276
+  ],
+  [
+   "37:75",
+   0.7218
+  ],
+  [
+   "60:13",
+   0.7198
+  ],
+  [
+   "23:77",
+   0.7195
+  ],
+  [
+   "5:52",
+   0.7108
+  ],
+  [
+   "94:8",
+   0.7068
+  ],
+  [
+   "28:67",
+   0.7046
+  ],
+  [
+   "2:75",
+   0.704
+  ],
+  [
+   "17:28",
+   0.7015
+  ],
+  [
+   "4:19",
+   0.6984
+  ]
+ ]
+}
