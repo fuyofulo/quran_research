@@ -61,7 +61,7 @@
 | **Rescue or victory when few** | 3:123 (Badr), 8:26 (sheltered when weak and afraid) |
 | **The senses** | 16:78 (born knowing nothing, then given hearing, sight, hearts) |
 
-**[interpretive]** The occasions for thanks include **being forgiven** (2:52), and the **easing of worship** (2:185, 5:6), not just its gifts. The fast's verse ends on *that you may be grateful*.
+*(CORRECTED by the occasions agent: 5:89 has no ease wording — it is "law made clear"; 2:56 is a second life, `baʿathnā`, not a pardon. Tally: creation 6, law eased 2 + made clear 1, forgiveness 1 + second life 1, rescue 2, senses 1. Forgiveness-to-thanks rests on 2:52 alone.)* **[interpretive]** The occasions for thanks include **being forgiven** (2:52), and the **easing of worship** (2:185, 5:6), not just its gifts. The fast's verse ends on *that you may be grateful*.
 
 ## 4. The few and the most (data-grounded)
 

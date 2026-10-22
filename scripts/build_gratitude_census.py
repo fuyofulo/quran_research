@@ -37,12 +37,12 @@ PERSON = ("1S", "1P", "2MS", "2FS", "2MP", "3MS", "3FS", "3MP")
 
 # What each "la`allakum tashkurun" (that you may be grateful) follows — hand-annotated.
 PURPOSE = {
-    "2:52": ("pardon after the calf", "forgiveness / second chance"),
-    "2:56": ("revived after death (the thunderbolt)", "forgiveness / second chance"),
+    "2:52": ("pardon after the calf (`afa)", "forgiveness"),
+    "2:56": ("revived after death (the thunderbolt) — verb ba`athna, not a pardon", "second life"),
     "2:185": ("the fast: ease not hardship, complete the count, magnify God", "law eased"),
     "3:123": ("victory at Badr when few — so fear God", "rescue / victory"),
     "5:6": ("ablution and dry ablution: God wants no hardship, completes His favour", "law eased"),
-    "5:89": ("expiation for oaths", "law eased"),
+    "5:89": ("expiation for oaths — no ease wording; 'thus God makes clear His verses'", "law made clear"),
     "8:26": ("few and oppressed — sheltered, supported, provided", "rescue / victory"),
     "16:14": ("the sea subjected: fresh meat, ornaments, ships, His bounty", "creation subjected"),
     "16:78": ("born knowing nothing — given hearing, sight, hearts", "the senses"),
