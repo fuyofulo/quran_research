@@ -15,7 +15,7 @@
 |---|---|---|
 | `shkr` | 75 / 69 | `shakara` 46, `shākir` 14, `shakūr` 10, `mashkūr` 2, `shukūr` 2, `shukr` 1 |
 | `ḥmd` | 63 / 61 | `ḥamd` 43, `ḥamīd` 17 |
-| `nʿm` | 140 / 128 | `niʿma` 68, `anʿām` (cattle) 33, `anʿama` 17, `naʿīm` 17 |
+| `nʿm` | 140 / 128 | `niʿma` (blessing) **50** + `niʿma` (*how excellent*, praise verb) 18 *(CORRECTED: were merged as 68)*, `anʿām` (cattle) 33, `anʿama` 17, `naʿīm` 17 |
 | `ʾlw` (`ālāʾ`) | 37 / 37 | `ālāʾ` 34, **31 of them in Sūrat al-Raḥmān's refrain** |
 | `fḍl` · `mnn` | 104 · 27 | bounty · favour conferred |
 | `kfr` | 507 / 449 (after the expiation sense is removed) | `kafara`, `kufr`, `kafūr` 12, `kufūr` 3, `kufrān` |
