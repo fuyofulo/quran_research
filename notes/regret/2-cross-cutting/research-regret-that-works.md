@@ -74,7 +74,7 @@ Failure is `lā yanfaʿu`, *it does not benefit* (6:158, 40:85, 30:57, 40:52, 32
 
 **The object is the line [grounded, then interpretive].** The forbidden "if only" has circumstances or other people as subject: `law kānū ʿindanā mā mātū` (3:156, made a `ḥasra` by God), `law aṭāʿūnā` (3:168). Converting regret has the speaker's own act as subject (`ẓalamtu nafsī`), and so do the hereafter wishes (`ittakhadhtu` 25:27, `lam ushrik` 18:42). **Regret over acts can work. Grief over outcomes is forbidden.**
 
-**Despair and exultation are a pair.** 57:23 forbids both and ends on `fakhūr`. So does 11:9-10 (`yaʾūs kafūr` / `fariḥ fakhūr`), and 30:36 pairs them too (`fariḥū` / `yaqnaṭūn`). The exception given is `alladhīna ṣabarū wa-ʿamilū al-ṣāliḥāt` (11:11). **[interpretive]** Despair is not too much regret. It is the boaster's self-measurement by outcome, turned the other way.
+**Despair and exultation are a pair.** *(CORRECTED 2026-10-22: 57:23 forbids grief, `taʾsaw`, and exultation — not despair; the despair pairs are 11:9-10, 30:36, 41:49-50.)* 57:23 forbids sorrow and exultation together and ends on `fakhūr`. So does 11:9-10 (`yaʾūs kafūr` / `fariḥ fakhūr`), and 30:36 pairs them too (`fariḥū` / `yaqnaṭūn`). The exception given is `alladhīna ṣabarū wa-ʿamilū al-ṣāliḥāt` (11:11). **[interpretive]** Despair is not too much regret. It is the boaster's self-measurement by outcome, turned the other way.
 
 **Permitted grief.** At 9:92 Phase 0 says "praised". The text says *no blame* (`wa-lā ʿalā`), and 9:91 counts the sincere-but-unable among the `muḥsinīn`. Jacob is the full case:
 

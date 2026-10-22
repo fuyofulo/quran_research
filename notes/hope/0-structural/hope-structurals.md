@@ -22,8 +22,8 @@
 | | `qnṭ` | 6 / 6 | `qanaṭa` 4, `qāniṭīn`, `qanūṭ` |
 | | `bls` | 5 / 5 | `mublisūn` 4 — **4 of 5 in punishment** |
 | wishing | `mny` | 21 / 18 (3 are *semen*) | `amāniyy` 6, `tamannā` 9 |
-| distress | `ḥzn` 42 · `ḍyq` 13 · `ghmm` 11 (6 *distress*) · `whn` 9 · `hmm` 9 · `krb` 4 | | |
-| relief | `ysr` 44 · `ʿsr` 12 · `kshf` 20 · `njw` 84 · `rawḥ` 3 (12:87 ×2, 56:89) · `bdl` 44 | | |
+| distress | `ḥzn` 42 · `ḍyq` 13 · `ghmm` 11 (6 *distress*) · `whn` 9 · `hmm` 9 (verb *hamma*, "intend" — only 3:154 is worry; *CORRECTED*) · `krb` 4 | | |
+| relief | `ysr` 44 · `ʿsr` 12 · `kshf` 20 (**16 remove harm**; 3 *uncover*) · `njw` 84 (**66 rescue**; 18 *najwā*/*najiyy*) · `rawḥ` 3 (12:87 ×2, 56:89) · `bdl` 44 | | |
 
 **Polysemy traps.**
 - **`rjw` has 5 non-hope tokens**: *postpone* (7:111, 26:36, 33:51), *deferred* (9:106) and *edges* (69:17). Count hope by occurrence, never by root.
@@ -69,8 +69,8 @@ The word also carries the Quran's warning about one's own judgement of outcomes:
 
 - **`yʾs`/`qnṭ`, 16 ayahs.** 10 are faulted or forbidden. 6 are unblamed or neutral.
 - **Six faulted cases have God's side as the object**: His mercy (15:56, 29:23, 39:53), His *rawḥ* (12:87), His glad tidings (15:55) or the hereafter (60:13). **The other four are the human reflex "when harm touches him"**, with no object named: 11:9, 17:83, 30:36, 41:49.
-- **Every reflex case pairs despair with its opposite**: exultation or ingratitude in ease (11:10, 41:50, 30:36). **11:11 names the exception: *except those who are patient and do righteous deeds.*** (The regret investigation found the same pairing at 57:23.)
-- **Unblamed despair**: the messengers despairing of their people (12:110), people before rain (42:28), the brothers (12:80).
+- **Every reflex case pairs despair with its opposite**: exultation or ingratitude in ease (11:10, 41:50, 30:36). **11:11 names the exception: *except those who are patient and do righteous deeds.*** *(CORRECTED: an earlier line here cited 57:23 for the same pairing; its verb is `taʾsaw`, grief (`Asw`), not despair. 17:83's opposite state is turning away, `aʿraḍa wa-naʾā`, not exultation. Only 11:11 names a cure among the four reflex passages.)*
+- **Unblamed despair**: the messengers' despair (12:110 — *object unstated in the Arabic; "of their people" is interpretation, CORRECTED*), people before rain (42:28), the brothers (12:80).
 - **`bls` (`iblās`, 5 ayahs) is the despair of the end**: 4 of 5 are in punishment (6:44, 23:77, 30:12, 43:75), and the fifth is people before rain (30:49).
 - **"Until, when…" (*ḥattā idhā*) runs both ways.**
   - For the messengers, the edge of despair is where help arrives (12:110; cf. 2:214 *until the Messenger said: when is God's help?*), and the three left behind are turned to once the earth closes in on them (9:118).
@@ -90,7 +90,7 @@ Hope and fear share an ayah 7 times (the census's 8th, 10:15, is incidental):
 
 - **God answers** (`istajāba`, `ajāba`, `mujīb`, God as subject): 14 ayahs. They include the promises 2:186 and 40:60, *who answers the desperate one when he calls* (27:62), and **four consecutive "So We answered him" in Sūrat al-Anbiyāʾ (21:76, 84, 88, 90)**: Noah, Job, Jonah, Zechariah. **10:89 says *your prayer has been answered* — then *so stay straight*.** The text shows no fulfilment at that point.
 - **Replacement, "better than it"** (`khayran min` with a giving verb, or `bdl`, God as giver): 8:70 (*better than what was taken from you*), 18:40, 18:81 (al-Khidr: *a better son*), 66:5, 68:32, 24:55 (*He will replace their fear with security*), 25:70 (*bad deeds into good*). 70:41 is punitive. 7:95 is the warning case: good in place of bad, then seized.
-- **Hardship and ease share 6 ayahs**: 2:185, 2:280, 65:7 (*God will bring ease after hardship*), 92:10, and **94:5-6, where ease is *with* hardship (`maʿa`), stated twice.** Sūrat al-Sharḥ then closes on ***and to your Lord turn your longing*** (`fa-rghab`, 94:8). **`rgb` + *to God* occurs 3×, and each time follows loss or contentment: 9:59, 68:32, 94:8.**
+- **Hardship and ease share 6 ayahs**: 2:185, 2:280, 65:7 (*God will bring ease after hardship* — here `ʿusrin` is **indefinite**; only 94:5-6 has definite *al-ʿusr*), 92:10, and **94:5-6, where ease is *with* hardship (`maʿa`), stated twice.** Sūrat al-Sharḥ then closes on ***and to your Lord turn your longing*** (`fa-rghab`, 94:8). **`rgb` + *to God* occurs 3×, and each time follows loss or contentment: 9:59, 68:32, 94:8.**
 
 ## 7. Grief (data-grounded)
 

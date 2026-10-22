@@ -42,7 +42,7 @@ wish will be granted.
   faulted cases the object is God's mercy, His *rawḥ*, His glad tidings, or the hereafter (6). The
   other 4 are the reflex *"when harm touches him"*: 11:9, 17:83, 30:36, 41:49. Each reflex is paired
   with exultation in ease, and 11:11 gives the exception: *those who are patient and do good.*
-  **Unblamed**: the messengers' despair of their people (12:110), and people before rain (42:28).
+  **Unblamed**: the messengers' despair (12:110, object unstated in the Arabic), and people before rain (42:28).
   **`iblās` (`bls`) is end-despair**: 4 of its 5 cases are in punishment.
 - ***ḥattā idhā* ("until, when…") runs both ways.** At the edge of despair, the messengers receive
   help (12:110, 9:118, cf. 2:214). The heedless are seized (6:44, 23:77).
@@ -73,7 +73,7 @@ wish will be granted.
 - **`rjw` polysemy**: 7:111, 26:36, 33:51 (postpone), 9:106 (deferred), 69:17 (edges). These are not hope.
 - **71:13** (*mā lakum lā tarjūna li-llāhi waqārā*): translators split between *hope for* and *fear/expect*. Note the split; don't build on either.
 - **`ʿasā`**: the classical claim that *ʿasā from God is certain* is tafsīr. It is outside the evidence base: name it as a traditional view if at all, and never rest a finding on it.
-- **`ghmm`** includes *ghamām* (clouds). **`mny`** includes *semen*. **`yʾs` 13:31** means "know". **`ṭmʿ`** includes greed.
+- **`ghmm`** includes *ghamām* (clouds). **`mny`** includes *semen*. **`yʾs` 13:31** means "know". **`ṭmʿ`** includes greed. **`hmm` is the verb *hamma* (intend), not worry, except 3:154.** **57:23 is grief (`taʾsaw`), not despair** — Saheeh's "despair" misleads (also 12:69).
 - **Normalization**: rejoin the detached tanwīn alif before any Arabic string search (see `agent-context.md`).
 - **Do not import hadith or tafsīr** (e.g., "I am as My servant thinks of Me", "know that victory comes with patience, relief with distress"). If a well-known saying is *not* in the Quran, saying so is a finding.
 

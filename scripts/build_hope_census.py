@@ -122,7 +122,7 @@ DESPAIR = {
     "11:9": ("yAs", "man, when mercy is withdrawn", "faulted — despairing, ungrateful"),
     "12:80": ("yAs", "Joseph's brothers, of the ruler", "neutral"),
     "12:87": ("yAs", "of God's rawh (relief)", "faulted — only the disbelievers"),
-    "12:110": ("yAs", "the messengers, of their people", "unblamed — then Our help came"),
+    "12:110": ("yAs", "the messengers (object unstated in the Arabic)", "unblamed — then Our help came"),
     "13:31": ("yAs", "the believers (= have they not known)", "neutral"),
     "17:83": ("yAs", "man, when evil touches him", "faulted"),
     "29:23": ("yAs", "deniers, of My mercy", "faulted"),

@@ -52,6 +52,8 @@ Data: `data/structural/regret-census.json`, `data/structural/regret-versepack.js
 
 Later files correct earlier ones; the later reading governs.
 
+- **57:23 is grief, not despair (found 2026-10-22 by the hope investigation).** Its verb is `taʾsaw` (`Asw`); Saheeh renders it "despair". The grief count (16 prohibitions) was always right; only the "despair and exultation are a pair (57:23 …)" sentence in the synthesis and in `research-regret-that-works.md` misfiled it. Corrected in place.
+
 | # | Original claim | Where | Corrected to | Corrected in |
 |---|---|---|---|---|
 | 1 | `aṣbaḥa nādiman` = *woke up to find himself* regretful | Phase 0 | *became*. Only 2 of 28 `aṣbaḥa` ayahs are literal morning, none of the five regret uses | `1-roots/concept-ndm-hsr-the-two-words.md` |
