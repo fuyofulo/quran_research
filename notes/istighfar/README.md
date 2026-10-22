@@ -37,6 +37,8 @@ pairings), `data/structural/istighfar-versepack.json` (195 verses, 11 groups), b
 
 ## Corrections log
 
+- **Order of the glorify-with-praise / istighfār pairing (found 2026-10-22 by the gratitude investigation):** the pairing occurs 4×, but praise comes first in only 3 — at 40:55 istighfār comes first. Corrected in the synthesis.
+
 Every claim the investigation corrected in itself. Where files disagree, the later file wins.
 
 | # | Claim | Corrected to | Found in |

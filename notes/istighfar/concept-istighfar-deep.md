@@ -170,7 +170,7 @@ repair. The text keeps the three distinct and puts them in sequence.
   God … then depart … and seek forgiveness*. A statement of tawḥīd precedes istighfār or shares its
   verse in 7 ayahs (47:19: *know that there is no god but God, and seek forgiveness*). This is not a
   rule: 17 of the 22 petitions have no glorification, praise or remembrance in the three verses before.
-- **[D] Glorify with praise, then ask:** 4× (the angels at 40:7 and 42:5; commanded at 40:55 and 110:3).
+- **[D] Glorify with praise, then ask:** 3 of 4 (the angels at 40:7 and 42:5; commanded at 110:3). *(CORRECTED 2026-10-22 by the gratitude investigation: at 40:55 the order is reversed — `wa-staghfir li-dhanbika wa-sabbiḥ bi-ḥamdi rabbika` — seek forgiveness, then glorify. The pairing is 4×; the order is 3 of 4.)*
 - **[D] Body and vow.** David asked, bowed and turned (38:24). Moses made his vow (28:17) *after* he
   was forgiven, not as its price. Outside the prophets, the magicians made one too (20:72).
 
