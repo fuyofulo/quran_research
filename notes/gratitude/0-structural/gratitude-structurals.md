@@ -41,7 +41,7 @@
 | perfect | 4 |
 
 - **Imperatives (7):** 2:152 (*remember Me, I will remember you; thank Me and do not be ungrateful*); 2:172 and 16:114 (*eat of the good things… and thank God, if it is Him you worship*); 29:17 (Abraham: *worship Him and thank Him*); 31:12 (to Luqmān); 31:14 (*thank Me and your parents*); 34:15 (to Saba').
-- **Be among the grateful** (5): commanded to Moses (7:144) and the Prophet (39:66). The other three are **vowed in danger** (6:63, 10:22, 7:189), and each vow is followed by its breaking (6:64, 10:23, 7:190).
+- **Be among the grateful** (5): commanded to Moses (7:144) and the Prophet (39:66). The other three are **vowed in danger** (6:63, 10:22, 7:189), and each vow is followed by its breaking (6:64, 10:23, 7:190). *(CORRECTED by the ungrateful agent: only 6:63 and 10:22 are dangers at sea; 7:189 is a couple vowing thanks for a sound child. 31:32 leaves a remnant — `fa-minhum muqtaṣid` — so not every rescued person relapses.)*
 - **First person, all three:** Solomon's *awziʿnī an ashkura* (27:19), the man at forty (46:15), and Solomon's *li-yabluwanī a-ashkuru am akfur* (27:40). **[interpretive]** The human "I" never says *I thank You*. It asks to be *enabled* to thank.
 - **Called grateful:** Noah (*ʿabdan shakūrā*, 17:3) and Abraham (*shākiran li-anʿumih*, 16:121). The family of David is told *work in thanks* (*iʿmalū… shukrā*, 34:13), then: *few of My servants are grateful*.
 - **Thanks to people:** once commanded, to parents beside God (31:14). It is once **refused**: the righteous feed others wanting *no reward and no thanks* (*shukūrā*, 76:9).
