@@ -1,0 +1,919 @@
+{
+ "note": "Phase-0 census, gratitude. See scripts/build_gratitude_census.py.",
+ "lemma_tables": {
+  "$kr": {
+   "tokens": 75,
+   "ayahs": 69,
+   "lemmas": [
+    [
+     "$akara",
+     46
+    ],
+    [
+     "$aAkir",
+     14
+    ],
+    [
+     "$akuwr",
+     10
+    ],
+    [
+     "m~a$okuwr",
+     2
+    ],
+    [
+     "$ukuwr",
+     2
+    ],
+    [
+     "$ukor",
+     1
+    ]
+   ]
+  },
+  "Hmd": {
+   "tokens": 63,
+   "ayahs": 61,
+   "lemmas": [
+    [
+     "Hamod",
+     43
+    ],
+    [
+     "Hamiyd",
+     17
+    ],
+    [
+     "yuHomadu",
+     1
+    ],
+    [
+     "Ha`miduwn",
+     1
+    ],
+    [
+     "m~aHomuwd",
+     1
+    ]
+   ]
+  },
+  "nEm": {
+   "tokens": 140,
+   "ayahs": 128,
+   "lemmas": [
+    [
+     "niEomap",
+     50
+    ],
+    [
+     "n~aEam",
+     33
+    ],
+    [
+     "niEoma",
+     18
+    ],
+    [
+     ">anoEama",
+     17
+    ],
+    [
+     "naEiym",
+     17
+    ],
+    [
+     "n~aEomap",
+     2
+    ],
+    [
+     "naEomaA^'",
+     1
+    ],
+    [
+     "n~aAEimap",
+     1
+    ],
+    [
+     "naE~ama",
+     1
+    ]
+   ]
+  },
+  "Alw": {
+   "tokens": 37,
+   "ayahs": 37,
+   "lemmas": [
+    [
+     "'aAlaA^'",
+     34
+    ],
+    [
+     "yu&olu",
+     1
+    ],
+    [
+     "ya>olu",
+     1
+    ],
+    [
+     "ya>otali",
+     1
+    ]
+   ]
+  },
+  "fDl": {
+   "tokens": 104,
+   "ayahs": 92,
+   "lemmas": [
+    [
+     "faDol",
+     84
+    ],
+    [
+     "faD~ala",
+     17
+    ],
+    [
+     "tafoDiyl",
+     2
+    ],
+    [
+     "yatafaD~ala",
+     1
+    ]
+   ]
+  },
+  "mnn": {
+   "tokens": 27,
+   "ayahs": 25,
+   "lemmas": [
+    [
+     "man~a",
+     16
+    ],
+    [
+     "man~",
+     6
+    ],
+    [
+     "mamonuwn",
+     4
+    ],
+    [
+     "manuwn",
+     1
+    ]
+   ]
+  },
+  "kfr": {
+   "tokens": 507,
+   "ayahs": 449,
+   "lemmas": [
+    [
+     "kafara",
+     289
+    ],
+    [
+     "ka`firuwn",
+     129
+    ],
+    [
+     "kufor",
+     37
+    ],
+    [
+     "kaAfir",
+     27
+    ],
+    [
+     "kafuwr",
+     12
+    ],
+    [
+     "kaf~aAr",
+     5
+    ],
+    [
+     "kufuwr",
+     3
+    ],
+    [
+     "kaAfirap",
+     1
+    ],
+    [
+     "kuforaAn",
+     1
+    ],
+    [
+     "kawaAfir",
+     1
+    ],
+    [
+     "kaAfuwr",
+     1
+    ],
+    [
+     ">akofara",
+     1
+    ]
+   ]
+  },
+  "sbH": {
+   "tokens": 92,
+   "ayahs": 87,
+   "lemmas": [
+    [
+     "sab~aHa",
+     42
+    ],
+    [
+     "suboHa`n",
+     41
+    ],
+    [
+     "tasobiyH",
+     2
+    ],
+    [
+     "yasobaHu",
+     2
+    ],
+    [
+     "musab~iHuwn",
+     2
+    ],
+    [
+     "saboH",
+     2
+    ],
+    [
+     "s~a`biHa`t",
+     1
+    ]
+   ]
+  },
+  "*kr": {
+   "tokens": 292,
+   "ayahs": 264,
+   "lemmas": [
+    [
+     "*akara",
+     84
+    ],
+    [
+     "*ikor",
+     76
+    ],
+    [
+     "ta*ak~ara",
+     51
+    ],
+    [
+     "*ikoraY`",
+     23
+    ],
+    [
+     "*uk~ira",
+     18
+    ],
+    [
+     "*akar",
+     18
+    ],
+    [
+     "ta*okirap",
+     9
+    ],
+    [
+     "m~ud~akir",
+     6
+    ],
+    [
+     "*~a`kiriyn",
+     2
+    ],
+    [
+     "ta*okiyr",
+     1
+    ],
+    [
+     "{d~akara",
+     1
+    ],
+    [
+     "*~a`kira`t",
+     1
+    ],
+    [
+     "m~a*okuwr",
+     1
+    ],
+    [
+     "mu*ak~ir",
+     1
+    ]
+   ]
+  },
+  "gfr": {
+   "tokens": 234,
+   "ayahs": 202,
+   "lemmas": [
+    [
+     "gafuwr",
+     91
+    ],
+    [
+     "gafara",
+     65
+    ],
+    [
+     "{sotagofara",
+     40
+    ],
+    [
+     "m~agofirap",
+     28
+    ],
+    [
+     "gaf~aAr",
+     5
+    ],
+    [
+     "gaAfir",
+     2
+    ],
+    [
+     "guforaAn",
+     1
+    ],
+    [
+     "musotagofiriyn",
+     1
+    ],
+    [
+     "{sotigofaAr",
+     1
+    ]
+   ]
+  },
+  "Sbr": {
+   "tokens": 103,
+   "ayahs": 93,
+   "lemmas": [
+    [
+     "Sabara",
+     58
+    ],
+    [
+     "SaAbir",
+     20
+    ],
+    [
+     "Sabor",
+     15
+    ],
+    [
+     "Sab~aAr",
+     4
+    ],
+    [
+     "{SoTabiro",
+     3
+    ],
+    [
+     "SaAbiru",
+     1
+    ],
+    [
+     "SaAbirap",
+     1
+    ],
+    [
+     "S~a`bira`t",
+     1
+    ]
+   ]
+  },
+  "zyd": {
+   "tokens": 61,
+   "ayahs": 59,
+   "lemmas": [
+    [
+     "zaAda",
+     49
+    ],
+    [
+     "{zodaAdu",
+     8
+    ],
+    [
+     "ziyaAdap",
+     2
+    ],
+    [
+     "m~aziyd",
+     2
+    ]
+   ]
+  }
+ },
+ "shukr": {
+  "tokens": 75,
+  "ayahs": 69,
+  "mood_person": [
+   [
+    "NOUN/PCPL",
+    29
+   ],
+   [
+    "IMPF 2MP",
+    20
+   ],
+   [
+    "IMPF 3MP",
+    9
+   ],
+   [
+    "IMPV 2MP",
+    5
+   ],
+   [
+    "IMPF 1S",
+    3
+   ],
+   [
+    "IMPF 3MS",
+    3
+   ],
+   [
+    "PERF 2MP",
+    2
+   ],
+   [
+    "PERF 3MS",
+    2
+   ],
+   [
+    "IMPV 2MS",
+    2
+   ]
+  ],
+  "imperatives": [
+   "2:152",
+   "2:172",
+   "16:114",
+   "29:17",
+   "31:12",
+   "31:14",
+   "34:15"
+  ],
+  "first_person": [
+   "27:19",
+   "27:40",
+   "46:15"
+  ],
+  "be_among_the_grateful": [
+   "6:63",
+   "7:144",
+   "7:189",
+   "10:22",
+   "39:66"
+  ],
+  "purpose_that_you_may_thank": {
+   "2:52": [
+    "pardon after the calf",
+    "forgiveness / second chance"
+   ],
+   "2:56": [
+    "revived after death (the thunderbolt)",
+    "forgiveness / second chance"
+   ],
+   "2:185": [
+    "the fast: ease not hardship, complete the count, magnify God",
+    "law eased"
+   ],
+   "3:123": [
+    "victory at Badr when few — so fear God",
+    "rescue / victory"
+   ],
+   "5:6": [
+    "ablution and dry ablution: God wants no hardship, completes His favour",
+    "law eased"
+   ],
+   "5:89": [
+    "expiation for oaths",
+    "law eased"
+   ],
+   "8:26": [
+    "few and oppressed — sheltered, supported, provided",
+    "rescue / victory"
+   ],
+   "16:14": [
+    "the sea subjected: fresh meat, ornaments, ships, His bounty",
+    "creation subjected"
+   ],
+   "16:78": [
+    "born knowing nothing — given hearing, sight, hearts",
+    "the senses"
+   ],
+   "22:36": [
+    "sacrificial camels subjected to you",
+    "creation subjected"
+   ],
+   "28:73": [
+    "night for rest, day to seek His bounty",
+    "creation subjected"
+   ],
+   "30:46": [
+    "winds bearing good news, rain, ships",
+    "creation subjected"
+   ],
+   "35:12": [
+    "two seas, fresh meat, ornaments, ships",
+    "creation subjected"
+   ],
+   "45:12": [
+    "the sea subjected for ships, His bounty",
+    "creation subjected"
+   ]
+  },
+  "purpose_categories": {
+   "forgiveness / second chance": 2,
+   "law eased": 3,
+   "rescue / victory": 2,
+   "creation subjected": 6,
+   "the senses": 1
+  },
+  "purpose_check": [
+   "2:52",
+   "2:56",
+   "2:185",
+   "3:123",
+   "5:6",
+   "5:89",
+   "8:26",
+   "16:14",
+   "16:78",
+   "22:36",
+   "28:73",
+   "30:46",
+   "35:12",
+   "45:12"
+  ],
+  "few_and_most": {
+   "7:10": "qalilan ma tashkurun",
+   "23:78": "qalilan ma tashkurun",
+   "32:9": "qalilan ma tashkurun",
+   "67:23": "qalilan ma tashkurun",
+   "34:13": "qalilun min `ibadiya al-shakur",
+   "2:243": "aktharahum la yashkurun",
+   "10:60": "aktharahum la yashkurun",
+   "12:38": "aktharahum la yashkurun",
+   "27:73": "aktharahum la yashkurun",
+   "40:61": "aktharahum la yashkurun",
+   "7:17": "Iblis: you will not find most of them grateful"
+  },
+  "god_the_thanker": {
+   "2:158": "shakir `alim",
+   "4:147": "shakiran `alima",
+   "35:30": "ghafur shakur",
+   "35:34": "ghafur shakur (Paradise speech)",
+   "42:23": "ghafur shakur",
+   "64:17": "shakur halim",
+   "17:19": "their effort is mashkur (thanked)",
+   "76:22": "your effort is mashkur"
+  },
+  "called_grateful": {
+   "17:3": "Noah — `abdan shakura",
+   "16:121": "Abraham — shakiran li-an`umih",
+   "34:13": "the family of David — told to work in thanks",
+   "54:35": "Lot's family — man shakar",
+   "21:80": "David's armour — fa-hal antum shakirun?",
+   "14:5": "sabbar shakur (sign for)",
+   "31:31": "sabbar shakur",
+   "34:19": "sabbar shakur",
+   "42:33": "sabbar shakur"
+  },
+  "vows_of_thanks_in_danger": {
+   "6:63": "rescue from darknesses of land and sea",
+   "10:22": "ship in a storm",
+   "7:189": "a couple asking for a sound child"
+  },
+  "thanks_to_people": {
+   "31:14": "be grateful to Me and to your parents",
+   "76:9": "the righteous want from those they feed no reward and no thanks"
+  },
+  "benefit_to_self": [
+   "27:40",
+   "31:12"
+  ]
+ },
+ "shukr_pairs_same_ayah": {
+  "kfr": {
+   "n": 6,
+   "refs": [
+    "2:152",
+    "14:7",
+    "27:40",
+    "31:12",
+    "39:7",
+    "76:3"
+   ]
+  },
+  "Sbr": {
+   "n": 4,
+   "refs": [
+    "14:5",
+    "31:31",
+    "34:19",
+    "42:33"
+   ]
+  },
+  "*kr": {
+   "n": 5,
+   "refs": [
+    "2:152",
+    "8:26",
+    "14:5",
+    "22:36",
+    "25:62"
+   ]
+  },
+  "Ebd": {
+   "n": 9,
+   "refs": [
+    "2:172",
+    "16:114",
+    "17:3",
+    "27:19",
+    "29:17",
+    "34:13",
+    "39:7",
+    "39:66",
+    "42:23"
+   ]
+  },
+  "Amn": {
+   "n": 5,
+   "refs": [
+    "2:172",
+    "4:147",
+    "5:6",
+    "17:19",
+    "42:23"
+   ]
+  },
+  "zyd": {
+   "n": 3,
+   "refs": [
+    "14:7",
+    "35:30",
+    "42:23"
+   ]
+  },
+  "nEm": {
+   "n": 7,
+   "refs": [
+    "5:6",
+    "16:114",
+    "16:121",
+    "27:19",
+    "31:31",
+    "46:15",
+    "54:35"
+   ]
+  },
+  "gfr": {
+   "n": 5,
+   "refs": [
+    "34:15",
+    "35:30",
+    "35:34",
+    "42:23",
+    "64:17"
+   ]
+  },
+  "Hmd": {
+   "n": 2,
+   "refs": [
+    "31:12",
+    "35:34"
+   ]
+  },
+  "sbH": {
+   "n": 0,
+   "refs": []
+  },
+  "Alw": {
+   "n": 0,
+   "refs": []
+  },
+  "fDl": {
+   "n": 12,
+   "refs": [
+    "2:243",
+    "10:60",
+    "12:38",
+    "16:14",
+    "27:40",
+    "27:73",
+    "28:73",
+    "30:46",
+    "35:12",
+    "35:30",
+    "40:61",
+    "45:12"
+   ]
+  }
+ },
+ "hamd": {
+  "al_hamdu_lillah": {
+   "n": 23,
+   "speaker_occasion": {
+    "1:2": "the reciter (Fatiha)",
+    "6:1": "opening — creation",
+    "6:45": "after the wrongdoers' end",
+    "7:43": "the people of Paradise",
+    "10:10": "the people of Paradise — their last call",
+    "14:39": "Abraham — sons in old age",
+    "16:75": "after a parable",
+    "17:111": "commanded: say",
+    "18:1": "opening — the Book",
+    "23:28": "Noah, commanded on boarding the ark",
+    "27:15": "David and Solomon — knowledge",
+    "27:59": "commanded: say",
+    "27:93": "commanded: say",
+    "29:63": "commanded: say — after they admit God sends rain",
+    "31:25": "commanded: say — after they admit God created",
+    "34:1": "opening — all in heavens and earth",
+    "35:1": "opening — Creator",
+    "35:34": "the people of Paradise — grief removed",
+    "37:182": "closing of the surah",
+    "39:29": "after a parable",
+    "39:74": "the people of Paradise — promise fulfilled",
+    "39:75": "closing — the angels; it is said: praise to God",
+    "40:65": "call on Him sincerely — praise to God"
+   },
+   "missing_annotation": []
+  },
+  "bi_hamd": [
+   "2:30",
+   "13:13",
+   "15:98",
+   "17:44",
+   "17:52",
+   "20:130",
+   "25:58",
+   "32:15",
+   "39:75",
+   "40:7",
+   "40:55",
+   "42:5",
+   "50:39",
+   "52:48",
+   "110:3"
+  ],
+  "sabbih_bi_hamd_with_istighfar": [
+   "40:7",
+   "40:55",
+   "42:5",
+   "110:3"
+  ],
+  "al_hamid_pairs": [
+   [
+    "الغني",
+    5
+   ],
+   [
+    "غني",
+    3
+   ],
+   [
+    "العزيز",
+    3
+   ],
+   [
+    "غنيا",
+    1
+   ],
+   [
+    "انهۥ",
+    1
+   ],
+   [
+    "لغني",
+    1
+   ],
+   [
+    "صرط",
+    1
+   ],
+   [
+    "حكيم",
+    1
+   ],
+   [
+    "الولي",
+    1
+   ]
+  ]
+ },
+ "blessing": {
+  "remember_the_blessing": [
+   "2:40",
+   "2:47",
+   "2:122",
+   "2:231",
+   "3:103",
+   "5:7",
+   "5:11",
+   "5:20",
+   "5:110",
+   "14:6",
+   "33:9",
+   "35:3"
+  ],
+  "count_the_blessing": [
+   "14:34",
+   "16:18"
+  ],
+  "blessing_with_kufr": [
+   "5:3",
+   "5:110",
+   "14:28",
+   "14:34",
+   "16:72",
+   "16:83",
+   "16:112",
+   "29:67",
+   "39:8",
+   "47:12"
+  ],
+  "proclaim_it_93_11": "واما بنعمة ربك فحدث",
+  "alaa_refrain_55": 31,
+  "alaa_total_tokens": 37
+ },
+ "divergence_top": [
+  [
+   "93:11",
+   0.7844
+  ],
+  [
+   "31:12",
+   0.7283
+  ],
+  [
+   "14:34",
+   0.7226
+  ],
+  [
+   "17:19",
+   0.7196
+  ],
+  [
+   "2:158",
+   0.7167
+  ],
+  [
+   "3:123",
+   0.7133
+  ],
+  [
+   "4:147",
+   0.7061
+  ],
+  [
+   "67:23",
+   0.7001
+  ],
+  [
+   "54:35",
+   0.6983
+  ],
+  [
+   "16:18",
+   0.6971
+  ],
+  [
+   "46:15",
+   0.6864
+  ],
+  [
+   "2:52",
+   0.6834
+  ],
+  [
+   "76:22",
+   0.6827
+  ],
+  [
+   "34:13",
+   0.6816
+  ],
+  [
+   "7:10",
+   0.674
+  ]
+ ]
+}
