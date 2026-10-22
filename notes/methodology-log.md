@@ -2598,3 +2598,48 @@ Six Phase-1 claims were corrected by Phase 2 (worldly promises in 3 commands, no
 3. 8:33 credits istighfār to a people 8:34 describes as obstructing the Sacred Mosque — whose istighfār protects whom?
 
 The Quran-research project now stands at ~695,000 words across 14 thematic investigations.
+
+## Entry 16 — HOPE AND DESPAIR (2026-10-22)
+
+Commissioned straight after istighfār, out of a conversation about long trials and an unanswered wish. Applied: the deliverable is a plain-language guide for when hope runs low. **The repo is public**, so this was the first brief with a hard privacy rule: nothing about the commissioner in any file, and the reader addressed generically. It held across all 9 agents.
+
+13 files, ~28,400 words, 9 agents (6 Sonnet Phase-1, 2 Opus Phase-2, 1 Opus synthesis), ~1.38M subagent tokens. No Phase 3.
+
+### The decisive instruments
+
+1. **Person audit on the hope verb.** `rajā` has 0 first-person forms; people *voice* hope with `ʿasā` + *rabbī*. This is the same move as istighfār's direction-of-address audit (Entry 15). **For any inner-state root, check who is allowed to say it in the first person.**
+2. **Object-of-the-state coding.** Despair was coded by *what is despaired of*. The split (God's side → faulted; an outcome → unblamed) came from the object, not the verb. The same coding put grief and despair in different places: grief is spoken *to* God, despair is a verdict *about* Him.
+3. **Searching for the popular word.** `faraj` (relief) has 0 occurrences in the relief sense. The absence of a common religious word is a finding, and it redirects the study to the text's own vocabulary (`yusr`, `kashf`, `najāt`, `makhraj`, `rawḥ`).
+
+### Corrections (28, all logged in `hope/README.md`)
+
+- **Translation-driven error, cross-investigation:** 57:23's verb is `taʾsaw` (grief); Saheeh renders it "despair". The regret synthesis had filed it under despair, and it is now corrected there too. **Lesson: when a claim rests on an English word, check the Arabic root before counting it.** (12:69 has the same trap.)
+- **Annotation over-reach by the orchestrator:**
+  - 12:110 "of their people" (the Arabic leaves the object unstated);
+  - "deniers 7×" (only 4 are *liqāʾanā*);
+  - `hmm` as worry (it is the verb *hamma*, "intend");
+  - "help at the edge" (narrowed to a declared selection).
+- **Phase-1 gaps caught by orchestrator verification:**
+  - Abraham's prayer for a son (37:100) was outside the verse group;
+  - 12:34 was answered as asked, not "partially".
+- **Phase-2 narrowings:** the spine made 8 corrections and the wish file 6, the main one being *"perhaps it is bad for you" is never applied to a withheld thing; that use is analogy*. **The "correct earlier files" instruction is now 3 for 3 investigations.**
+
+### Findings worth carrying
+
+- **Hope** is addressed to God and may name its object. The two named-outcome `ʿasā` hopes are shown fulfilled. "Better than it" sentences are never shown arriving.
+- **Despair and presumption are twin closings**, both the *an lan* ("never") construction about God's side.
+- **Grief is consoled, never faulted**: 13 of 14 imperatives carry a reason or a gift.
+- **No prayer asks God to remove a love.** The prayers about the heart ask for expansion, steadiness, freedom from rancour, and rest.
+
+### Cross-investigation citations
+
+- **Regret**: the despair/grief distinction completes that study's finding that grief is never over one's own sin.
+- **Istighfār**: Jonah's 21:87 is both the closed sentence taken back and the istighfār-without-the-word.
+
+### Open questions
+
+1. 53:24 (*or shall man have whatever he wishes?*) is the top translator-divergence verse in the wish set. Is it about intercessors (Khattab) or bare wishing?
+2. 71:13: does *lā tarjūna li-llāhi waqārā* mean hope or awe?
+3. Is there a Quranic distinction between *ʿasā* from God and *ʿasā* from humans that does not rest on tafsīr?
+
+The project now stands at ~723,000 words across 15 thematic investigations.

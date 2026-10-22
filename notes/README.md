@@ -132,6 +132,29 @@ The investigation also found a **project-wide data trap**: `quran.json` writes o
 - **Synthesis:** [`istighfar/concept-istighfar-deep.md`](istighfar/concept-istighfar-deep.md)
 - 12 files · 2 root + 3 narrative + 2 cross-cutting + 1 structural + 1 synthesis + 1 practice guide + 1 README + brief
 
+### [`hope/`](hope/) — Hope and despair: what the Quran says to someone losing hope
+Commissioned after the istighfār investigation, out of a conversation about long trials and a wish not yet granted: *"let's do a proper investigation on hope and despair."* Applied: the deliverable is a **plain-language guide for when hope runs low**, with 13 of the Quran's own sentences for each moment, verified letter for letter. 13 files, ~28,400 words, 9 agents.
+
+**The answer:** in the Quran, hope is **a turning toward God that may name what it wants**, said aloud as *ʿasā rabbī*, "perhaps my Lord will…". Grief, fear, "when is God's help?", "I wish I had died" and asking for years are **never blamed**. Despair is faulted only as **a closed sentence about God**: *He will never*, *He does not know*, *He has humiliated me*. Help is called *near* and ease comes *with* hardship, but **never with a date, and never with a promise of the specific thing**.
+
+**Headline findings:**
+- **The hope verb `rajā` has no first-person form in the Quran.** Its object is God's side in 19 of 23 uses, and it is always tied to action (18:110). People voice hope as **`ʿasā` + my Lord** (Jacob 12:83, Moses 28:22, 68:32). The two `ʿasā` hopes that name a specific outcome are both shown fulfilled (12:99-100, 7:136-137).
+- **Despair (`yaʾs`/`qunūṭ`, 16 ayahs) is faulted in 10.** Six are a verdict about God's side and four are the reflex *"when harm touches him"*; despair of an outcome is unblamed. **Grief and despair never share a verse.** Jacob alone speaks both: he grieves *to* God (12:86) and forbids despair *of* God (12:87).
+- **"Help at the edge" is a pattern of the text under a selection the text declares** (11:120, 40:78), not a law. Where the edge ends in seizure instead of help, the text first names a refusal to humble oneself (6:43, 23:76).
+- **`faraj` (relief) never occurs in the Quran.** Its relief words are `yusr` *with* (94:5-6) and *after* (65:7) hardship, `kashf`, `najāt`, `makhraj` and `rawḥ`. Relief is never dated.
+- **Wishing (`tamannī`) is never addressed to God, and is faulted where it replaces deed or proof.** Desire is redirected rather than abolished: *ask God of His bounty* (4:32).
+- **No one is rebuked for asking long, and no one is told to stop wanting.** Of 13 named asks, 9 are granted and 3 refused, each with a reason. "Perhaps you love a thing and it is bad for you" (2:216) concerns a command, not a withheld wish. Hearts are God's to join (8:63, 30:21, 60:7). **No prayer in the Quran asks God to remove a love.**
+- **Trial is never called a sign of God's displeasure, or of His love.** Love attaches to the response (3:146, 3:159), and *"my Lord has humiliated me"* is answered with *kallā* (89:16-17).
+- **Self-corrections:** 28 items. **57:23 is grief, not despair**, which also corrected the regret investigation.
+
+Links:
+- **Start here:** [`hope/README.md`](hope/README.md)
+- **For the low days:** [`hope/practice-guide.md`](hope/practice-guide.md)
+- **The model:** [`hope/2-cross-cutting/research-hope-and-despair.md`](hope/2-cross-cutting/research-hope-and-despair.md)
+- **When the wish is not given:** [`hope/2-cross-cutting/research-when-the-wish-is-not-given.md`](hope/2-cross-cutting/research-when-the-wish-is-not-given.md)
+- **Synthesis:** [`hope/concept-hope-deep.md`](hope/concept-hope-deep.md)
+- 12 files: 3 root + 3 narrative + 2 cross-cutting + 1 structural + 1 synthesis + 1 guide + 1 README + brief
+
 ## Cross-investigation files (top-level)
 
 These span all investigations and live at the top of `notes/`.
