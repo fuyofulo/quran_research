@@ -31,7 +31,8 @@ wish will be granted.
 
 - **`rajā` (hope), 23 hope-sense tokens: the object is God's side in 19.** That means His mercy, the
   meeting with Him, the Last Day, or "from God". **11 of the 23 are negated**, and *"those who do not
-  hope for the meeting with Us"* describes deniers (7×). **Affirmed hope is tied to action**: 18:110,
+  hope for the meeting with Us"* describes deniers 4× (10:7, 10:11, 10:15, 25:21); 7 of the 11 negations
+  concern the hereafter. *(CORRECTED from "7×".)* **`rajā` has 0 first-person forms.** **Affirmed hope is tied to action**: 18:110,
   29:5, 33:21, 60:6, 2:218, 35:29, 39:9. Its only hope-sense imperative is 29:36. 4:104 sets both
   polarities in one verse.
 - **`ʿasā` ("perhaps"), 28 ayahs, God is the subject in 15.** This is how prophets voice worldly hope

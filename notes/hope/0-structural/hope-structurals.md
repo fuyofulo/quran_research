@@ -5,7 +5,7 @@
 
 ## Headline
 
-**The Quran's hope verb (`rajā`, 23 hope-sense tokens) almost never has a worldly object.** In 19 of 23 the object is God, His mercy, the meeting with Him or the Last Day; and 11 of the 23 are **negated** — *"those who do not hope for the meeting with Us"* is a stock description of deniers (7×). Worldly hope is carried by a different word: **`ʿasā` ("perhaps")**, and in 15 of its 28 ayahs **God is the subject** — *perhaps God will…*. Despair is faulted only when its object is God (10 of 16); despair of people or outcomes is left unblamed, and twice the rain falls exactly *after* people despaired (42:28, 30:49).
+**The Quran's hope verb (`rajā`, 23 hope-sense tokens) almost never has a worldly object.** In 19 of 23 the object is God, His mercy, the meeting with Him or the Last Day; and 11 of the 23 are **negated** — *"those who do not hope for the meeting with Us"* describes deniers 4× (10:7, 10:11, 10:15, 25:21); 7 of the 11 negations concern the hereafter *(CORRECTED from "7×" by the hope-words agent)*. Worldly hope is carried by a different word: **`ʿasā` ("perhaps")**, and in 15 of its 28 ayahs **God is the subject** — *perhaps God will…*. Despair is faulted only when its object is God (10 of 16); despair of people or outcomes is left unblamed, and twice the rain falls exactly *after* people despaired (42:28, 30:49).
 
 ---
 
