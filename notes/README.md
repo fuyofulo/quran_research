@@ -155,6 +155,33 @@ Links:
 - **Synthesis:** [`hope/concept-hope-deep.md`](hope/concept-hope-deep.md)
 - 12 files: 3 root + 3 narrative + 2 cross-cutting + 1 structural + 1 synthesis + 1 guide + 1 README + brief
 
+### [`gratitude/`](gratitude/) — How the Quran teaches thanking God
+This investigation was commissioned straight after the hope study. The commissioner's framing was *"asking for forgiveness and glorifying Him go hand in hand"*. The main deliverable is a **plain-language practice guide** giving the Quran's own words of praise and thanks for 12 moments. Every quote in it was checked letter for letter against the Arabic. 13 files, ~27,800 words, 9 agents.
+
+**The answer:** the Quran teaches thanks as **a response to God that is spoken in praise and glorification and done by using the gift well, and is never only words.** It does not meet seeking forgiveness inside the same sentence. The two meet through **turning back** (*tawba*: 46:15, 7:143) and in God's names ***Ghafūr Shakūr***.
+
+**Headline findings:**
+- **No human in the Quran says "I thank You" with `shkr`.** The only three first-person uses ask to be *enabled* to thank (27:19 and 46:15, which are word for word the same up to *tarḍāhu*) or name a *test* (27:40). **God is never the subject of a `shkr` verb**; He is *Shakūr*/*Shākir* (6×), and He calls effort *mashkūr*.
+- **The words the Quran actually gives for a gift in hand are praise and glorification, not "thanks":**
+  - *subḥāna lladhī sakhkhara lanā hādhā* (43:13);
+  - *al-ḥamdu li-llāh*, then a request (23:28-29);
+  - *mā shāʾa llāh, lā quwwata illā bi-llāh* (18:39);
+  - *magnify God for having guided you* (2:185, 22:37).
+- **Thanks is a deed and a word, never the word alone.** The only thanks made of words alone are vows made in danger (6:63, 10:22, 7:189), and every one of them is broken. *Work, family of David, in thanks* (34:13).
+- **The occasions are mostly ordinary and repeated**: hearing, sight and heart, always in that order (16:78); the sea; night and day; food. They also include an easing of the law (2:185, 5:6). Forgiveness as an occasion for thanks rests on 2:52 alone.
+- **"Patience for hardship, thanks for ease" fails as a rule.** The grateful of 3:144 are those who did not turn back in defeat.
+- **14:7 "I will increase you" is a law about peoples.** Only its negative half is ever narrated (Saba', the town of 16:112), and it is not a personal prosperity formula (17:20).
+- **The commissioner's pair is real. *Sabbiḥ bi-ḥamdi* + istighfār occur together 4×** (praise first in 3 of the 4; 40:55 is the reverse, which corrected the istighfār synthesis). **Thanks stands outside the pair**: it never shares an ayah with tasbīḥ or istighfār. **The recurring order is remember → acknowledge → ask → turn back.** Paradise keeps only glorification, peace and praise (10:10).
+- **Negative space**: no count; no prostration of thanks (hadith); no "thank people" (the only human object of thanks is parents, 31:14); no commanded feeling of gratitude (but *rejoice in His bounty*, 10:58); no thanks *for* hardship itself; no human `shkr` in Paradise.
+- **Self-corrections:** 21 items, one of which fixed the istighfār study.
+
+**Links:**
+- **Start here:** [`gratitude/README.md`](gratitude/README.md)
+- **To practise:** [`gratitude/practice-guide.md`](gratitude/practice-guide.md)
+- **Thanks, praise, glorify, forgive:** [`gratitude/2-cross-cutting/research-thanks-praise-glorify-forgive.md`](gratitude/2-cross-cutting/research-thanks-praise-glorify-forgive.md)
+- **The model:** [`gratitude/2-cross-cutting/research-how-the-quran-teaches-gratitude.md`](gratitude/2-cross-cutting/research-how-the-quran-teaches-gratitude.md)
+- **Synthesis:** [`gratitude/concept-gratitude-deep.md`](gratitude/concept-gratitude-deep.md)
+
 ## Cross-investigation files (top-level)
 
 These span all investigations and live at the top of `notes/`.

@@ -2643,3 +2643,65 @@ Commissioned straight after istighfār, out of a conversation about long trials 
 3. Is there a Quranic distinction between *ʿasā* from God and *ʿasā* from humans that does not rest on tafsīr?
 
 The project now stands at ~723,000 words across 15 thematic investigations.
+
+## Entry 17 — GRATITUDE: how the Quran teaches thanking God (2026-10-22)
+
+The commissioner asked for this right after the hope study, framing it themselves: *"asking for forgiveness and glorifying Him go hand in hand."* The investigation is applied: it delivers a plain-language guide to the Quran's own words of thanks and praise. Phase 0 ran while the hope synthesis was still being written. They are separate folders, and no hope context went into the gratitude brief.
+
+13 files, ~27,800 words, 9 agents (6 Sonnet Phase-1, 2 Opus Phase-2, 1 Opus synthesis), ~1.35M subagent tokens. No Phase 3.
+
+### The decisive instruments
+
+1. **The first-person audit again.** It found a third devotional root where the first person is rare or absent:
+   - `shkr`: 3 first-person tokens, none of them "I thank";
+   - `rajā` (Entry 16): 0;
+   - `astaghfiru` (Entry 15): 3, all for others.
+
+   **Across three investigations, the Quran describes the inner act in the third person and gives the speaker a different sentence to say.** For thanks, that sentence is praise and glorification: *subḥāna lladhī sakhkhara lanā hādhā* (43:13), *al-ḥamdu li-llāh* (23:28), *mā shāʾa llāh* (18:39).
+2. **An ayah-level co-occurrence matrix across seven devotional roots.** These are `shkr`, `ḥmd`, `sbḥ`, istighfār (lemma only), `dhkr`, `kbr`, `twb`. Only lemmas were counted, so God's name *ghafūr* and *dhakar* "male" were excluded. The matrix answered the commissioner's framing directly:
+   - **the glorify/forgive pair is real (4×);**
+   - **thanks stands outside it**: 0 ayahs with tasbīḥ or istighfār, and 0 within ±5 ayahs of istighfār;
+   - **thanks reaches forgiveness through `twb`** (*tubtu ilayka*, which occurs 2× in the Quran, both beside `shkr`) **and through the names *ghafūr shakūr*.**
+3. **Purpose-clause annotation.** The 14 *laʿallakum tashkurūn* clauses were sorted by what precedes each one. Most follow ordinary, repeated gifts. Two follow an easing of the law, and one follows forgiveness.
+
+### Corrections (21, logged in `gratitude/README.md`)
+
+- **Cross-investigation correction:**
+  - **What:** the istighfār synthesis said "glorify with praise, then ask: 4×". At 40:55 the order is reversed, so it is 3 of 4. Corrected in place, with a note in the istighfār README.
+  - **Lesson:** a pairing count is not an order count.
+- **Orchestrator Phase-0 errors:**
+  - *niʿma* 68 merged the blessing noun (50) with the praise verb *niʿma* "how excellent" (18).
+  - 5:89 was filed as "law eased"; it is "made clear".
+  - 2:56 was filed as a pardon; it is a second life (*baʿathnā*).
+  - 7:189 was filed as a danger vow; it is a vow over a child.
+- **Agent overreach caught by verification:** the blessings file said the Quran prescribes no words of thanks "except 43:13". 23:28-29 and 18:39 are also prescribed. That finding became central to the guide.
+- **Spine narrowings:**
+  - thanks is paired with another response in 11 of 14 purpose clauses, not all;
+  - ingratitude is "an act or a sentence";
+  - 14:7 is a law about peoples;
+  - 3:144 names the grateful in defeat.
+
+### Process note
+
+**Two parallel Opus agents collided in a shared `/tmp/grat` scratch directory**, and one overwrote the other's helper script mid-run. The affected agent caught it and re-ran the matrix in a unique directory, and the results matched. **From now on, prompts tell agents to use `mktemp -d` for scratch.**
+
+### Findings
+
+- Thanks is a response to God, spoken in praise and glorification and done by using the gift. It is never words alone: the only word-only thanks are broken vows.
+- God is never the subject of a `shkr` verb. He is *Shakūr*, and effort is *mashkūr*.
+- Thanks is asked mostly for ordinary things. The senses always appear in the same order.
+- There is no count, no prostration of thanks, no commanded feeling except *rejoice* (10:58), and no thanks *for* hardship.
+- The recurring order is remember → acknowledge → ask → turn back. Paradise keeps glorification, peace and praise (10:10).
+
+### Cross-investigation citations
+
+- **Istighfār:** the glorify/forgive pairing, with its order corrected.
+- **Hope:** *ṣabbār shakūr* describes one person in a situation that can turn either way. This matches hope's finding that grief and patience sit with hope, not against it.
+
+### Open questions
+
+1. *shukran* in 34:13: is it a purpose, a state, or the work itself? The grammar does not settle it.
+2. Why does the largest gift in the Quran, the victory of 110, get tasbīḥ + istighfār and no `shkr` word?
+3. 52:26-28 is Paradise speech about God's *mann* with no *ḥamd*. Is it a different register?
+
+The project now stands at ~751,000 words across 16 thematic investigations.
