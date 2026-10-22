@@ -44,7 +44,7 @@ wish will be granted.
   with exultation in ease, and 11:11 gives the exception: *those who are patient and do good.*
   **Unblamed**: the messengers' despair (12:110, object unstated in the Arabic), and people before rain (42:28).
   **`iblās` (`bls`) is end-despair**: 4 of its 5 cases are in punishment.
-- ***ḥattā idhā* ("until, when…") runs both ways.** At the edge of despair, the messengers receive
+- ***ḥattā idhā* ("until, when…") runs both ways** *(NARROWED by the spine: the forks differ by a stated refusal to humble oneself, not by depth; 6:44 turns at the top)*. At the edge of despair, the messengers receive
   help (12:110, 9:118, cf. 2:214). The heedless are seized (6:44, 23:77).
 - **Hope with fear** shares an ayah 7×: in prayer (7:56, 32:16, 21:90), in the devotee (17:57, 39:9),
   and in lightning (13:12, 30:24).

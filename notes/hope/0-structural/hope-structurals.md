@@ -76,6 +76,7 @@ The word also carries the Quran's warning about one's own judgement of outcomes:
   - For the messengers, the edge of despair is where help arrives (12:110; cf. 2:214 *until the Messenger said: when is God's help?*), and the three left behind are turned to once the earth closes in on them (9:118).
   - For the heedless, the same construction ends in sudden seizure and `iblās` (6:44, 23:77).
   - **This is the main stress test for "help comes at the edge".**
+  - *(NARROWED by the spine: 6:44's turning point is the top — *ḥattā idhā fariḥū*, at the height of abundance — not the bottom; only 23:77 is a bottom. The two forks differ by a stated refusal to humble oneself (6:43, 23:76), not by depth. The three of 9:118 are not messengers. 2:214's help is said to be near, not shown arriving.)*
 
 ## 5. Hope with fear (data-grounded)
 
@@ -95,7 +96,7 @@ Hope and fear share an ayah 7 times (the census's 8th, 10:15, is incidental):
 ## 7. Grief (data-grounded)
 
 - **`ḥzn`, 42 ayahs.**
-  - **18 are commands not to grieve** (or *let it not grieve you*). Most are said to the Prophet about people's rejection. The others go to the believers at Uḥud (3:139, 3:153), Abū Bakr in the cave (9:40), Maryam (19:24), Moses's mother (20:40, 28:7, 28:13) and Lot (29:33).
+  - **18 are commands not to grieve** (or *let it not grieve you*). *(NARROWED by the spine: 14 imperatives, 3 purpose clauses where God acts so that someone not grieve — 3:153, 20:40, 28:13 — and 1 statement, 21:103.)* Most are said to the Prophet about people's rejection. The others go to the believers at Uḥud (3:139, 3:153), Abū Bakr in the cave (9:40), Maryam (19:24), Moses's mother (20:40, 28:7, 28:13) and Lot (29:33).
   - **13 are the formula *no fear on them, nor will they grieve*.**
 - **What thinking of God does**: there are 5 *ẓann bi-llāh* ayahs. At 3:154, 48:6 and 41:23 the thought is ill. At 33:10 it is the trench, hearts at the throats. At 37:87 Abraham asks *what do you think of the Lord of the worlds?*
 
