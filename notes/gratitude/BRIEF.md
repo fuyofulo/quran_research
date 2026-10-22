@@ -59,7 +59,7 @@ Write with these in mind. Wherever your material gives a person something to *sa
 - **Companions of thanks:**
   - *ṣabbār shakūr* (very patient, very grateful) 4×: 14:5, 31:31, 34:19, 42:33;
   - remembrance (2:152), worship (2:172, 16:114, 29:17, 39:66) and faith (4:147).
-  - **Thanks never shares an ayah with `sbḥ` (glorify), and shares one with `ḥmd` only 2×.**
+  - **Thanks never shares an ayah with `sbḥ` (glorify), and shares one with `ḥmd` only 2× — crossed, not paired (31:12, 35:34).**
   - **But *bi-ḥamdi* + istighfār share an ayah 4×** (40:7, 40:55, 42:5, 110:3).
 - **Blessing:**
   - *remember God's blessing* is commanded 12×;

@@ -76,7 +76,7 @@
 - **Ingratitude's self-portrait**: *I was only given it because of knowledge I have* (Qārūn 28:78; and 39:49, where it comes **right after** a rescue). Also *inna l-insāna li-rabbihi la-kanūd* (100:6) and *la-kafūr* (22:66, 42:48, 43:15).
 - **Thanks with patience: *ṣabbār shakūr* 4×** (14:5, 31:31, 34:19, 42:33): *in that are signs for everyone very patient, very grateful.*
 - **Thanks with remembrance** (2:152), **worship** (2:172, 16:114, 29:17, 39:66) and **faith** (4:147: *what would God do with your punishment if you thank and believe?*). **Increase** comes at 14:7.
-- **Thanks never shares an ayah with `sbḥ`** (tasbīḥ, glorification). It shares one with `ḥmd` only twice.
+- **Thanks never shares an ayah with `sbḥ`** (tasbīḥ, glorification). It shares one with `ḥmd` only twice (31:12, 35:34) — *and in both the roots are crossed, not paired: the human uses one, God's name carries the other (CORRECTED by the ḥamd agent).*
 
 ## 6. Praise (data-grounded)
 
