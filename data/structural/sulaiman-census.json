@@ -1,0 +1,504 @@
+{
+ "note": "Phase-0 census for Sulaymān. Story = the five passages below. Root counts are tokens inside those passages vs the whole Quran. Divergence = combined score from translation-divergence.json with its corpus percentile.",
+ "name": {
+  "tokens": 17,
+  "ayahs": [
+   "2:102",
+   "4:163",
+   "6:84",
+   "21:78",
+   "21:79",
+   "21:81",
+   "27:15",
+   "27:16",
+   "27:17",
+   "27:18",
+   "27:30",
+   "27:36",
+   "27:44",
+   "34:12",
+   "38:30",
+   "38:34"
+  ]
+ },
+ "passages": {
+  "2:102 the devils and sorcery": 1,
+  "21:78-82 the field, the wind, the divers": 5,
+  "27:15-44 the ant, the hoopoe, the queen": 30,
+  "34:12-14 the wind, the copper, his death": 3,
+  "38:30-40 the horses, the trial, the kingdom": 11
+ },
+ "story_ayahs": 50,
+ "with_david_same_ayah": [
+  "4:163",
+  "6:84",
+  "21:78",
+  "21:79",
+  "27:15",
+  "27:16",
+  "38:30"
+ ],
+ "david_ayahs": [
+  "2:251",
+  "4:163",
+  "5:78",
+  "6:84",
+  "17:55",
+  "21:78",
+  "21:79",
+  "27:15",
+  "27:16",
+  "34:10",
+  "34:13",
+  "38:17",
+  "38:22",
+  "38:24",
+  "38:26",
+  "38:30"
+ ],
+ "saba_named": [
+  "27:22",
+  "34:15"
+ ],
+ "surah_titles_from_the_story": {
+  "27": "an-Naml, The Ant (27:18)",
+  "34": "Sabaʾ, the people of the queen's land (27:22, 34:15)"
+ },
+ "roots": {
+  "beings": {
+   "Tyr": {
+    "gloss": "birds",
+    "tokens_in_story": 4,
+    "tokens_in_quran": 29,
+    "ayahs": [
+     "21:79",
+     "27:16",
+     "27:17",
+     "27:20"
+    ]
+   },
+   "nml": {
+    "gloss": "ant",
+    "tokens_in_story": 3,
+    "tokens_in_quran": 4,
+    "ayahs": [
+     "27:18"
+    ]
+   },
+   "hdhd": {
+    "gloss": "hoopoe",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 1,
+    "ayahs": [
+     "27:20"
+    ]
+   },
+   "jnn": {
+    "gloss": "jinn",
+    "tokens_in_story": 4,
+    "tokens_in_quran": 201,
+    "ayahs": [
+     "27:17",
+     "27:39",
+     "34:12",
+     "34:14"
+    ]
+   },
+   "$Tn": {
+    "gloss": "devils",
+    "tokens_in_story": 5,
+    "tokens_in_quran": 88,
+    "ayahs": [
+     "2:102",
+     "21:82",
+     "27:24",
+     "38:37"
+    ]
+   },
+   "Efr": {
+    "gloss": "ʿifrīt",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 1,
+    "ayahs": [
+     "27:39"
+    ]
+   },
+   "Sfn": {
+    "gloss": "horses standing (ṣāfināt)",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 1,
+    "ayahs": [
+     "38:31"
+    ]
+   },
+   "jwd": {
+    "gloss": "swift steeds (jiyād)",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 1,
+    "ayahs": [
+     "38:31"
+    ]
+   },
+   "jsd": {
+    "gloss": "a body (jasad)",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 4,
+    "ayahs": [
+     "38:34"
+    ]
+   },
+   "dbb": {
+    "gloss": "creature of the earth",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 18,
+    "ayahs": [
+     "34:14"
+    ]
+   },
+   "jnd": {
+    "gloss": "armies",
+    "tokens_in_story": 3,
+    "tokens_in_quran": 29,
+    "ayahs": [
+     "27:17",
+     "27:18",
+     "27:37"
+    ]
+   }
+  },
+  "gifts": {
+   "rwH": {
+    "gloss": "wind (rīḥ)",
+    "tokens_in_story": 4,
+    "tokens_in_quran": 57,
+    "ayahs": [
+     "21:81",
+     "34:12",
+     "38:36"
+    ]
+   },
+   "qTr": {
+    "gloss": "molten copper",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 5,
+    "ayahs": [
+     "34:12"
+    ]
+   },
+   "Er$": {
+    "gloss": "throne",
+    "tokens_in_story": 5,
+    "tokens_in_quran": 33,
+    "ayahs": [
+     "27:23",
+     "27:26",
+     "27:38",
+     "27:41",
+     "27:42"
+    ]
+   },
+   "SrH": {
+    "gloss": "palace",
+    "tokens_in_story": 2,
+    "tokens_in_quran": 4,
+    "ayahs": [
+     "27:44"
+    ]
+   },
+   "mlk": {
+    "gloss": "kingdom / king",
+    "tokens_in_story": 5,
+    "tokens_in_quran": 206,
+    "ayahs": [
+     "2:102",
+     "27:23",
+     "27:34",
+     "38:35"
+    ]
+   },
+   "sxr": {
+    "gloss": "subjected",
+    "tokens_in_story": 2,
+    "tokens_in_quran": 42,
+    "ayahs": [
+     "21:79",
+     "38:36"
+    ]
+   },
+   "wrv": {
+    "gloss": "inherit",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 35,
+    "ayahs": [
+     "27:16"
+    ]
+   },
+   "ETw": {
+    "gloss": "give / gift",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 14,
+    "ayahs": [
+     "38:39"
+    ]
+   }
+  },
+  "knowledge": {
+   "Elm": {
+    "gloss": "knowledge",
+    "tokens_in_story": 16,
+    "tokens_in_quran": 854,
+    "ayahs": [
+     "2:102",
+     "21:79",
+     "21:80",
+     "21:81",
+     "27:15",
+     "27:16",
+     "27:25",
+     "27:40",
+     "27:42",
+     "27:44",
+     "34:14"
+    ]
+   },
+   "fhm": {
+    "gloss": "understanding",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 1,
+    "ayahs": [
+     "21:79"
+    ]
+   },
+   "Hkm": {
+    "gloss": "judgment / wisdom",
+    "tokens_in_story": 3,
+    "tokens_in_quran": 210,
+    "ayahs": [
+     "21:78",
+     "21:79"
+    ]
+   },
+   "nTq": {
+    "gloss": "speech",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 12,
+    "ayahs": [
+     "27:16"
+    ]
+   },
+   "ktb": {
+    "gloss": "book / letter",
+    "tokens_in_story": 3,
+    "tokens_in_quran": 319,
+    "ayahs": [
+     "27:28",
+     "27:29",
+     "27:40"
+    ]
+   },
+   "gyb": {
+    "gloss": "the unseen",
+    "tokens_in_story": 2,
+    "tokens_in_quran": 60,
+    "ayahs": [
+     "27:20",
+     "34:14"
+    ]
+   }
+  },
+  "the inner life": {
+   "$kr": {
+    "gloss": "thanks",
+    "tokens_in_story": 7,
+    "tokens_in_quran": 75,
+    "ayahs": [
+     "21:80",
+     "27:19",
+     "27:40",
+     "34:13"
+    ]
+   },
+   "blw": {
+    "gloss": "test",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 38,
+    "ayahs": [
+     "27:40"
+    ]
+   },
+   "ftn": {
+    "gloss": "trial",
+    "tokens_in_story": 2,
+    "tokens_in_quran": 60,
+    "ayahs": [
+     "2:102",
+     "38:34"
+    ]
+   },
+   "Hmd": {
+    "gloss": "praise",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 63,
+    "ayahs": [
+     "27:15"
+    ]
+   },
+   "gfr": {
+    "gloss": "forgive",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 234,
+    "ayahs": [
+     "38:35"
+    ]
+   },
+   "Awb": {
+    "gloss": "turning back (awwāb)",
+    "tokens_in_story": 2,
+    "tokens_in_quran": 17,
+    "ayahs": [
+     "38:30",
+     "38:40"
+    ]
+   },
+   "nwb": {
+    "gloss": "turning back (anāba)",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 18,
+    "ayahs": [
+     "38:34"
+    ]
+   },
+   "DHk": {
+    "gloss": "smile / laugh",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 10,
+    "ayahs": [
+     "27:19"
+    ]
+   },
+   "slm": {
+    "gloss": "submission",
+    "tokens_in_story": 4,
+    "tokens_in_quran": 140,
+    "ayahs": [
+     "27:31",
+     "27:38",
+     "27:42",
+     "27:44"
+    ]
+   },
+   "Zlm": {
+    "gloss": "wrong (oneself)",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 315,
+    "ayahs": [
+     "27:44"
+    ]
+   },
+   "Hbb": {
+    "gloss": "love",
+    "tokens_in_story": 2,
+    "tokens_in_quran": 95,
+    "ayahs": [
+     "38:32"
+    ]
+   },
+   "rDw": {
+    "gloss": "please",
+    "tokens_in_story": 1,
+    "tokens_in_quran": 73,
+    "ayahs": [
+     "27:19"
+    ]
+   }
+  }
+ },
+ "shared_phrases": {
+  "niʿma l-ʿabd (what an excellent servant)": [
+   "38:30",
+   "38:44"
+  ],
+  "la-zulfā wa ḥusna maʾāb (nearness and a good return)": [
+   "38:25",
+   "38:40"
+  ],
+  "awwāb (always turning back)": [
+   "38:17",
+   "38:19",
+   "38:30",
+   "38:44",
+   "50:32"
+  ]
+ },
+ "divergence_top": [
+  {
+   "ref": "38:40",
+   "combined": 0.7763,
+   "percentile": 97.1
+  },
+  {
+   "ref": "38:31",
+   "combined": 0.7405,
+   "percentile": 92.1
+  },
+  {
+   "ref": "27:37",
+   "combined": 0.7244,
+   "percentile": 88.5
+  },
+  {
+   "ref": "27:43",
+   "combined": 0.7233,
+   "percentile": 88.2
+  },
+  {
+   "ref": "27:32",
+   "combined": 0.7115,
+   "percentile": 85.3
+  },
+  {
+   "ref": "27:29",
+   "combined": 0.7059,
+   "percentile": 83.8
+  },
+  {
+   "ref": "27:17",
+   "combined": 0.7013,
+   "percentile": 82.3
+  },
+  {
+   "ref": "38:32",
+   "combined": 0.6957,
+   "percentile": 80.4
+  },
+  {
+   "ref": "34:13",
+   "combined": 0.6816,
+   "percentile": 74.5
+  },
+  {
+   "ref": "27:31",
+   "combined": 0.6749,
+   "percentile": 71.6
+  },
+  {
+   "ref": "27:34",
+   "combined": 0.6655,
+   "percentile": 67.2
+  },
+  {
+   "ref": "2:102",
+   "combined": 0.6645,
+   "percentile": 66.6
+  }
+ ],
+ "divergence_story_median": 0.6125499999999999,
+ "divergence_corpus_median": 0.63485,
+ "near_duplicates": [
+  {
+   "a": "38:25",
+   "b": "38:40",
+   "similarity": 0.5
+  }
+ ]
+}
