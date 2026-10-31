@@ -182,6 +182,28 @@ This investigation was commissioned straight after the hope study. The commissio
 - **The model:** [`gratitude/2-cross-cutting/research-how-the-quran-teaches-gratitude.md`](gratitude/2-cross-cutting/research-how-the-quran-teaches-gratitude.md)
 - **Synthesis:** [`gratitude/concept-gratitude-deep.md`](gratitude/concept-gratitude-deep.md)
 
+### [`prophets/`](prophets/) — The prophets, one at a time
+A series. The series README tests the common count of prophets against the text: **25 are named; 18 are given the title in so many words, 5 hold it only through the lists of 4:163 and 6:83-89 (Job, David, Solomon, Elisha, Zechariah), and 2 are never titled (Adam, Dhū l-Kifl).** Luqmān, Dhū l-Qarnayn and ʿUzayr, often added to make 26 or more, are never called prophets, and the Quran says it has not named them all (4:164, 40:78).
+
+#### [`prophets/sulaiman/`](prophets/sulaiman/) — Solomon
+The first in the series. The main deliverable is a **plain-language story guide** that retells his life from the Quran alone, with a list of what popular retellings add. 9 files, ~20,000 words, 5 agents.
+
+**Headline findings:**
+- **Named 17 times in 7 surahs; the story fills 50 verses in 5 passages**, 30 of them in an-Naml. Two surahs take their names from it (the ant, 27:18; Sabaʾ, 27:22 and 34:15).
+- **Every gift carries a God-ward line.** *Hādhā min faḍli rabbī li-yabluwanī a-ashkuru am akfur* (27:40) occurs once in the Quran and names both the source of power and its purpose. Every other powerful man in the text names himself as owner (Pharaoh 43:51, Qārūn 28:78). Dhū l-Qarnayn is the closest parallel: he names the source only (18:98), and *qiṭr*, molten copper, appears only for the two of them.
+- **Thanks is the densest theme**: 7 of the Quran's 75 *shukr* in 0.8% of its verses, including 2 of its 3 first-person uses (27:19, 27:40).
+- **Checking and being checked** (27): the hoopoe knows what the king does not (27:22); Solomon answers every report with a test (*nẓr*); the queen tests him back and submits *with* him, not *to* him (27:44).
+- **The horses (38:31-33)** lean to "love of good things" (the phrase recurs only at 100:8), "away from the remembrance of my Lord" (all 11 other uses), the horses passing out of sight (no sun in the Arabic), and **stroking**, not striking (*masḥ* means wiping everywhere else).
+- **David and Solomon share one frame word for word** in Ṣād: tested, turning back, *nearness to Us and a good return* (38:25, 38:40, only these two). The "body on his throne" (38:34) is never explained, and *jasad* never means a corpse. His forgiveness is asked (38:35) but never narrated.
+- **21:79**: *fa-fahhamnāhā Sulaymān*, the only use of the root *fhm* in the Quran, is followed at once by *to each We gave judgment and knowledge*, so David is not demoted.
+- **Negative space**: no ring or demon, no Bilqīs and no marriage, no wives, no sun brought back, no year dead on the staff, no Temple, no Zuhra.
+
+**Links:**
+- **Start here:** [`prophets/sulaiman/README.md`](prophets/sulaiman/README.md)
+- **To read the story:** [`prophets/sulaiman/story-guide.md`](prophets/sulaiman/story-guide.md)
+- **What kind of king:** [`prophets/sulaiman/2-cross-cutting/research-what-kind-of-king.md`](prophets/sulaiman/2-cross-cutting/research-what-kind-of-king.md)
+- **Synthesis:** [`prophets/sulaiman/concept-sulaiman-deep.md`](prophets/sulaiman/concept-sulaiman-deep.md)
+
 ## Cross-investigation files (top-level)
 
 These span all investigations and live at the top of `notes/`.

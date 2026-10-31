@@ -57,4 +57,4 @@ name appears in.
 
 | Prophet | Folder | Status |
 |---|---|---|
-| Sulaymān (Solomon) | [`sulaiman/`](sulaiman/) | in progress |
+| Sulaymān (Solomon) | [`sulaiman/`](sulaiman/) | done: [story guide](sulaiman/story-guide.md), [synthesis](sulaiman/concept-sulaiman-deep.md) |

@@ -2705,3 +2705,56 @@ The commissioner asked for this right after the hope study, framing it themselve
 3. 52:26-28 is Paradise speech about God's *mann* with no *ḥamd*. Is it a different register?
 
 The project now stands at ~751,000 words across 16 thematic investigations.
+
+## Entry 18 — PROPHETS 1: Sulaymān (Solomon) (2026-10-31)
+
+The commissioner opened a series: *"lets research about prophets in islam… lets learn about them one by one. starting with sulaiman."* This is the first **narrative-figure** investigation. Earlier ones were concepts (roots) or practices. The deliverable is a **plain-language story guide** that retells his life from the Quran alone, with a section listing what popular retellings add.
+
+9 files, ~20,000 words, **5 agents (3 Sonnet Phase-1, 1 Opus Phase-2, 1 Opus synthesis), ~730k subagent tokens.** That is about half of gratitude (~1.35M, 9 agents). No Phase 3. A 50-verse corpus did not need root agents.
+
+### The decisive instruments
+
+1. **A series census before the figure census.** The commissioner's "26 prophets" was tested against the text. The Quran names 25. Of these, 18 are titled in so many words, 5 only through the lists (4:163, 6:83-89), and 2 never (Adam, Dhū l-Kifl). The names often added to reach 26 are never titled. Hand-annotation was needed because a title is often in the next verse: same-ayah co-occurrence found only 22 of the title links.
+2. **Story vs Quran ratios by root.** Comparing tokens in the 50 story verses with the whole Quran flagged the theme at once: *shukr* 7/75 in 0.8% of the verses. It also flagged six hapaxes, *fhm* being the one that mattered.
+3. **Exact-phrase uniqueness checks** carried the cross-cutting piece:
+   - *hādhā min faḍli rabbī* occurs once;
+   - *la-zulfā wa ḥusna maʾāb* only for David and Solomon;
+   - *niʿma l-ʿabd… awwāb* only for Solomon and Job;
+   - *ḥubb al-khayr* only at 38:32 and 100:8;
+   - *ʿan dhikr* 12×, all "away from";
+   - *qiṭr* only for Solomon and Dhū l-Qarnayn.
+   **For a narrative figure, the formula-uniqueness check does the work that the lemma table does for a root.**
+4. **Disputed passages settled by the Quran's own usage**, never by tradition. For the horses (38:31-33), each open word was bounded by its other uses (*masḥ* = wipe; *khayr* = good or wealth; no sun in the Arabic). *Jasad* was bounded the same way by 7:148, 20:88 and 21:8.
+
+### Corrections (logged in `prophets/sulaiman/README.md`)
+
+- **Orchestrator:**
+  - The *shukr* tokens were listed as 27:40 ×4. They are ×3, plus 21:80.
+  - *awwāb* "5×" holds for the singular only. The lemma adds 17:25 (plural), and 34:10 has the verb.
+- **Phase-2 on Phase-1:**
+  - the queen and her council, not Solomon, speak 3 of the *nẓr*/*rjʿ* test verbs;
+  - God's first-person *ftn* verbs are 9, not 7;
+  - *sūq* at 48:29 means stalks, not legs.
+- **Translators:**
+  - Saheeh renders *al-ḥikma* (2:251) as "prophethood";
+  - Khattab renders *shayāṭīn* (21:82) as "jinn";
+  - Saheeh and Arberry add "the sun" at 38:32.
+
+### Process note
+
+**All three Sonnet narrative agents typed Arabic from memory in a non-Uthmani spelling** (Tanzil-simple sukūn and alif maqṣūra). The words were right but not the source text: 0 of 16 panels matched verbatim. A new orchestrator fixer matches each run by consonant skeleton and replaces it with the exact source words. It took 11 replacements and all 16 now match. The two Opus prompts said "copy Arabic by script, never from memory", and both came back with 100% matching panels. **From now on, every agent prompt carries that line.**
+
+### Findings
+
+- Every gift in Solomon's story has a God-ward line attached. 27:40 names the source and the purpose of power together, and nobody else in the Quran calls his own gift a test.
+- Sūrat al-Naml is a story of checking: the king checks the hoopoe, the hoopoe knows what the king does not, and the queen tests back and submits *with* him.
+- Ṣād gives David and Solomon one frame word for word. His lapse is self-reported (38:32), and his forgiveness is asked but not narrated.
+- The negative space is large: ring, demon, Bilqīs, marriage, wives, sun, year on the staff, Temple, Zuhra.
+
+### Open questions
+
+1. Is *bi-l-sūqi* (38:33) "shins" or something else? QAC files it under the "markets/stalks" lemma.
+2. Who speaks 27:42b, *we were given knowledge before her*: Solomon, his court, or the queen?
+3. Do the people of Sabaʾ in 34:15-19 continue the queen's people (27:22)? The text only shares the name.
+
+The project now stands at ~772,000 words across 17 investigations.
