@@ -79,8 +79,9 @@ the demon, the wives and Bilqīs are not in the text.
 
 **Orchestrator notes**
 
-5. The three Sonnet narrative files had Arabic typed in a non-Uthmani spelling. The orchestrator
-   replaced it by script with the exact source text from `data/arabic/quran.json`.
+5. Two of the three Sonnet narrative files (the queen; judgment and defence) had Arabic typed in a
+   non-Uthmani spelling: 11 panels, none verbatim. The orchestrator replaced them by script with the exact
+   source text from `data/arabic/quran.json`. The horses file was verbatim from the start.
 6. *Awwāb* is 5× in the singular; the lemma adds the plural at 17:25 and the verb at 34:10. The BRIEF's
    "awwāb 5×" should be read as singular-only (see item 1).
 7. Saheeh renders *al-ḥikma* in 2:251 as "prophethood"; the Arabic is "wisdom".

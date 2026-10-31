@@ -2742,7 +2742,7 @@ The commissioner opened a series: *"lets research about prophets in islam… let
 
 ### Process note
 
-**All three Sonnet narrative agents typed Arabic from memory in a non-Uthmani spelling** (Tanzil-simple sukūn and alif maqṣūra). The words were right but not the source text: 0 of 16 panels matched verbatim. A new orchestrator fixer matches each run by consonant skeleton and replaces it with the exact source words. It took 11 replacements and all 16 now match. The two Opus prompts said "copy Arabic by script, never from memory", and both came back with 100% matching panels. **From now on, every agent prompt carries that line.**
+**Two of the three Sonnet narrative agents typed Arabic from memory in a non-Uthmani spelling** (Tanzil-simple sukūn and alif maqṣūra). The words were right but not the source text: 0 of their 11 panels matched verbatim. The third agent's 5 panels matched. A new orchestrator fixer matches each run by consonant skeleton and replaces it with the exact source words. It made all 11 replacements, and all 16 Phase-1 panels now match. The two Opus prompts said "copy Arabic by script, never from memory", and both came back with 100% matching panels. **From now on, every agent prompt carries that line.**
 
 ### Findings
 
