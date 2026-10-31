@@ -41,7 +41,7 @@ Script count of the Arabic words (412 in the passage, diacritics stripped, tanw�
 
 **27:19, phrase by phrase:**
 
-> فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَٰلِدَيَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ ٱلصَّٰلِحِينَ
+> فَتَبَسَّمَ ضَاحِكࣰا مِّن قَوۡلِهَا وَقَالَ رَبِّ أَوۡزِعۡنِيٓ أَنۡ أَشۡكُرَ نِعۡمَتَكَ ٱلَّتِيٓ أَنۡعَمۡتَ عَلَيَّ وَعَلَىٰ وَٰلِدَيَّ وَأَنۡ أَعۡمَلَ صَٰلِحࣰا تَرۡضَىٰهُ وَأَدۡخِلۡنِي بِرَحۡمَتِكَ فِي عِبَادِكَ ٱلصَّٰلِحِينَ
 
 - *Awziʿnī an ashkura*: he asks for the ability to thank, not for the thanks. *Wzʿ* occurs 5× in the Quran. Two are *awziʿnī* (here and the man at forty, 46:15). One is the army *yūzaʿūn*, held in ranks, two verses earlier (27:17). **[Interpretive]** the commander of the held asks to be held.
 - *Niʿmatika ... ʿalayya wa-ʿalā wālidayya*: the favour includes his parents; thanks reaches back.
@@ -49,7 +49,7 @@ Script count of the Arabic words (412 in the passage, diacritics stripped, tanw�
 
 **27:40:**
 
-> فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَٰذَا مِن فَضْلِ رَبِّي لِيَبْلُوَنِيٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّي غَنِىٌّ كَرِيمٌ
+> فَلَمَّا رَءَاهُ مُسۡتَقِرًّا عِندَهُۥ قَالَ هَٰذَا مِن فَضۡلِ رَبِّي لِيَبۡلُوَنِيٓ ءَأَشۡكُرُ أَمۡ أَكۡفُرُۖ وَمَن شَكَرَ فَإِنَّمَا يَشۡكُرُ لِنَفۡسِهِۦۖ وَمَن كَفَرَ فَإِنَّ رَبِّي غَنِيࣱّ كَرِيمࣱ
 
 - *Mustaqirran ʿindahu*: the throne is "settled by him".
 - *Min faḍli rabbī*: the credit goes to the Lord, not to the man who brought it, and not to Solomon. He names no helper.
@@ -66,7 +66,7 @@ Script count of the Arabic words (412 in the passage, diacritics stripped, tanw�
 
 ## 4. The hoopoe (27:20-28)
 
-> أَحَطتُ بِمَا لَمْ تُحِطْ بِهِۦ وَجِئْتُكَ مِن سَبَإٍۢ بِنَبَإٍۢ يَقِينٍ
+> أَحَطتُ بِمَا لَمۡ تُحِطۡ بِهِۦ وَجِئۡتُكَ مِن سَبَإِۭ بِنَبَإࣲ يَقِينٍ
 
 - **Inspection (27:20).** His first words are a question about his own eyes: *Why do I not see the hoopoe?* Only then: *or is he among the absent?*
 - **Threat and exit (27:21).** Three verbs, each carrying the emphatic *lām-nūn*: *la-uʿadhdhibannahu*, *la-adhbaḥannahu*, *la-yaʾtiyannī bi-sulṭānin mubīn*. The third is sworn with the same force as the first two. **[Interpretive]** he binds himself to accept proof as firmly as to punish. *Sulṭān mubīn* is evidence.
@@ -77,7 +77,7 @@ Script count of the Arabic words (412 in the passage, diacritics stripped, tanw�
 
 ## 5. The letter and the basmala (27:29-31)
 
-> إِنَّهُۥ مِن سُلَيْمَٰنَ وَإِنَّهُۥ بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ﴿٣٠﴾ أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ
+> إِنَّهُۥ مِن سُلَيۡمَٰنَ وَإِنَّهُۥ بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ ﴿٣٠﴾ أَلَّا تَعۡلُواْ عَلَيَّ وَأۡتُونِي مُسۡلِمِينَ
 
 - **Length, data-grounded:** the letter is 9 Arabic words: the basmala (4) and *allā taʿlū ʿalayya wa-ʾtūnī muslimīn* (5). The queen calls it *kitābun karīm* (27:29). The divergence at 27:29 is not mainly *karīm* (all four translators write "noble/honourable") but *ulqiya*: delivered, delivered, thrown, cast.
 - **Script check** (diacritics stripped, tanwīn alif rejoined, *ٱ* → *ا*, all 6,236 ayahs): the full phrase *bismi llāhi l-raḥmāni l-raḥīm* occurs in exactly two ayahs of this dataset: **1:1 and 27:30**. No other surah's opening basmala is in the ayah text. So 27:30 is the only full basmala inside a surah's running text. Near-miss: 11:41 (Noah) has *bismi llāhi majrāhā*, not the full formula.
@@ -94,7 +94,7 @@ Script count of the Arabic words (412 in the passage, diacritics stripped, tanw�
 - **27:43 (hotspot, 0.723).** *Wa-ṣaddahā mā kānat taʿbudu min dūni llāh*: grammatically *mā* is the subject: what she worshipped hindered her. All four translators follow that. The narrator (God), not Solomon, is the likelier voice, since the sentence explains the queen's inner state.
 - **The floor (27:44).** She sees *lujja* and uncovers *sāqayhā* (shins only). Then: *rabbi innī ẓalamtu nafsī wa-aslamtu **maʿa** Sulaymān lillāhi rabbi l-ʿālamīn.*
 
-> قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَٰنَ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
+> قَالَتۡ رَبِّ إِنِّي ظَلَمۡتُ نَفۡسِي وَأَسۡلَمۡتُ مَعَ سُلَيۡمَٰنَ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ
 
 *Maʿa* ("with") puts her beside him, not under him; what she submits to is *lillāh*. She addresses God (*rabbi*), not Solomon. **[Interpretive]** the end of the contest is that nobody wins it: both are muslims before the same Lord. The ʿarsh of 27:23 is hers; the one of 27:26 is God's.
 
