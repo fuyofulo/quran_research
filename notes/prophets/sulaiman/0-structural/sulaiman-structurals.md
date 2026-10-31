@@ -46,7 +46,7 @@
 - **Test and trial**: *li-yabluwanī* (27:40), *fatannā Sulaymān* (38:34).
 - **Turning back**:
   - *awwāb* (38:30), *anāba* (38:34), *forgive me* (38:35), *I have wronged myself* (27:44, the queen).
-  - *awwāb* occurs **5× in the Quran, and 4 are in Ṣād**: David (38:17), the mountains and birds with David (38:19), Solomon (38:30), Job (38:44). The fifth is the people of Paradise (50:32).
+  - *awwāb* occurs **5× in the Quran, and 4 are in Ṣād**: David (38:17), the mountains and birds with David (38:19), Solomon (38:30), Job (38:44). The fifth is the people of Paradise (50:32). *(CORRECTED by the judgment agent: that is the singular only. The lemma adds the plural* awwābīn *(17:25), and the verb* awwibī*, "repeat praise with him", is said to the mountains with David (34:10).)*
 
 ## 4. Formulas shared with David and Job (data-grounded)
 
