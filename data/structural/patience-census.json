@@ -1,0 +1,978 @@
+{
+ "note": "Phase-0 census, patience (sabr). See scripts/build_patience_census.py.",
+ "sbr": {
+  "tokens": 103,
+  "ayahs": 93,
+  "surahs": 45,
+  "lemmas": [
+   [
+    "Sabara",
+    58
+   ],
+   [
+    "SaAbir",
+    20
+   ],
+   [
+    "Sabor",
+    15
+   ],
+   [
+    "Sab~aAr",
+    4
+   ],
+   [
+    "{SoTabiro",
+    3
+   ],
+   [
+    "SaAbiru",
+    1
+   ],
+   [
+    "SaAbirap",
+    1
+   ],
+   [
+    "S~a`bira`t",
+    1
+   ]
+  ],
+  "mood_person": [
+   [
+    "NOUN/PCPL",
+    41
+   ],
+   [
+    "IMPV 2MS",
+    22
+   ],
+   [
+    "PERF 3MP",
+    15
+   ],
+   [
+    "IMPV 2MP",
+    7
+   ],
+   [
+    "IMPF 2MP",
+    6
+   ],
+   [
+    "PERF 3MS",
+    3
+   ],
+   [
+    "IMPF 1P",
+    2
+   ],
+   [
+    "PERF 2MP",
+    2
+   ],
+   [
+    "PERF 1P",
+    2
+   ],
+   [
+    "IMPF 3MS",
+    1
+   ],
+   [
+    "IMPF 2MS",
+    1
+   ],
+   [
+    "IMPF 3MP",
+    1
+   ]
+  ],
+  "verbal_tokens": 62,
+  "revelation_tokens": {
+   "Medinan": 32,
+   "Meccan": 71
+  },
+  "revelation_ayahs": {
+   "Medinan": 27,
+   "Meccan": 66
+  },
+  "by_surah_top": [
+   [
+    "2",
+    9
+   ],
+   [
+    "3",
+    8
+   ],
+   [
+    "18",
+    8
+   ],
+   [
+    "16",
+    7
+   ],
+   [
+    "8",
+    5
+   ],
+   [
+    "7",
+    4
+   ],
+   [
+    "11",
+    3
+   ],
+   [
+    "12",
+    3
+   ],
+   [
+    "14",
+    3
+   ],
+   [
+    "25",
+    3
+   ]
+  ],
+  "ayah_list": [
+   "2:45",
+   "2:61",
+   "2:153",
+   "2:155",
+   "2:175",
+   "2:177",
+   "2:249",
+   "2:250",
+   "3:17",
+   "3:120",
+   "3:125",
+   "3:142",
+   "3:146",
+   "3:186",
+   "3:200",
+   "4:25",
+   "6:34",
+   "7:87",
+   "7:126",
+   "7:128",
+   "7:137",
+   "8:46",
+   "8:65",
+   "8:66",
+   "10:109",
+   "11:11",
+   "11:49",
+   "11:115",
+   "12:18",
+   "12:83",
+   "12:90",
+   "13:22",
+   "13:24",
+   "14:5",
+   "14:12",
+   "14:21",
+   "16:42",
+   "16:96",
+   "16:110",
+   "16:126",
+   "16:127",
+   "18:28",
+   "18:67",
+   "18:68",
+   "18:69",
+   "18:72",
+   "18:75",
+   "18:78",
+   "18:82",
+   "19:65",
+   "20:130",
+   "20:132",
+   "21:85",
+   "22:35",
+   "23:111",
+   "25:20",
+   "25:42",
+   "25:75",
+   "28:54",
+   "28:80",
+   "29:59",
+   "30:60",
+   "31:17",
+   "31:31",
+   "32:24",
+   "33:35",
+   "34:19",
+   "37:102",
+   "38:6",
+   "38:17",
+   "38:44",
+   "39:10",
+   "40:55",
+   "40:77",
+   "41:24",
+   "41:35",
+   "42:33",
+   "42:43",
+   "46:35",
+   "47:31",
+   "49:5",
+   "50:39",
+   "52:16",
+   "52:48",
+   "54:27",
+   "68:48",
+   "70:5",
+   "73:10",
+   "74:7",
+   "76:12",
+   "76:24",
+   "90:17",
+   "103:3"
+  ]
+ },
+ "imperatives": {
+  "tokens": 29,
+  "ayahs": [
+   "3:200",
+   "7:87",
+   "7:128",
+   "8:46",
+   "10:109",
+   "11:49",
+   "11:115",
+   "16:127",
+   "18:28",
+   "19:65",
+   "20:130",
+   "20:132",
+   "30:60",
+   "31:17",
+   "38:6",
+   "38:17",
+   "40:55",
+   "40:77",
+   "46:35",
+   "50:39",
+   "52:16",
+   "52:48",
+   "54:27",
+   "68:48",
+   "70:5",
+   "73:10",
+   "74:7",
+   "76:24"
+  ],
+  "singular_2MS": [
+   "10:109",
+   "11:49",
+   "11:115",
+   "16:127",
+   "18:28",
+   "19:65",
+   "20:130",
+   "20:132",
+   "30:60",
+   "31:17",
+   "38:17",
+   "40:55",
+   "40:77",
+   "46:35",
+   "50:39",
+   "52:48",
+   "54:27",
+   "68:48",
+   "70:5",
+   "73:10",
+   "74:7",
+   "76:24"
+  ],
+  "plural_2MP": [
+   "3:200",
+   "7:87",
+   "7:128",
+   "8:46",
+   "38:6",
+   "52:16"
+  ],
+  "addressee": {
+   "3:200": "the believers (isbiru, sabiru)",
+   "7:87": "Shu`ayb to both groups of his people: until God judges",
+   "7:128": "Moses to his people: seek help through God and be patient",
+   "8:46": "the believers, in battle",
+   "10:109": "the Prophet: until God judges",
+   "11:49": "the Prophet, after Noah's story: the end is for the mindful",
+   "11:115": "the Prophet: God does not lose the reward of those who do good",
+   "16:127": "the Prophet: your patience is only through God",
+   "18:28": "the Prophet: keep yourself patient with those who call on their Lord",
+   "19:65": "the Prophet: worship Him and be steadfast in His worship (istabir)",
+   "20:130": "the Prophet: over what they say; glorify with praise",
+   "20:132": "the Prophet: enjoin prayer on your family and be steadfast in it (istabir)",
+   "30:60": "the Prophet: God's promise is true",
+   "31:17": "Luqman to his son: over what befalls you",
+   "38:6": "MISDIRECTED: the chiefs to each other: be patient over your gods",
+   "38:17": "the Prophet: over what they say; remember David",
+   "40:55": "the Prophet: God's promise is true; ask forgiveness; glorify",
+   "40:77": "the Prophet: God's promise is true",
+   "46:35": "the Prophet: as the messengers of resolve were patient; do not hasten",
+   "50:39": "the Prophet: over what they say; glorify",
+   "52:16": "MISDIRECTED: the damned: be patient or not, it is the same",
+   "52:48": "the Prophet: for your Lord's judgment; you are in Our eyes; glorify",
+   "54:27": "Salih: watch them and be steadfast (istabir)",
+   "68:48": "the Prophet: for your Lord's judgment; not like the man of the fish",
+   "70:5": "the Prophet: beautiful patience",
+   "73:10": "the Prophet: over what they say; leave them graciously",
+   "74:7": "the Prophet: for your Lord",
+   "76:24": "the Prophet: for your Lord's judgment; do not obey the sinner"
+  },
+  "missing_annotation": [],
+  "to_the_prophet": [
+   "10:109",
+   "11:49",
+   "11:115",
+   "16:127",
+   "18:28",
+   "19:65",
+   "20:130",
+   "20:132",
+   "30:60",
+   "38:17",
+   "40:55",
+   "40:77",
+   "46:35",
+   "50:39",
+   "52:48",
+   "68:48",
+   "70:5",
+   "73:10",
+   "74:7",
+   "76:24"
+  ],
+  "to_the_prophet_by_revelation": {
+   "Meccan": 19,
+   "Medinan": 1
+  }
+ },
+ "what_follows": {
+  "over (EalaY)": [
+   "2:61",
+   "2:175",
+   "6:34",
+   "14:12",
+   "18:68",
+   "20:130",
+   "20:132",
+   "22:35",
+   "25:42",
+   "31:17",
+   "38:6",
+   "38:17",
+   "50:39",
+   "73:10"
+  ],
+  "until (Hatta)": [
+   "7:87",
+   "10:109",
+   "49:5"
+  ],
+  "with (maEa)": [
+   "18:28"
+  ],
+  "for (li-)": [
+   "19:65",
+   "52:48",
+   "68:48",
+   "76:24"
+  ]
+ },
+ "misdirected": {
+  "2:61": "Israel: 'we will never be patient with one kind of food'",
+  "2:175": "'how patient they are for the Fire!' (afaal of wonder)",
+  "14:21": "the weak in Hell: 'whether we panic or are patient, there is no escape'",
+  "25:42": "the deniers: 'he nearly led us from our gods, had we not been patient over them'",
+  "38:6": "the chiefs: 'be patient over your gods'",
+  "41:24": "'if they are patient, the Fire is their abode'",
+  "52:16": "'be patient or not, it is the same for you'"
+ },
+ "formulas": {
+  "with_the_patient (maEa al-sabirin)": [
+   "2:153",
+   "2:249",
+   "8:46",
+   "8:66"
+  ],
+  "loves_the_patient": [
+   "3:146"
+  ],
+  "give_good_news_to_the_patient": [
+   "2:155"
+  ],
+  "for_what_they_endured (bima sabaru / sabartum)": [
+   "7:137",
+   "13:24",
+   "23:111",
+   "25:75",
+   "28:54",
+   "76:12"
+  ],
+  "sabbar_shakur": [
+   "14:5",
+   "31:31",
+   "34:19",
+   "42:33"
+  ],
+  "sabr_jamil": [
+   "12:18",
+   "12:83",
+   "70:5"
+  ],
+  "pour_patience_upon_us": [
+   "2:250",
+   "7:126"
+  ],
+  "matters_of_resolve (min `azm al-umur)": [
+   "3:186",
+   "31:17",
+   "42:43"
+  ],
+  "you_will_find_me_god_willing": [
+   "18:69",
+   "28:27",
+   "37:102"
+  ],
+  "without_account (bi-ghayri hisab)": [
+   "2:212",
+   "3:27",
+   "3:37",
+   "24:38",
+   "38:39",
+   "39:10",
+   "40:40"
+  ],
+  "your_lords_judgment (li-hukmi rabbik)": [
+   "52:48",
+   "68:48",
+   "76:24"
+  ],
+  "gods_promise_is_true": [
+   "10:55",
+   "18:21",
+   "28:13",
+   "30:60",
+   "31:33",
+   "35:5",
+   "40:55",
+   "40:77",
+   "45:32",
+   "46:17"
+  ],
+  "only_the_patient_are_granted_it": [
+   "28:80",
+   "41:35"
+  ],
+  "advised_one_another_to_patience": [
+   "90:17",
+   "103:3"
+  ],
+  "until_god_judges": [
+   "7:87",
+   "10:109"
+  ]
+ },
+ "pairs_same_ayah": {
+  "Slw prayer": [
+   "2:45",
+   "2:153",
+   "2:177",
+   "13:22",
+   "20:132",
+   "22:35",
+   "31:17"
+  ],
+  "wqy mindfulness (taqwa)": [
+   "2:177",
+   "3:120",
+   "3:125",
+   "3:186",
+   "3:200",
+   "7:128",
+   "11:49",
+   "12:90",
+   "20:132",
+   "39:10"
+  ],
+  "$kr thanks": [
+   "14:5",
+   "31:31",
+   "34:19",
+   "42:33"
+  ],
+  "wkl reliance": [
+   "14:12",
+   "16:42",
+   "29:59"
+  ],
+  "Hqq truth": [
+   "2:61",
+   "30:60",
+   "40:55",
+   "40:77",
+   "103:3"
+  ],
+  "rHm mercy": [
+   "4:25",
+   "16:110",
+   "18:82",
+   "49:5",
+   "90:17"
+  ],
+  "yqn certainty": [
+   "30:60",
+   "32:24"
+  ],
+  "gfr forgiveness": [
+   "2:175",
+   "3:17",
+   "4:25",
+   "11:11",
+   "16:110",
+   "33:35",
+   "40:55",
+   "42:43",
+   "49:5"
+  ],
+  "Ezm resolve": [
+   "3:186",
+   "31:17",
+   "42:43",
+   "46:35"
+  ],
+  "jzy recompense": [
+   "16:96",
+   "23:111",
+   "25:75",
+   "52:16",
+   "76:12"
+  ],
+  "Ajr reward": [
+   "4:25",
+   "11:11",
+   "11:115",
+   "12:90",
+   "16:96",
+   "28:54",
+   "33:35",
+   "39:10"
+  ],
+  "Hzn grief": [
+   "16:127"
+  ],
+  "sbH glorify": [
+   "20:130",
+   "40:55",
+   "50:39",
+   "52:48"
+  ],
+  "Hmd praise": [
+   "20:130",
+   "40:55",
+   "50:39",
+   "52:48"
+  ],
+  "wEd promise": [
+   "30:60",
+   "40:55",
+   "40:77",
+   "46:35"
+  ],
+  "Hkm judgment": [
+   "7:87",
+   "10:109",
+   "12:83",
+   "52:48",
+   "68:48",
+   "76:24"
+  ],
+  "blw test (bala')": [
+   "2:155",
+   "2:249",
+   "3:186",
+   "47:31"
+  ],
+  "ftn trial (fitna)": [
+   "16:110",
+   "25:20",
+   "54:27"
+  ],
+  "Elm knowledge": [
+   "3:142",
+   "4:25",
+   "8:66",
+   "11:49",
+   "12:83",
+   "19:65",
+   "25:42",
+   "28:80",
+   "47:31"
+  ],
+  "xbr knowledge (khubr)": [
+   "18:68",
+   "47:31"
+  ],
+  "nSr help": [
+   "2:250",
+   "6:34"
+  ],
+  "Hbb love": [
+   "2:177",
+   "3:146"
+  ],
+  "b$r good news": [
+   "2:155"
+  ],
+  "Amn faith": [
+   "2:153",
+   "2:177",
+   "2:249",
+   "3:200",
+   "4:25",
+   "7:87",
+   "7:126",
+   "8:65",
+   "28:80",
+   "33:35",
+   "39:10",
+   "90:17",
+   "103:3"
+  ]
+ },
+ "neighbours": {
+  "jzE panic (jaza`)": {
+   "tokens": 2,
+   "ayahs": [
+    "14:21",
+    "70:20"
+   ],
+   "with_Sbr_same_ayah": [
+    "14:21"
+   ]
+  },
+  "hlE restless (halu`)": {
+   "tokens": 1,
+   "ayahs": [
+    "70:19"
+   ],
+   "with_Sbr_same_ayah": []
+  },
+  "Ejl haste": {
+   "tokens": 47,
+   "ayahs": [
+    "2:51",
+    "2:54",
+    "2:92",
+    "2:93",
+    "2:203",
+    "4:153",
+    "6:57",
+    "6:58",
+    "7:148",
+    "7:150",
+    "7:152",
+    "10:11",
+    "10:50",
+    "10:51",
+    "11:69",
+    "13:6",
+    "16:1",
+    "17:11",
+    "17:18",
+    "18:58",
+    "19:84",
+    "20:83",
+    "20:84",
+    "20:88",
+    "20:114",
+    "21:37",
+    "22:47",
+    "26:204",
+    "27:46",
+    "27:72",
+    "29:53",
+    "29:54",
+    "37:176",
+    "38:16",
+    "42:18",
+    "46:24",
+    "46:35",
+    "48:20",
+    "51:14",
+    "51:26",
+    "51:59",
+    "75:16",
+    "75:20",
+    "76:27"
+   ],
+   "with_Sbr_same_ayah": [
+    "46:35"
+   ]
+  },
+  "whn weakening": {
+   "tokens": 9,
+   "ayahs": [
+    "3:139",
+    "3:146",
+    "4:104",
+    "8:18",
+    "19:4",
+    "29:41",
+    "31:14",
+    "47:35"
+   ],
+   "with_Sbr_same_ayah": [
+    "3:146"
+   ]
+  },
+  "kZm swallowing (grief, anger)": {
+   "tokens": 6,
+   "ayahs": [
+    "3:134",
+    "12:84",
+    "16:58",
+    "40:18",
+    "43:17",
+    "68:48"
+   ],
+   "with_Sbr_same_ayah": [
+    "68:48"
+   ]
+  },
+  "Hlm forbearance (hilm)": {
+   "tokens": 21,
+   "ayahs": [
+    "2:225",
+    "2:235",
+    "2:263",
+    "3:155",
+    "4:12",
+    "5:101",
+    "9:114",
+    "11:75",
+    "11:87",
+    "12:44",
+    "17:44",
+    "21:5",
+    "22:59",
+    "24:58",
+    "24:59",
+    "33:51",
+    "35:41",
+    "37:101",
+    "52:32",
+    "64:17"
+   ],
+   "with_Sbr_same_ayah": []
+  },
+  "vbt standing firm": {
+   "tokens": 18,
+   "ayahs": [
+    "2:250",
+    "2:265",
+    "3:147",
+    "4:66",
+    "8:11",
+    "8:12",
+    "8:30",
+    "8:45",
+    "11:120",
+    "13:39",
+    "14:24",
+    "14:27",
+    "16:94",
+    "16:102",
+    "17:74",
+    "25:32",
+    "47:7"
+   ],
+   "with_Sbr_same_ayah": [
+    "2:250"
+   ]
+  },
+  "qnT despair (qunut)": {
+   "tokens": 6,
+   "ayahs": [
+    "15:55",
+    "15:56",
+    "30:36",
+    "39:53",
+    "41:49",
+    "42:28"
+   ],
+   "with_Sbr_same_ayah": []
+  },
+  "yAs despair (ya's)": {
+   "tokens": 13,
+   "ayahs": [
+    "5:3",
+    "11:9",
+    "12:80",
+    "12:87",
+    "12:110",
+    "13:31",
+    "17:83",
+    "29:23",
+    "41:49",
+    "60:13",
+    "65:4"
+   ],
+   "with_Sbr_same_ayah": []
+  },
+  "rbT binding / stationing": {
+   "tokens": 5,
+   "ayahs": [
+    "3:200",
+    "8:11",
+    "8:60",
+    "18:14",
+    "28:10"
+   ],
+   "with_Sbr_same_ayah": [
+    "3:200"
+   ]
+  },
+  "Hzn grief": {
+   "tokens": 42,
+   "ayahs": [
+    "2:38",
+    "2:62",
+    "2:112",
+    "2:262",
+    "2:274",
+    "2:277",
+    "3:139",
+    "3:153",
+    "3:170",
+    "3:176",
+    "5:41",
+    "5:69",
+    "6:33",
+    "6:48",
+    "7:35",
+    "7:49",
+    "9:40",
+    "9:92",
+    "10:62",
+    "10:65",
+    "12:13",
+    "12:84",
+    "12:86",
+    "15:88",
+    "16:127",
+    "19:24",
+    "20:40",
+    "21:103",
+    "27:70",
+    "28:7",
+    "28:8",
+    "28:13",
+    "29:33",
+    "31:23",
+    "33:51",
+    "35:34",
+    "36:76",
+    "39:61",
+    "41:30",
+    "43:68",
+    "46:13",
+    "58:10"
+   ],
+   "with_Sbr_same_ayah": [
+    "16:127"
+   ]
+  }
+ },
+ "densest_passage_18_60_82": {
+  "tokens": 7,
+  "refs": [
+   "18:67",
+   "18:68",
+   "18:69",
+   "18:72",
+   "18:75",
+   "18:78",
+   "18:82"
+  ],
+  "share_of_all": 0.068
+ },
+ "god_as_subject_of_Sbr": "none: no Sbr verb has God as its subject, and al-Sabur is not a Quranic name (hand-checked against ayah_list)",
+ "near_duplicates": [],
+ "divergence": {
+  "median_sbr": 0.6492,
+  "median_corpus": 0.6349,
+  "top": [
+   [
+    "42:43",
+    0.7751,
+    97
+   ],
+   [
+    "3:200",
+    0.7594,
+    95
+   ],
+   [
+    "41:35",
+    0.7575,
+    95
+   ],
+   [
+    "3:17",
+    0.7556,
+    95
+   ],
+   [
+    "18:68",
+    0.7445,
+    93
+   ],
+   [
+    "13:24",
+    0.7437,
+    93
+   ],
+   [
+    "68:48",
+    0.7305,
+    90
+   ],
+   [
+    "73:10",
+    0.7209,
+    88
+   ],
+   [
+    "3:142",
+    0.7149,
+    86
+   ],
+   [
+    "16:42",
+    0.7143,
+    86
+   ],
+   [
+    "90:17",
+    0.7106,
+    85
+   ],
+   [
+    "16:126",
+    0.7094,
+    85
+   ]
+  ]
+ }
+}
