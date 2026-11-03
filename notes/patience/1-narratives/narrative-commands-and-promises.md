@@ -22,7 +22,7 @@ Data-grounded; hand-coded from the pack, counted by script.
 | | 40:77 | | *whether We show you some or take you in death* | 40:78 earlier messengers |
 | Until God judges | 10:109 | *ḥattā* | follow the revelation; *He is the best of judges* | 10:108 "I am not a manager over you" |
 | The rest | 11:49 | | outcome is for the mindful | after Noah's story |
-| | 11:115 | | God does not lose the reward of the doers of good | 11:112-114 stay upright; do not incline to the wrongdoers; establish prayer |
+| | 11:115 | | God does not lose the reward of the doers of good | 11:114 establish prayer |
 | | 16:127 | | *your patience is only through God*; do not grieve, do not be in distress | 16:125-126 invite with wisdom |
 | | 18:28 | *maʿa* | stay with those who call on their Lord at dawn and dusk; do not let your eyes pass beyond them | 18:27 recite |
 | | 19:65 | *li-ʿibādatih* | worship Him; "do you know any like Him?" | n/a |
@@ -51,7 +51,7 @@ Data-grounded.
 - **2:155-157:** a test (fear, hunger, loss), then *give good news to the patient*, then their act: when disaster strikes they say *innā lillāhi wa innā ilayhi rājiʿūn*. The sentence is the speech, not silence. Then blessings, mercy, guidance.
 - **3:186, 3:200:** patience with fear of God ("of the matters of resolve"); *iṣbirū wa ṣābirū wa rābiṭū wa ttaqū*, endure, outlast, stay at the post, be mindful.
 - **Fighting:** 3:146-147 they "did not weaken"; their words were "forgive our sins, plant our feet". 8:45-46 stand firm, remember God much, obey, do not dispute, *be patient*; 8:65-66 twenty overcome two hundred. Discipline: obedience, unity, remembrance.
-- **16:126:** retaliate in kind, *but if you are patient it is better for the patient*. Also 42:43 "patient and forgives". Patience is the option beside lawful retaliation.
+- **16:126:** retaliate in kind, *but if you are patient it is better for the patient*. Patience is the option beside lawful retaliation.
 - **90:17, 103:3:** *tawāṣaw bi-l-ṣabr*, advise one another to patience, together with truth (103) and compassion (90), after freeing a slave and feeding the hungry.
 
 **What the community does, not only bears:** seeks help; says a sentence; fears God; holds a post; stays united; remembers God; forgives; feeds; advises one another. Patience is communal in 103:3 and 90:17: it is *passed between people*. [interpretive] It is not carried alone.
