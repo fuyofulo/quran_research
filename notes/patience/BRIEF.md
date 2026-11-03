@@ -41,7 +41,7 @@ remember, or a thing patience is *not*, name it.
   - *for what they endured* 6×; *ṣabbārin shakūr* 4×;
   - *ṣabr jamīl* 3× (12:18, 12:83, 70:5); *pour patience upon us* 2× (2:250, 7:126);
   - *matters of resolve* 3×; *without account* for the patient only at 39:10;
-  - *you will find me, God willing, …*: Moses (18:69), Ishmael (37:102), Shuʿayb (28:27).
+  - *you will find me, God willing, …*: Moses (18:69), Abraham's unnamed son (37:102), the unnamed old man of Midian (28:27, no ṣ-b-r). (CORRECTED)
 - **Never in the same ayah as patience:** despair (*yaʾs*, *qunūṭ*) and forbearance (*ḥilm*). Grief only 16:127.
 - **God is never the subject of ṣ-b-r**; *al-Ṣabūr* is not a Quranic name.
 - **Densest passage:** 18:60-82 (7 tokens), patience with what one does not understand (18:68).

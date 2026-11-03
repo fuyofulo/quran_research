@@ -74,13 +74,18 @@
 | *ṣabr jamīl*, beautiful patience | 12:18, 12:83 (Jacob, twice), 70:5 (the Prophet) |
 | *pour patience upon us* | 2:250 (Ṭālūt's few), 7:126 (Pharaoh's magicians) |
 | *of the matters of resolve* | 3:186, 31:17, 42:43 |
-| *you will find me, God willing, …* | 18:69 (Moses: *patient*), 37:102 (Ishmael: *among the patient*), 28:27 (Shuʿayb: *among the righteous*) |
+| *you will find me, God willing, …* | 18:69 (Moses: *patient*), 37:102 (Abraham's son: *among the patient*), 28:27 (the old man of Midian: *among the righteous*, no ṣ-b-r) |
 | *without account* | 39:10 is the only one about the patient (the other 6 are about provision) |
 | *none is granted it except the patient* | 28:80, 41:35 |
 | *advised one another to patience* | 90:17, 103:3 |
 
 - **Paradise speaks of patience:** "Peace be upon you for what you endured" (13:24, spoken by angels). Also 23:111, 25:75, 76:12.
 - **Reward "twice"** for what they endured: 28:54.
+
+> **(CORRECTED by the patient-ones agent)**
+> - The speaker of 28:27 is unnamed in the text. "Shuʿayb" is tradition, and the ayah has no ṣ-b-r.
+> - The son of 37:102 is unnamed. Ishmael is named "among the patient" at 21:85, but the identification is an inference.
+> - 37:101 calls the son *ḥalīm*, forbearing, one ayah before *among the patient*. So *ḥilm* and *ṣabr* are neighbours there, though never in one ayah.
 
 ## 5. Pairings in the same ayah (data-grounded)
 
