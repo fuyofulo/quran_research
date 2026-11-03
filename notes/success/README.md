@@ -62,6 +62,10 @@ The thesis that emerged: **the Quran does not define success as achievement. It 
 
 This investigation tested the cost-optimization plan documented at `notes/research-optimization-plan.md`. Phase 0 + 1 + 2 + 4 = **9 agents total** (vs Time's ~36 and Teleportation's ~30). Phase 3 (rabbit holes) was skipped per the plan; rich threads carried forward to the synthesis's open-questions section. Output caps held — every Phase 1+2 agent stayed under hard word limit (vs prior investigations' 2-3× overshoots). Cross-confirmation rate maintained; every master pattern independently surfaced by ≥2 agents. Cost estimate: ~700k–1M tokens (vs baseline ~3-5M) — approximate **60-75% reduction** with no observable quality degradation. Bundled narrative agents (one Phase-1b file covering five passages or three surahs) were the highest-yield optimization.
 
+## Correction from a later investigation
+
+- **Patience has no "three sub-senses" in the text** (corrected in `concept-success-deep.md`, Patience paragraph). The scheme of patience under affliction, from sin and in obedience is tradition. The patience study (`notes/patience/`) found no instance of "patience from sin": no ṣ-b-r token takes *ʿan*, and Joseph's refusal (12:23-34) has no ṣ-b-r.
+
 ---
 
 **Date:** 2026-04-26  

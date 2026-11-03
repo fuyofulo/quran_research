@@ -159,7 +159,7 @@ All four translations for these are in the `hotspots` group. No ṣ-b-r ayah app
    - the neighbouring words and where they part from patience (panic, haste, swallowing grief, weakening, despair);
    - negative space.
 2. **The patient ones** (`narrative-the-patient-ones.md`):
-   - Jacob (*ṣabr jamīl* twice, then weeping and complaint, 12:83-87);
+   - Jacob (*ṣabr jamīl* twice, then grief, whitened eyes and complaint, 12:83-87; *(CORRECTED in Phase 2: the text never says Jacob wept; Sūrat Yūsuf's only* b-k-y *is the brothers' feigned weeping, 12:16)*);
    - Job (21:83-84, 38:41-44);
    - Joseph (12:90);
    - Moses and the man of knowledge (18:60-82);
