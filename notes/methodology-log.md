@@ -2758,3 +2758,58 @@ The commissioner opened a series: *"lets research about prophets in islam… let
 3. Do the people of Sabaʾ in 34:15-19 continue the queen's people (27:22)? The text only shares the name.
 
 The project now stands at ~772,000 words across 17 investigations.
+
+## Entry 19 — PATIENCE: what the Quran calls ṣabr (2026-11-03)
+
+The commissioner asked for this after reading about Job: *"lets do the in depth research on patience. just like we do with other topics."* It is a root-and-practice investigation like gratitude. The deliverable is a plain-language practice guide for someone in a long hardship.
+
+9 files, ~21,000 words, **5 agents (3 Sonnet Phase-1, 1 Opus Phase-2, 1 Opus synthesis), ~660k subagent tokens.** That is about half of gratitude (~1.35M, 9 agents), and the same agent plan as Solomon (~730k). No Phase 3.
+
+### The decisive instruments
+
+1. **The preposition census.** Each ṣ-b-r token was classified by the word that follows it.
+   - **0 of 103 take *ʿan* ("away from").** The only direct object is the self (*iṣbir nafsaka maʿa*, 18:28).
+   - This made "a verb of staying, not of holding back" a data finding, not a gloss.
+   - It also settled the "three kinds of patience" question: "patience from sin" has no instance.
+2. **Hand-annotated addressees for every imperative.** 20 of 28 are to the Prophet. A per-command table of "what comes in the same ayah" showed that 18 of 20 carry an act or a reassurance. Patience is almost never commanded bare.
+3. **Misdirected-patience listing.** Seven ayahs where the text does not praise patience showed that it is weighed by its object and direction (13:22, 74:7), not by its cost.
+4. **Small-root exhaustion for the neighbours.**
+   - The verb "to complain" (`$kw`, after excluding the homonym *mishkāt*) occurs twice, both to God (12:86, 58:1).
+   - *b-k-y* in Sūrat Yūsuf occurs once, for the brothers' feigned weeping. So Jacob never weeps in the text.
+   - Despair (*yaʾs*, *qunūṭ*) never shares an ayah with ṣ-b-r.
+
+### Corrections (logged in `patience/README.md`)
+
+- **Cross-investigation:** the success synthesis stated "three sub-senses: patience under affliction, from sin, in obedience" as the Quran's own. It was corrected in place, with a note in `success/README.md`. **Lesson: a classification from tradition can enter a synthesis as a data claim if no agent is told to test it. Name the common schemes in the brief as things to test.**
+- **Orchestrator (Phase 0):**
+  - I named the 28:27 speaker "Shuʿayb" and the 37:102 son "Ishmael"; the text names neither.
+  - I wrote "weeping" for Jacob.
+- **Orchestrator in chat, before this investigation:** I had told the commissioner twice that Jacob "wept". The Phase-2 agent caught it, and I corrected it in the report.
+- **Orchestrator check of Phase 4:** the guide and synthesis said the Quran "never tells anyone to stop grieving over their own loss". 28:7, 19:24 and 3:139 do, each as comfort with a reason. Corrected in both files.
+- **Phase 2 on Phase 1:**
+  - *ṣabr jamīl* at 70:5 has a verb;
+  - 28:80 and 41:35 grant something *to* the patient, not patience;
+  - the deniers and the damned do claim past patience (25:42, 14:21).
+- **Phase 4:**
+  - 46:35's "an hour of a day" belongs to the deniers;
+  - the exact reliance phrase is at 16:42 and 29:59 only.
+
+### Process note
+
+**Every agent prompt carried "copy Arabic by script, never from memory" (the Entry 18 rule).** All 30 Arabic runs across the 7 agent files matched the source verbatim, with no fixer needed. The one checker "miss" was a run spanning two ayahs (70:6-7), verbatim in each. **The rule works for Sonnet as well as Opus.**
+
+### Findings
+
+- Patience is staying turned toward God while the hard thing lasts, and acting meanwhile. It is weighed by direction.
+- The patient grieve and complain to God. No ayah forbids complaint, and "do not grieve" always comes with comfort.
+- No duration is named, and every *until* ends on God's act. Worldly promises go to groups; the individual's reward is final.
+- God is never the subject of the verb, yet patience is only through Him, and it is asked for by people facing death.
+- Passive patience exists only in Hell.
+
+### Open questions
+
+1. Why is no praised person ever given a singular first-person ṣ-b-r verb ("I was patient")?
+2. Is the pairing of patience with praise at named hours (20:130, 50:39, 52:48) a practice, or a frame for the Prophet alone?
+3. Why is Job, not Solomon, the *awwāb* who is also called patient (38:30 vs 38:44)?
+
+The project now stands at ~793,000 words across 18 investigations.

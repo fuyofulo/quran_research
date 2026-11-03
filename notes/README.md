@@ -204,6 +204,31 @@ The first in the series. The main deliverable is a **plain-language story guide*
 - **What kind of king:** [`prophets/sulaiman/2-cross-cutting/research-what-kind-of-king.md`](prophets/sulaiman/2-cross-cutting/research-what-kind-of-king.md)
 - **Synthesis:** [`prophets/sulaiman/concept-sulaiman-deep.md`](prophets/sulaiman/concept-sulaiman-deep.md)
 
+### [`patience/`](patience/) — What the Quran calls patience
+Commissioned after reading about Job: *"We found him patient… one who keeps turning back"* (38:44). The main deliverable is a **plain-language practice guide** for someone in a long hardship. It covers what patience is and is not, eight people to remember, seven of the Quran's own lines checked letter for letter, and hard questions answered from the text. 9 files, ~21,000 words, 5 agents.
+
+**The answer:** patience in the Quran is **a verb of staying, not of holding back**: staying turned toward God while the hard thing lasts, and acting meanwhile. The patient grieve, and they complain to God. No duration is ever named.
+
+**Headline findings:**
+- **103 tokens, 62 of them verbs.** The verb takes *ʿalā* "over", *li-* "for", *ḥattā* "until" and *maʿa* "with", and **never *ʿan* "away from" (0 of 103)**. Its only direct object is the self, kept *with* those who call on their Lord (18:28).
+- **It is weighed by direction, not by cost.** Seven ayahs record patience the text does not praise (clinging to idols, 25:42; "how patient they are for the Fire", 2:175). What makes it good is *seeking their Lord's face* (13:22) and *for your Lord* (74:7).
+- **Nobody patient stops feeling.**
+  - Jacob says "beautiful patience", then his eyes whiten from grief, and he complains to God (12:83-86). The text never says he wept.
+  - Job names his pain, and God calls him patient (21:83, 38:44).
+  - **The verb "to complain" occurs twice, both times to God (12:86, 58:1).**
+  - No ayah forbids complaint. "Do not grieve" always comes with a reason or a gift.
+- **20 of 28 commanded ayahs are spoken to the Prophet; 18 carry an act or a reassurance in the same ayah**, most often praise at named hours: *so that you may be satisfied* (20:130), *you are in Our eyes* (52:48).
+- **No duration anywhere.** Every *until* ends on an act of God, and the wait may outlast a life (40:77). Worldly promises go to groups; the individual's reward is final: *without account* (39:10), and the angels' *peace be upon you for what you endured* (13:24).
+- **Given, not made.** God is never the subject of the verb, and *al-Ṣabūr* is not a Quranic name. Yet *your patience is only through God* (16:127), and "pour patience upon us" is asked only twice, both times by people facing death (2:250, 7:126).
+- **Patience is passive only in Hell** (52:16). Elsewhere it fights, holds a post, forgives, repels evil with good, and searches (12:87).
+- **The "three kinds of patience" are tradition. "Patience from sin" has no instance**, which corrected the success study.
+
+**Links:**
+- **Start here:** [`patience/README.md`](patience/README.md)
+- **To practise:** [`patience/practice-guide.md`](patience/practice-guide.md)
+- **What patience is and is not:** [`patience/2-cross-cutting/research-what-patience-is-and-is-not.md`](patience/2-cross-cutting/research-what-patience-is-and-is-not.md)
+- **Synthesis:** [`patience/concept-patience-deep.md`](patience/concept-patience-deep.md)
+
 ## Cross-investigation files (top-level)
 
 These span all investigations and live at the top of `notes/`.
